@@ -338,21 +338,22 @@ Kort, zakelijk, zonder hooks:
 
 ## 8. Actie-items
 
-### Direct
+### Afgerond
 
 - [x] Ontslagbrief verzonden (30 jan 2026)
-- [ ] Reactie op Douwine's bezwaren versturen (met Marlou in CC)
-- [ ] Getekende notariële akte opvragen
-- [ ] KvK uittreksel bewaren als bewijs
+- [x] Reactie op Douwine's bezwaren verzonden (2 feb 2026, Marlou in CC)
 
 ### Voor 1 maart 2026
 
+- [ ] Getekende notariële akte opvragen bij notaris
+- [ ] KvK uittreksel bewaren als bewijs huidige situatie
 - [ ] KvK-uitschrijving voorbereiden (formulier 17a)
 - [ ] KTLO-scope document delen indien nodig
 - [ ] Gesprek met adviseurs (indien gepland)
 
 ### Na 1 maart 2026
 
+- [ ] KvK-uitschrijving indienen
 - [ ] Bevestigen geen bestuurder meer
 - [ ] Informatierechten art. 2:217 BW uitoefenen
-- [ ] Infrastructuurkosten factureren
+- [ ] Infrastructuurkosten factureren aan Dinck
