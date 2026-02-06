@@ -10,7 +10,7 @@
 peter@phbxholding.com
 KvK: 75861097
 
-Appelscha, [datum invullen]
+Oosterwolde, [datum invullen]
 
 **Aan de Algemene Vergadering van Aandeelhouders van Dinck B.V.**
 Van Emstweg 85
