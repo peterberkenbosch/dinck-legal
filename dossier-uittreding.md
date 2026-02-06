@@ -449,6 +449,7 @@ Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwi
 - [ ] KvK-uitschrijving voorbereiden (formulier 17a)
 - [ ] KTLO-scope document delen indien nodig
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
+- [ ] Brief financiële zorgen verzenden (concept gereed, verzenden na memo Omnius) - zie `concepten/brief-financiele-zorgen.md`
 
 ### Na 1 maart 2026
 

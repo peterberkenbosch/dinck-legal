@@ -174,7 +174,8 @@ Maar: Je moet bereid zijn om door te zetten als ze bluffen.
 
 ### Fase 1: Nu (Februari 2026)
 - [x] Ontslagbrief verzonden
-- [ ] Reactie op Douwine's bezwaren (met Marlou in CC)
+- [x] Reactie op Douwine's bezwaren verzonden (2 feb 2026, Marlou in CC)
+- [ ] Brief financiële zorgen verzenden vóór 1 maart — signaleert naderende aflossing 28 mrt 2026, documenteert tegenstrijdig belang Douwine, beschermt tegen bestuurdersaansprakelijkheid (concept: `concepten/brief-financiele-zorgen.md`, verzenden na memo Omnius)
 - [ ] Afwachten of gesprek gepland wordt
 
 ### Fase 2: Na 1 Maart 2026
