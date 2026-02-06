@@ -232,7 +232,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 
 1. **Geen specifieke grondslag** - Ze noemt geen concrete handeling of nalatigheid waarvoor Peter aansprakelijk zou zijn
 
-2. **De schulden zijn aan haar eigen bedrijven** - €425K aan Freca, €145K aan VDenD. Peter heeft deze financieringsstructuur niet gecreëerd
+2. **De schulden zijn aan haar eigen bedrijven** - €466K aan Freca, €145K aan VDenD. Peter heeft deze financieringsstructuur niet gecreëerd
 
 3. **Peter's bijdrage = de enige asset** - Het platform is het enige van waarde in Dinck. Peter heeft dat gebouwd.
 
@@ -248,7 +248,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 |----------|---------|
 | "verantwoordelijkheden of aansprakelijkheden verdwijnen niet" | Vage intimidatie zonder juridische basis |
 | "zal ik mijn eigen positie heroverwegen" | Dreigt zelf ook te vertrekken → Dinck zonder bestuurders |
-| "financiële ontvlechting en afwikkeling" | Dreigt mogelijk leningen (€570K) op te eisen |
+| "financiële ontvlechting en afwikkeling" | Dreigt mogelijk leningen (€612K) op te eisen |
 
 ### Conclusie
 
@@ -292,7 +292,7 @@ De dreiging van een enquêteprocedure is vaak krachtiger dan het daadwerkelijk s
 | Risico | Bron | Ernst |
 |--------|------|-------|
 | Lening opeisbaar zonder reden | Art. 7.2: 3 maanden opzegtermijn | HOOG |
-| Default op eerste aflossing 28 mrt 2026 | Dinck kan ~€55-68K niet betalen | HOOG |
+| Default op eerste aflossing 28 mrt 2026 | Dinck kan ~€65-75K niet betalen | HOOG |
 | Staking bedrijfsuitoefening = directe opeisbaarheid | Art. 7.1.g | HOOG als Peter stopt |
 | Zekerheidseis op elk moment | Art. 6 | MEDIUM |
 | Aandelen waardeloos bij faillissement | Consequentie van opeising | HOOG |
@@ -309,7 +309,7 @@ De dreiging van een enquêteprocedure is vaak krachtiger dan het daadwerkelijk s
 
 ### Strategische Dynamiek
 
-De eerste aflossing (28 maart 2026, ~€55-68K) creëert urgentie voor **beide partijen**:
+De eerste aflossing (28 maart 2026, ~€65-75K) creëert urgentie voor **beide partijen**:
 - Peter: default = opeisbaarheid = faillissement risico = aandelen waardeloos
 - Douwine: default = haar eigen holding moet kiezen: opeisen (= alles kwijt) of stilzwijgend accepteren
 

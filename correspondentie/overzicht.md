@@ -163,7 +163,7 @@ Ontslagbrief verzonden. Ondertekende PDF bijgevoegd.
 
 **Analyse - Belangenverstrengeling:**
 - Stelt expliciet te handelen als "financier" naast bestuurder
-- Schuldeiser via Freca (€425K) en Voor Dag en Dou (€145K)
+- Schuldeiser via Freca (€466K) en Voor Dag en Dou (€145K)
 - Tegenstrijdig belang: bestuurdersplicht vs. crediteurbelang
 
 ---

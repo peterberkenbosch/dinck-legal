@@ -163,7 +163,7 @@ Maar: Je moet bereid zijn om door te zetten als ze bluffen.
 | Punt | Toelichting |
 |------|-------------|
 | Geen aandeelhouder | Onderhandelt zonder formele basis |
-| €570K exposure | Investering waardeloos zonder Peter |
+| €612K exposure | Investering waardeloos zonder Peter |
 | SHA ongeldig | Geen afdwingbare afspraken |
 | Platform-afhankelijkheid | Kan zelf niets repareren |
 | Schijnconstructie | Juridisch aanvechtbaar |

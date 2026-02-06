@@ -106,22 +106,22 @@ Geschillen bij de bevoegde rechter van het arrondissement waar de **schuldeiser*
 
 ## 3. Analyse €500.000 Limiet
 
-### Huidige Schuldpositie (per 30 november 2025)
+### Huidige Schuldpositie (per 31 januari 2026)
 
 | Post | Bedrag | Schuldeiser |
 |------|--------|-------------|
-| Rekening-courant | €361.359 | Freca B.V. |
+| Rekening-courant | €402.458 | Freca B.V. |
 | Management fee Freca (t/m nov 2024) | €64.000 | Freca B.V. |
 | Loonkosten 2024 | €145.536 | Voor Dag en Dou B.V. |
-| **Totaal** | **€570.895** | |
+| **Totaal** | **€611.994** | |
 
 ### Valt VDenD-schuld onder de leningsovereenkomst?
 
 De leningsovereenkomst is uitsluitend tussen **Freca B.V.** en **Dinck B.V.** De schuld aan Voor Dag en Dou B.V. valt hier juridisch NIET onder - dat is een separate handelsschuld.
 
-**Maar**: De RC Freca (€361.359) + management fee (€64.000) = **€425.359**. Dit valt onder de €500.000 limiet.
+**Maar**: De RC Freca (€402.458) + management fee (€64.000) = **€466.458**. Dit valt nog net onder de €500.000 limiet, maar nadert snel.
 
-**Risico**: De RC groeit met 5% rente per jaar. €361.359 × 5% = €18.068 rente per jaar. Als de management fee van €64.000 ook rente draagt, komt daar nog €3.200 bij. De €500.000 limiet wordt naar verwachting in 2026-2027 bereikt op basis van rente alleen.
+**Risico**: De RC groeit met 5% rente per jaar. €402.458 × 5% = €20.123 rente per jaar. Als de management fee van €64.000 ook rente draagt, komt daar nog €3.200 bij. De €500.000 limiet wordt bij dit tempo in **2026** bereikt op basis van rente alleen.
 
 ### Overschrijding als trigger
 
@@ -137,13 +137,13 @@ Als de lening boven €500.000 uitkomt (door opname OF rente-accumulatie), is da
 
 Het addendum bepaalt: lineaire aflossing, startend 28 maart 2026, eerste aflossing 1/9e van het uitstaande bedrag.
 
-### Geschat Schema (uitgaande van €425.000 uitstaand op 28 maart 2026)
+### Geschat Schema (uitgaande van €466.000 uitstaand op 28 maart 2026)
 
 | Datum | Aflossing (1/ne) | Rente (5%) | Totale betaling | Resterend |
 |-------|-----------------|------------|----------------|-----------|
-| 28-03-2026 | €47.222 (1/9e) | €21.250 | **€68.472** | €377.778 |
-| 28-03-2027 | €47.222 (1/8e) | €18.889 | €66.111 | €330.556 |
-| 28-03-2028 | €47.222 (1/7e) | €16.528 | €63.750 | €283.333 |
+| 28-03-2026 | €51.778 (1/9e) | €23.300 | **€75.078** | €414.222 |
+| 28-03-2027 | €51.778 (1/8e) | €20.711 | €72.489 | €362.444 |
+| 28-03-2028 | €51.778 (1/7e) | €18.122 | €69.900 | €310.667 |
 | ... | ... | ... | ... | ... |
 | 28-03-2034 | Restant | Restant | Eindbetaling | €0 |
 
@@ -213,7 +213,7 @@ De leningsconstructie creëert een patstelling:
 
 4. **Misbruik van omstandigheden**: Peter tekende het addendum (verhoging naar €500K) 14 dagen nadat zijn management fee eenzijdig was stopgezet. Is er grond voor vernietiging op basis van Art. 3:44 lid 4 BW?
 
-5. **Eerste aflossing**: Dinck kan de aflossing van ~€55-68K op 28 maart 2026 niet betalen. Wat zijn de juridische gevolgen als Freca dit niet onmiddellijk opeist? Verzuim door schuldeiser?
+5. **Eerste aflossing**: Dinck kan de aflossing van ~€65-75K op 28 maart 2026 niet betalen. Wat zijn de juridische gevolgen als Freca dit niet onmiddellijk opeist? Verzuim door schuldeiser?
 
 ### Over Peters positie
 
@@ -230,7 +230,7 @@ De leningsconstructie creëert een patstelling:
 | Aspect | Bevinding | Impact |
 |--------|-----------|--------|
 | Maximale lening | €500.000 (addendum) | Limiet nadert door rente-accumulatie |
-| Eerste aflossing | 28 maart 2026 (~€55-68K) | Dinck kan niet betalen → automatisch verzuim |
+| Eerste aflossing | 28 maart 2026 (~€65-75K) | Dinck kan niet betalen → automatisch verzuim |
 | Opeisbaarheid zonder reden | Art. 7.2: 3 maanden opzegtermijn | Freca's sterkste wapen |
 | Staking bedrijfsuitoefening | Art. 7.1.g: directe opeisbaarheid | Risico als Peter stopt EN platform stilvalt |
 | Zekerheidsclausule | Art. 6: op eerste verzoek | Freca kan op elk moment zekerheid eisen |

@@ -84,7 +84,7 @@ Can I initiate the statutory price determination procedure (Art. 6.2 lid 6 statu
 
 ### D6. Realistic Valuation
 What is the realistic value of my 33.3% stake given:
-- Company has €570K debt (to Douwine's entities)
+- Company has €612K debt (to Douwine's entities)
 - ARR is only €6.2K
 - Platform replacement value is €150K-200K
 - My invested labor value is €195K-220K
@@ -97,7 +97,7 @@ What is the realistic value of my 33.3% stake given:
 What is my exposure to bestuurdersaansprakelijkheid (Art. 2:9 BW, Art. 2:248 BW) given that I was systematically excluded from decision-making?
 
 ### E2. Debt Claim
-Douwine claims I am personally liable for 1/3 of the €570K company debt (€190K). Is there any legal basis for this?
+Douwine claims I am personally liable for 1/3 of the €612K company debt (~€204K). Is there any legal basis for this?
 
 ### E3. Vague Threats
 Does Douwine's statement "verantwoordelijkheden of aansprakelijkheden verdwijnen niet" have any legal basis? She provides no specific grounds.
@@ -137,7 +137,7 @@ Is there a strategic advantage to initiating Art. 2:343 BW proceedings proactive
 ### G1. Buyout Proposal Reasonableness
 Is my €40K buyout proposal reasonable given:
 - Platform value €150K-200K (1/3 = €50K-67K)
-- Company debt €570K (but to Douwine's own entities)
+- Company debt €612K (but to Douwine's own entities)
 - ARR €6.2K (3-5x = €18K-31K, 1/3 = €6K-10K)
 - My invested labor €195K-220K
 

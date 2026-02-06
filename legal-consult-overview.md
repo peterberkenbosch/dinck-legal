@@ -64,9 +64,9 @@ Peter Berkenbosch, through PHBX Holding B.V., is a 33.3% shareholder and co-foun
 | **Peter Berkenbosch / PHBX Holding B.V.** | Founder, 33.3% shareholder, (former) bestuurder | Resigning as bestuurder effective March 1, 2026; retains shareholder status |
 | **Marlou Woltmeijer** | 66.7% shareholder since November 7, 2025 | NOT party to SHA; acquired shares for €1; employee of Douwine |
 | **Douwine Koopman** | Bestuurder Dinck, de facto controller | NO shareholder status (sold via Freca); controls through various entities |
-| **Freca B.V.** | Former 66.7% shareholder, creditor (€425K RC + €64K mgmt fee) | Owned by Douwine; no longer shareholder; party to defunct SHA |
+| **Freca B.V.** | Former 66.7% shareholder, creditor (€402K RC + €64K mgmt fee) | Owned by Douwine; no longer shareholder; party to defunct SHA |
 | **Voor Dag en Dou B.V.** | Creditor (€145K payroll costs 2024) | Owned by Douwine; childcare business |
-| **Dinck B.V.** | The company | €570K debt to Douwine's entities; €6.2K ARR; Peter built the platform |
+| **Dinck B.V.** | The company | €612K debt to Douwine's entities; €6.2K ARR; Peter built the platform |
 | **Grady Hofstra** | Advisor to Douwine | Former accountant of Peter; not a neutral party |
 
 ---
@@ -107,7 +107,7 @@ Peter Berkenbosch, through PHBX Holding B.V., is a 33.3% shareholder and co-foun
 ### Financial Overview
 | Item | Amount |
 |------|--------|
-| Company debt (to Douwine's entities) | €570,895 |
+| Company debt (to Douwine's entities) | €611,994 |
 | Annual Recurring Revenue | €6,230 |
 | Peter's invested hours (total) | ~2,600 |
 | Platform replacement value | €150K-200K |

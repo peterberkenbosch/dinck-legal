@@ -22,14 +22,14 @@
 | **Management agreement still active** | Never formally terminated; Art. 4.2 vrijwaring (indemnification) still protects PHBX. See `analyse/managementovereenkomst-analyse.md` |
 | **Both fees stopped equally (Art. 3.1 complied with)** | Both management fees stopped from 1 Dec 2024. Freca's €64K on balance sheet is unpaid fee for Apr-Nov 2024 (same period Peter was paid). Not a violation. |
 | **Unjust enrichment basis** | ~1,360 hours unpaid work under fulltime contractual obligation (Art. 2.3); estimated value €102-170K |
-| **Loan is mutual assured destruction** | Freca calling the loan = Dinck bankrupt = Douwine's €500K+ lost. Limits her actual options despite contractual power. See `analyse/geldlening-analyse.md` |
+| **Loan is mutual assured destruction** | Freca calling the loan = Dinck bankrupt = Douwine's €612K lost. Limits her actual options despite contractual power. See `analyse/geldlening-analyse.md` |
 | **Douwine's conflict of interest self-documented** | She wrote: "handel ik niet alleen vanuit mijn rol als bestuurder en aandeelhouder, maar nadrukkelijk ook vanuit mijn positie als financier" |
 
 ### What's Vulnerable
 
 | Vulnerability | Risk Level | Action Needed |
 |---------------|-----------|---------------|
-| **Loan acceleration risk** | **CRITICAL** | First repayment ~€55-68K due 28 March 2026; Dinck cannot pay; default triggers full loan recall. See `analyse/geldlening-analyse.md` |
+| **Loan acceleration risk** | **CRITICAL** | First repayment ~€65-75K due 28 March 2026; Dinck cannot pay; default triggers full loan recall. See `analyse/geldlening-analyse.md` |
 | **Art. 7.1.g cessation trigger** | **HIGH** | If Peter stops all work AND platform stalls, Freca can call the entire loan immediately (no notice) |
 | **Art. 7.2 no-reason recall** | **HIGH** | Freca can call the full loan (~€500K) at ANY time with just 3 months notice, no reason needed |
 | **No D&O insurance** | HIGH | Check immediately if Dinck has a policy; if not, consider personal coverage before 1 March |
@@ -112,7 +112,7 @@ Given that litigation is financially difficult, the optimal strategy is **pressu
 
 ### Why This Works Without Going to Court
 
-- Douwine's €570K investment depends entirely on Peter's platform working
+- Douwine's €612K investment depends entirely on Peter's platform working
 - Without KTLO: bugs accumulate, platform degrades, customers churn
 - Hiring an external developer: €100-150/hr without codebase knowledge, months to onboard
 - Peter's veto blocks any strategic pivot Douwine attempts via AVA
@@ -121,8 +121,8 @@ Given that litigation is financially difficult, the optimal strategy is **pressu
 ### Loan Dynamics Add Urgency (NEW)
 
 The loan agreement creates additional pressure on BOTH sides:
-- **28 March 2026**: First repayment due (~€55-68K). Dinck cannot pay. This is 27 days after Peter's resignation.
-- **Douwine's dilemma**: If she calls the loan via Freca → Dinck goes bankrupt → her own €500K+ is lost
+- **28 March 2026**: First repayment due (~€65-75K). Dinck cannot pay. This is 27 days after Peter's resignation.
+- **Douwine's dilemma**: If she calls the loan via Freca → Dinck goes bankrupt → her own €612K is lost
 - **Peter's counter-leverage**: Management agreement claims (unjust enrichment €102-170K for fulltime unpaid work) can offset some of the loan pressure
 - **Mutual Assured Destruction**: Neither party benefits from Dinck's failure. This strengthens the case for negotiated settlement.
 - **The real weapon is Art. 7.2** (no-reason recall with 3 months notice), not the empty director liability threats. But using it is self-destructive for Douwine.
@@ -156,7 +156,7 @@ Questions to bring to the lawyer consultation:
 
 ### On the Loan Agreement (NEW - from source document analysis)
 14. The loan addendum (increasing limit to €500K) was signed 14 days after Peter's management fee was unilaterally stopped. Is there a basis for annulment under Art. 3:44 lid 4 BW (misbruik van omstandigheden)?
-15. First repayment (~€55-68K) is due 28 March 2026 - Dinck cannot pay. What are the legal consequences when Freca does NOT immediately call the loan? Does this create a pattern of acquiescence?
+15. First repayment (~€65-75K) is due 28 March 2026 - Dinck cannot pay. What are the legal consequences when Freca does NOT immediately call the loan? Does this create a pattern of acquiescence?
 16. Douwine is bestuurder of both Freca (creditor) and Dinck (debtor). How does Art. 2:239 lid 6 BW (tegenstrijdig belang) apply when Freca calls the loan?
 17. Does Peter's resignation as director trigger Art. 7.1.g ("staking bedrijfsuitoefening")? Or only when Dinck actually ceases operations?
 18. Art. 9: Has Freca provided annual balance statements? Has Dinck timely objected (6-week window)? If not, is the balance legally established?

@@ -20,14 +20,14 @@
 - **Management fee Peter 2024**: €64.000 (ontvangen)
 - **Management fee Douwine 2024**: €64.000 (als vordering op balans)
 
-### 1.3 Schuldpositie per 30 november 2025
+### 1.3 Schuldpositie per 31 januari 2026
 
 | Schuldeiser | Omschrijving | Bedrag |
 |-------------|--------------|--------|
-| Freca B.V. | Rekening courant | €361.359 |
+| Freca B.V. | Rekening courant | €402.458 |
 | Freca B.V. | Managementvergoeding (t/m nov 2024) | €64.000 |
 | Voor Dag en Dou B.V. | Loonkosten 2024 | €145.536 |
-| **Totaal** | (excl. rente) | **€570.895** |
+| **Totaal** | (excl. rente) | **€611.994** |
 
 **Let op**: Overschrijdt de €500.000 limiet uit het addendum op de leningsovereenkomst.
 
@@ -54,7 +54,7 @@
 - Art. 7.2: Freca kan de lening op **elk moment** opeisen met 3 maanden opzegtermijn, zonder reden
 - Art. 6: Dinck moet zekerheid verstrekken op eerste verzoek van Freca
 
-**Eerste aflossing 28 maart 2026**: ~€55-68K. Dinck kan dit niet betalen (ARR €6.2K). Default leidt tot opeisbaarheid volledige lening.
+**Eerste aflossing 28 maart 2026**: ~€65-75K. Dinck kan dit niet betalen (ARR €6.2K). Default leidt tot opeisbaarheid volledige lening.
 
 **Timing addendum**: Peter tekende 14 dagen nadat zijn management fee eenzijdig was stopgezet (17 dec 2024). Verzwakte onderhandelingspositie.
 
@@ -268,7 +268,7 @@ Douwine stelt expliciet: *"handel ik niet alleen vanuit mijn rol als bestuurder 
 
 **Conflict of interest:**
 - Als **bestuurder Dinck**: fiduciary duty jegens de vennootschap
-- Als **schuldeiser via Freca/VDenD**: tegenstrijdig belang (haar €570K terugkrijgen)
+- Als **schuldeiser via Freca/VDenD**: tegenstrijdig belang (haar €612K terugkrijgen)
 
 Zij kan niet beide belangen dienen. Prioriteren van crediteurbelangen boven vennootschapsbelangen = schending bestuurdersplicht.
 
@@ -358,7 +358,7 @@ Kort, zakelijk, zonder hooks:
 - Boekwaarde ≠ vervangingswaarde
 - Platform herbouwen: €150K-200K
 - Jouw arbeid is geactiveerd als asset op balans
-- Douwine's €570K investering is niets waard zonder het platform
+- Douwine's €612K investering is niets waard zonder het platform
 
 ### 7.2 "Accountant zegt €0"
 
@@ -374,12 +374,12 @@ Kort, zakelijk, zonder hooks:
 - Douwine kreeg dezelfde €64K toegekend (staat op balans als vordering)
 - Accountant bevestigt: management fee geboekt als ontwikkelkosten (geactiveerd als asset)
 
-### 7.4 "BV heeft €570K schulden"
+### 7.4 "BV heeft €612K schulden"
 
 **Counter**:
 - Schulden zijn aan Douwine's eigen holdings
 - Aandeelhouders niet hoofdelijk aansprakelijk
-- Als dit zou kloppen: Douwine (2/3) zou €380K aan zichzelf verschuldigd zijn
+- Als dit zou kloppen: Douwine (2/3) zou €408K aan zichzelf verschuldigd zijn
 
 ### 7.5 "Onbezoldigde inzet afgesproken"
 
