@@ -319,11 +319,11 @@ De eerste aflossing (28 maart 2026, ~€55-68K) creëert urgentie voor **beide p
 
 **Volledige analyse**: `analyse/managementovereenkomst-analyse.md`
 
-### Schending Gelijke Behandeling (Art. 3.1)
+### Gelijke Behandeling (Art. 3.1)
 
 Beide managementovereenkomsten bevatten: *"Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders."*
 
-Het AVA-besluit van 30 november 2024 zette alleen PHBX's fee op nihil. Freca's fee werd als vordering op de balans geboekt (€64.000). Dit is een aantoonbare schending van de gelijke behandelingsclausule.
+Het AVA-besluit van 30 november 2024 noemde alleen PHBX omdat dat de actief uitbetaalde fee was. In werkelijkheid zijn beide fees per 1 december 2024 gestopt. De €64.000 van Freca op de balans is de onbetaalde fee over april-november 2024 (dezelfde periode waarvoor Peter wél is betaald). Art. 3.1 is in dit opzicht nageleefd.
 
 ### Ongerechtvaardigde Verrijking
 

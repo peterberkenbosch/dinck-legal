@@ -20,7 +20,7 @@
 | **Clean correspondence record** | Peter's communications are professional, factual, legally precise; Douwine's contain factual errors and threats. See `analyse/correspondentie-analyse.md` |
 | **Resignation is unilateral** | Cannot be blocked, contested, or conditioned by Douwine/Marlou |
 | **Management agreement still active** | Never formally terminated; Art. 4.2 vrijwaring (indemnification) still protects PHBX. See `analyse/managementovereenkomst-analyse.md` |
-| **Equal treatment violation documented** | Art. 3.1 requires equal changes for both directors; PHBX fee set to zero while Freca's fee booked as receivable (€64K). Potential counter-claim |
+| **Both fees stopped equally (Art. 3.1 complied with)** | Both management fees stopped from 1 Dec 2024. Freca's €64K on balance sheet is unpaid fee for Apr-Nov 2024 (same period Peter was paid). Not a violation. |
 | **Unjust enrichment basis** | ~1,360 hours unpaid work under fulltime contractual obligation (Art. 2.3); estimated value €102-170K |
 | **Loan is mutual assured destruction** | Freca calling the loan = Dinck bankrupt = Douwine's €500K+ lost. Limits her actual options despite contractual power. See `analyse/geldlening-analyse.md` |
 | **Douwine's conflict of interest self-documented** | She wrote: "handel ik niet alleen vanuit mijn rol als bestuurder en aandeelhouder, maar nadrukkelijk ook vanuit mijn positie als financier" |
@@ -123,7 +123,7 @@ Given that litigation is financially difficult, the optimal strategy is **pressu
 The loan agreement creates additional pressure on BOTH sides:
 - **28 March 2026**: First repayment due (~€55-68K). Dinck cannot pay. This is 27 days after Peter's resignation.
 - **Douwine's dilemma**: If she calls the loan via Freca → Dinck goes bankrupt → her own €500K+ is lost
-- **Peter's counter-leverage**: Management agreement claims (equal treatment violation €64K + unjust enrichment €102-170K) can offset some of the loan pressure
+- **Peter's counter-leverage**: Management agreement claims (unjust enrichment €102-170K for fulltime unpaid work) can offset some of the loan pressure
 - **Mutual Assured Destruction**: Neither party benefits from Dinck's failure. This strengthens the case for negotiated settlement.
 - **The real weapon is Art. 7.2** (no-reason recall with 3 months notice), not the empty director liability threats. But using it is self-destructive for Douwine.
 
@@ -162,14 +162,13 @@ Questions to bring to the lawyer consultation:
 18. Art. 9: Has Freca provided annual balance statements? Has Dinck timely objected (6-week window)? If not, is the balance legally established?
 
 ### On the Management Agreement (NEW - from source document analysis)
-19. Art. 3.1 equal treatment clause: PHBX fee set to zero, Freca fee booked as €64K receivable. Can PHBX claim compensation for this unequal treatment?
-20. Does the management agreement end automatically when Peter resigns as director, or does formal termination with 3-month notice apply?
-21. Can PHBX claim unjust enrichment (Art. 6:212 BW) for ~1,360 hours of unpaid work under the fulltime obligation (Art. 2.3)?
-22. The AVA decision was explicitly temporary ("indien de opbrengsten... op een voldoende niveau komen"). Has this condition ever been formally evaluated? What are the consequences of non-review?
+19. Does the management agreement end automatically when Peter resigns as director, or does formal termination with 3-month notice apply?
+20. Can PHBX claim unjust enrichment (Art. 6:212 BW) for ~1,360 hours of unpaid work under the fulltime obligation (Art. 2.3)?
+21. The AVA decision was explicitly temporary ("indien de opbrengsten... op een voldoende niveau komen"). Has this condition ever been formally evaluated? What are the consequences of non-review?
 
 ### On Valuation
-23. What is the most cost-effective way to establish share value? (Statutory 3-expert mechanism vs. single independent valuation)
-24. How is Peter's €195-220K labor investment treated in a share valuation?
+22. What is the most cost-effective way to establish share value? (Statutory 3-expert mechanism vs. single independent valuation)
+23. How is Peter's €195-220K labor investment treated in a share valuation?
 
 ---
 
@@ -226,7 +225,7 @@ This assessment synthesizes information from the full dossier:
 | `analyse/strategische-opties.md` | Strategic scenarios and options |
 | `analyse/notariele-akte-analyse.md` | Full analysis of notarial deed (6 key findings + 6 lawyer questions) |
 | `analyse/geldlening-analyse.md` | **NEW** - Full analysis of loan agreement + addendum (opeisbaarheid, €500K limit, repayment, strategic implications) |
-| `analyse/managementovereenkomst-analyse.md` | **NEW** - Analysis of management agreements + AVA minutes (equal treatment, fulltime obligation, termination status) |
+| `analyse/managementovereenkomst-analyse.md` | **NEW** - Analysis of management agreements + AVA minutes (fee status, fulltime obligation, termination status, unjust enrichment) |
 | `analyse/correspondentie-analyse.md` | **NEW** - Verified timeline from source emails (factual claims vs reality, tone analysis, new details) |
 | `correspondentie/overzicht.md` | Email correspondence overview |
 | `files/` | Original legal documents (PDFs): notarial deed, SHA, statutes, loan agreements, management agreements, KvK extract, emails |

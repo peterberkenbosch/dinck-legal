@@ -65,18 +65,16 @@ Dit is een van de sterkste argumenten voor ongerechtvaardigde verrijking:
 
 > *"Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders van de dochtervennootschap."*
 
-**Analyse**: Deze clausule staat in BEIDE overeenkomsten. Het AVA-besluit van 30 november 2024 zette alleen de fee van PHBX op nihil. Freca's fee van €64.000 werd niet op nihil gesteld maar als **vordering op de balans** geboekt.
+**Analyse**: Deze clausule staat in BEIDE overeenkomsten. Het AVA-besluit van 30 november 2024 noemde alleen PHBX omdat dat de fee was die actief werd uitbetaald. In werkelijkheid zijn **beide fees** per 1 december 2024 gestopt.
 
-**Dit is een asymmetrie die de gelijke behandelingsclausule schendt:**
+**Feitelijke situatie:**
 
 | | PHBX Holding | Freca B.V. |
 |---|---|---|
-| Fee 2024 (jan-nov) | €64.000 (uitbetaald) | €64.000 (als vordering op balans) |
-| Fee vanaf 1 dec 2024 | **Op nihil** | **Als vordering op balans** |
-| Economisch effect | Geen vergoeding, geen vordering | Vordering groeit, wordt uiteindelijk betaald |
-| Gelijke behandeling? | **NEE** | **NEE** |
+| Fee apr-nov 2024 | €64.000 (uitbetaald) | €64.000 (niet uitbetaald, als vordering op balans) |
+| Fee vanaf 1 dec 2024 | **Op nihil** | **Op nihil** |
 
-**De kern**: PHBX kreeg niets; Freca bouwde een vordering op. Dit is ongelijke behandeling, ondanks dat Art. 3.1 expliciet gelijke wijzigingen voorschrijft.
+De €64.000 op de balans voor Freca is de **nog niet uitbetaalde fee over april-november 2024** — dezelfde periode waarvoor Peter wél betaald kreeg. Dit is geen ongelijke behandeling van de fee-wijziging, maar een verschil in betalingstiming van de reeds opgebouwde fee. Art. 3.1 is in dit opzicht nageleefd: de wijziging (stopzetting per 1 december 2024) gold voor beide bestuurders.
 
 ### Art. 4.2: Vrijwaring (Indemnification)
 
@@ -138,37 +136,24 @@ c. Stemming en sluiting
 
 4. **Geen definitie "voldoende niveau"**: Er is geen drempel vastgesteld voor wanneer de fee zou herleven. Dit laat ruimte voor discussie.
 
-5. **Unaniem aangenomen**: Peter heeft zelf ingestemd met dit besluit. Dit verzwakt enigszins het argument dat het eenzijdig was opgelegd, maar de tijdelijke aard en het ontbreken van gelijke behandeling (Freca's fee) compenseren dit.
+5. **Unaniem aangenomen**: Peter heeft zelf ingestemd met dit besluit. Dit verzwakt enigszins het argument dat het eenzijdig was opgelegd. De tijdelijke aard van het besluit (herlevingsclausule) is echter nooit formeel getoetst.
 
 ---
 
-## 4. Ongelijke Behandeling - Gedetailleerde Analyse
+## 4. Fee-situatie: Toelichting
 
 ### De Feiten
 
-Het AVA-besluit van 30 november 2024 stelde **alleen** de fee van PHBX op nihil. De fee van Freca werd niet besproken en niet gewijzigd.
+Het AVA-besluit van 30 november 2024 noemde alleen PHBX, omdat dat de fee was die op dat moment actief werd uitbetaald. In werkelijkheid zijn beide fees per 1 december 2024 gestopt:
 
-Uit het dossier (bevestigd door accountant):
-- Freca's management fee (€64.000 t/m november 2024) werd als **vordering op de balans** geboekt
-- PHBX's fee werd op nihil gesteld - geen vordering, geen betaling
+- **PHBX**: fee apr-nov 2024 (€64.000) was reeds uitbetaald. Vanaf 1 dec 2024: nihil.
+- **Freca**: fee apr-nov 2024 (€64.000) was **niet** uitbetaald en staat als vordering op de balans. Vanaf 1 dec 2024: ook nihil.
 
-### Schending Art. 3.1
+Het verschil zit niet in de fee-wijziging (die was gelijk), maar in de betalingstiming: Peter ontving zijn €64K; Freca's €64K staat nog open als schuld van Dinck.
 
-Art. 3.1 van BEIDE managementovereenkomsten bepaalt:
+### Betekenis
 
-> *"Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders van de dochtervennootschap."*
-
-Als de fee van PHBX op nihil wordt gesteld, had de fee van Freca ook op nihil moeten worden gesteld. In plaats daarvan:
-- PHBX: nihil (geen vordering)
-- Freca: €64.000 als vordering (wordt uiteindelijk betaald)
-
-Dit is geen gelijke behandeling. Het economisch verschil is €64.000.
-
-### Mogelijke Verweren Douwine
-
-1. *"De AVA ging alleen over PHBX"* → Maar Art. 3.1 eist gelijke behandeling, ongeacht welke overeenkomst wordt gewijzigd.
-2. *"Freca's fee is ook niet uitbetaald"* → Maar het is wel als vordering geboekt. PHBX's fee niet.
-3. *"Peter heeft zelf ingestemd"* → Met het PHBX-besluit, niet met de ongelijke behandeling van Freca's fee.
+Art. 3.1 (gelijke behandeling bij wijzigingen) is nageleefd — de wijziging gold voor beide bestuurders. De €64K vordering van Freca is geen doorlopende opbouw, maar het onbetaalde deel van de reeds verdiende fee over dezelfde periode.
 
 ---
 
@@ -195,9 +180,9 @@ Peter was contractueel verplicht fulltime te werken voor €0.
 ### Juridische Grondslag: Ongerechtvaardigde Verrijking (Art. 6:212 BW)
 
 Dinck B.V. is verrijkt (platform gebouwd en onderhouden) ten koste van PHBX (fulltime werk zonder vergoeding). Er is geen rechtvaardiging voor deze verrijking nu:
-- De maatregel "tijdelijk" was maar niet is getoetst
-- De gelijke behandelingsclausule is geschonden
-- Peter's instemming was gebaseerd op de tijdelijke aard
+- De maatregel "tijdelijk" was maar nooit is getoetst of heroverwogen
+- Peter's instemming was gebaseerd op de tijdelijke aard van het besluit
+- De fulltime beschikbaarheidsverplichting (Art. 2.3) bleef onverminderd van kracht
 
 ---
 
@@ -243,15 +228,15 @@ Freca's managementovereenkomst is identiek qua voorwaarden. Na de aandelenoverdr
 **Vraag**: Is Freca's managementovereenkomst nog van kracht? Freca is geen "moedervennootschap" meer in de zin van aandeelhouder. Maar de overeenkomst is niet formeel opgezegd.
 
 Als Freca's managementovereenkomst nog loopt:
-- Freca bouwt nog steeds managementfee-vordering op (€8.000/maand = €96.000/jaar)
-- Dit vergroot de schuld van Dinck aan Freca verder
-- Weer ongelijke behandeling: Freca's fee loopt door als vordering, PHBX's fee staat op nihil
+- Bouwt Freca dan opnieuw managementfee-vordering op, ondanks dat zij geen aandeelhouder meer is?
+- De fee was per 1 december 2024 ook voor Freca gestopt — maar is de overeenkomst zelf nog van kracht?
+- Freca is geen "moedervennootschap" meer in de zin van aandeelhouder, wat de basis van de overeenkomst kan aantasten
 
 ---
 
 ## 8. Vragen voor Advocaat
 
-1. **Gelijke behandeling**: Is de schending van Art. 3.1 (fee PHBX op nihil, fee Freca als vordering) grond voor een vordering? Welk bedrag?
+1. **Freca's openstaande vordering**: De €64K vordering van Freca op de balans betreft de onbetaalde fee apr-nov 2024. Is dit een preferente vordering? Hoe verhoudt dit zich tot de leningsovereenkomst?
 
 2. **Tijdelijke maatregel**: Het AVA-besluit was expliciet tijdelijk. Is er een moment geweest waarop deze maatregel had moeten worden heroverwogen? Wat zijn de gevolgen van niet-heroverweging?
 
@@ -263,7 +248,7 @@ Als Freca's managementovereenkomst nog loopt:
 
 6. **Freca's fee na aandelenoverdracht**: Loopt Freca's managementovereenkomst nog? Bouwt Freca nog steeds vordering op? Is dit verdedigbaar nu Freca geen aandeelhouder meer is?
 
-7. **Concurrerende vorderingen**: Kan Peter de managementovereenkomst-vorderingen (gelijke behandeling, ongerechtvaardigde verrijking) gebruiken als tegenwicht tegen de leningsvordering van Freca?
+7. **Concurrerende vorderingen**: Kan Peter de managementovereenkomst-vorderingen (ongerechtvaardigde verrijking) gebruiken als tegenwicht tegen de leningsvordering van Freca?
 
 ---
 
@@ -271,8 +256,7 @@ Als Freca's managementovereenkomst nog loopt:
 
 | Aspect | Bevinding | Impact |
 |--------|-----------|--------|
-| Overeenkomsten identiek | Zelfde voorwaarden PHBX en Freca | Versterkt gelijke behandelingsargument |
-| Gelijke behandeling geschonden | PHBX: nihil; Freca: vordering op balans | Grond voor claim ~€64K+ |
+| Overeenkomsten identiek | Zelfde voorwaarden PHBX en Freca | Beide fees gelijk behandeld (beide gestopt per 1 dec 2024) |
 | AVA-besluit expliciet tijdelijk | Herlevingsclausule in notulen | Nooit getoetst → argument dat tijdelijkheid is geschonden |
 | Fulltime verplichting bleef bestaan | Art. 2.3 niet gewijzigd | ~1.360 uur onbetaald werk |
 | Overeenkomst niet opgezegd | Alleen fee gewijzigd | Alle rechten en plichten lopen door |

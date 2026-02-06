@@ -67,7 +67,7 @@ Beide managementovereenkomsten (PHBX en Freca, 28 maart 2024) zijn identiek:
 - **Art. 3.1 gelijke behandeling**: "Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders"
 - **Art. 4.2 vrijwaring**: Dinck vrijwaart de moedervennootschap voor schadeclaims derden
 
-**AVA 30 november 2024**: Alleen PHBX's fee op nihil gesteld. Freca's fee als vordering op balans geboekt. Dit schendt de gelijke behandelingsclausule.
+**AVA 30 november 2024**: Beide fees per 1 december 2024 gestopt. Het AVA-besluit noemde alleen PHBX omdat dat de actief uitbetaalde fee was. De €64K van Freca op de balans betreft de onbetaalde fee over april-november 2024 (Peter ontving zijn €64K voor dezelfde periode wél). Art. 3.1 gelijke behandeling is in dit opzicht nageleefd.
 
 **Status**: De managementovereenkomst is **niet formeel opgezegd** — alleen de fee is gewijzigd. Alle rechten en plichten (incl. vrijwaring) lopen door.
 
