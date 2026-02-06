@@ -1,2 +1,4 @@
 files/
 artifacts/node_modules/
+artifacts/package.json
+artifacts/package-lock.json
