@@ -1,7 +1,7 @@
 # Vragen voor Juridisch Consult - Uittreding Dinck B.V.
 
 **Opgesteld voor**: Juridisch consult
-**Datum**: 4 februari 2026
+**Datum**: 6 februari 2026 (geconsolideerd met vragen uit brondocumentanalyses)
 **Cliënt**: Peter Berkenbosch / PHBX Holding B.V.
 
 ---
@@ -152,6 +152,97 @@ Moet alle communicatie vanaf dit punt via een advocaat verlopen?
 
 ---
 
+## Categorie H: Managementovereenkomst - Beëindiging & Vorderingen
+
+*Bron: `analyse/managementovereenkomst-analyse.md`*
+
+### H1. Opzegging door PHBX (Art. 5.1 - 3 maanden opzegtermijn)
+De managementovereenkomst is nooit formeel opgezegd — alleen de vergoeding is op nihil gesteld. Kan PHBX de overeenkomst nu opzeggen met 3 maanden schriftelijke opzegtermijn (Art. 5.1)? Wat zijn de gevolgen:
+- Geldt de fulltime beschikbaarheidsverplichting (Art. 2.3) gedurende de opzegtermijn?
+- Herleeft de fee-aanspraak gedurende de opzegtermijn (de maatregel was immers "tijdelijk")?
+- Kan PHBX per direct opzeggen als de vennootschap haar verplichtingen (vergoeding) niet nakomt?
+
+### H2. Automatische Beëindiging bij Ontslag Bestuurder
+Eindigt de managementovereenkomst automatisch wanneer Peter aftreedt als bestuurder per 1 maart 2026? Of vereist dit een aparte formele opzegging? De overeenkomst bevat een expliciete opzeggingsbepaling (Art. 5), wat suggereert dat automatische beëindiging niet was bedoeld.
+
+### H3. Vrijwaring Art. 4.2 na Ontslag
+Dinck vrijwaart PHBX voor schadeclaims van derden (Art. 4.2). Geldt deze vrijwaring nog na Peters ontslag als bestuurder? Zo ja, voor welke periode? Dit is cruciale bescherming.
+
+### H4. Ongerechtvaardigde Verrijking (Art. 6:212 BW)
+Kan PHBX een vordering instellen uit ongerechtvaardigde verrijking voor ~1.360 uren onbetaald werk (geschatte marktwaarde €102.000 - €170.000)? De grondslag:
+- Contractuele fulltime verplichting (Art. 2.3) bleef bestaan
+- Vergoeding werd op nihil gesteld
+- Tijdelijke maatregel nooit heroverwogen
+- Peter heeft feitelijk ~1.200 uur gewerkt in 2025
+
+### H5. Tijdelijke Maatregel Nooit Heroverwogen
+Het AVA-besluit was uitdrukkelijk tijdelijk: "indien de opbrengsten... op een voldoende niveau komen." Er is geen drempel vastgesteld en de maatregel is nooit formeel geëvalueerd. Wat zijn de juridische gevolgen hiervan? Had Douwine de plicht dit periodiek te heroverwergen?
+
+### H6. Freca's Managementovereenkomst - Nog van Kracht?
+Freca's managementovereenkomst is identiek en evenmin opgezegd. Na de aandelenoverdracht (7 nov 2025) is Freca geen aandeelhouder meer. Is de overeenkomst nog van kracht? Freca is geen "moedervennootschap" meer in de zin van aandeelhouder — kan dit de basis van de overeenkomst aantasten?
+
+### H7. Freca's Openstaande Vordering €64K
+De €64K vordering van Freca op de balans betreft de onbetaalde fee april-november 2024. Is dit een preferente vordering? Hoe verhoudt dit zich tot de leningsovereenkomst?
+
+### H8. Concurrerende Vorderingen als Tegenwicht
+Kan Peter de managementovereenkomst-vorderingen (ongerechtvaardigde verrijking €102-170K) gebruiken als tegenwicht tegen de leningsvordering van Freca? Hoe verhoudt dit zich in een eventuele verrekening?
+
+---
+
+## Categorie I: Leningsovereenkomst & Addendum
+
+*Bron: `analyse/geldlening-analyse.md`*
+
+### I1. Misbruik van Omstandigheden bij Addendum (Art. 3:44 lid 4 BW)
+Peter tekende het addendum (verhoging limiet naar €500K) op 31 december 2024, slechts 14 dagen nadat zijn managementvergoeding eenzijdig was stopgezet. Is er grond voor vernietiging wegens misbruik van omstandigheden? Peter ondertekende terwijl zijn tegenprestatie (management fee) eenzijdig was beëindigd.
+
+### I2. Eerste Aflossing 28 Maart 2026
+Dinck kan de eerste aflossing van ~€65-75K (1/9e van €466K + 5% rente) niet betalen — dit is meer dan 10x de jaaromzet. Wat zijn de juridische gevolgen? En als Freca de lening vervolgens NIET onmiddellijk opeist, schept dat dan een patroon van berusting?
+
+### I3. Limietoverschrijding door Rente-accumulatie
+De RC (€402K) + management fee (€64K) = €466K nadert de €500K limiet. Met 5% rente per jaar (~€23K) wordt de limiet in 2026 bereikt. Leidt rente-accumulatie die het saldo boven €500K brengt tot een overtreding onder Art. 7.1.f? Of geldt de limiet alleen voor nieuwe opnames?
+
+### I4. Art. 7.1.g - Trigger bij Ontslag Bestuurder
+Leidt Peters ontslag als bestuurder tot activering van "staking van bedrijfsuitoefening" (Art. 7.1.g), waardoor de lening direct opeisbaar wordt? Of pas wanneer Dinck feitelijk stopt met opereren?
+
+### I5. Tegenstrijdig Belang bij Opeising (Art. 2:239 lid 6 BW)
+Douwine is bestuurder van zowel Freca (schuldeiser) als Dinck (schuldenaar). Hoe werkt Art. 2:239 lid 6 BW (tegenstrijdig belang) wanneer Freca de lening opeist? Dit is hetzelfde tegenstrijdig belang dat Douwine zelf heeft bevestigd in haar e-mail van 1 februari 2026.
+
+### I6. Saldo-vaststelling (Art. 9)
+Freca's administratie geldt als bewijs van de schuld. Dinck moet binnen 6 weken na het jaarlijkse saldo-overzicht bezwaar maken. Heeft Freca deze overzichten ooit verstrekt? Heeft Dinck tijdig bezwaar gemaakt? Zo niet, is het saldo juridisch vastgesteld?
+
+### I7. Uitsluiting Ontbinding (Art. 11.3)
+Art. 11.3 sluit ontbinding en vernietiging van de leningsovereenkomst uit "op welke grond dan ook." Is deze clausule houdbaar? Kan de leningsovereenkomst desondanks worden aangetast (bijv. via misbruik van omstandigheden of beperkende werking van redelijkheid en billijkheid)?
+
+### I8. Aansprakelijkheid PHBX
+PHBX Holding is geen partij bij de leningsovereenkomst — alleen Dinck is schuldenaar. Kan Freca toch verhaal halen op PHBX, bijvoorbeeld via bestuurdersaansprakelijkheid?
+
+---
+
+## Categorie J: Notariële Akte & Schijnconstructie
+
+*Bron: `analyse/notariele-akte-analyse.md`*
+
+### J1. Schijnhandeling (Art. 3:44 BW)
+Is de combinatie van €1 koopprijs + voorziene teruglevering ("mogelijke teruglevering" staat in de akte zelf) + mondelinge overeenkomst voldoende om schijnhandeling te stellen?
+
+### J2. Terugkoopafspraak €1,50
+Er bestaat een mondelinge afspraak dat Marlou de aandelen voor €1,50 teruglevert aan Freca. Dit staat niet in de notariële akte (Art. 12 stelt dat de akte de volledige overeenkomst is). Hoe kan het bestaan van deze mondelinge afspraak worden bewezen? Is dit relevant voor de juridische positie?
+
+### J3. Afstand Ontbindingsrecht vs. Vernietiging
+Art. 10/11 van de akte: alle partijen doen afstand van ontbindingsrechten. Staat dit in de weg aan een vordering tot vernietiging wegens wilsgebrek of schijnhandeling?
+
+### J4. Peters Medetekening
+Peter tekende de akte in dubbele hoedanigheid (als PHBX en als bestuurder Dinck), met beperkte afstand van voorkeursrecht. Verzwakt dit een eventuele schijnhandeling-vordering? Peter deed dit onder tijdsdruk en met beperkte informatie over het werkelijke doel (hypotheek Douwine).
+
+### J5. Fiscale Glijclausule
+De akte bevat een fiscale glijclausule: als de Belastingdienst een hogere waarde vaststelt, wordt dat de koopprijs. Is er aanleiding om de Belastingdienst te informeren? Kan dit indirect druk zetten?
+
+### J6. Beperkte Afstand Voorkeursrecht
+PHBX deed afstand van voorkeursrecht "uitsluitend voor deze levering en een mogelijke teruglevering." Als Marlou de aandelen aan een andere partij dan Freca wil overdragen, herleeft dan Peters voorkeursrecht volledig?
+
+---
+
 ## Specifieke Feitelijke Verduidelijkingen Benodigd
 
 1. **De "afspraak van 22 januari"**: Douwine stelt dat wij op 22 januari een expliciete afspraak hebben gemaakt om een bijeenkomst te plannen. In werkelijkheid erkende zij op die datum haar vertraging en beloofde zij data te sturen (wat zij nooit heeft gedaan). Hoe weerleg ik dit narratief als het relevant wordt?
@@ -166,10 +257,22 @@ Moet alle communicatie vanaf dit punt via een advocaat verlopen?
 
 ## Beschikbare Documenten voor Beoordeling
 
+### Brondocumenten
 - Aandeelhoudersovereenkomst (SHA) - 28 maart 2024
 - Statuten Dinck B.V. - 28 maart 2024
+- Managementovereenkomst PHBX Holding - 28 maart 2024
+- Managementovereenkomst Freca B.V. - 28 maart 2024
+- Overeenkomst van geldlening Freca → Dinck - 28 maart 2024
+- Addendum geldlening (verhoging naar €500K) - 31 december 2024
+- Notariële akte aandelenoverdracht Freca → Marlou - 7 november 2025
+- AVA notulen (managementvergoeding op nihil) - 30 november 2024
 - Volledige e-mailcorrespondentie (december 2025 - februari 2026)
+- Ontslagbrief en reactie daarop (30 jan - 2 feb 2026)
+- KvK-uittreksel - 1 februari 2026
+
+### Analyses
 - Incidentenregister (10 gedocumenteerde incidenten)
-- AVA notulen 30 november 2024
-- Ontslagbrief en reactie daarop
-- Financieel overzicht Dinck B.V.
+- Analyse managementovereenkomsten (`analyse/managementovereenkomst-analyse.md`)
+- Analyse geldlening + addendum (`analyse/geldlening-analyse.md`)
+- Analyse notariële akte (`analyse/notariele-akte-analyse.md`)
+- Analyse correspondentie (`analyse/correspondentie-analyse.md`)
