@@ -54,6 +54,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | 01-02-2026 | Douwine claimt te handelen als "aandeelhouder" (feitelijk onjuist) | Reactie |
 | 02-02-2026 | Peter verduidelijkt: ontslag is eenzijdig, ingangsdatum 1 maart | Reactie |
 | 02-02-2026 | Peter voegt Marlou toe aan CC (daadwerkelijke aandeelhouder) | Reactie |
+| 06-02-2026 | Juridisch consult (intake) via Omnius met Maud van der Zee; memo volgt | Juridisch advies |
 | **01-03-2026** | **Ingangsdatum ontslag als bestuurder** | In afwachting |
 
 ---
@@ -185,7 +186,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 ## H. Vervolgstappen
 
 ### Voor 1 maart 2026
-- [ ] Juridisch consult (dit document)
+- [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
 - [ ] KvK-uittreksel bewaren als bewijs
 - [ ] Uitschrijving bij KvK voorbereiden (formulier 17a)
 - [ ] KTLO-scope documenteren indien nodig

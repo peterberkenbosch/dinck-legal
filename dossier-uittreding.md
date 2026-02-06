@@ -448,7 +448,7 @@ Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwi
 - [x] KvK uittreksel bewaard (1 feb 2026) - zie `files/01-02-2026_KVK_uittreksel_UBO-93428359.pdf`
 - [ ] KvK-uitschrijving voorbereiden (formulier 17a)
 - [ ] KTLO-scope document delen indien nodig
-- [ ] Gesprek met adviseurs (indien gepland)
+- [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
 
 ### Na 1 maart 2026
 
