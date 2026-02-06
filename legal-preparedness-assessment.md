@@ -14,7 +14,7 @@
 |----------|---------------|
 | **Vetorecht** (Art. 8.6 lid 2 statuten: unanimiteit) | Peter kan ELKE aandeelhoudersbeslissing blokkeren - verwatering, statutenwijzigingen, dividenden, bestuurdersbenoemingen |
 | **Onmisbaarheid platform** | Peter heeft het enige waardevolle bedrijfsmiddel gebouwd; vervangingskosten €150-200K; Douwine kan het niet onderhouden |
-| **8 gedocumenteerde uitsluitingsincidenten** | Solide basis voor Art. 2:343 BW (gedwongen uitkoop) indien nodig |
+| **10 gedocumenteerde uitsluitingsincidenten** | Solide basis voor Art. 2:343 BW (gedwongen uitkoop) indien nodig |
 | **SHA is nietig voor Marlou** | Verwijdert non-concurrentiebeding (Art. 7 SHA geldt alleen bij aandelenoverdracht), verwijdert Douwine's contractuele drukmiddelen |
 | **13+ maanden onbetaald werk** | Toont uitbuiting aan; versterkt het argument "onredelijk om te blijven" onder Art. 2:343 |
 | **Schoon correspondentiedossier** | Peters communicatie is professioneel, feitelijk, juridisch precies; Douwine's communicatie bevat feitelijke onjuistheden en dreigementen. Zie `analyse/correspondentie-analyse.md` |
@@ -106,7 +106,7 @@ Gegeven dat procederen financieel moeilijk is, is de optimale strategie **druk u
 2. **Treed af + schrijf uit bij KvK op 1 maart** - zoals gepland
 3. **Na 1 maart: stel een venster van 30 dagen** voor Douwine om in gesprek te gaan over uittredingsvoorwaarden
 4. **Geen reactie in april**: Stuur formeel Art. 2:217 BW informatieverzoek (gratis, signaleert escalatie)
-5. **Bij obstructie**: Stuur sommatie (via advocaat) met verwijzing naar Art. 2:343 BW gronden - de 8 gedocumenteerde incidenten maken dit geloofwaardig
+5. **Bij obstructie**: Stuur sommatie (via advocaat) met verwijzing naar Art. 2:343 BW gronden - de 10 gedocumenteerde incidenten maken dit geloofwaardig
 6. **KTLO als drukmiddel**: Na 1 maart heeft Peter NULKOMMANUL verplichting het platform te onderhouden. Het voorwaardelijk stellen van voortgezet KTLO aan zinvolle onderhandeling is legitiem
 7. **Procederen in reserve**: Art. 2:343 als uiterste middel; de geloofwaardige dreiging kan voldoende zijn
 
@@ -135,11 +135,11 @@ Vragen voor de advocaatconsultatie:
 
 ### Over bestuurdersaansprakelijkheid
 1. Heeft Dinck B.V. een D&O-verzekering die Peter dekt?
-2. Gegeven 8 gedocumenteerde incidenten van structurele uitsluiting van besluitvorming, hoe sterk is Peters verweer tegen een eventuele Art. 2:9 BW vordering?
+2. Gegeven 10 gedocumenteerde incidenten van structurele uitsluiting van besluitvorming, hoe sterk is Peters verweer tegen een eventuele Art. 2:9 BW vordering?
 3. Is er risico vanuit de terugkijktermijn van 5 jaar na 1 maart?
 
 ### Over uittredingsstrategie
-4. Is Art. 2:343 BW (gedwongen uitkoop) haalbaar gegeven de 8 gedocumenteerde incidenten? Wat zijn realistische kosten?
+4. Is Art. 2:343 BW (gedwongen uitkoop) haalbaar gegeven de 10 gedocumenteerde incidenten? Wat zijn realistische kosten?
 5. Kan Peter KTLO-onderhoud voorwaardelijk stellen aan voortgang in onderhandelingen zonder dat dit als misbruik van recht wordt aangemerkt?
 6. Moet Peter formeel eisen dat Marlou een toetredingsovereenkomst (SHA-toetredingsovereenkomst) tekent?
 7. Wat is de juridische status van de Freca → Marlou overdracht (koopprijs €1, vooraf afgesproken terugkoop €1,50)?
@@ -179,7 +179,7 @@ Vragen voor de advocaatconsultatie:
 - [ ] **Documenteer onbetaalde werkuren** - maak retroactief logboek van al het werk sinds jan 2025
 - [x] ~~**Verkrijg kopie notariële akte**~~ (verkregen 6 feb 2026 - zie `analyse/notariele-akte-analyse.md`)
 - [ ] **Bewaar huidig KvK-uittreksel** als bewijs van aandeelhouderstatus
-- [ ] **Stel chronologische incidententijdlijn op** voor advocaat (de 8 incidenten + correspondentiesamenvatting)
+- [ ] **Stel chronologische incidententijdlijn op** voor advocaat (de 10 incidenten + correspondentiesamenvatting)
 - [ ] **Bereken totale waarde onbetaalde arbeid** - uren x markttarief (€75-125/uur)
 
 ---
@@ -216,7 +216,7 @@ Deze beoordeling is een synthese van informatie uit het volledige dossier:
 | Document | Inhoud |
 |----------|-----------------|
 | `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, tegenargumenten |
-| `incident-register.md` | 8 gedocumenteerde incidenten van structurele uitsluiting |
+| `incident-register.md` | 10 gedocumenteerde incidenten van structurele uitsluiting |
 | `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie |
 | `legal-consult-questions.md` | Gedetailleerde gecategoriseerde vragen voor advocaat |

@@ -155,6 +155,36 @@ Peter's reactie:
 
 ---
 
+### 9. Eenzijdige Detachering Werknemer aan BVOK
+
+| Veld | Waarde |
+|------|--------|
+| Datum | 2025 (lopend) |
+| Categorie | Operationeel / Financieel |
+| Bewijs | Facturen Dinck → BVOK |
+
+**Beschrijving**:
+Werknemer Yanna Talma wordt (deels) gedetacheerd bij de BVOK (branchevereniging kinderopvang), waar Douwine zelf bestuurslid is. Dinck B.V. factureert de BVOK voor deze werkzaamheden. Dit is op zichzelf niet problematisch, maar dit is nooit met Peter als mede-bestuurder besproken of afgestemd.
+
+**Analyse**: Dit incident illustreert hoe Douwine eenzijdig operationele en financiële beslissingen neemt zonder Peter te betrekken. Het betreft een externe detacheringsconstructie met een organisatie waar Douwine zelf bestuurslid is — een besluit dat minimaal met de mede-bestuurder had moeten worden besproken. Het past in het bredere patroon van structurele buitensluiting.
+
+---
+
+### 10. Verhuizing Dinck naar Nieuw Pand Zonder Overleg
+
+| Veld | Waarde |
+|------|--------|
+| Datum | 2025 |
+| Categorie | Operationeel / Bestuurlijk |
+| Bewijs | Teamupdate (bericht aan hele team) |
+
+**Beschrijving**:
+Douwine kocht een nieuwe locatie in Appelscha voor haar kinderopvangbedrijf Voor Dag en Dou B.V. Bij dit pand waren twee beschikbare studio's, die werden aangewezen als het nieuwe kantoor en vestigingsadres van Dinck B.V. Peter werd hierover niet vooraf geconsulteerd — hij werd geïnformeerd via een update aan het hele team, op dezelfde wijze als de overige medewerkers.
+
+**Analyse**: De verhuizing van een kantooradres en vestigingsplaats van een B.V. is een bestuursbesluit. Peter was op dat moment mede-bestuurder en had hierover gehoord en geconsulteerd moeten worden vóórdat dit besluit werd genomen. In plaats daarvan werd hij achteraf geïnformeerd via een teambericht. Bovendien betreft het een locatie in eigendom van Douwine's eigen vennootschap — een potentieel tegenstrijdig belang dat formeel besproken had moeten worden. Dit bevestigt het patroon: Douwine behandelt Peter niet als gelijkwaardig bestuurder.
+
+---
+
 ## Patroon van Buitensluiting
 
 | Categorie | Voorbeelden |
@@ -163,6 +193,7 @@ Peter's reactie:
 | Aandeelhouderszaken | Overdracht zonder informatie, €190K claim |
 | Personeelszaken | Mutaties niet gecommuniceerd |
 | Communicatie | Eenzijdige vergaderingen, beschuldigingen |
-| Operationeel | Niet verschijnen overleg, geen proactieve communicatie |
+| Operationeel | Niet verschijnen overleg, detachering zonder overleg, verhuizing zonder overleg |
+| Bestuurlijk | Adreswijziging en vestiging in pand eigen vennootschap zonder bestuurlijk overleg |
 
-**Conclusie**: 8 gedocumenteerde incidenten over ~14 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder.
+**Conclusie**: 10 gedocumenteerde incidenten over ~14 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder.

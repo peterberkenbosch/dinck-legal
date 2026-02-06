@@ -72,7 +72,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 **Grond**: "Gedragingen van mede-aandeelhouders zodanig dat in redelijkheid niet kan worden gevergd dat je aandeelhouder blijft."
 
 **Jouw dossier ondersteunt dit**:
-- 8 gedocumenteerde incidenten van uitsluiting
+- 10 gedocumenteerde incidenten van uitsluiting
 - Heimelijke aandelenoverdracht zonder informatie
 - Eenzijdig stopzetten management fee
 - Structurele uitsluiting van besluitvorming
@@ -197,7 +197,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 - Vage dreiging zonder concrete gronden
 - Bestuurdersaansprakelijkheid vereist persoonlijk ernstig verwijt
 - Jouw verweer: structureel buitengesloten, geen feitelijke controle
-- 8 incidenten documenteren dit
+- 10 incidenten documenteren dit
 
 **Actie**: Niet reageren op vage dreigingen. Houdt dossier actueel.
 
@@ -240,7 +240,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 
 5. **Ontslag is geen wanbeleid** - Een bestuurder mag opstappen. Dat is een recht, geen plichtsverzuim.
 
-6. **Zij had feitelijke controle** - 8 gedocumenteerde incidenten tonen aan dat Peter structureel werd buitengesloten van besluitvorming
+6. **Zij had feitelijke controle** - 10 gedocumenteerde incidenten tonen aan dat Peter structureel werd buitengesloten van besluitvorming
 
 ### Haar Impliciete Dreigingen
 

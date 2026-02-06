@@ -71,7 +71,7 @@ Wat zijn mijn informatierechten op grond van Art. 2:217 BW als aandeelhouder, en
 Wat is de procedure voor Art. 2:343 BW (gedwongen uittreding / geschillenregeling)? Welke rechter is bevoegd?
 
 ### D2. Toereikendheid van de Gronden
-Vormen mijn 8 gedocumenteerde incidenten van structurele uitsluiting voldoende gronden voor Art. 2:343 BW? De wet vereist "gedragingen van mede-aandeelhouders zodanig dat in redelijkheid niet kan worden gevergd dat je aandeelhouder blijft."
+Vormen mijn 10 gedocumenteerde incidenten van structurele uitsluiting voldoende gronden voor Art. 2:343 BW? De wet vereist "gedragingen van mede-aandeelhouders zodanig dat in redelijkheid niet kan worden gevergd dat je aandeelhouder blijft."
 
 ### D3. Kosten en Doorlooptijd
 Welke kosten en doorlooptijd moet ik verwachten bij een Art. 2:343 BW-procedure?
@@ -169,7 +169,7 @@ Moet alle communicatie vanaf dit punt via een advocaat verlopen?
 - Aandeelhoudersovereenkomst (SHA) - 28 maart 2024
 - Statuten Dinck B.V. - 28 maart 2024
 - Volledige e-mailcorrespondentie (december 2025 - februari 2026)
-- Incidentenregister (8 gedocumenteerde incidenten)
+- Incidentenregister (10 gedocumenteerde incidenten)
 - AVA notulen 30 november 2024
 - Ontslagbrief en reactie daarop
 - Financieel overzicht Dinck B.V.

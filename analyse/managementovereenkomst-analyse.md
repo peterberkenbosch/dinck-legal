@@ -61,6 +61,14 @@ Dit is een van de sterkste argumenten voor ongerechtvaardigde verrijking:
 - Vergoeding werd op nihil gesteld
 - Peter heeft feitelijk ~1.200 uur gewerkt in 2025
 
+**Context: Douwine's eigen beschikbaarheid**
+Dezelfde fulltime verplichting (Art. 2.3) geldt voor Freca B.V. / Douwine. In de praktijk is Douwine echter verre van fulltime beschikbaar voor Dinck:
+- Zij runt en breidt uit: **Voor Dag en Dou B.V.** (kinderopvangbedrijf met verhuizing en nieuwe locatie)
+- Zij is **bestuurslid van de BVOK** (branchevereniging kinderopvang)
+- Zij heeft in 2025 een **nieuw huis gekocht** met bijbehorende tijdsinvestering
+
+Dit maakt de situatie nog schrijnender: Douwine handhaaft de fulltime verplichting jegens Peter (voor €0), terwijl zij zelf aantoonbaar parttime beschikbaar is voor Dinck. Er is sprake van selectieve handhaving van contractuele verplichtingen.
+
 ### Art. 3.1: Gelijke Behandelingsclausule
 
 > *"Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders van de dochtervennootschap."*

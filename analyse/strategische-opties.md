@@ -128,7 +128,7 @@ Ontslag als bestuurder + volledig stoppen met werken + afwachten
 | Wat | Rechter dwingt overname aandelen af |
 | Kosten | €15.000 - €40.000+ |
 | Duur | 12-24 maanden |
-| Grond | Structurele buitensluiting (8 incidenten) |
+| Grond | Structurele buitensluiting (10 incidenten) |
 
 ### Art. 2:345 BW - Enquêteprocedure
 
@@ -155,7 +155,7 @@ Maar: Je moet bereid zijn om door te zetten als ze bluffen.
 | Technische onmisbaarheid | Enige die platform kan onderhouden |
 | Vervangingskosten | €150K-200K om te herbouwen |
 | Vetorecht | Unanimiteit op alle AVA-besluiten |
-| Dossier | 8 incidenten structurele buitensluiting |
+| Dossier | 10 incidenten structurele buitensluiting |
 | Tijd | Kan wachten, zij hebben platform nodig |
 
 ### Douwine's Zwakke Punten

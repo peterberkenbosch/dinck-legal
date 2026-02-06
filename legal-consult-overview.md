@@ -148,7 +148,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 
 ---
 
-## F. Acht Gedocumenteerde Incidenten
+## F. Tien Gedocumenteerde Incidenten
 
 | # | Datum | Categorie | Omschrijving |
 |---|-------|-----------|--------------|
@@ -160,6 +160,8 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | 6 | 14-12-2025 | Communicatie | Beschuldiging van "chantage" vanwege het stellen van grenzen |
 | 7 | 07-01-2026 | Personeelszaken | Ontslag Jaimie voor 50% verborgen gehouden; ontdekt via teamvergadering |
 | 8 | 20-01-2026 | Operationeel | Niet-verschijnen bij gepland werkoverleg |
+| 9 | 2025 (lopend) | Operationeel / Financieel | Detachering Yanna Talma aan BVOK zonder overleg; Douwine is zelf BVOK-bestuurslid |
+| 10 | 2025 | Operationeel / Bestuurlijk | Verhuizing Dinck naar pand van Douwine's eigen vennootschap zonder bestuurlijk overleg |
 
 ---
 
