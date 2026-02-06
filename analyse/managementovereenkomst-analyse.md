@@ -182,8 +182,8 @@ Peter was contractueel verplicht fulltime te werken voor €0.
 |---------|---------------|---------------------------|
 | Dec 2024 | ~80 | €6.000 - €10.000 |
 | Jan-Dec 2025 | ~1.200 | €90.000 - €150.000 |
-| Jan 2026 | ~80 | €6.000 - €10.000 |
-| **Totaal** | **~1.360** | **€102.000 - €170.000** |
+| Jan-Feb 2026 | ~160 | €12.000 - €20.000 |
+| **Totaal** | **~1.440** | **€108.000 - €180.000** |
 
 ### Juridische Grondslag: Ongerechtvaardigde Verrijking (Art. 6:212 BW)
 
@@ -248,7 +248,7 @@ Als Freca's managementovereenkomst nog loopt:
 
 2. **Tijdelijke maatregel**: Het AVA-besluit was expliciet tijdelijk. Is er een moment geweest waarop deze maatregel had moeten worden heroverwogen? Wat zijn de gevolgen van niet-heroverweging?
 
-3. **Ongerechtvaardigde verrijking**: Kan PHBX een vordering ex Art. 6:212 BW instellen voor de ~1.360 uren onbetaald werk (€102-170K)?
+3. **Ongerechtvaardigde verrijking**: Kan PHBX een vordering ex Art. 6:212 BW instellen voor de ~1.440 uren onbetaald werk (€108-180K)?
 
 4. **Automatische beeindiging**: Eindigt de managementovereenkomst bij ontslag als bestuurder, of vereist dit formele opzegging met 3 maanden termijn?
 
@@ -266,7 +266,7 @@ Als Freca's managementovereenkomst nog loopt:
 |--------|-----------|--------|
 | Overeenkomsten identiek | Zelfde voorwaarden PHBX en Freca | Beide fees gelijk behandeld (beide gestopt per 1 dec 2024) |
 | AVA-besluit expliciet tijdelijk | Herlevingsclausule in notulen | Nooit getoetst → argument dat tijdelijkheid is geschonden |
-| Fulltime verplichting bleef bestaan | Art. 2.3 niet gewijzigd | ~1.360 uur onbetaald werk |
+| Fulltime verplichting bleef bestaan | Art. 2.3 niet gewijzigd | ~1.440 uur onbetaald werk |
 | Overeenkomst niet opgezegd | Alleen fee gewijzigd | Alle rechten en plichten lopen door |
 | Vrijwaring nog actief | Art. 4.2 beschermt PHBX | Belangrijke bescherming tot formele beeindiging |
 | 3 maanden opzegtermijn | Art. 5.1 | Relevant als overeenkomst niet automatisch eindigt |

@@ -13,7 +13,7 @@
 | Sterk punt | Waarom het ertoe doet |
 |----------|---------------|
 | **Vetorecht** (Art. 8.6 lid 2 statuten: unanimiteit) | Peter kan ELKE aandeelhoudersbeslissing blokkeren - verwatering, statutenwijzigingen, dividenden, bestuurdersbenoemingen |
-| **Onmisbaarheid platform** | Peter heeft het enige waardevolle bedrijfsmiddel gebouwd; vervangingskosten €150-200K; Douwine kan het niet onderhouden |
+| **Onmisbaarheid platform** | Peter heeft het enige waardevolle bedrijfsmiddel gebouwd; vervangingskosten €250-350K; Douwine kan het niet onderhouden |
 | **10 gedocumenteerde uitsluitingsincidenten** | Solide basis voor Art. 2:343 BW (gedwongen uitkoop) indien nodig |
 | **SHA is nietig voor Marlou** | Verwijdert non-concurrentiebeding (Art. 7 SHA geldt alleen bij aandelenoverdracht), verwijdert Douwine's contractuele drukmiddelen |
 | **13+ maanden onbetaald werk** | Toont uitbuiting aan; versterkt het argument "onredelijk om te blijven" onder Art. 2:343 |
@@ -21,7 +21,7 @@
 | **Ontslag is eenzijdig** | Kan niet worden geblokkeerd, betwist of voorwaardelijk gemaakt door Douwine/Marlou |
 | **Managementovereenkomst nog steeds actief** | Nooit formeel beëindigd; Art. 4.2 vrijwaring beschermt PHBX nog steeds. Zie `analyse/managementovereenkomst-analyse.md` |
 | **Beide vergoedingen gelijk stopgezet (Art. 3.1 nageleefd)** | Beide managementvergoedingen stopgezet per 1 dec 2024. Freca's €64K op de balans is onbetaalde vergoeding voor apr-nov 2024 (dezelfde periode waarin Peter betaald werd). Geen overtreding. |
-| **Grondslag ongerechtvaardigde verrijking** | ~1.360 uren onbetaald werk onder fulltime contractuele verplichting (Art. 2.3); geschatte waarde €102-170K |
+| **Grondslag ongerechtvaardigde verrijking** | ~1.440 uren onbetaald werk onder fulltime contractuele verplichting (Art. 2.3); geschatte waarde €108-180K |
 | **Lening is wederzijds gegarandeerde vernietiging** | Freca die de lening opeist = Dinck failliet = Douwine's €612K verloren. Beperkt haar daadwerkelijke opties ondanks contractuele bevoegdheid. Zie `analyse/geldlening-analyse.md` |
 | **Douwine's tegenstrijdig belang zelf gedocumenteerd** | Zij schreef: "handel ik niet alleen vanuit mijn rol als bestuurder en aandeelhouder, maar nadrukkelijk ook vanuit mijn positie als financier" |
 
@@ -66,7 +66,7 @@ Peter weet niet of hij een bestuurdersaansprakelijkheidsverzekering heeft. Douwi
 
 ### Hiaat 3: Geen schriftelijke vastlegging van onbetaalde werkuren
 
-Het dossier schat ~2.600 uren totaal maar heeft geen gedetailleerd urenlogboek na december 2024.
+Het dossier schat ~2.800 uren totaal maar heeft geen gedetailleerd urenlogboek na december 2024.
 
 **Actie**: Maak een retroactief overzicht van alle verrichte werkzaamheden sinds het stopzetten van de managementvergoeding (jan 2025 - heden). Vermeld: data, uren, aard van het werk (KTLO vs. feature-ontwikkeling), marktwaarde. Dit ondersteunt zowel onderhandelingspositie als mogelijke vorderingen wegens ongerechtvaardigde verrijking.
 
@@ -123,7 +123,7 @@ Gegeven dat procederen financieel moeilijk is, is de optimale strategie **druk u
 De leningsovereenkomst creëert extra druk op BEIDE partijen:
 - **28 maart 2026**: Eerste aflossing verschuldigd (~€65-75K). Dinck kan niet betalen. Dit is 27 dagen na Peters aftreden.
 - **Douwine's dilemma**: Als zij de lening opeist via Freca → Dinck gaat failliet → haar eigen €612K is verloren
-- **Peters tegenwicht**: Vorderingen uit managementovereenkomst (ongerechtvaardigde verrijking €102-170K voor fulltime onbetaald werk) kunnen een deel van de leningsdruk compenseren
+- **Peters tegenwicht**: Vorderingen uit managementovereenkomst (ongerechtvaardigde verrijking €108-180K voor fulltime onbetaald werk) kunnen een deel van de leningsdruk compenseren
 - **Wederzijds gegarandeerde vernietiging**: Geen van beide partijen heeft baat bij Dinck's faillissement. Dit versterkt de zaak voor een onderhandelde schikking.
 - **Het echte wapen is Art. 7.2** (opeising zonder reden met 3 maanden opzegtermijn), niet de loze dreigementen over bestuurdersaansprakelijkheid. Maar het inzetten ervan is zelfdestructief voor Douwine.
 
@@ -163,12 +163,12 @@ Vragen voor de advocaatconsultatie:
 
 ### Over de managementovereenkomst (NIEUW - uit brondocumentanalyse)
 19. Eindigt de managementovereenkomst automatisch wanneer Peter aftreedt als bestuurder, of geldt formele opzegging met 3 maanden opzegtermijn?
-20. Kan PHBX een vordering uit ongerechtvaardigde verrijking (Art. 6:212 BW) instellen voor ~1.360 uren onbetaald werk onder de fulltime verplichting (Art. 2.3)?
+20. Kan PHBX een vordering uit ongerechtvaardigde verrijking (Art. 6:212 BW) instellen voor ~1.440 uren onbetaald werk onder de fulltime verplichting (Art. 2.3)?
 21. Het AVA-besluit was uitdrukkelijk tijdelijk ("indien de opbrengsten... op een voldoende niveau komen"). Is deze voorwaarde ooit formeel geëvalueerd? Wat zijn de gevolgen van het uitblijven van een herbeoordeling?
 
 ### Over waardering
 22. Wat is de meest kosteneffectieve manier om de aandelenwaarde vast te stellen? (Wettelijk 3-deskundigen-mechanisme vs. enkele onafhankelijke waardering)
-23. Hoe wordt Peters arbeidsinvestering van €195-220K meegewogen in een aandelenwaardering?
+23. Hoe wordt Peters arbeidsinvestering van €210-350K meegewogen in een aandelenwaardering?
 
 ---
 

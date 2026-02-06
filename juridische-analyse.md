@@ -327,7 +327,7 @@ Het AVA-besluit van 30 november 2024 noemde alleen PHBX omdat dat de actief uitb
 
 ### Ongerechtvaardigde Verrijking
 
-De managementovereenkomst (Art. 2.3: fulltime beschikbaarheid) is nooit opgezegd. Peter was contractueel verplicht fulltime beschikbaar te zijn voor €0. Geschatte waarde onbetaald werk: €102.000 - €170.000 (~1.360 uur × €75-125/uur).
+De managementovereenkomst (Art. 2.3: fulltime beschikbaarheid) is nooit opgezegd. Peter was contractueel verplicht fulltime beschikbaar te zijn voor €0. Geschatte waarde onbetaald werk: €108.000 - €180.000 (~1.440 uur × €75-125/uur).
 
 ### Vrijwaring Nog Actief
 

@@ -103,7 +103,7 @@ Uit haar e-mailhandtekening:
 
 | Claim Douwine | Bron/Realiteit | Beoordeling |
 |--------------|---------------|-------------|
-| Geen positieve economische waarde aandelen | Vervangingswaarde platform €150-200K | **Eenzijdig**: negeert vervangingswaarde |
+| Geen positieve economische waarde aandelen | Vervangingswaarde platform €250-350K | **Eenzijdig**: negeert vervangingswaarde |
 | "PHBX Holding is voor 1/3 deel verantwoordelijk voor deze schuld, zijnde momenteel €190.279,34" | Aandeelhouders zijn niet hoofdelijk aansprakelijk voor BV-schulden (art. 2:175 BW) | **Juridisch onjuist** |
 | "wij beiden als aandeelhouder hebben ingestemd met een onbezoldigde inzet" | AVA-besluit 30 nov 2024: expliciet tijdelijk + alleen PHBX, niet Freca | **Verdraaiing**: was tijdelijk en niet gelijk |
 | Vergadering 17 dec met Grady op kantoor Van der Meer | Eenzijdig vastgesteld zonder overleg | **Unilateraal** |

@@ -14,7 +14,7 @@
 
 ### 1.2 Financiële Situatie
 
-- **ARR**: €6.230,83 (december 2025)
+- **ARR**: €6.396,60 (december 2025)
 - **Churn**: Minimaal
 - **Groei**: Langzaam maar positief
 - **Management fee Peter 2024**: €64.000 (ontvangen)
@@ -54,7 +54,7 @@
 - Art. 7.2: Freca kan de lening op **elk moment** opeisen met 3 maanden opzegtermijn, zonder reden
 - Art. 6: Dinck moet zekerheid verstrekken op eerste verzoek van Freca
 
-**Eerste aflossing 28 maart 2026**: ~€65-75K. Dinck kan dit niet betalen (ARR €6.2K). Default leidt tot opeisbaarheid volledige lening.
+**Eerste aflossing 28 maart 2026**: ~€65-75K. Dinck kan dit niet betalen (ARR €6.4K). Default leidt tot opeisbaarheid volledige lening.
 
 **Timing addendum**: Peter tekende 14 dagen nadat zijn management fee eenzijdig was stopgezet (17 dec 2024). Verzwakte onderhandelingspositie.
 
@@ -77,12 +77,13 @@ Beide managementovereenkomsten (PHBX en Freca, 28 maart 2024) zijn identiek:
 |---------|------|--------------|
 | Apr-Dec 2024 | ~1.440 | Fulltime ontwikkeling |
 | Jan-Dec 2025 | ~1.200 | Parttime (~20-30 uur/week) |
-| **Totaal** | **~2.600** | |
+| Jan-Feb 2026 | ~160 | Meer dan parttime (~30-35 uur/week), incl. iOS app |
+| **Totaal** | **~2.800** | |
 
 **Waarde berekening**:
 - Uurtarief markt: €75-125/uur
-- Berekende waarde: €195.000 - €220.000
-- Vervangingskosten platform: €150.000 - €200.000
+- Berekende waarde: €210.000 - €350.000
+- Vervangingskosten platform: €250.000 - €350.000
 
 ### 1.5 Infrastructuurkosten
 
@@ -212,9 +213,9 @@ Rabobank weigerde Douwine privé hypotheek vanwege schuldpositie Dinck. Oplossin
 
 | Methode | Berekening | 1/3 aandeel |
 |---------|------------|-------------|
-| Revenue multiple (3-5× ARR) | €18K-31K | €6K-10K |
-| Vervangingskosten platform | €150K-200K | €50K-67K |
-| Onbetaalde arbeidswaarde | €195K-220K | volledig |
+| Revenue multiple (3-5× ARR) | €19K-32K | €6K-11K |
+| Vervangingskosten platform | €250K-350K | €83K-117K |
+| Onbetaalde arbeidswaarde | €210K-350K | volledig |
 
 ### 4.3 Reactie Douwine
 
@@ -400,7 +401,7 @@ Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwi
 
 **Counter**:
 - Boekwaarde ≠ vervangingswaarde
-- Platform herbouwen: €150K-200K
+- Platform herbouwen: €250K-350K
 - Jouw arbeid is geactiveerd als asset op balans
 - Douwine's €612K investering is niets waard zonder het platform
 

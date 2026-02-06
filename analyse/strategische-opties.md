@@ -153,7 +153,7 @@ Maar: Je moet bereid zijn om door te zetten als ze bluffen.
 | Punt | Toelichting |
 |------|-------------|
 | Technische onmisbaarheid | Enige die platform kan onderhouden |
-| Vervangingskosten | €150K-200K om te herbouwen |
+| Vervangingskosten | €250K-350K om te herbouwen |
 | Vetorecht | Unanimiteit op alle AVA-besluiten |
 | Dossier | 10 incidenten structurele buitensluiting |
 | Tijd | Kan wachten, zij hebben platform nodig |

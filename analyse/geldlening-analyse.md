@@ -147,7 +147,7 @@ Het addendum bepaalt: lineaire aflossing, startend 28 maart 2026, eerste aflossi
 | ... | ... | ... | ... | ... |
 | 28-03-2034 | Restant | Restant | Eindbetaling | €0 |
 
-**Dinck's capaciteit**: ARR €6.230/jaar = ~€519/maand. De eerste aflossing van ~€68K is **meer dan 10x de jaaromzet**.
+**Dinck's capaciteit**: ARR €6.397/jaar = ~€533/maand. De eerste aflossing van ~€68K is **meer dan 10x de jaaromzet**.
 
 **Conclusie**: Dinck kan de eerste aflossing op 28 maart 2026 niet betalen. Dit leidt tot automatisch verzuim (Art. 11.2) en directe opeisbaarheid van de volledige lening (Art. 7.1.a/b).
 

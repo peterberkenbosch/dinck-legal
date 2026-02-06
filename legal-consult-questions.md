@@ -85,9 +85,9 @@ Kan ik eenzijdig de statutaire prijsbepalingsprocedure initiëren (Art. 6.2 lid 
 ### D6. Realistische Waardering
 Wat is de realistische waarde van mijn 33,3% belang, gegeven:
 - De vennootschap heeft €612K schuld (aan entiteiten van Douwine)
-- ARR bedraagt slechts €6.2K
-- Vervangingswaarde platform is €150K-200K
-- Waarde van mijn geïnvesteerde arbeid is €195K-220K
+- ARR bedraagt slechts €6.4K
+- Vervangingswaarde platform is €250K-350K
+- Waarde van mijn geïnvesteerde arbeid is €210K-350K
 
 ---
 
@@ -136,10 +136,10 @@ Is er een strategisch voordeel om Art. 2:343 BW-procedures proactief te initiër
 
 ### G1. Redelijkheid Uitkoopvoorstel
 Is mijn uitkoopvoorstel van €40K redelijk, gegeven:
-- Platformwaarde €150K-200K (1/3 = €50K-67K)
+- Platformwaarde €250K-350K (1/3 = €83K-117K)
 - Vennootschapsschuld €612K (maar aan entiteiten van Douwine zelf)
-- ARR €6.2K (3-5x = €18K-31K, 1/3 = €6K-10K)
-- Mijn geïnvesteerde arbeid €195K-220K
+- ARR €6.4K (3-5x = €19K-32K, 1/3 = €6K-11K)
+- Mijn geïnvesteerde arbeid €210K-350K
 
 ### G2. Werkelijke Onderhandelingskracht
 Welke onderhandelingskracht heb ik feitelijk als minderheidsaandeelhouder met vetorecht maar zonder operationele controle?
@@ -169,7 +169,7 @@ Eindigt de managementovereenkomst automatisch wanneer Peter aftreedt als bestuur
 Dinck vrijwaart PHBX voor schadeclaims van derden (Art. 4.2). Geldt deze vrijwaring nog na Peters ontslag als bestuurder? Zo ja, voor welke periode? Dit is cruciale bescherming.
 
 ### H4. Ongerechtvaardigde Verrijking (Art. 6:212 BW)
-Kan PHBX een vordering instellen uit ongerechtvaardigde verrijking voor ~1.360 uren onbetaald werk (geschatte marktwaarde €102.000 - €170.000)? De grondslag:
+Kan PHBX een vordering instellen uit ongerechtvaardigde verrijking voor ~1.440 uren onbetaald werk (geschatte marktwaarde €108.000 - €180.000)? De grondslag:
 - Contractuele fulltime verplichting (Art. 2.3) bleef bestaan
 - Vergoeding werd op nihil gesteld
 - Tijdelijke maatregel nooit heroverwogen
@@ -185,7 +185,7 @@ Freca's managementovereenkomst is identiek en evenmin opgezegd. Na de aandelenov
 De €64K vordering van Freca op de balans betreft de onbetaalde fee april-november 2024. Is dit een preferente vordering? Hoe verhoudt dit zich tot de leningsovereenkomst?
 
 ### H8. Concurrerende Vorderingen als Tegenwicht
-Kan Peter de managementovereenkomst-vorderingen (ongerechtvaardigde verrijking €102-170K) gebruiken als tegenwicht tegen de leningsvordering van Freca? Hoe verhoudt dit zich in een eventuele verrekening?
+Kan Peter de managementovereenkomst-vorderingen (ongerechtvaardigde verrijking €108-180K) gebruiken als tegenwicht tegen de leningsvordering van Freca? Hoe verhoudt dit zich in een eventuele verrekening?
 
 ---
 

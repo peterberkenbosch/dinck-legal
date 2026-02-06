@@ -21,6 +21,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | 30-11-2024 | AVA: Managementvergoeding op nihil gesteld (expliciet als tijdelijke maatregel) - met terugwerkende kracht opgesteld document, opgesteld na aankondiging van 17 december | Financieel |
 | 17-12-2024 | Douwine stopt betaling; behandelt tijdelijke maatregel als definitief | Incident #3 |
 | jan-dec 2025 | Peter: ~1.200 uur parttime (~20-30 uur/week) ontwikkeling | Werkzaamheden |
+| jan-feb 2026 | Peter: ~160 uur meer dan parttime (~30-35 uur/week), incl. iOS app | Werkzaamheden |
 | sep 2025 | Jaarrekening en prognoses opgesteld zonder betrokkenheid van Peter | Incident #2 |
 | 22-09-2025 | Peter ontvangt jaarrekening van accountant Klaas, niet van Douwine | Incident #2 |
 | 22-09-2025 | Peter dient schriftelijk bezwaar in over uitsluiting van financiele besluitvorming | Incident #2 |
@@ -66,7 +67,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | **Douwine Koopman** | Bestuurder Dinck, feitelijk beleidsbepaler | GEEN aandeelhoudersstatus (verkocht via Freca); houdt zeggenschap via diverse entiteiten |
 | **Freca B.V.** | Voormalig 66,7% aandeelhouder, crediteur (€402K RC + €64K mgmt vergoeding) | Eigendom van Douwine; geen aandeelhouder meer; partij bij niet-functionerende SHA |
 | **Voor Dag en Dou B.V.** | Crediteur (€145K personeelskosten 2024) | Eigendom van Douwine; kinderopvangbedrijf |
-| **Dinck B.V.** | De vennootschap | €612K schuld aan entiteiten van Douwine; €6,2K ARR; Peter heeft het platform gebouwd |
+| **Dinck B.V.** | De vennootschap | €612K schuld aan entiteiten van Douwine; €6,4K ARR; Peter heeft het platform gebouwd |
 | **Grady Hofstra** | Adviseur van Douwine | Voormalig accountant van Peter; geen neutrale partij |
 
 ---
@@ -108,10 +109,10 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | Post | Bedrag |
 |------|--------|
 | Schuld vennootschap (aan entiteiten van Douwine) | €611.994 |
-| Annual Recurring Revenue | €6.230 |
-| Geinvesteerde uren Peter (totaal) | ~2.600 |
-| Vervangingswaarde platform | €150K-200K |
-| Arbeidsmarktwaarde Peter | €195K-220K |
+| Annual Recurring Revenue | €6.397 |
+| Geinvesteerde uren Peter (totaal) | ~2.800 |
+| Vervangingswaarde platform | €250K-350K |
+| Arbeidsmarktwaarde Peter | €210K-350K |
 
 ---
 
