@@ -1,235 +1,235 @@
-# Dinck B.V. - Legal Preparedness Assessment
+# Dinck B.V. - Strategische Paraatheid Beoordeling
 
-**Date**: 6 February 2026
+**Datum**: 6 februari 2026
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
-**Purpose**: Pre-consultation assessment for lawyer meeting
+**Doel**: Voorbereiding op consultatie met advocaat
 
 ---
 
-## 1. Situation Summary (as of 6 Feb 2026)
+## 1. Samenvatting situatie (per 6 feb 2026)
 
-### What's Strong
+### Sterke punten
 
-| Strength | Why It Matters |
+| Sterk punt | Waarom het ertoe doet |
 |----------|---------------|
-| **Veto right** (Art. 8.6 lid 2 statuten: unanimity) | Peter can block ANY shareholder decision - dilution, statute changes, dividends, director appointments |
-| **Platform indispensability** | Peter built the sole valuable asset; replacement cost €150-200K; Douwine cannot maintain it |
-| **8 documented exclusion incidents** | Solid foundation for Art. 2:343 BW (forced buyout) if needed |
-| **SHA is void for Marlou** | Removes non-compete (Art. 7 SHA only triggers on share sale), removes Douwine's contractual levers |
-| **13+ months unpaid work** | Demonstrates exploitation; strengthens "unreasonable to remain" argument under Art. 2:343 |
-| **Clean correspondence record** | Peter's communications are professional, factual, legally precise; Douwine's contain factual errors and threats. See `analyse/correspondentie-analyse.md` |
-| **Resignation is unilateral** | Cannot be blocked, contested, or conditioned by Douwine/Marlou |
-| **Management agreement still active** | Never formally terminated; Art. 4.2 vrijwaring (indemnification) still protects PHBX. See `analyse/managementovereenkomst-analyse.md` |
-| **Both fees stopped equally (Art. 3.1 complied with)** | Both management fees stopped from 1 Dec 2024. Freca's €64K on balance sheet is unpaid fee for Apr-Nov 2024 (same period Peter was paid). Not a violation. |
-| **Unjust enrichment basis** | ~1,360 hours unpaid work under fulltime contractual obligation (Art. 2.3); estimated value €102-170K |
-| **Loan is mutual assured destruction** | Freca calling the loan = Dinck bankrupt = Douwine's €612K lost. Limits her actual options despite contractual power. See `analyse/geldlening-analyse.md` |
-| **Douwine's conflict of interest self-documented** | She wrote: "handel ik niet alleen vanuit mijn rol als bestuurder en aandeelhouder, maar nadrukkelijk ook vanuit mijn positie als financier" |
+| **Vetorecht** (Art. 8.6 lid 2 statuten: unanimiteit) | Peter kan ELKE aandeelhoudersbeslissing blokkeren - verwatering, statutenwijzigingen, dividenden, bestuurdersbenoemingen |
+| **Onmisbaarheid platform** | Peter heeft het enige waardevolle bedrijfsmiddel gebouwd; vervangingskosten €150-200K; Douwine kan het niet onderhouden |
+| **8 gedocumenteerde uitsluitingsincidenten** | Solide basis voor Art. 2:343 BW (gedwongen uitkoop) indien nodig |
+| **SHA is nietig voor Marlou** | Verwijdert non-concurrentiebeding (Art. 7 SHA geldt alleen bij aandelenoverdracht), verwijdert Douwine's contractuele drukmiddelen |
+| **13+ maanden onbetaald werk** | Toont uitbuiting aan; versterkt het argument "onredelijk om te blijven" onder Art. 2:343 |
+| **Schoon correspondentiedossier** | Peters communicatie is professioneel, feitelijk, juridisch precies; Douwine's communicatie bevat feitelijke onjuistheden en dreigementen. Zie `analyse/correspondentie-analyse.md` |
+| **Ontslag is eenzijdig** | Kan niet worden geblokkeerd, betwist of voorwaardelijk gemaakt door Douwine/Marlou |
+| **Managementovereenkomst nog steeds actief** | Nooit formeel beëindigd; Art. 4.2 vrijwaring beschermt PHBX nog steeds. Zie `analyse/managementovereenkomst-analyse.md` |
+| **Beide vergoedingen gelijk stopgezet (Art. 3.1 nageleefd)** | Beide managementvergoedingen stopgezet per 1 dec 2024. Freca's €64K op de balans is onbetaalde vergoeding voor apr-nov 2024 (dezelfde periode waarin Peter betaald werd). Geen overtreding. |
+| **Grondslag ongerechtvaardigde verrijking** | ~1.360 uren onbetaald werk onder fulltime contractuele verplichting (Art. 2.3); geschatte waarde €102-170K |
+| **Lening is wederzijds gegarandeerde vernietiging** | Freca die de lening opeist = Dinck failliet = Douwine's €612K verloren. Beperkt haar daadwerkelijke opties ondanks contractuele bevoegdheid. Zie `analyse/geldlening-analyse.md` |
+| **Douwine's tegenstrijdig belang zelf gedocumenteerd** | Zij schreef: "handel ik niet alleen vanuit mijn rol als bestuurder en aandeelhouder, maar nadrukkelijk ook vanuit mijn positie als financier" |
 
-### What's Vulnerable
+### Kwetsbare punten
 
-| Vulnerability | Risk Level | Action Needed |
+| Kwetsbaarheid | Risiconiveau | Actie vereist |
 |---------------|-----------|---------------|
-| **Loan acceleration risk** | **CRITICAL** | First repayment ~€65-75K due 28 March 2026; Dinck cannot pay; default triggers full loan recall. See `analyse/geldlening-analyse.md` |
-| **Art. 7.1.g cessation trigger** | **HIGH** | If Peter stops all work AND platform stalls, Freca can call the entire loan immediately (no notice) |
-| **Art. 7.2 no-reason recall** | **HIGH** | Freca can call the full loan (~€500K) at ANY time with just 3 months notice, no reason needed |
-| **No D&O insurance** | HIGH | Check immediately if Dinck has a policy; if not, consider personal coverage before 1 March |
-| **Still working unpaid incl. feature dev** | HIGH | Creates impression of acceptance; continued feature work weakens negotiating position |
-| **Addendum signed under pressure** | MEDIUM | Peter signed €500K addendum 14 days after income cut; possible misbruik van omstandigheden but needs legal assessment |
-| **No written KTLO/work agreement** | MEDIUM | All current work is goodwill with no contractual protection |
-| **Litigation budget constrained** | MEDIUM | Affects strategy: negotiation/pressure preferred over court proceedings |
-| **Information asymmetry** | MEDIUM | No formal information agreement; only statutory Art. 2:217 BW rights post-resignation |
-| **KvK still shows Peter as director** | LOW-MED | Liable as apparent director until deregistered; plan to deregister 1 March is fine |
-| **Douwine's silence** | LOW | May be consulting own lawyer; silence itself is not problematic |
+| **Risico versnelde opeising lening** | **KRITIEK** | Eerste aflossing ~€65-75K verschuldigd op 28 maart 2026; Dinck kan niet betalen; verzuim leidt tot volledige opeising. Zie `analyse/geldlening-analyse.md` |
+| **Art. 7.1.g staking-trigger** | **HOOG** | Indien Peter al het werk stopt EN platform stilstaat, kan Freca de gehele lening onmiddellijk opeisen (zonder opzegtermijn) |
+| **Art. 7.2 opeising zonder reden** | **HOOG** | Freca kan de volledige lening (~€500K) op ELK moment opeisen met slechts 3 maanden opzegtermijn, zonder reden |
+| **Geen D&O-verzekering** | HOOG | Direct controleren of Dinck een polis heeft; zo niet, overweeg persoonlijke dekking vóór 1 maart |
+| **Werkt nog steeds onbetaald incl. feature-ontwikkeling** | HOOG | Wekt de indruk van berusting; doorlopende feature-ontwikkeling verzwakt onderhandelingspositie |
+| **Addendum onder druk getekend** | GEMIDDELD | Peter tekende het €500K addendum 14 dagen nadat zijn inkomsten stopgezet werden; mogelijk misbruik van omstandigheden maar behoeft juridische beoordeling |
+| **Geen schriftelijke KTLO/werkafspraak** | GEMIDDELD | Al het huidige werk is goodwill zonder contractuele bescherming |
+| **Beperkt procesbudget** | GEMIDDELD | Beïnvloedt strategie: onderhandeling/druk heeft de voorkeur boven gerechtelijke procedures |
+| **Informatie-asymmetrie** | GEMIDDELD | Geen formele informatieafspraak; alleen wettelijke Art. 2:217 BW rechten na aftreden |
+| **KvK toont Peter nog als bestuurder** | LAAG-GEM | Aansprakelijk als schijnbaar bestuurder totdat uitgeschreven; geplande uitschrijving per 1 maart is in orde |
+| **Douwine's stilzwijgen** | LAAG | Raadpleegt mogelijk eigen advocaat; stilzwijgen op zichzelf is niet problematisch |
 
 ---
 
-## 2. Critical Gaps to Address
+## 2. Kritieke hiaten om te adresseren
 
-### Gap 1: STOP UNPAID FEATURE DEVELOPMENT (Urgent)
+### Hiaat 1: STOP ONBETAALDE FEATURE-ONTWIKKELING (Urgent)
 
-Peter is doing **feature development for free**. This is the single biggest strategic mistake right now:
-- It reduces Douwine's urgency to negotiate (she's getting free work)
-- It could be argued Peter implicitly accepted unpaid status
-- It erodes the "nuclear option" leverage (platform dependency)
-- It is economically irrational and undermines credibility
+Peter doet **feature-ontwikkeling gratis**. Dit is de grootste strategische fout op dit moment:
+- Het vermindert Douwine's urgentie om te onderhandelen (zij krijgt gratis werk)
+- Er kan worden betoogd dat Peter impliciet de onbetaalde status heeft aanvaard
+- Het ondermijnt de "nucleaire optie" als drukmiddel (platformafhankelijkheid)
+- Het is economisch irrationeel en ondermijnt geloofwaardigheid
 
-**Recommendation**: Immediately stop all new feature development. Continue only critical KTLO (platform-down, security patches) until 1 March, then reassess. After 1 March, Peter has zero obligation to do any work.
+**Aanbeveling**: Stop onmiddellijk alle nieuwe feature-ontwikkeling. Ga alleen door met kritiek KTLO (platform-down, security patches) tot 1 maart, daarna herbeoordelen. Na 1 maart heeft Peter nul verplichting om enig werk te verrichten.
 
-### Gap 2: D&O Insurance (Urgent)
+### Hiaat 2: D&O-verzekering (Urgent)
 
-Peter doesn't know if he has directors & officers liability insurance. Douwine has made (empty) threats about director liability.
+Peter weet niet of hij een bestuurdersaansprakelijkheidsverzekering heeft. Douwine heeft (loze) dreigementen geuit over bestuurdersaansprakelijkheid.
 
-**Action**:
-- Check if Dinck B.V. has a D&O policy that covers Peter
-- If not: consider obtaining personal coverage for the remaining 23 days of directorship
-- After 1 March: director liability exposure ends for future acts (but historical claims have 5-year window)
+**Actie**:
+- Controleer of Dinck B.V. een D&O-polis heeft die Peter dekt
+- Zo niet: overweeg persoonlijke dekking voor de resterende 23 dagen bestuurdersschap
+- Na 1 maart: bestuurdersaansprakelijkheid voor toekomstige handelingen eindigt (maar historische claims hebben een verjaringstermijn van 5 jaar)
 
-### Gap 3: No Written Record of Unpaid Work Hours
+### Hiaat 3: Geen schriftelijke vastlegging van onbetaalde werkuren
 
-The dossier estimates ~2,600 hours total but doesn't have a detailed time log post-December 2024.
+Het dossier schat ~2.600 uren totaal maar heeft geen gedetailleerd urenlogboek na december 2024.
 
-**Action**: Create a retroactive summary of work performed since management fee ended (Jan 2025 - present). Include: dates, hours, nature of work (KTLO vs. feature dev), market value. This supports both negotiation leverage and potential unjust enrichment claims.
+**Actie**: Maak een retroactief overzicht van alle verrichte werkzaamheden sinds het stopzetten van de managementvergoeding (jan 2025 - heden). Vermeld: data, uren, aard van het werk (KTLO vs. feature-ontwikkeling), marktwaarde. Dit ondersteunt zowel onderhandelingspositie als mogelijke vorderingen wegens ongerechtvaardigde verrijking.
 
-### Gap 4: Marlou Has Never Been Directly Engaged
+### Hiaat 4: Marlou is nooit rechtstreeks benaderd
 
-All negotiations are with Douwine, who is NOT a shareholder. Marlou (the actual 66.7% holder) has been CC'd once (Peter's Feb 2 email) but has never responded or participated.
+Alle onderhandelingen verlopen met Douwine, die GEEN aandeelhouder is. Marlou (de feitelijke 66,7% aandeelhouder) is eenmaal in CC gezet (Peters e-mail van 2 feb) maar heeft nooit gereageerd of deelgenomen.
 
-**Question for lawyer**: Should Peter formally address Marlou directly as the legal counterparty? Douwine negotiating on behalf of a proxy she controls is legally unusual.
+**Vraag voor advocaat**: Moet Peter Marlou formeel rechtstreeks aanspreken als de juridische wederpartij? Douwine die onderhandelt namens een stroman die zij controleert is juridisch ongebruikelijk.
 
-### Gap 5: Notarial Deed of Share Transfer - OBTAINED
+### Hiaat 5: Notariële akte van aandelenoverdracht - VERKREGEN
 
-~~The dossier flags that the signed notarial deed of the Freca → Marlou transfer has not been obtained.~~
+~~Het dossier signaleert dat de getekende notariële akte van de Freca → Marlou overdracht niet is verkregen.~~
 
-**Status**: Deed obtained on 6 February 2026. Full analysis in `analyse/notariele-akte-analyse.md`.
+**Status**: Akte verkregen op 6 februari 2026. Volledige analyse in `analyse/notariele-akte-analyse.md`.
 
-**Key findings from the deed**:
-- **Koopprijs €1,00 confirmed** - supports sham transaction argument
-- **Purchase agreement was ORAL** - no written contract exists; Art. 12 states the deed IS the full agreement
-- **Buyback clause (€1.50) is NOT in the deed** - this is a purely oral side-deal with no written evidence
-- **Peter's pre-emptive right waiver was LIMITED** - "uitsluitend voor deze levering en een mogelijke teruglevering door koper aan verkoper" - any other transfer by Marlou reactivates Peter's pre-emptive right
-- **No SHA reference whatsoever** - confirms Marlou never acceded to the SHA
-- **"Mogelijke teruglevering" language** - the deed itself contemplates a return transfer, supporting the sham transaction narrative
-- **Parties waived all dissolution rights** (Art. 10/11) - complicates undoing the transfer
-- **Peter signed in dual capacity** - as PHBX Holding (shareholder) AND as Dinck B.V. (director recognizing the transfer)
+**Belangrijkste bevindingen uit de akte**:
+- **Koopprijs €1,00 bevestigd** - ondersteunt argument van schijntransactie
+- **Koopovereenkomst was MONDELING** - geen schriftelijk contract; Art. 12 bepaalt dat de akte DE volledige overeenkomst is
+- **Terugkoopclausule (€1,50) staat NIET in de akte** - dit is een puur mondelinge nevenafspraak zonder schriftelijk bewijs
+- **Peters voorkeursrecht-afstand was BEPERKT** - "uitsluitend voor deze levering en een mogelijke teruglevering door koper aan verkoper" - elke andere overdracht door Marlou doet Peters voorkeursrecht herleven
+- **Geen enkele verwijzing naar de SHA** - bevestigt dat Marlou nooit tot de SHA is toegetreden
+- **"Mogelijke teruglevering"-formulering** - de akte zelf voorziet in terugoverdracht, wat het schijntransactie-narratief ondersteunt
+- **Partijen hebben alle ontbindingsrechten afgezien** (Art. 10/11) - bemoeilijkt het ongedaan maken van de overdracht
+- **Peter tekende in dubbele hoedanigheid** - als PHBX Holding (aandeelhouder) EN als Dinck B.V. (bestuurder die de overdracht erkent)
 
-**New questions for lawyer**: See `analyse/notariele-akte-analyse.md` section 4 for 6 specific questions arising from the deed.
-
----
-
-## 3. Strategic Assessment Given Constraints
-
-Given that litigation is financially difficult, the optimal strategy is **pressure without litigation**:
-
-### Recommended Approach: "Credible Threat + Time Pressure"
-
-1. **Stop feature development immediately** - KTLO only until 1 March
-2. **Resign + deregister KvK on 1 March** - as planned
-3. **After 1 March: set 30-day window** for Douwine to engage on exit terms
-4. **If no engagement by April**: Send formal Art. 2:217 BW information request (free, signals escalation)
-5. **If stonewalled**: Send demand letter (via lawyer) referencing Art. 2:343 BW grounds - the 8 documented incidents make this credible
-6. **KTLO as leverage**: After 1 March, Peter has ZERO obligation to maintain the platform. Conditioning continued KTLO on meaningful negotiation is legitimate
-7. **Reserve litigation**: Art. 2:343 as last resort; the credible threat may be sufficient
-
-### Why This Works Without Going to Court
-
-- Douwine's €612K investment depends entirely on Peter's platform working
-- Without KTLO: bugs accumulate, platform degrades, customers churn
-- Hiring an external developer: €100-150/hr without codebase knowledge, months to onboard
-- Peter's veto blocks any strategic pivot Douwine attempts via AVA
-- Time is on Peter's side; Douwine's investment erodes without technical maintenance
-
-### Loan Dynamics Add Urgency (NEW)
-
-The loan agreement creates additional pressure on BOTH sides:
-- **28 March 2026**: First repayment due (~€65-75K). Dinck cannot pay. This is 27 days after Peter's resignation.
-- **Douwine's dilemma**: If she calls the loan via Freca → Dinck goes bankrupt → her own €612K is lost
-- **Peter's counter-leverage**: Management agreement claims (unjust enrichment €102-170K for fulltime unpaid work) can offset some of the loan pressure
-- **Mutual Assured Destruction**: Neither party benefits from Dinck's failure. This strengthens the case for negotiated settlement.
-- **The real weapon is Art. 7.2** (no-reason recall with 3 months notice), not the empty director liability threats. But using it is self-destructive for Douwine.
+**Nieuwe vragen voor advocaat**: Zie `analyse/notariele-akte-analyse.md` sectie 4 voor 6 specifieke vragen die voortvloeien uit de akte.
 
 ---
 
-## 4. Lawyer Meeting Preparation Points
+## 3. Strategische beoordeling gegeven beperkingen
 
-Questions to bring to the lawyer consultation:
+Gegeven dat procederen financieel moeilijk is, is de optimale strategie **druk uitoefenen zonder te procederen**:
 
-### On Director Liability
-1. Does Dinck B.V. have D&O insurance covering Peter?
-2. Given 8 documented incidents of exclusion from decision-making, how strong is Peter's defense against any Art. 2:9 BW claim?
-3. Is there any risk from the 5-year look-back period after 1 March?
+### Aanbevolen aanpak: "Geloofwaardige dreiging + tijdsdruk"
 
-### On Exit Strategy
-4. Is Art. 2:343 BW (forced buyout) viable given the 8 documented incidents? What are realistic costs?
-5. Can Peter condition KTLO maintenance on negotiation progress without this being construed as abuse of rights?
-6. Should Peter formally demand Marlou sign a toetredingsovereenkomst (SHA accession agreement)?
-7. What is the legal status of the Freca → Marlou transfer (€1 price, pre-agreed €1.50 buyback)?
+1. **Stop feature-ontwikkeling onmiddellijk** - alleen KTLO tot 1 maart
+2. **Treed af + schrijf uit bij KvK op 1 maart** - zoals gepland
+3. **Na 1 maart: stel een venster van 30 dagen** voor Douwine om in gesprek te gaan over uittredingsvoorwaarden
+4. **Geen reactie in april**: Stuur formeel Art. 2:217 BW informatieverzoek (gratis, signaleert escalatie)
+5. **Bij obstructie**: Stuur sommatie (via advocaat) met verwijzing naar Art. 2:343 BW gronden - de 8 gedocumenteerde incidenten maken dit geloofwaardig
+6. **KTLO als drukmiddel**: Na 1 maart heeft Peter NULKOMMANUL verplichting het platform te onderhouden. Het voorwaardelijk stellen van voortgezet KTLO aan zinvolle onderhandeling is legitiem
+7. **Procederen in reserve**: Art. 2:343 als uiterste middel; de geloofwaardige dreiging kan voldoende zijn
 
-### On Unpaid Work
-8. Does 13+ months of unpaid feature development constitute unjust enrichment (ongerechtvaardigde verrijking)?
-9. Can Peter claim compensation for work performed beyond what was agreed at the AVA of 30 November 2024?
-10. The AVA decision said "temporary until sufficient revenue" - has this condition been properly evaluated?
+### Waarom dit werkt zonder naar de rechter te gaan
 
-### On Current Situation
-11. Should Peter immediately cease all unpaid feature development?
-12. Should Peter formally address Marlou (not Douwine) as the legal shareholder counterparty?
-13. How should Peter handle the KvK deregistration if Douwine refuses to cooperate?
+- Douwine's investering van €612K is volledig afhankelijk van Peters werkend platform
+- Zonder KTLO: bugs stapelen zich op, platform degradeert, klanten vertrekken
+- Een externe ontwikkelaar inhuren: €100-150/uur zonder kennis van de codebase, maanden om in te werken
+- Peters vetorecht blokkeert elke strategische koerswijziging die Douwine via de AVA probeert
+- De tijd werkt in Peters voordeel; Douwine's investering erodeert zonder technisch onderhoud
 
-### On the Loan Agreement (NEW - from source document analysis)
-14. The loan addendum (increasing limit to €500K) was signed 14 days after Peter's management fee was unilaterally stopped. Is there a basis for annulment under Art. 3:44 lid 4 BW (misbruik van omstandigheden)?
-15. First repayment (~€65-75K) is due 28 March 2026 - Dinck cannot pay. What are the legal consequences when Freca does NOT immediately call the loan? Does this create a pattern of acquiescence?
-16. Douwine is bestuurder of both Freca (creditor) and Dinck (debtor). How does Art. 2:239 lid 6 BW (tegenstrijdig belang) apply when Freca calls the loan?
-17. Does Peter's resignation as director trigger Art. 7.1.g ("staking bedrijfsuitoefening")? Or only when Dinck actually ceases operations?
-18. Art. 9: Has Freca provided annual balance statements? Has Dinck timely objected (6-week window)? If not, is the balance legally established?
+### Leningsdynamiek voegt urgentie toe (NIEUW)
 
-### On the Management Agreement (NEW - from source document analysis)
-19. Does the management agreement end automatically when Peter resigns as director, or does formal termination with 3-month notice apply?
-20. Can PHBX claim unjust enrichment (Art. 6:212 BW) for ~1,360 hours of unpaid work under the fulltime obligation (Art. 2.3)?
-21. The AVA decision was explicitly temporary ("indien de opbrengsten... op een voldoende niveau komen"). Has this condition ever been formally evaluated? What are the consequences of non-review?
-
-### On Valuation
-22. What is the most cost-effective way to establish share value? (Statutory 3-expert mechanism vs. single independent valuation)
-23. How is Peter's €195-220K labor investment treated in a share valuation?
+De leningsovereenkomst creëert extra druk op BEIDE partijen:
+- **28 maart 2026**: Eerste aflossing verschuldigd (~€65-75K). Dinck kan niet betalen. Dit is 27 dagen na Peters aftreden.
+- **Douwine's dilemma**: Als zij de lening opeist via Freca → Dinck gaat failliet → haar eigen €612K is verloren
+- **Peters tegenwicht**: Vorderingen uit managementovereenkomst (ongerechtvaardigde verrijking €102-170K voor fulltime onbetaald werk) kunnen een deel van de leningsdruk compenseren
+- **Wederzijds gegarandeerde vernietiging**: Geen van beide partijen heeft baat bij Dinck's faillissement. Dit versterkt de zaak voor een onderhandelde schikking.
+- **Het echte wapen is Art. 7.2** (opeising zonder reden met 3 maanden opzegtermijn), niet de loze dreigementen over bestuurdersaansprakelijkheid. Maar het inzetten ervan is zelfdestructief voor Douwine.
 
 ---
 
-## 5. Immediate Action Items (Before Lawyer Meeting)
+## 4. Voorbereiding advocaatgesprek
 
-- [ ] **Stop all unpaid feature development** - KTLO only from today
-- [ ] **Check D&O insurance** - call Dinck's insurer or check policy documents
-- [ ] **Document unpaid work hours** - create retroactive log of all work since Jan 2025
-- [x] ~~**Obtain copy of notarial deed**~~ (obtained 6 Feb 2026 - see `analyse/notariele-akte-analyse.md`)
-- [ ] **Preserve current KvK extract** as proof of shareholder status
-- [ ] **Prepare chronological incident timeline** for lawyer (the 8 incidents + correspondence summary)
-- [ ] **Calculate total unpaid labor value** - hours x market rate (€75-125/hr)
+Vragen voor de advocaatconsultatie:
+
+### Over bestuurdersaansprakelijkheid
+1. Heeft Dinck B.V. een D&O-verzekering die Peter dekt?
+2. Gegeven 8 gedocumenteerde incidenten van structurele uitsluiting van besluitvorming, hoe sterk is Peters verweer tegen een eventuele Art. 2:9 BW vordering?
+3. Is er risico vanuit de terugkijktermijn van 5 jaar na 1 maart?
+
+### Over uittredingsstrategie
+4. Is Art. 2:343 BW (gedwongen uitkoop) haalbaar gegeven de 8 gedocumenteerde incidenten? Wat zijn realistische kosten?
+5. Kan Peter KTLO-onderhoud voorwaardelijk stellen aan voortgang in onderhandelingen zonder dat dit als misbruik van recht wordt aangemerkt?
+6. Moet Peter formeel eisen dat Marlou een toetredingsovereenkomst (SHA-toetredingsovereenkomst) tekent?
+7. Wat is de juridische status van de Freca → Marlou overdracht (koopprijs €1, vooraf afgesproken terugkoop €1,50)?
+
+### Over onbetaald werk
+8. Vormt 13+ maanden onbetaalde feature-ontwikkeling ongerechtvaardigde verrijking?
+9. Kan Peter vergoeding claimen voor werk dat verder gaat dan wat op de AVA van 30 november 2024 is afgesproken?
+10. Het AVA-besluit vermeldde "tijdelijk tot voldoende omzet" - is deze voorwaarde behoorlijk geëvalueerd?
+
+### Over de huidige situatie
+11. Moet Peter onmiddellijk alle onbetaalde feature-ontwikkeling staken?
+12. Moet Peter zich formeel tot Marlou (niet Douwine) richten als de juridische aandeelhouder-wederpartij?
+13. Hoe moet Peter de KvK-uitschrijving aanpakken als Douwine weigert mee te werken?
+
+### Over de leningsovereenkomst (NIEUW - uit brondocumentanalyse)
+14. Het leningsaddendum (verhoging limiet naar €500K) werd 14 dagen na eenzijdige stopzetting van Peters managementvergoeding getekend. Is er grond voor vernietiging op basis van Art. 3:44 lid 4 BW (misbruik van omstandigheden)?
+15. Eerste aflossing (~€65-75K) is verschuldigd op 28 maart 2026 - Dinck kan niet betalen. Wat zijn de juridische gevolgen wanneer Freca de lening NIET onmiddellijk opeist? Schept dit een patroon van berusting?
+16. Douwine is bestuurder van zowel Freca (schuldeiser) als Dinck (schuldenaar). Hoe is Art. 2:239 lid 6 BW (tegenstrijdig belang) van toepassing wanneer Freca de lening opeist?
+17. Leidt Peters aftreden als bestuurder tot activering van Art. 7.1.g ("staking bedrijfsuitoefening")? Of alleen wanneer Dinck daadwerkelijk de activiteiten staakt?
+18. Art. 9: Heeft Freca jaarlijkse balansopgaven verstrekt? Heeft Dinck tijdig bezwaar gemaakt (termijn van 6 weken)? Zo niet, is het saldo dan juridisch vastgesteld?
+
+### Over de managementovereenkomst (NIEUW - uit brondocumentanalyse)
+19. Eindigt de managementovereenkomst automatisch wanneer Peter aftreedt als bestuurder, of geldt formele opzegging met 3 maanden opzegtermijn?
+20. Kan PHBX een vordering uit ongerechtvaardigde verrijking (Art. 6:212 BW) instellen voor ~1.360 uren onbetaald werk onder de fulltime verplichting (Art. 2.3)?
+21. Het AVA-besluit was uitdrukkelijk tijdelijk ("indien de opbrengsten... op een voldoende niveau komen"). Is deze voorwaarde ooit formeel geëvalueerd? Wat zijn de gevolgen van het uitblijven van een herbeoordeling?
+
+### Over waardering
+22. Wat is de meest kosteneffectieve manier om de aandelenwaarde vast te stellen? (Wettelijk 3-deskundigen-mechanisme vs. enkele onafhankelijke waardering)
+23. Hoe wordt Peters arbeidsinvestering van €195-220K meegewogen in een aandelenwaardering?
 
 ---
 
-## 6. Post-1 March Checklist
+## 5. Directe actiepunten (vóór advocaatgesprek)
 
-- [ ] Deregister as director at KvK (can self-execute via form 13)
-- [ ] Send formal notification to Marlou confirming shareholder status and information rights
-- [ ] Cease all work unless contractual agreement reached
-- [ ] Send first Art. 2:217 BW information request (quarterly financials, customer metrics, debt position)
-- [ ] Set internal deadline for negotiation (suggest: 1 April 2026)
-- [ ] If no progress by April: engage lawyer for demand letter
+- [ ] **Stop alle onbetaalde feature-ontwikkeling** - alleen KTLO vanaf vandaag
+- [ ] **Controleer D&O-verzekering** - bel Dinck's verzekeraar of raadpleeg polisdocumenten
+- [ ] **Documenteer onbetaalde werkuren** - maak retroactief logboek van al het werk sinds jan 2025
+- [x] ~~**Verkrijg kopie notariële akte**~~ (verkregen 6 feb 2026 - zie `analyse/notariele-akte-analyse.md`)
+- [ ] **Bewaar huidig KvK-uittreksel** als bewijs van aandeelhouderstatus
+- [ ] **Stel chronologische incidententijdlijn op** voor advocaat (de 8 incidenten + correspondentiesamenvatting)
+- [ ] **Bereken totale waarde onbetaalde arbeid** - uren x markttarief (€75-125/uur)
 
 ---
 
-## 7. Key Legal References
+## 6. Checklist na 1 maart
 
-| Article | What It Does | Peter's Use |
+- [ ] Uitschrijven als bestuurder bij KvK (kan zelf via formulier 13)
+- [ ] Formele kennisgeving aan Marlou met bevestiging aandeelhouderstatus en informatierechten
+- [ ] Alle werkzaamheden staken tenzij contractuele afspraak bereikt
+- [ ] Eerste Art. 2:217 BW informatieverzoek versturen (kwartaalcijfers, klantgegevens, schuldpositie)
+- [ ] Interne deadline voor onderhandeling vaststellen (voorstel: 1 april 2026)
+- [ ] Indien geen voortgang in april: advocaat inschakelen voor sommatie
+
+---
+
+## 7. Belangrijkste juridische referenties
+
+| Artikel | Wat het doet | Peters toepassing |
 |---------|-------------|-------------|
-| Art. 2:9 BW | Director liability | Defense: structurally excluded from decisions |
-| Art. 2:217 BW | Shareholder information rights | Demand financials post-resignation |
-| Art. 2:343 BW | Forced buyout (uittreding) | Primary exit remedy if negotiation fails |
-| Art. 2:345 BW | Enquete procedure | Nuclear option (expensive but powerful) |
-| Art. 6:212 BW | Unjust enrichment | Potential claim for 13 months unpaid work |
-| Art. 8.6 lid 2 Statuten | Unanimity requirement | Absolute veto on all AVA decisions |
-| Art. 6.2 Statuten | Pre-emptive rights + 3-expert valuation | Prevents dilution; objective pricing mechanism |
+| Art. 2:9 BW | Bestuurdersaansprakelijkheid | Verweer: structureel uitgesloten van besluitvorming |
+| Art. 2:217 BW | Informatierechten aandeelhouder | Financiële gegevens opvragen na aftreden |
+| Art. 2:343 BW | Gedwongen uitkoop (uittreding) | Primair uittredingsmiddel indien onderhandeling faalt |
+| Art. 2:345 BW | Enquêteprocedure | Nucleaire optie (duur maar krachtig) |
+| Art. 6:212 BW | Ongerechtvaardigde verrijking | Mogelijke vordering voor 13 maanden onbetaald werk |
+| Art. 8.6 lid 2 Statuten | Unanimiteitsvereiste | Absoluut vetorecht op alle AVA-besluiten |
+| Art. 6.2 Statuten | Voorkeursrecht + 3-deskundigen-waardering | Voorkomt verwatering; objectief prijsmechanisme |
 
 ---
 
-## 8. Document Cross-References
+## 8. Documentverwijzingen
 
-This assessment synthesizes information from the full dossier:
+Deze beoordeling is een synthese van informatie uit het volledige dossier:
 
-| Document | What It Contains |
+| Document | Inhoud |
 |----------|-----------------|
-| `dossier-uittreding.md` | Full factual dossier, financial data, counter-arguments |
-| `incident-register.md` | 8 documented incidents of structural exclusion |
-| `juridische-analyse.md` | Legal position analysis, worst-case scenarios |
-| `legal-consult-overview.md` | Comprehensive timeline, party reference, correspondence |
-| `legal-consult-questions.md` | Detailed categorized questions for lawyer |
-| `analyse/sha-analyse.md` | SHA analysis (defunct status) |
-| `analyse/statuten-analyse.md` | Statutes analysis (unanimity, veto) |
-| `analyse/strategische-opties.md` | Strategic scenarios and options |
-| `analyse/notariele-akte-analyse.md` | Full analysis of notarial deed (6 key findings + 6 lawyer questions) |
-| `analyse/geldlening-analyse.md` | **NEW** - Full analysis of loan agreement + addendum (opeisbaarheid, €500K limit, repayment, strategic implications) |
-| `analyse/managementovereenkomst-analyse.md` | **NEW** - Analysis of management agreements + AVA minutes (fee status, fulltime obligation, termination status, unjust enrichment) |
-| `analyse/correspondentie-analyse.md` | **NEW** - Verified timeline from source emails (factual claims vs reality, tone analysis, new details) |
-| `correspondentie/overzicht.md` | Email correspondence overview |
-| `files/` | Original legal documents (PDFs): notarial deed, SHA, statutes, loan agreements, management agreements, KvK extract, emails |
+| `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, tegenargumenten |
+| `incident-register.md` | 8 gedocumenteerde incidenten van structurele uitsluiting |
+| `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's |
+| `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie |
+| `legal-consult-questions.md` | Gedetailleerde gecategoriseerde vragen voor advocaat |
+| `analyse/sha-analyse.md` | SHA-analyse (niet-werkende status) |
+| `analyse/statuten-analyse.md` | Statutenanalyse (unanimiteit, vetorecht) |
+| `analyse/strategische-opties.md` | Strategische scenario's en opties |
+| `analyse/notariele-akte-analyse.md` | Volledige analyse notariële akte (6 kernbevindingen + 6 advocaatvragen) |
+| `analyse/geldlening-analyse.md` | **NIEUW** - Volledige analyse leningsovereenkomst + addendum (opeisbaarheid, €500K limiet, aflossing, strategische implicaties) |
+| `analyse/managementovereenkomst-analyse.md` | **NIEUW** - Analyse managementovereenkomsten + AVA-notulen (vergoedingsstatus, fulltime verplichting, beëindigingsstatus, ongerechtvaardigde verrijking) |
+| `analyse/correspondentie-analyse.md` | **NIEUW** - Geverifieerde tijdlijn uit bronemails (feitelijke claims vs realiteit, toonanalyse, nieuwe details) |
+| `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie |
+| `files/` | Originele juridische documenten (PDF's): notariële akte, SHA, statuten, leningsovereenkomsten, managementovereenkomsten, KvK-uittreksel, e-mails |
 
 ---
 
-*This document is intended for use in preparation for legal consultation. It represents Peter's assessment of his own position and should be validated by qualified legal counsel.*
+*Dit document is bedoeld ter voorbereiding op juridische consultatie. Het vertegenwoordigt Peters beoordeling van zijn eigen positie en dient gevalideerd te worden door gekwalificeerde juridische adviseurs.*

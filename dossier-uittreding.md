@@ -305,6 +305,50 @@ Kort, zakelijk, zonder hooks:
 - Open voor gesprek over praktische invulling na 1 maart
 - Marlou in CC (formele mede-aandeelhouder)
 
+### 5.5 Communicatiestrategie: Marlou als Formele Gesprekspartner
+
+#### Huidige Situatie
+
+| Datum | Van → Aan | Marlou |
+|-------|-----------|--------|
+| 30 jan | Peter → Douwine | **Niet in CC** (ontslagbrief) |
+| 1 feb | Douwine → Peter | CC: Grady + **Marlou** (door Douwine toegevoegd) |
+| 2 feb | Peter → Douwine | CC: **Marlou** (door Peter behouden) |
+
+De originele ontslagbrief ging alleen naar Douwine. Marlou hoorde er pas van toen Douwine haar op 1 februari in CC zette.
+
+#### Juridische Geldigheid Ontslag
+
+Geen probleem voor de geldigheid:
+- Bestuurdersontslag is een eenzijdige rechtshandeling
+- Verzending aan Douwine als mede-bestuurder = kennisgeving aan de vennootschap
+- Er is geen wettelijke verplichting om iedere aandeelhouder apart te informeren
+- Het ontslag is effectief per 1 maart 2026, ongeacht wie het heeft ontvangen
+
+#### Waarom Marlou Voortaan Direct Aanschrijven
+
+Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwine te communiceren bevestigt Peter het patroon dat Douwine de feitelijke gesprekspartner is zonder formele basis.
+
+**Redenen om Marlou direct te adresseren:**
+
+1. **Zij is de juridische wederpartij.** Alle AVA-besluiten vereisen haar stem (Art. 8.6 lid 2), niet die van Douwine.
+
+2. **Het documenteert de stromanconstructie.** Als Marlou alles doorstuurt naar Douwine, of als Douwine steeds namens haar reageert, bevestigt dat de schijnconstructie. Waardevol bewijsmateriaal voor een eventuele Art. 2:343-procedure.
+
+3. **Na 1 maart is de relatie puur aandeelhouder-aandeelhouder.** Informatieverzoeken (Art. 2:217 BW) gaan via de AVA. Marlou is dan de relevante partij, niet Douwine.
+
+4. **Het zet Douwine in een ongemakkelijke positie.** Zij moet ofwel:
+   - Marlou laten antwoorden (onthult dat Marlou geen eigen mening heeft), of
+   - Zelf antwoorden namens Marlou (bevestigt dat zij de feitelijke controleur is zonder formele basis)
+
+#### Aanbeveling
+
+| Wanneer | Actie |
+|---------|-------|
+| Nu al | CC Marlou op alle communicatie over Dinck (loopt sinds 2 feb) |
+| Na 1 maart | Formele correspondentie (informatierechten, AVA-verzoeken) **aan Marlou** als aandeelhouder, met Douwine in CC als bestuurder |
+| Advocaatgesprek | Bespreken of separate bevestiging van het ontslag aan Marlou wenselijk is |
+
 ---
 
 ## 6. Strategische Scenario's

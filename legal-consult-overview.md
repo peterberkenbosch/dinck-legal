@@ -1,195 +1,195 @@
-# Legal Consultation Overview - Dinck B.V. Exit
+# Overzicht Juridisch Consult - Uittreding Dinck B.V.
 
-**Prepared for**: Legal consultation
-**Date**: February 4, 2026
+**Opgesteld voor**: Juridisch consult
+**Datum**: 4 februari 2026
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
 
 ---
 
-## A. Executive Summary
+## A. Samenvatting
 
-Peter Berkenbosch, through PHBX Holding B.V., is a 33.3% shareholder and co-founder of Dinck B.V., a SaaS platform for childcare administration. Since the company's founding in March 2024, Peter has been systematically excluded from decision-making by Douwine Koopman. Douwine initially held 66.7% of shares through her company Freca B.V., but transferred these to Marlou Woltmeijer (a straw buyer/employee) in November 2025. As a result, Douwine currently has no shareholder status, but remains on the board as bestuurder and maintains de facto control through various entities (Freca B.V., Voor Dag en Dou B.V.). After failed equity buyout negotiations and continued exclusion, Peter submitted his resignation as bestuurder on January 30, 2026, effective March 1, 2026. Douwine and Marlou are contesting the resignation, though their objections lack legal basis since resignation as bestuurder is a unilateral legal act requiring no consent.
-
----
-
-## B. Comprehensive Timeline
-
-| Date | Event | Category |
-|------|-------|----------|
-| 28-03-2024 | Dinck B.V. founded; SHA signed between PHBX Holding and Freca B.V. | Foundation |
-| Apr-Dec 2024 | Peter: ~1,440 hours fulltime platform development | Work |
-| 30-11-2024 | AVA: Management fee set to zero (explicitly as temporary measure) - backdated document, drafted after Dec 17 announcement | Financial |
-| 17-12-2024 | Douwine stops payment; treats temporary measure as permanent | Incident #3 |
-| Jan-Dec 2025 | Peter: ~1,200 hours parttime (~20-30 hrs/week) development | Work |
-| Sep 2025 | Jaarrekening and prognoses prepared without Peter's involvement | Incident #2 |
-| 22-09-2025 | Peter receives jaarrekening from accountant Klaas, not from Douwine | Incident #2 |
-| 22-09-2025 | Peter files written objection about exclusion from financial decisions | Incident #2 |
-| 29-09-2025 | Peter gives conditional approval after belated phone consultation | Financial |
-| Oct-Nov 2025 | Secret share transfer arranged to facilitate Douwine's private mortgage | Incident #1 |
-| 02-11-2025 | Douwine approaches Peter via WhatsApp only after notary intervention | Incident #1 |
-| 07-11-2025 | Freca sells 8 shares to Marlou Woltmeijer for €1.00 (straw buyer) | Ownership |
-| 05-12-2025 | Peter sends first exit proposal: €40K buyout + contractor arrangement | Negotiation |
-| 09-12-2025 | Douwine deflects, mentions "legal research," proposes January talks | Negotiation |
-| 10-12-2025 | Peter agrees to January for shares, requests KTLO confirmation pre-Christmas | Negotiation |
-| 14-12-2025 | Douwine rejects €40K, claims €190K "debt" for 1/3 of BV debts | Incident #4 |
-| 14-12-2025 | Douwine accuses Peter of "chantage" for setting boundaries | Incident #6 |
-| 14-12-2025 | Douwine unilaterally schedules meeting Dec 17 with Grady Hofstra | Incident #5 |
-| 15-12-2025 | Peter de-escalates, rejects non-neutral mediator, proposes January meeting | Negotiation |
-| 17-12-2025 | Douwine accepts January meeting, de-escalation achieved | Negotiation |
-| 07-01-2026 | Peter discovers Jaimie's 50% resignation via team meeting (hidden decision) | Incident #7 |
-| 07-01-2026 | Douwine sends belated apology for not informing Peter | Incident #7 |
-| 08-01-2026 | Peter requests meeting dates from Douwine and Grady | Negotiation |
-| 12-01-2026 | Douwine demands "concrete topics and positions" before scheduling | Negotiation |
-| 13-01-2026 | Peter provides detailed 5-point position statement | Negotiation |
-| 13-01-2026 | Peter proposes Thu Jan 15 or Fri Jan 16 at 9:00 | Negotiation |
-| 20-01-2026 | Peter sends follow-up after week of silence | Negotiation |
-| 20-01-2026 | Scheduled werkoverleg: Douwine fails to appear | Incident #8 |
-| 22-01-2026 | Douwine acknowledges delay, promises to send meeting dates | Negotiation |
-| 22-01-2026 | Peter confirms receipt, awaits dates | Negotiation |
-| 23-29 Jan 2026 | No response from Douwine; promised dates never sent | Negotiation |
-| **30-01-2026** | **RESIGNATION LETTER SENT** - effective March 1, 2026 | Exit |
-| 01-02-2026 | Douwine responds: rejects resignation date, veiled liability threats | Response |
-| 01-02-2026 | Douwine claims "afspraak 22 januari" (factually incorrect) | Response |
-| 01-02-2026 | Douwine claims to act as "aandeelhouder" (factually incorrect) | Response |
-| 02-02-2026 | Peter clarifies: resignation is unilateral, effective March 1 | Response |
-| 02-02-2026 | Peter adds Marlou to CC (actual shareholder) | Response |
-| **01-03-2026** | **Effective date of resignation as bestuurder** | Pending |
+Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter van Dinck B.V., een SaaS-platform voor kinderopvangadministratie. Sinds de oprichting van de vennootschap in maart 2024 is Peter stelselmatig buitengesloten van de besluitvorming door Douwine Koopman. Douwine hield aanvankelijk 66,7% van de aandelen via haar vennootschap Freca B.V., maar heeft deze in november 2025 overgedragen aan Marlou Woltmeijer (een stroman/werknemer). Als gevolg hiervan heeft Douwine momenteel geen aandeelhoudersstatus, maar blijft zij bestuurder en behoudt zij feitelijke zeggenschap via diverse entiteiten (Freca B.V., Voor Dag en Dou B.V.). Na mislukte onderhandelingen over een aandelenuitkoop en voortdurende uitsluiting heeft Peter op 30 januari 2026 zijn ontslag als bestuurder ingediend, met ingang van 1 maart 2026. Douwine en Marlou betwisten het ontslag, hoewel hun bezwaren juridisch ongegrond zijn aangezien ontslag als bestuurder een eenzijdige rechtshandeling is waarvoor geen instemming vereist is.
 
 ---
 
-## C. Parties Reference Table
+## B. Volledig Tijdlijn
 
-| Party | Role | Legal Status |
-|-------|------|--------------|
-| **Peter Berkenbosch / PHBX Holding B.V.** | Founder, 33.3% shareholder, (former) bestuurder | Resigning as bestuurder effective March 1, 2026; retains shareholder status |
-| **Marlou Woltmeijer** | 66.7% shareholder since November 7, 2025 | NOT party to SHA; acquired shares for €1; employee of Douwine |
-| **Douwine Koopman** | Bestuurder Dinck, de facto controller | NO shareholder status (sold via Freca); controls through various entities |
-| **Freca B.V.** | Former 66.7% shareholder, creditor (€402K RC + €64K mgmt fee) | Owned by Douwine; no longer shareholder; party to defunct SHA |
-| **Voor Dag en Dou B.V.** | Creditor (€145K payroll costs 2024) | Owned by Douwine; childcare business |
-| **Dinck B.V.** | The company | €612K debt to Douwine's entities; €6.2K ARR; Peter built the platform |
-| **Grady Hofstra** | Advisor to Douwine | Former accountant of Peter; not a neutral party |
+| Datum | Gebeurtenis | Categorie |
+|-------|-------------|-----------|
+| 28-03-2024 | Dinck B.V. opgericht; SHA getekend tussen PHBX Holding en Freca B.V. | Oprichting |
+| apr-dec 2024 | Peter: ~1.440 uur fulltime platformontwikkeling | Werkzaamheden |
+| 30-11-2024 | AVA: Managementvergoeding op nihil gesteld (expliciet als tijdelijke maatregel) - met terugwerkende kracht opgesteld document, opgesteld na aankondiging van 17 december | Financieel |
+| 17-12-2024 | Douwine stopt betaling; behandelt tijdelijke maatregel als definitief | Incident #3 |
+| jan-dec 2025 | Peter: ~1.200 uur parttime (~20-30 uur/week) ontwikkeling | Werkzaamheden |
+| sep 2025 | Jaarrekening en prognoses opgesteld zonder betrokkenheid van Peter | Incident #2 |
+| 22-09-2025 | Peter ontvangt jaarrekening van accountant Klaas, niet van Douwine | Incident #2 |
+| 22-09-2025 | Peter dient schriftelijk bezwaar in over uitsluiting van financiele besluitvorming | Incident #2 |
+| 29-09-2025 | Peter geeft voorwaardelijke goedkeuring na alsnog telefonisch overleg | Financieel |
+| okt-nov 2025 | Geheime aandelenoverdracht geregeld ten behoeve van Douwine's privehypotheek | Incident #1 |
+| 02-11-2025 | Douwine benadert Peter via WhatsApp pas na tussenkomst van de notaris | Incident #1 |
+| 07-11-2025 | Freca verkoopt 8 aandelen aan Marlou Woltmeijer voor €1,00 (stroman) | Eigendom |
+| 05-12-2025 | Peter stuurt eerste uittredingsvoorstel: €40K uitkoop + opdrachtgeversconstructie | Onderhandeling |
+| 09-12-2025 | Douwine wijkt uit, noemt "juridisch onderzoek," stelt gesprek in januari voor | Onderhandeling |
+| 10-12-2025 | Peter gaat akkoord met januari voor aandelen, vraagt bevestiging KTLO voor kerst | Onderhandeling |
+| 14-12-2025 | Douwine wijst €40K af, claimt €190K "schuld" voor 1/3 van BV-schulden | Incident #4 |
+| 14-12-2025 | Douwine beschuldigt Peter van "chantage" vanwege het stellen van grenzen | Incident #6 |
+| 14-12-2025 | Douwine plant eenzijdig vergadering op 17 december met Grady Hofstra | Incident #5 |
+| 15-12-2025 | Peter de-escaleert, wijst niet-neutrale mediator af, stelt vergadering in januari voor | Onderhandeling |
+| 17-12-2025 | Douwine accepteert vergadering in januari, de-escalatie bereikt | Onderhandeling |
+| 07-01-2026 | Peter ontdekt via teamvergadering dat Jaimie voor 50% ontslag heeft genomen (verborgen besluit) | Incident #7 |
+| 07-01-2026 | Douwine stuurt tardieve verontschuldiging dat Peter niet was geinformeerd | Incident #7 |
+| 08-01-2026 | Peter vraagt vergaderdata op bij Douwine en Grady | Onderhandeling |
+| 12-01-2026 | Douwine eist "concrete onderwerpen en standpunten" voordat zij data plant | Onderhandeling |
+| 13-01-2026 | Peter levert gedetailleerde positiebepaling in vijf punten | Onderhandeling |
+| 13-01-2026 | Peter stelt do 15 jan of vr 16 jan om 9:00 voor | Onderhandeling |
+| 20-01-2026 | Peter stuurt opvolging na een week stilte | Onderhandeling |
+| 20-01-2026 | Gepland werkoverleg: Douwine verschijnt niet | Incident #8 |
+| 22-01-2026 | Douwine erkent vertraging, belooft vergaderdata te sturen | Onderhandeling |
+| 22-01-2026 | Peter bevestigt ontvangst, wacht op data | Onderhandeling |
+| 23-29 jan 2026 | Geen reactie van Douwine; beloofde data nooit verstuurd | Onderhandeling |
+| **30-01-2026** | **ONTSLAGBRIEF VERSTUURD** - per 1 maart 2026 | Uittreding |
+| 01-02-2026 | Douwine reageert: wijst ontslagdatum af, verhulde aansprakelijkheidsdreigingen | Reactie |
+| 01-02-2026 | Douwine claimt "afspraak 22 januari" (feitelijk onjuist) | Reactie |
+| 01-02-2026 | Douwine claimt te handelen als "aandeelhouder" (feitelijk onjuist) | Reactie |
+| 02-02-2026 | Peter verduidelijkt: ontslag is eenzijdig, ingangsdatum 1 maart | Reactie |
+| 02-02-2026 | Peter voegt Marlou toe aan CC (daadwerkelijke aandeelhouder) | Reactie |
+| **01-03-2026** | **Ingangsdatum ontslag als bestuurder** | In afwachting |
 
 ---
 
-## D. Current Status (as of February 4, 2026)
+## C. Overzicht Betrokken Partijen
 
-### Resignation
-- **Letter sent**: January 30, 2026
-- **Effective date**: March 1, 2026
-- **Legal nature**: Unilateral legal act (eenzijdige rechtshandeling) - no consent required
+| Partij | Rol | Juridische Status |
+|--------|-----|-------------------|
+| **Peter Berkenbosch / PHBX Holding B.V.** | Oprichter, 33,3% aandeelhouder, (voormalig) bestuurder | Treedt af als bestuurder per 1 maart 2026; behoudt aandeelhoudersstatus |
+| **Marlou Woltmeijer** | 66,7% aandeelhouder sinds 7 november 2025 | GEEN partij bij SHA; aandelen verkregen voor €1; werknemer van Douwine |
+| **Douwine Koopman** | Bestuurder Dinck, feitelijk beleidsbepaler | GEEN aandeelhoudersstatus (verkocht via Freca); houdt zeggenschap via diverse entiteiten |
+| **Freca B.V.** | Voormalig 66,7% aandeelhouder, crediteur (€402K RC + €64K mgmt vergoeding) | Eigendom van Douwine; geen aandeelhouder meer; partij bij niet-functionerende SHA |
+| **Voor Dag en Dou B.V.** | Crediteur (€145K personeelskosten 2024) | Eigendom van Douwine; kinderopvangbedrijf |
+| **Dinck B.V.** | De vennootschap | €612K schuld aan entiteiten van Douwine; €6,2K ARR; Peter heeft het platform gebouwd |
+| **Grady Hofstra** | Adviseur van Douwine | Voormalig accountant van Peter; geen neutrale partij |
 
-### Other Party's Position
-- Douwine/Marlou: Contesting resignation date
-- Their objections are legally baseless
-- Claiming "afspraak 22 januari" that never existed
-- Making vague liability threats without legal foundation
+---
 
-### SHA Status
-- SHA between PHBX Holding and Freca B.V. is defunct
-- Marlou never signed accession agreement
-- SHA provisions (including non-compete Art. 7) not enforceable against current shareholder
+## D. Huidige Status (per 4 februari 2026)
 
-### Statutory Protection (Art. 8.6 lid 2 Statuten)
-- **Unanimity requirement**: All AVA decisions require unanimous consent
-- Peter has effective **veto power** over all shareholder decisions
-- Cannot be forced to accept unfavorable decisions
+### Ontslag als bestuurder
+- **Brief verstuurd**: 30 januari 2026
+- **Ingangsdatum**: 1 maart 2026
+- **Juridische aard**: Eenzijdige rechtshandeling - geen instemming vereist
 
-### Equity Negotiations
-- **Status**: Stalled
-- **Peter's proposal**: €40K buyout
-- **Douwine's position**: Claims shares worthless; falsely asserts €190K personal debt
+### Standpunt wederpartij
+- Douwine/Marlou: betwisten de ontslagdatum
+- Hun bezwaren zijn juridisch ongegrond
+- Beroepen zich op "afspraak 22 januari" die nooit heeft bestaan
+- Maken vage aansprakelijkheidsdreigingen zonder juridische grondslag
 
-### Platform Maintenance (KTLO)
-- Peter continuing voluntarily (no formal agreement)
-- Monthly infrastructure costs ~€150 paid by Peter
-- No commitment to development work without contractor agreement
+### Status SHA
+- SHA tussen PHBX Holding en Freca B.V. is niet-functionerend
+- Marlou heeft nooit een toetredingsovereenkomst ondertekend
+- SHA-bepalingen (waaronder non-concurrentiebeding Art. 7) niet afdwingbaar jegens huidige aandeelhouder
 
-### Financial Overview
-| Item | Amount |
+### Statutaire bescherming (Art. 8.6 lid 2 Statuten)
+- **Unanimiteitsvereiste**: Alle AVA-besluiten vereisen unanieme instemming
+- Peter heeft feitelijk **vetorecht** over alle aandeelhoudersbesluiten
+- Kan niet gedwongen worden ongunstige besluiten te accepteren
+
+### Onderhandelingen over aandelen
+- **Status**: Vastgelopen
+- **Voorstel Peter**: €40K uitkoop
+- **Standpunt Douwine**: Claimt dat aandelen waardeloos zijn; beweert ten onrechte dat Peter €190K persoonlijke schuld heeft
+
+### Platformonderhoud (KTLO)
+- Peter continueert vrijwillig (geen formele overeenkomst)
+- Maandelijkse infrastructuurkosten ~€150 betaald door Peter
+- Geen toezegging voor ontwikkelwerkzaamheden zonder opdrachtovereenkomst
+
+### Financieel overzicht
+| Post | Bedrag |
 |------|--------|
-| Company debt (to Douwine's entities) | €611,994 |
-| Annual Recurring Revenue | €6,230 |
-| Peter's invested hours (total) | ~2,600 |
-| Platform replacement value | €150K-200K |
-| Peter's labor market value | €195K-220K |
+| Schuld vennootschap (aan entiteiten van Douwine) | €611.994 |
+| Annual Recurring Revenue | €6.230 |
+| Geinvesteerde uren Peter (totaal) | ~2.600 |
+| Vervangingswaarde platform | €150K-200K |
+| Arbeidsmarktwaarde Peter | €195K-220K |
 
 ---
 
-## E. Email Correspondence Summary
+## E. Samenvatting E-mailcorrespondentie
 
-*(Summary with dates; printouts to be added separately)*
+*(Samenvatting met data; printuitdraaien worden apart toegevoegd)*
 
 ### December 2025
-| Date | From → To | Subject/Content |
-|------|-----------|-----------------|
-| 05-12-2025 | Peter → Douwine | First exit proposal (€40K + contractor) |
-| 09-12-2025 | Douwine → Peter | Deflects, mentions legal research, January talks |
-| 10-12-2025 | Peter → Douwine | Agrees January for shares, requests KTLO confirmation |
-| 14-12-2025 | Douwine → Peter | Rejects €40K, claims €190K debt, "chantage" accusation |
-| 15-12-2025 | Peter → Douwine | De-escalation, rejects non-neutral mediator |
-| 17-12-2025 | Douwine → Peter | Accepts January meeting |
+| Datum | Van → Aan | Onderwerp/Inhoud |
+|-------|-----------|------------------|
+| 05-12-2025 | Peter → Douwine | Eerste uittredingsvoorstel (€40K + opdrachtgeversconstructie) |
+| 09-12-2025 | Douwine → Peter | Wijkt uit, noemt juridisch onderzoek, gesprek in januari |
+| 10-12-2025 | Peter → Douwine | Gaat akkoord met januari voor aandelen, vraagt bevestiging KTLO |
+| 14-12-2025 | Douwine → Peter | Wijst €40K af, claimt €190K schuld, beschuldiging van "chantage" |
+| 15-12-2025 | Peter → Douwine | De-escalatie, wijst niet-neutrale mediator af |
+| 17-12-2025 | Douwine → Peter | Accepteert vergadering in januari |
 
-### January 2026
-| Date | From → To | Subject/Content |
-|------|-----------|-----------------|
-| 08-01-2026 | Peter → Douwine, Grady | Requests meeting dates |
-| 12-01-2026 | Douwine → Peter | Demands topics first |
-| 13-01-2026 | Peter → Douwine | 5-point position, proposes Jan 15/16 |
-| 20-01-2026 | Peter → Douwine, Grady | Follow-up after silence, proposes Jan 23 |
-| 22-01-2026 | Douwine → Peter | Acknowledges delay, promises dates (never sent) |
-| 22-01-2026 | Peter → Douwine | Confirms, awaits dates |
-| **30-01-2026** | **Peter → Douwine** | **RESIGNATION LETTER** |
+### Januari 2026
+| Datum | Van → Aan | Onderwerp/Inhoud |
+|-------|-----------|------------------|
+| 08-01-2026 | Peter → Douwine, Grady | Vraagt vergaderdata op |
+| 12-01-2026 | Douwine → Peter | Eist eerst onderwerpen |
+| 13-01-2026 | Peter → Douwine | Positiebepaling in 5 punten, stelt 15/16 jan voor |
+| 20-01-2026 | Peter → Douwine, Grady | Opvolging na stilte, stelt 23 jan voor |
+| 22-01-2026 | Douwine → Peter | Erkent vertraging, belooft data (nooit verstuurd) |
+| 22-01-2026 | Peter → Douwine | Bevestigt, wacht op data |
+| **30-01-2026** | **Peter → Douwine** | **ONTSLAGBRIEF** |
 
-### February 2026
-| Date | From → To | Subject/Content |
-|------|-----------|-----------------|
-| 01-02-2026 | Douwine → Peter (CC: Grady, Marlou) | Rejects date, liability threats, false claims |
-| 02-02-2026 | Peter → Douwine (CC: Marlou) | Clarifies unilateral nature, corrects false claims |
-
----
-
-## F. Eight Documented Incidents
-
-| # | Date | Category | Description |
-|---|------|----------|-------------|
-| 1 | Oct-Nov 2025 | Aandeelhouderszaken | Secret share transfer arranged; Peter only informed after notary intervention |
-| 2 | Sep 2025 | Financiële besluitvorming | Jaarrekening and prognoses prepared without Peter; received from accountant, not Douwine |
-| 3 | 17-12-2024 | Financiële beslissingen | Management fee unilaterally stopped; AVA decision was explicitly temporary |
-| 4 | 14-12-2025 | Financiële claims | False claim: PHBX owes €190K (1/3 of BV debt); legally baseless |
-| 5 | 14-12-2025 | Communicatie | Unilateral meeting scheduled with non-neutral "mediator" |
-| 6 | 14-12-2025 | Communicatie | Accusation of "chantage" for setting boundaries |
-| 7 | 07-01-2026 | Personeelszaken | Jaimie's 50% resignation hidden; discovered via team meeting |
-| 8 | 20-01-2026 | Operationeel | Non-appearance at scheduled werkoverleg |
+### Februari 2026
+| Datum | Van → Aan | Onderwerp/Inhoud |
+|-------|-----------|------------------|
+| 01-02-2026 | Douwine → Peter (CC: Grady, Marlou) | Wijst datum af, aansprakelijkheidsdreigingen, onjuiste claims |
+| 02-02-2026 | Peter → Douwine (CC: Marlou) | Verduidelijkt eenzijdig karakter, corrigeert onjuiste claims |
 
 ---
 
-## G. Key Legal Documents
+## F. Acht Gedocumenteerde Incidenten
 
-| Document | Date | Status | Location |
-|----------|------|--------|----------|
-| SHA (Aandeelhoudersovereenkomst) | 28-03-2024 | Defunct (Marlou not party) | `files/getekend-aandeelhoudersovereenkomst.pdf` |
-| Statuten Dinck B.V. | 28-03-2024 | Active | `files/Registratie_28_03_2024_Repnr_21003_Koops_Oprichting BV.pdf` |
-| Notariële akte aandelenoverdracht | 07-11-2025 | Active (analyse: `analyse/notariele-akte-analyse.md`) | `files/Registratie_07_11_2025_Repnr_24482_Koops_Levering aandelen.pdf` |
-| Overeenkomst van geldlening | 28-03-2024 | Active | `files/getekend-overeenkomst-van-geldlening.pdf` |
-| Addendum geldlening | Dec 2024 | Active | `files/Getekend Addendum overeenkomst van geldlening tussen Freca B.V. en Dinc B.V..pdf` |
-| AVA notulen (mgmt fee nihil) | 30-11-2024 | Active | `files/Getekende notulen wijzigen managementovereenkomst.pdf` |
+| # | Datum | Categorie | Omschrijving |
+|---|-------|-----------|--------------|
+| 1 | okt-nov 2025 | Aandeelhouderszaken | Geheime aandelenoverdracht geregeld; Peter pas geinformeerd na tussenkomst notaris |
+| 2 | sep 2025 | Financiele besluitvorming | Jaarrekening en prognoses opgesteld zonder Peter; ontvangen van accountant, niet van Douwine |
+| 3 | 17-12-2024 | Financiele beslissingen | Managementvergoeding eenzijdig stopgezet; AVA-besluit was uitdrukkelijk tijdelijk |
+| 4 | 14-12-2025 | Financiele claims | Onjuiste claim: PHBX is €190K verschuldigd (1/3 van BV-schuld); juridisch ongegrond |
+| 5 | 14-12-2025 | Communicatie | Eenzijdig geplande vergadering met niet-neutrale "mediator" |
+| 6 | 14-12-2025 | Communicatie | Beschuldiging van "chantage" vanwege het stellen van grenzen |
+| 7 | 07-01-2026 | Personeelszaken | Ontslag Jaimie voor 50% verborgen gehouden; ontdekt via teamvergadering |
+| 8 | 20-01-2026 | Operationeel | Niet-verschijnen bij gepland werkoverleg |
+
+---
+
+## G. Belangrijke Juridische Documenten
+
+| Document | Datum | Status | Locatie |
+|----------|-------|--------|---------|
+| SHA (Aandeelhoudersovereenkomst) | 28-03-2024 | Niet-functionerend (Marlou geen partij) | `files/getekend-aandeelhoudersovereenkomst.pdf` |
+| Statuten Dinck B.V. | 28-03-2024 | Actief | `files/Registratie_28_03_2024_Repnr_21003_Koops_Oprichting BV.pdf` |
+| Notariele akte aandelenoverdracht | 07-11-2025 | Actief (analyse: `analyse/notariele-akte-analyse.md`) | `files/Registratie_07_11_2025_Repnr_24482_Koops_Levering aandelen.pdf` |
+| Overeenkomst van geldlening | 28-03-2024 | Actief | `files/getekend-overeenkomst-van-geldlening.pdf` |
+| Addendum geldlening | dec 2024 | Actief | `files/Getekend Addendum overeenkomst van geldlening tussen Freca B.V. en Dinc B.V..pdf` |
+| AVA notulen (mgmt vergoeding nihil) | 30-11-2024 | Actief | `files/Getekende notulen wijzigen managementovereenkomst.pdf` |
 | KvK uittreksel | 01-02-2026 | Bewaard als bewijs | `files/01-02-2026_KVK_uittreksel_UBO-93428359.pdf` |
-| Resignation letter + response | 30-01/02-02-2026 | Sent | `files/Inbox – Neerlegging functie bestuurder Dinck B.V. per 1 maart 2026.pdf` |
-| Douwine email thread | Feb 2026 | On file | `files/email-Douwine-Dinck.pdf` |
+| Ontslagbrief + reactie | 30-01/02-02-2026 | Verstuurd | `files/Inbox – Neerlegging functie bestuurder Dinck B.V. per 1 maart 2026.pdf` |
+| E-mailthread Douwine | feb 2026 | In dossier | `files/email-Douwine-Dinck.pdf` |
 
 ---
 
-## H. Next Steps
+## H. Vervolgstappen
 
-### Before March 1, 2026
-- [ ] Legal consultation (this document)
-- [ ] Preserve KvK extract as evidence
-- [ ] Prepare KvK deregistration (form 17a)
-- [ ] Document KTLO scope if needed
+### Voor 1 maart 2026
+- [ ] Juridisch consult (dit document)
+- [ ] KvK-uittreksel bewaren als bewijs
+- [ ] Uitschrijving bij KvK voorbereiden (formulier 17a)
+- [ ] KTLO-scope documenteren indien nodig
 
-### On/After March 1, 2026
-- [ ] Submit KvK deregistration
-- [ ] Confirm no longer bestuurder
-- [ ] Exercise Art. 2:217 BW information rights
-- [ ] Invoice infrastructure costs to Dinck
-- [ ] Assess legal options if negotiations remain stalled
+### Op/na 1 maart 2026
+- [ ] Uitschrijving indienen bij KvK
+- [ ] Bevestiging dat bestuurderschap is beeindigd
+- [ ] Informatierechten uitoefenen op grond van Art. 2:217 BW
+- [ ] Infrastructuurkosten factureren aan Dinck
+- [ ] Juridische opties beoordelen indien onderhandelingen vastgelopen blijven

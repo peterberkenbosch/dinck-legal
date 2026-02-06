@@ -1,175 +1,175 @@
-# Legal Consultation Questions - Dinck B.V. Exit
+# Vragen voor Juridisch Consult - Uittreding Dinck B.V.
 
-**Prepared for**: Legal consultation
-**Date**: February 4, 2026
-**Client**: Peter Berkenbosch / PHBX Holding B.V.
-
----
-
-## Category A: Resignation Validity & Process
-
-### A1. Effectiveness of Resignation
-Is my unilateral resignation as bestuurder legally effective on March 1, 2026, given that Douwine/Marlou state they "cannot agree" with this date?
-
-### A2. Required Formalities
-What formalities are required for my resignation to be complete? Is a notarial deed required, or is my written notification sufficient?
-
-### A3. Blocking Attempts
-Can Douwine/Marlou legally block or delay my resignation? They claim they "kan en zal niet instemmen met uitschrijving per 1 maart 2026."
-
-### A4. KvK Deregistration
-What if they refuse to cooperate with KvK deregistration? Can I deregister myself? What is the process?
-
-### A5. Unanimity Requirement for Resignation
-The statutes (Art. 8.6 lid 2) require unanimous AVA decisions. Does this apply to my voluntary resignation, or only to dismissal by the AVA?
+**Opgesteld voor**: Juridisch consult
+**Datum**: 4 februari 2026
+**Cliënt**: Peter Berkenbosch / PHBX Holding B.V.
 
 ---
 
-## Category B: Shareholder Agreement Status
+## Categorie A: Geldigheid & Proces van Aftreden
 
-### B1. SHA Defunct Status
-Is the SHA now legally defunct since:
-- Freca B.V. (original party) is no longer a shareholder
-- Marlou Woltmeijer (current 66.7% shareholder) never signed an accession agreement
+### A1. Rechtsgeldigheid van het Aftreden
+Is mijn eenzijdige aftreden als bestuurder rechtsgeldig per 1 maart 2026, gegeven dat Douwine/Marlou stellen dat zij het "niet eens kunnen zijn" met deze datum?
 
-### B2. Invocation Against Peter
-Can Freca or Douwine still invoke SHA provisions against me, even though they are no longer shareholders?
+### A2. Vereiste Formaliteiten
+Welke formaliteiten zijn vereist om mijn aftreden rechtsgeldig te voltooien? Is een notariële akte vereist, of volstaat mijn schriftelijke kennisgeving?
 
-### B3. Non-Compete Clause
-Can the non-compete clause (Art. 7 SHA, 3 years after share transfer) be enforced if I sell my shares? Against whom would it be enforceable?
+### A3. Blokkeringspogingen
+Kunnen Douwine/Marlou mijn aftreden juridisch blokkeren of vertragen? Zij stellen dat zij "kan en zal niet instemmen met uitschrijving per 1 maart 2026."
 
-### B4. Buy-Back Rights
-Can the buy-back rights (Art. 3.1.h SHA - kooprecht bij ontslag bestuurder) be enforced? By whom?
+### A4. KvK-uitschrijving
+Wat als zij weigeren mee te werken aan de KvK-uitschrijving? Kan ik mijzelf uitschrijven? Wat is de procedure?
 
-### B5. Marlou's Position
-What is my position if Marlou later claims ignorance of my exit proposal or the negotiations? She was added to CC only on February 2, 2026.
+### A5. Unanimiteitsvereiste bij Aftreden
+De statuten (Art. 8.6 lid 2) vereisen unanimiteit bij AVA-besluiten. Geldt dit ook voor mijn vrijwillig aftreden, of uitsluitend voor ontslag door de AVA?
 
 ---
 
-## Category C: Minority Shareholder Rights & Veto Power
+## Categorie B: Status Aandeelhoudersovereenkomst
 
-### C1. Veto Power Scope
-Does Art. 8.6 lid 2 of the statutes (unanimity requirement for all AVA decisions) give me effective veto power? How strong is this protection?
+### B1. SHA Niet Meer van Kracht
+Is de SHA nu juridisch niet meer van kracht, aangezien:
+- Freca B.V. (oorspronkelijke partij) geen aandeelhouder meer is
+- Marlou Woltmeijer (huidige 66,7% aandeelhouder) nooit een toetredingsovereenkomst heeft ondertekend
 
-### C2. Decisions I Can Block
-What specific decisions can I block as 33.3% minority shareholder? The statutes state "alle besluiten worden unaniem genomen."
+### B2. Inroepen Tegen Peter
+Kunnen Freca of Douwine nog SHA-bepalingen tegen mij inroepen, ook al zijn zij geen aandeelhouder meer?
 
-### C3. Actions Without Consent
-What happens if Douwine/Marlou try to act without my consent? What are my remedies?
+### B3. Concurrentiebeding
+Kan het concurrentiebeding (Art. 7 SHA, 3 jaar na aandelenoverdracht) worden gehandhaafd als ik mijn aandelen verkoop? Tegen wie zou het afdwingbaar zijn?
 
-### C4. Statute Amendment
-Can they amend the statutes to remove the unanimity requirement? Would this require my consent?
+### B4. Kooprechten
+Kunnen de kooprechten (Art. 3.1.h SHA - kooprecht bij ontslag bestuurder) worden afgedwongen? Door wie?
 
-### C5. Information Rights
-What are my Art. 2:217 BW information rights as shareholder, and how do I enforce them if Douwine refuses to provide information?
-
----
-
-## Category D: Exit Procedures
-
-### D1. Art. 2:343 BW Process
-What is the process for Art. 2:343 BW (gedwongen uittreding / geschillenregeling)? What court handles this?
-
-### D2. Grounds Sufficiency
-Do my 8 documented incidents of structural exclusion constitute sufficient grounds for Art. 2:343 BW? The law requires "gedragingen van mede-aandeelhouders zodanig dat in redelijkheid niet kan worden gevergd dat je aandeelhouder blijft."
-
-### D3. Costs and Timeline
-What costs and timeline should I expect for an Art. 2:343 BW procedure?
-
-### D4. Enquêteprocedure Alternative
-Should I pursue Art. 2:345 BW (enquêteprocedure) instead of or in addition to Art. 2:343 BW? What are the strategic considerations?
-
-### D5. Statutory Price Determination
-Can I initiate the statutory price determination procedure (Art. 6.2 lid 6 statuten - 3 independent appraisers) unilaterally? What triggers this?
-
-### D6. Realistic Valuation
-What is the realistic value of my 33.3% stake given:
-- Company has €612K debt (to Douwine's entities)
-- ARR is only €6.2K
-- Platform replacement value is €150K-200K
-- My invested labor value is €195K-220K
+### B5. Positie van Marlou
+Wat is mijn positie als Marlou later beweert niet op de hoogte te zijn geweest van mijn uittredingsvoorstel of de onderhandelingen? Zij is pas op 2 februari 2026 in de CC opgenomen.
 
 ---
 
-## Category E: Liability & Risk Assessment
+## Categorie C: Rechten Minderheidsaandeelhouder & Vetorecht
 
-### E1. Bestuurdersaansprakelijkheid Exposure
-What is my exposure to bestuurdersaansprakelijkheid (Art. 2:9 BW, Art. 2:248 BW) given that I was systematically excluded from decision-making?
+### C1. Reikwijdte Vetorecht
+Geeft Art. 8.6 lid 2 van de statuten (unanimiteitsvereiste voor alle AVA-besluiten) mij effectief vetorecht? Hoe sterk is deze bescherming?
 
-### E2. Debt Claim
-Douwine claims I am personally liable for 1/3 of the €612K company debt (~€204K). Is there any legal basis for this?
+### C2. Besluiten die ik Kan Blokkeren
+Welke specifieke besluiten kan ik blokkeren als 33,3% minderheidsaandeelhouder? De statuten bepalen dat "alle besluiten worden unaniem genomen."
 
-### E3. Vague Threats
-Does Douwine's statement "verantwoordelijkheden of aansprakelijkheden verdwijnen niet" have any legal basis? She provides no specific grounds.
+### C3. Handelen Zonder Instemming
+Wat gebeurt er als Douwine/Marlou zonder mijn instemming handelen? Welke rechtsmiddelen heb ik?
 
-### E4. Platform Liability
-What is my liability if the platform fails after I stop maintaining it (post-resignation)? Is there any duty to continue?
+### C4. Statutenwijziging
+Kunnen zij de statuten wijzigen om het unanimiteitsvereiste te schrappen? Zou dat mijn instemming vereisen?
 
-### E5. KTLO Formalization
-Should I formalize the KTLO (keep-the-lights-on) scope in writing to limit my exposure? Currently I am maintaining voluntarily with no agreement.
-
----
-
-## Category F: Immediate Actions & Strategy
-
-### F1. Actions Before March 1
-What should I do between now and March 1, 2026? Any specific steps to protect my position?
-
-### F2. Continue KTLO
-Should I continue KTLO maintenance without a formal agreement? What are the risks?
-
-### F3. Preserve Leverage
-How do I preserve negotiation leverage while minimizing personal risk?
-
-### F4. Proactive KvK Registration
-Should I proactively register my resignation at KvK, or wait for them to cooperate?
-
-### F5. Documentation Preservation
-What documentation should I preserve now for potential litigation? Is my current dossier sufficient?
-
-### F6. Proactive Legal Action
-Is there a strategic advantage to initiating Art. 2:343 BW proceedings proactively, rather than waiting for the situation to deteriorate further?
+### C5. Informatierechten
+Wat zijn mijn informatierechten op grond van Art. 2:217 BW als aandeelhouder, en hoe kan ik deze afdwingen als Douwine weigert informatie te verstrekken?
 
 ---
 
-## Category G: Negotiation Position
+## Categorie D: Uittredingsprocedures
 
-### G1. Buyout Proposal Reasonableness
-Is my €40K buyout proposal reasonable given:
-- Platform value €150K-200K (1/3 = €50K-67K)
-- Company debt €612K (but to Douwine's own entities)
+### D1. Procedure Art. 2:343 BW
+Wat is de procedure voor Art. 2:343 BW (gedwongen uittreding / geschillenregeling)? Welke rechter is bevoegd?
+
+### D2. Toereikendheid van de Gronden
+Vormen mijn 8 gedocumenteerde incidenten van structurele uitsluiting voldoende gronden voor Art. 2:343 BW? De wet vereist "gedragingen van mede-aandeelhouders zodanig dat in redelijkheid niet kan worden gevergd dat je aandeelhouder blijft."
+
+### D3. Kosten en Doorlooptijd
+Welke kosten en doorlooptijd moet ik verwachten bij een Art. 2:343 BW-procedure?
+
+### D4. Enquêteprocedure als Alternatief
+Moet ik Art. 2:345 BW (enquêteprocedure) nastreven in plaats van of naast Art. 2:343 BW? Wat zijn de strategische overwegingen?
+
+### D5. Statutaire Prijsbepaling
+Kan ik eenzijdig de statutaire prijsbepalingsprocedure initiëren (Art. 6.2 lid 6 statuten - 3 onafhankelijke deskundigen)? Wat zijn de voorwaarden?
+
+### D6. Realistische Waardering
+Wat is de realistische waarde van mijn 33,3% belang, gegeven:
+- De vennootschap heeft €612K schuld (aan entiteiten van Douwine)
+- ARR bedraagt slechts €6.2K
+- Vervangingswaarde platform is €150K-200K
+- Waarde van mijn geïnvesteerde arbeid is €195K-220K
+
+---
+
+## Categorie E: Aansprakelijkheid & Risicobeoordeling
+
+### E1. Blootstelling aan Bestuurdersaansprakelijkheid
+Wat is mijn blootstelling aan bestuurdersaansprakelijkheid (Art. 2:9 BW, Art. 2:248 BW), gegeven dat ik stelselmatig werd buitengesloten van besluitvorming?
+
+### E2. Schuldvordering
+Douwine stelt dat ik persoonlijk aansprakelijk ben voor 1/3 van de €612K vennootschapsschuld (~€204K). Is hier enige juridische grondslag voor?
+
+### E3. Vage Dreigementen
+Heeft de uitspraak van Douwine "verantwoordelijkheden of aansprakelijkheden verdwijnen niet" enige juridische grondslag? Zij geeft geen specifieke gronden aan.
+
+### E4. Platformaansprakelijkheid
+Wat is mijn aansprakelijkheid als het platform uitvalt nadat ik het niet meer onderhoud (na aftreden)? Is er enige plicht om door te gaan?
+
+### E5. Formalisering KTLO
+Moet ik de KTLO-scope (keep-the-lights-on) schriftelijk formaliseren om mijn blootstelling te beperken? Op dit moment onderhoud ik vrijwillig zonder enige overeenkomst.
+
+---
+
+## Categorie F: Directe Acties & Strategie
+
+### F1. Acties voor 1 Maart
+Wat moet ik doen tussen nu en 1 maart 2026? Zijn er specifieke stappen om mijn positie te beschermen?
+
+### F2. KTLO Voortzetten
+Moet ik het KTLO-onderhoud voortzetten zonder formele overeenkomst? Wat zijn de risico's?
+
+### F3. Onderhandelingspositie Behouden
+Hoe behoud ik mijn onderhandelingspositie en minimaliseer ik tegelijkertijd mijn persoonlijke risico?
+
+### F4. Proactieve KvK-inschrijving
+Moet ik proactief mijn aftreden bij de KvK registreren, of wachten tot zij meewerken?
+
+### F5. Bewaren van Documentatie
+Welke documentatie moet ik nu bewaren voor eventuele procedures? Is mijn huidige dossier toereikend?
+
+### F6. Proactieve Juridische Actie
+Is er een strategisch voordeel om Art. 2:343 BW-procedures proactief te initiëren, in plaats van te wachten tot de situatie verder verslechtert?
+
+---
+
+## Categorie G: Onderhandelingspositie
+
+### G1. Redelijkheid Uitkoopvoorstel
+Is mijn uitkoopvoorstel van €40K redelijk, gegeven:
+- Platformwaarde €150K-200K (1/3 = €50K-67K)
+- Vennootschapsschuld €612K (maar aan entiteiten van Douwine zelf)
 - ARR €6.2K (3-5x = €18K-31K, 1/3 = €6K-10K)
-- My invested labor €195K-220K
+- Mijn geïnvesteerde arbeid €195K-220K
 
-### G2. Actual Leverage
-What leverage do I actually have as minority shareholder with veto power but no operational control?
+### G2. Werkelijke Onderhandelingskracht
+Welke onderhandelingskracht heb ik feitelijk als minderheidsaandeelhouder met vetorecht maar zonder operationele controle?
 
-### G3. Future Communications
-How should I respond to future communications from Douwine/Marlou? Should I continue direct communication?
+### G3. Toekomstige Communicatie
+Hoe moet ik reageren op toekomstige communicatie van Douwine/Marlou? Moet ik de directe communicatie voortzetten?
 
-### G4. Lawyer Communication
-Should all communication go through a lawyer from this point forward?
-
----
-
-## Specific Factual Clarifications Needed
-
-1. **The "22 January Agreement"**: Douwine claims we made an explicit agreement on January 22 to schedule a meeting. In reality, on that date she acknowledged her delay and promised to send dates (which she never did). How do I counter this narrative if it becomes relevant?
-
-2. **Douwine's "Aandeelhouder" Claim**: In her February 1 email, Douwine claims to act as "aandeelhouder." Freca sold to Marlou on November 7, 2025. Should I formally challenge this false representation?
-
-3. **Conflict of Interest**: Douwine explicitly states she acts "vanuit mijn positie als financier van Dinck B.V." while also being bestuurder. Is this conflict of interest actionable?
-
-4. **Marlou's Knowledge**: Marlou was not informed about my exit proposal until February 2, 2026 (when I added her to CC). What implications does this have for her position as majority shareholder?
+### G4. Communicatie via Advocaat
+Moet alle communicatie vanaf dit punt via een advocaat verlopen?
 
 ---
 
-## Documents Available for Review
+## Specifieke Feitelijke Verduidelijkingen Benodigd
+
+1. **De "afspraak van 22 januari"**: Douwine stelt dat wij op 22 januari een expliciete afspraak hebben gemaakt om een bijeenkomst te plannen. In werkelijkheid erkende zij op die datum haar vertraging en beloofde zij data te sturen (wat zij nooit heeft gedaan). Hoe weerleg ik dit narratief als het relevant wordt?
+
+2. **Douwines claim als "aandeelhouder"**: In haar e-mail van 1 februari claimt Douwine te handelen als "aandeelhouder." Freca heeft op 7 november 2025 verkocht aan Marlou. Moet ik deze onjuiste vertegenwoordiging formeel betwisten?
+
+3. **Tegenstrijdig belang**: Douwine stelt expliciet dat zij handelt "vanuit mijn positie als financier van Dinck B.V." terwijl zij ook bestuurder is. Is dit tegenstrijdig belang juridisch aanvechtbaar?
+
+4. **Kennis van Marlou**: Marlou was niet geïnformeerd over mijn uittredingsvoorstel tot 2 februari 2026 (toen ik haar in de CC opnam). Welke implicaties heeft dit voor haar positie als meerderheidsaandeelhouder?
+
+---
+
+## Beschikbare Documenten voor Beoordeling
 
 - Aandeelhoudersovereenkomst (SHA) - 28 maart 2024
 - Statuten Dinck B.V. - 28 maart 2024
-- Complete email correspondence (December 2025 - February 2026)
-- Incident register (8 documented incidents)
+- Volledige e-mailcorrespondentie (december 2025 - februari 2026)
+- Incidentenregister (8 gedocumenteerde incidenten)
 - AVA notulen 30 november 2024
-- Resignation letter and response
-- Financial overview Dinck B.V.
+- Ontslagbrief en reactie daarop
+- Financieel overzicht Dinck B.V.
