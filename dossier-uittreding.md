@@ -35,6 +35,42 @@
 - RC Freca: formele leningsovereenkomst met specifieke voorwaarden
 - Overige posten: handelscrediteuren — ander juridisch regime
 
+### 1.6 Leningsovereenkomst Freca → Dinck
+
+**Volledige analyse**: `analyse/geldlening-analyse.md`
+
+**Oorspronkelijk (28 maart 2024)**:
+- Maximaal €120.000, 10 jaar looptijd (tot 28 maart 2034), 5% rente
+- Lineaire aflossing €12.000/jaar, eerste betaling 28 maart 2025
+
+**Addendum (31 december 2024)**:
+- Maximum verhoogd naar **€500.000**
+- Saldo bij tekening: **€388.605**
+- Eerste aflossing uitgesteld naar **28 maart 2026**
+- Aflossing: 1/9e van uitstaand bedrag per jaar
+
+**Kritieke opeisbaarheidsgronden (Art. 7)**:
+- Art. 7.1.g: "staking of beeindiging van de bedrijfsuitoefening" → directe opeisbaarheid
+- Art. 7.2: Freca kan de lening op **elk moment** opeisen met 3 maanden opzegtermijn, zonder reden
+- Art. 6: Dinck moet zekerheid verstrekken op eerste verzoek van Freca
+
+**Eerste aflossing 28 maart 2026**: ~€55-68K. Dinck kan dit niet betalen (ARR €6.2K). Default leidt tot opeisbaarheid volledige lening.
+
+**Timing addendum**: Peter tekende 14 dagen nadat zijn management fee eenzijdig was stopgezet (17 dec 2024). Verzwakte onderhandelingspositie.
+
+### 1.7 Managementovereenkomsten
+
+**Volledige analyse**: `analyse/managementovereenkomst-analyse.md`
+
+Beide managementovereenkomsten (PHBX en Freca, 28 maart 2024) zijn identiek:
+- €8.000/maand, fulltime beschikbaarheid, onbepaalde tijd, 3 maanden opzegtermijn
+- **Art. 3.1 gelijke behandeling**: "Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders"
+- **Art. 4.2 vrijwaring**: Dinck vrijwaart de moedervennootschap voor schadeclaims derden
+
+**AVA 30 november 2024**: Alleen PHBX's fee op nihil gesteld. Freca's fee als vordering op balans geboekt. Dit schendt de gelijke behandelingsclausule.
+
+**Status**: De managementovereenkomst is **niet formeel opgezegd** — alleen de fee is gewijzigd. Alle rechten en plichten (incl. vrijwaring) lopen door.
+
 ### 1.4 Peters Investering
 
 | Periode | Uren | Beschrijving |
@@ -131,11 +167,29 @@ Rabobank weigerde Douwine privé hypotheek vanwege schuldpositie Dinck. Oplossin
 | SHA-binding | GEEN |
 | Positie | Stroman voor hypotheekconstructie |
 
-### 3.4 Openstaande Vragen
+### 3.4 Bevindingen Notariële Akte (verkregen 6 feb 2026)
+
+**Bron**: `files/Registratie_07_11_2025_Repnr_24482_Koops_Levering aandelen.pdf`
+**Volledige analyse**: `analyse/notariele-akte-analyse.md`
+
+| Bevinding | Detail |
+|-----------|--------|
+| Koopprijs | €1,00 bevestigd |
+| Koopovereenkomst | **Mondeling** - geen schriftelijk contract |
+| Terugkoop €1,50 | **NIET in akte** - puur mondelinge side-deal |
+| Voorkeursrecht PHBX | Afstand gedaan, maar UITSLUITEND voor deze levering + mogelijke teruglevering Marlou → Freca |
+| SHA-verwijzing | Geen - bevestigt dat Marlou niet tot SHA is toegetreden |
+| Peters rol | Dubbele handtekening: namens PHBX Holding EN namens Dinck B.V. |
+| Ontbindingsrechten | Alle partijen doen afstand |
+
+**Kritiek**: De afgesproken terugkoop (€1,50 aan Freca) staat niet in de notariële akte. Art. 12 stelt dat "de mondelinge overeenkomst gelijk is aan de uitwerking in deze akte." De terugkoopafspraak is dus een onbewezen mondelinge bijafspraak.
+
+### 3.5 Openstaande Vragen
 
 - [ ] Is terugkoop door Freca al uitgevoerd? (KvK toont nog Marlou)
-- [ ] Getekende notariële akte opvragen
-- [ ] Wat staat er exact over terugkoopverplichting?
+- [x] ~~Getekende notariële akte opvragen~~ (verkregen 6 feb 2026)
+- [ ] Kan de mondelinge terugkoopafspraak worden bewezen?
+- [ ] Herleeft het voorkeursrecht als Marlou aan een derde overdraagt?
 
 ---
 
@@ -345,8 +399,8 @@ Kort, zakelijk, zonder hooks:
 
 ### Voor 1 maart 2026
 
-- [ ] Getekende notariële akte opvragen bij notaris
-- [ ] KvK uittreksel bewaren als bewijs huidige situatie
+- [x] Getekende notariële akte verkregen (6 feb 2026) - zie `analyse/notariele-akte-analyse.md`
+- [x] KvK uittreksel bewaard (1 feb 2026) - zie `files/01-02-2026_KVK_uittreksel_UBO-93428359.pdf`
 - [ ] KvK-uitschrijving voorbereiden (formulier 17a)
 - [ ] KTLO-scope document delen indien nodig
 - [ ] Gesprek met adviseurs (indien gepland)

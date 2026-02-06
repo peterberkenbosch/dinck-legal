@@ -167,11 +167,15 @@ Peter Berkenbosch, through PHBX Holding B.V., is a 33.3% shareholder and co-foun
 
 | Document | Date | Status | Location |
 |----------|------|--------|----------|
-| SHA (Aandeelhoudersovereenkomst) | 28-03-2024 | Defunct (Marlou not party) | On file |
-| Statuten Dinck B.V. | 28-03-2024 | Active | On file |
-| Notariële akte aandelenoverdracht | 07-11-2025 | Active | On file |
-| Resignation letter | 30-01-2026 | Sent | On file |
-| Peter's clarification response | 02-02-2026 | Sent | On file |
+| SHA (Aandeelhoudersovereenkomst) | 28-03-2024 | Defunct (Marlou not party) | `files/getekend-aandeelhoudersovereenkomst.pdf` |
+| Statuten Dinck B.V. | 28-03-2024 | Active | `files/Registratie_28_03_2024_Repnr_21003_Koops_Oprichting BV.pdf` |
+| Notariële akte aandelenoverdracht | 07-11-2025 | Active (analyse: `analyse/notariele-akte-analyse.md`) | `files/Registratie_07_11_2025_Repnr_24482_Koops_Levering aandelen.pdf` |
+| Overeenkomst van geldlening | 28-03-2024 | Active | `files/getekend-overeenkomst-van-geldlening.pdf` |
+| Addendum geldlening | Dec 2024 | Active | `files/Getekend Addendum overeenkomst van geldlening tussen Freca B.V. en Dinc B.V..pdf` |
+| AVA notulen (mgmt fee nihil) | 30-11-2024 | Active | `files/Getekende notulen wijzigen managementovereenkomst.pdf` |
+| KvK uittreksel | 01-02-2026 | Bewaard als bewijs | `files/01-02-2026_KVK_uittreksel_UBO-93428359.pdf` |
+| Resignation letter + response | 30-01/02-02-2026 | Sent | `files/Inbox – Neerlegging functie bestuurder Dinck B.V. per 1 maart 2026.pdf` |
+| Douwine email thread | Feb 2026 | On file | `files/email-Douwine-Dinck.pdf` |
 
 ---
 

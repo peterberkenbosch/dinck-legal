@@ -8,6 +8,7 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 - `dossier-uittreding.md` - Hoofddossier met alle informatie
 - `juridische-analyse.md` - Juridische positie en opties
 - `incident-register.md` - Gedocumenteerde incidenten (art. 2:343 BW)
+- `legal-preparedness-assessment.md` - Strategische beoordeling en actiepunten voor advocaat (6 feb 2026)
 
 ### Correspondentie
 - `correspondentie/` - Alle e-mailwisselingen
@@ -22,6 +23,24 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 - `analyse/sha-analyse.md` - Aandeelhoudersovereenkomst analyse
 - `analyse/statuten-analyse.md` - Statuten analyse
 - `analyse/strategische-opties.md` - Strategische opties en scenario's
+- `analyse/notariele-akte-analyse.md` - Analyse notariële akte aandelenoverdracht (6 feb 2026)
+- `analyse/geldlening-analyse.md` - Analyse overeenkomst van geldlening + addendum (6 feb 2026)
+- `analyse/managementovereenkomst-analyse.md` - Analyse managementovereenkomsten + AVA notulen (6 feb 2026)
+- `analyse/correspondentie-analyse.md` - Analyse e-mail correspondentie met geverifieerde tijdlijn (6 feb 2026)
+
+### Bronbestanden
+- `files/` - Originele juridische documenten (PDF)
+  - `Registratie_07_11_2025_Repnr_24482_Koops_Levering aandelen.pdf` - Notariële akte aandelenoverdracht
+  - `Registratie_28_03_2024_Repnr_21003_Koops_Oprichting BV.pdf` - Oprichtingsakte
+  - `getekend-aandeelhoudersovereenkomst.pdf` - SHA
+  - `getekend-managementovereenkomst-phbx.pdf` - Management overeenkomst PHBX
+  - `getekend-managementovereenkomst-freca.pdf` - Management overeenkomst Freca
+  - `getekend-overeenkomst-van-geldlening.pdf` - Leningsovereenkomst
+  - `Getekend Addendum overeenkomst van geldlening tussen Freca B.V. en Dinc B.V..pdf` - Addendum lening
+  - `Getekende notulen wijzigen managementovereenkomst.pdf` - AVA notulen 30 nov 2024
+  - `01-02-2026_KVK_uittreksel_UBO-93428359.pdf` - KvK uittreksel (bewaard als bewijs)
+  - `email-Douwine-Dinck.pdf` - E-mail correspondentie
+  - `Inbox – Neerlegging functie bestuurder Dinck B.V. per 1 maart 2026.pdf` - E-mail ontslagbrief
 
 ### Artifacts (Word documenten)
 - `artifacts/Dossier_Uittreding_Dinck_BV.docx` - Volledig uittreding dossier
@@ -36,9 +55,10 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 
 | Datum | Gebeurtenis |
 |-------|-------------|
-| 28-03-2024 | Oprichting Dinck B.V., SHA getekend |
-| 30-11-2024 | AVA: Management fee op nihil gesteld |
+| 28-03-2024 | Oprichting Dinck B.V., SHA getekend, leningsovereenkomst (max €120K), managementovereenkomsten |
+| 30-11-2024 | AVA: Management fee PHBX op nihil gesteld (tijdelijk) |
 | 17-12-2024 | Eenzijdige stopzetting management fee door Douwine |
+| 31-12-2024 | Addendum leningsovereenkomst: maximum verhoogd naar €500K (saldo €388.605) |
 | 07-11-2025 | Aandelen Freca → Marlou Woltmeijer (stromanconstructie) |
 | 05-12-2025 | Eerste voorstel Peter: €40K uitkoop |
 | 30-01-2026 | Ontslagbrief bestuurder verzonden |
@@ -57,6 +77,13 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 ## Status
 
 - [x] Ontslagbrief verzonden (30 jan 2026)
+- [x] Reactie op Douwine's bezwaren verzonden (2 feb 2026, Marlou in CC)
+- [x] Strategische beoordeling opgesteld (6 feb 2026)
+- [ ] **URGENT: Stop onbetaalde feature development** - alleen KTLO vanaf nu
+- [ ] **URGENT: D&O verzekering checken**
+- [ ] Onbetaalde werkuren documenteren (jan 2025 - heden)
+- [x] Notariele akte aandelenoverdracht verkregen (6 feb 2026)
+- [x] KvK uittreksel bewaard (1 feb 2026)
+- [ ] Gesprek met advocaat
 - [ ] Uitschrijving KvK (na 1 maart 2026)
-- [ ] Gesprek met adviseurs
 - [ ] Definitieve afwikkeling aandelenkwestie

@@ -118,21 +118,26 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 
 **Argument**: Overdracht Freca → Marlou was geen echte overdracht maar schijnhandeling t.b.v. hypotheek Douwine.
 
-**Indicaties**:
-- Koopprijs €1 (niet marktconform)
-- Afgesproken terugkoop €1,50 (al voor overdracht)
+**Indicaties (bevestigd door notariële akte d.d. 7 nov 2025)**:
+- Koopprijs €1 (bevestigd in akte Art. 2.1)
+- Koopovereenkomst was **mondeling** - geen schriftelijk contract
+- Afgesproken terugkoop €1,50 staat **NIET** in akte (puur mondelinge side-deal)
+- Akte spreekt zelf van "mogelijke teruglevering" (Art. 3.2) - bevestigt dat terugkoop was voorzien
 - Doel: UBO-wijziging voor hypotheek
-- Marlou = vriendin + medewerker Douwine
+- Marlou = vriendin + medewerker Douwine, koopt op persoonlijke titel
 - Douwine blijft feitelijk controleren
+- Minimale garanties (Art. 4.4: "geen verdere garanties")
 
-**Probleem**: Jij hebt meegetekend en afstand gedaan van voorkeursrecht.
+**Probleem**: Peter heeft meegetekend in dubbele hoedanigheid (PHBX Holding + Dinck B.V.) en afstand gedaan van voorkeursrecht.
 
 **Maar**:
-- Je gaf afstand "uitsluitend voor deze levering en mogelijke teruglevering"
-- Je was niet volledig geïnformeerd over de reden
-- Je handelde onder tijdsdruk
+- Afstand was beperkt: "uitsluitend voor deze levering en mogelijke teruglevering" - herleeft bij overdracht aan derden
+- Peter was niet volledig geïnformeerd over het werkelijke doel (hypotheekconstructie)
+- Peter handelde onder tijdsdruk (notaris nam initiatief tot contact)
 
-**Risico**: Onzeker, kan terugslaan.
+**Risico**: Onzeker, kan terugslaan. Afstand van ontbindingsrechten in akte (Art. 10/11) bemoeilijkt terugdraaien.
+
+**Zie**: `analyse/notariele-akte-analyse.md` voor volledige analyse.
 
 ### D. Formele Positie Innemen
 
@@ -278,11 +283,67 @@ De dreiging van een enquêteprocedure is vaak krachtiger dan het daadwerkelijk s
 
 ---
 
-## 8. Directe Acties
+## 8. Leningsovereenkomst - Risico's en Kansen
+
+**Volledige analyse**: `analyse/geldlening-analyse.md`
+
+### Risico's voor Peter
+
+| Risico | Bron | Ernst |
+|--------|------|-------|
+| Lening opeisbaar zonder reden | Art. 7.2: 3 maanden opzegtermijn | HOOG |
+| Default op eerste aflossing 28 mrt 2026 | Dinck kan ~€55-68K niet betalen | HOOG |
+| Staking bedrijfsuitoefening = directe opeisbaarheid | Art. 7.1.g | HOOG als Peter stopt |
+| Zekerheidseis op elk moment | Art. 6 | MEDIUM |
+| Aandelen waardeloos bij faillissement | Consequentie van opeising | HOOG |
+
+### Kansen/Bescherming voor Peter
+
+| Kans | Toelichting |
+|------|------------|
+| PHBX niet partij bij lening | Alleen Dinck is schuldenaar, PHBX niet hoofdelijk aansprakelijk |
+| Mutual Assured Destruction | Opeisen = Dinck failliet = Douwine's €500K+ kwijt |
+| Belangenconflict Douwine | Art. 2:239 lid 6 BW: zij is bestuurder schuldeiser EN schuldenaar |
+| Timing addendum | Getekend 14 dagen na stopzetting management fee → misbruik omstandigheden? |
+| Art. 11.3 mogelijk niet houdbaar | Uitsluiting ontbinding kan in strijd zijn met redelijkheid en billijkheid |
+
+### Strategische Dynamiek
+
+De eerste aflossing (28 maart 2026, ~€55-68K) creëert urgentie voor **beide partijen**:
+- Peter: default = opeisbaarheid = faillissement risico = aandelen waardeloos
+- Douwine: default = haar eigen holding moet kiezen: opeisen (= alles kwijt) of stilzwijgend accepteren
+
+---
+
+## 9. Managementovereenkomst - Analyse
+
+**Volledige analyse**: `analyse/managementovereenkomst-analyse.md`
+
+### Schending Gelijke Behandeling (Art. 3.1)
+
+Beide managementovereenkomsten bevatten: *"Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders."*
+
+Het AVA-besluit van 30 november 2024 zette alleen PHBX's fee op nihil. Freca's fee werd als vordering op de balans geboekt (€64.000). Dit is een aantoonbare schending van de gelijke behandelingsclausule.
+
+### Ongerechtvaardigde Verrijking
+
+De managementovereenkomst (Art. 2.3: fulltime beschikbaarheid) is nooit opgezegd. Peter was contractueel verplicht fulltime beschikbaar te zijn voor €0. Geschatte waarde onbetaald werk: €102.000 - €170.000 (~1.360 uur × €75-125/uur).
+
+### Vrijwaring Nog Actief
+
+Art. 4.2 (Dinck vrijwaart PHBX voor schadeclaims derden) is nog van kracht zolang de overeenkomst niet formeel is opgezegd.
+
+### Open Vraag
+
+Eindigt de managementovereenkomst automatisch bij ontslag als bestuurder, of vereist dit formele opzegging met 3 maanden termijn?
+
+---
+
+## 10. Directe Acties
 
 | Actie | Prioriteit |
 |-------|-----------|
-| Getekende akte opvragen bij notaris | HOOG |
-| KvK uittreksel bewaren | HOOG |
+| ~~Getekende akte opvragen bij notaris~~ | ~~HOOG~~ AFGEROND |
+| ~~KvK uittreksel bewaren~~ | ~~HOOG~~ AFGEROND |
 | Alle communicatie bewaren | DOORLOPEND |
 | Check eigen D&O verzekering | MEDIUM |
