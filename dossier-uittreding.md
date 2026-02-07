@@ -230,10 +230,10 @@ Rabobank weigerde Douwine privé hypotheek vanwege schuldpositie Dinck. Oplossin
 ### 5.1 Peters Standpunten
 
 1. **Ontslag bestuurder** - Non-negotiable, per 1 maart 2026
-2. **Twee scenario's open**: verkoop aandelen OF stille aandeelhouder
-3. **KTLO**: Software operationeel houden als aandeelhouder
-4. **Geen doorontwikkeling** zonder leveranciersovereenkomst
-5. **Infrastructuurkosten** doorbelasten aan Dinck
+2. **Volledige exit** - Doel is volledig vertrek uit Dinck (aandelenoverdracht of uittreding via rechter)
+3. **Geen leveranciersrol** - Geen korting, geen gratis KTLO. Indien werk: vol markttarief (€125/uur)
+4. **Infrastructuurkosten** doorbelasten aan Dinck
+5. **Toon**: Zakelijk, constructief, chique — laat de feiten het werk doen
 
 ### 5.2 Tijdlijn Januari 2026 - Pogingen tot Afspraak
 

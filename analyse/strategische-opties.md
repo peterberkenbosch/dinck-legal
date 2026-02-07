@@ -33,7 +33,7 @@
 
 ---
 
-## 3. Scenario B: Soft Exit (Aanbevolen)
+## 3. Scenario B: Soft Exit (Achterhaald)
 
 ### Structuur
 - Ontslag als bestuurder (per 1 maart 2026) ✓
@@ -170,7 +170,9 @@ Maar: Je moet bereid zijn om door te zetten als ze bluffen.
 
 ---
 
-## 8. Aanbevolen Strategie
+## 8. Aanbevolen Strategie: Volledige Exit
+
+**Koerswijziging (6 feb 2026)**: Leveranciersrol met korting wordt niet meer nagestreefd. Doel is volledig vertrek. Indien Douwine toch werk wil: alleen tegen vol markttarief (€125/uur). Geen gratis KTLO.
 
 ### Fase 1: Nu (Februari 2026)
 - [x] Ontslagbrief verzonden
@@ -180,13 +182,13 @@ Maar: Je moet bereid zijn om door te zetten als ze bluffen.
 
 ### Fase 2: Na 1 Maart 2026
 - [ ] KvK-uitschrijving (zelf indien nodig)
-- [ ] KTLO voortzetten (als goodwill)
-- [ ] Geen doorontwikkeling
+- [ ] STOP alle onbetaald werk (geen gratis KTLO)
+- [ ] Infrastructuurkosten factureren
 
-### Fase 3: Als Geen Beweging
+### Fase 3: Uittreding Forceren
 - [ ] Formeel informatierecht uitoefenen (art. 2:217 BW)
-- [ ] Overwegen art. 2:343 BW procedure
-- [ ] Of: Nuclear option (stop KTLO)
+- [ ] Art. 2:343 BW procedure starten (uittreding vorderen)
+- [ ] Vetorecht inzetten als drukmiddel bij onderhandeling
 
 ### Kernprincipe
-**Blijf zakelijk, documenteer alles, wees bereid om door te zetten.**
+**Zakelijk, constructief, chique. Laat de feiten het werk doen. Doel: volledige exit.**
