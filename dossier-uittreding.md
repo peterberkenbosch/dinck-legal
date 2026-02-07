@@ -35,6 +35,8 @@
 - RC Freca: formele leningsovereenkomst met specifieke voorwaarden
 - Overige posten: handelscrediteuren — ander juridisch regime
 
+**Financieringsstructuur**: Loonkosten personeel (inmiddels in dienst bij Dinck B.V.) werden door VDenD gestort op de bankrekening van Dinck, en via memoriaal geboekt op de Freca RC. Per 7 februari 2026 is deze financiering **per direct stopgezet** door Douwine (zie §5.6).
+
 ### 1.6 Leningsovereenkomst Freca → Dinck
 
 **Volledige analyse**: `analyse/geldlening-analyse.md`
@@ -67,7 +69,7 @@ Beide managementovereenkomsten (PHBX en Freca, 28 maart 2024) zijn identiek:
 - **Art. 3.1 gelijke behandeling**: "Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders"
 - **Art. 4.2 vrijwaring**: Dinck vrijwaart de moedervennootschap voor schadeclaims derden
 
-**AVA 30 november 2024**: Beide fees per 1 december 2024 gestopt. Het AVA-besluit noemde alleen PHBX omdat dat de actief uitbetaalde fee was. De €64K van Freca op de balans betreft de onbetaalde fee over april-november 2024 (Peter ontving zijn €64K voor dezelfde periode wél). Art. 3.1 gelijke behandeling is in dit opzicht nageleefd.
+**AVA 30 november 2024**: Het AVA-besluit wijzigt **uitsluitend** de fee van PHBX — Freca wordt niet genoemd. Feitelijk (boekhoudkundig) zijn beide fees per 1 december 2024 gestopt, maar er is geen formeel besluit voor Freca's fee. De €64K van Freca op de balans betreft de onbetaalde fee over april-november 2024. **Art. 3.1 gelijke behandeling is formeel niet nageleefd**: de wijziging gold alleen voor PHBX. Dit opent de vraag of Freca's fee juridisch doorloopt (€8.000/maand) en of het AVA-besluit aantastbaar is wegens strijd met Art. 3.1. Zie `analyse/managementovereenkomst-analyse.md` sectie 2 en 8 (vraag 8).
 
 **Status**: De managementovereenkomst is **niet formeel opgezegd** — alleen de fee is gewijzigd. Alle rechten en plichten (incl. vrijwaring) lopen door.
 
@@ -330,6 +332,7 @@ Kort, zakelijk, zonder hooks:
 | 30 jan | Peter → Douwine | **Niet in CC** (ontslagbrief) |
 | 1 feb | Douwine → Peter | CC: Grady + **Marlou** (door Douwine toegevoegd) |
 | 2 feb | Peter → Douwine | CC: **Marlou** (door Peter behouden) |
+| 7 feb | Douwine → Peter | CC: Grady + **Marlou** (financiering stopgezet) |
 
 De originele ontslagbrief ging alleen naar Douwine. Marlou hoorde er pas van toen Douwine haar op 1 februari in CC zette.
 
@@ -364,6 +367,49 @@ Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwi
 | Nu al | CC Marlou op alle communicatie over Dinck (loopt sinds 2 feb) |
 | Na 1 maart | Formele correspondentie (informatierechten, AVA-verzoeken) **aan Marlou** als aandeelhouder, met Douwine in CC als bestuurder |
 | Advocaatgesprek | Bespreken of separate bevestiging van het ontslag aan Marlou wenselijk is |
+
+### 5.6 Nieuwe Ontwikkeling: Financiering Stopgezet (7 februari 2026)
+
+**E-mail van Douwine, 7 feb 2026 18:35, CC: Grady Hofstra, Marlou Woltmeijer**
+
+**Volledige analyse**: `analyse/correspondentie-analyse.md`, sectie 5
+
+#### Kernpunten
+
+Douwine kondigt aan:
+1. **"Per direct"** financiering van Dinck beëindigen wegens "aanzienlijke tegenslag" in eigen onderneming (VDenD)
+2. **Dinsdag** gesprekken met "externe partij" over "mogelijke samenwerking" — Peter niet geïnformeerd, niet betrokken
+3. **Woensdag** meeting bij Grady Hofstra op kantoor, 12:00 of 13:00
+4. Benadrukt dat dit "volkomen los staat van de laatste ontwikkelingen binnen het bestuur"
+
+#### Wat Dit Betekent
+
+| Gevolg | Toelichting |
+|--------|-------------|
+| **Operationele financiering stopt** | Salarissen personeel Dinck B.V. worden niet meer gefinancierd door VDenD |
+| **Personeel direct geraakt** | Dinck heeft werknemers in dienst, geen eigen kasstroom om salarissen te betalen |
+| **Faillissementsrisico acuut** | ARR €6.400/jaar is onvoldoende voor operationele kosten |
+| **Aflossing 28 maart onmogelijk** | Was al onmogelijk; nu is ook de operationele continuïteit in gevaar |
+
+#### Nieuwe Incidenten Buitensluiting
+
+Dit zijn **twee nieuwe incidenten** van structurele buitensluiting van Peter als mede-bestuurder:
+
+1. **Externe partij**: Gesprekken gepland met onbekende partij over toekomst Dinck — zonder Peter te informeren, laat staan te betrekken. Peter is nog bestuurder tot 1 maart 2026.
+
+2. **Eenzijdig besluit financiering stoppen**: Besluit met directe gevolgen voor voortbestaan vennootschap, genomen zonder overleg met mede-bestuurder.
+
+#### Tegenstrijdig Belang — Patroon Versterkt
+
+Douwine stopt als directeur VDenD/Freca (schuldeiser) de financiering, terwijl zij als directeur Dinck (schuldenaar) het voortbestaan van de vennootschap zou moeten beschermen. Dit is Art. 2:239 lid 6 BW tegenstrijdig belang — en bevestigt het patroon dat zij op 1 februari 2026 zelf benoemde: *"handel ik niet alleen vanuit mijn rol als bestuurder [...] maar nadrukkelijk ook vanuit mijn positie als financier."*
+
+#### Strategische Observaties
+
+- **Timing**: 7 weken voor aflossing 28 maart, 3 weken voor Peters vertrek als bestuurder
+- **Disclaimer verdacht**: "volkomen los van ontwikkelingen bestuur" — timing maakt dit ongeloofwaardig
+- **Meeting bij Grady**: haar adviseur, haar terrein — niet neutraal (herhaling patroon 14 dec 2025)
+- **Peters veto intact**: Art. 8.6 lid 2 — geen enkel AVA-besluit over samenwerking, verkoop of herstructurering kan zonder Peters stem
+- **Concept brief financiële zorgen**: was al opgesteld vóór deze email — documenteert Peters diligentie als bestuurder
 
 ---
 
@@ -464,7 +510,9 @@ Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwi
 - [ ] KvK-uitschrijving voorbereiden (formulier 17a)
 - [ ] KTLO-scope document delen indien nodig
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
-- [ ] Brief financiële zorgen verzenden (concept gereed, verzenden na memo Omnius) - zie `concepten/brief-financiele-zorgen.md`
+- [ ] Brief financiële zorgen verzenden (concept gereed, verzenden na memo Omnius) - zie `concepten/brief-financiele-zorgen.md` — **NB: Douwine's email 7 feb pre-empt deze brief; context is veranderd, mogelijk aanpassen**
+- [ ] Meeting woensdag 12 feb bij Grady Hofstra — beslissen of en hoe Peter deelneemt
+- [ ] Reactie op Douwine's email 7 feb — **niet overhaast reageren, eerst strategie bepalen**
 
 ### Na 1 maart 2026
 

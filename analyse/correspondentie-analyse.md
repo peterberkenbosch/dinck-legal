@@ -35,6 +35,7 @@
 | 13 | **30 jan 2026, 13:08** | **Peter (info@phbxholding.com)** | **douwine@dinck.nl** | **Douwine (douwine@dagendou.nl)** | — | **Ontslagbrief bestuurder per 1 maart 2026** |
 | 14 | **1 feb 2026, 08:55** | **Douwine (douwine@dagendou.nl)** | **Peter (info@phbxholding.com)** | **Grady, Marlou (m.gorter@dagendou.nl)** | — | **Weigering, dreigingen, feitelijke onjuistheden** |
 | 15 | **2 feb 2026, 18:00** | **Peter (info@phbxholding.com)** | **Douwine (douwine@dagendou.nl)** | **Grady, Marlou** | **Reneee (mail@reneee.nl)** | **Kort zakelijk: eenzijdige rechtshandeling, correcties** |
+| 16 | **7 feb 2026, 18:35** | **Douwine** | **Peter** | **Grady, Marlou** | — | **Financiering Dinck "per direct" beëindigd, externe partij dinsdag, meeting woensdag bij Grady** |
 
 ---
 
@@ -155,7 +156,8 @@ Uit haar e-mailhandtekening:
 | Jan 2026 (begin) | Vraagt data, geeft 5-punten positie | Vertraagt: "omgekeerde wereld", vraagt uitgangspunten |
 | Jan 2026 (midden) | Nogmaals data gevraagd, concreet voorstel | Erkent vertraging, belooft data → levert niet |
 | Jan 2026 (eind) | Ontslagbrief na 8 dagen stilte | — |
-| Feb 2026 | Kort, zakelijk, corrigeert onjuistheden | **Escalatie**: dreigingen, weigering, feitelijke onjuistheden |
+| Feb 2026 (begin) | Kort, zakelijk, corrigeert onjuistheden | **Escalatie**: dreigingen, weigering, feitelijke onjuistheden |
+| Feb 2026 (7 feb) | — | **Nucleaire escalatie**: financiering per direct gestopt, externe partij zonder medeweten Peter, meeting opgelegd bij haar adviseur |
 
 ---
 
@@ -199,6 +201,75 @@ Uit haar e-mailhandtekening:
 
 Het prioriteren van crediteurenbelangen boven vennootschapsbelangen is een schending van de bestuurdersplicht.
 
+### E-mail 7 februari 2026, 18:35 (Douwine → Peter, CC Grady + Marlou)
+
+**Volledige tekst** (kern):
+
+> *"Hierbij informeer ik u dat ik, wegens een aanzienlijke tegenslag binnen mijn eigen onderneming waarvoor per direct een substantiële financiële injectie noodzakelijk is, genoodzaakt ben om de financiering van Dinck.nl met onmiddellijke ingang te beëindigen."*
+>
+> *"Ik wil daarbij expliciet benadrukken dat dit besluit volkomen los staat van de laatste ontwikkelingen binnen het bestuur van Dinck en uitsluitend voortvloeit uit de financiële situatie binnen mijn eigen onderneming."*
+>
+> *"Komende dinsdag vinden gesprekken plaats over een mogelijke samenwerking met een externe partij."*
+
+**Analyse — 8 observaties:**
+
+**1. "Per direct" financiering beëindigen — juridisch vaag**
+
+De email specificeert niet wát er precies wordt stopgezet:
+- De leningsovereenkomst Freca → Dinck kan niet "per direct" worden beëindigd (Art. 7.2: 3 maanden opzegtermijn per aangetekende brief)
+- Wat feitelijk stopt: de operationele financiering — VDenD stortte salarissen op Dinck's bankrekening, geboekt op de Freca RC
+- Dit raakt direct de werknemers van Dinck B.V.
+
+**2. Tegenstrijdig belang — opnieuw en explicieter**
+
+Douwine neemt als directeur van VDenD/Freca een besluit (stoppen financiering) dat als directeur van Dinck het voortbestaan van de vennootschap bedreigt. Dit is het tegenstrijdig belang van Art. 2:239 lid 6 BW in zijn puurste vorm:
+- Als schuldeiser (Freca/VDenD): beschermt haar eigen geld
+- Als bestuurder Dinck: zou het vennootschapsbelang moeten beschermen
+- Ze kiest expliciet voor het eerste
+
+**3. "Volkomen los van de laatste ontwikkelingen" — verdachte disclaimer**
+
+Dit is juridisch geadviseerde taal. De pre-emptieve ontkenning dat dit verband houdt met Peters ontslag is opvallend:
+- Waarom zou je dit benadrukken als het werkelijk onverband was?
+- De timing (5 weken na Peters ontslagbrief, 3 weken voor zijn vertrek) maakt deze claim ongeloofwaardig
+- Als dit WEL verband houdt met Peters ontslag, kan dit worden gekwalificeerd als drukmiddel of vergelding
+
+**4. "Externe partij" — wederom buitensluiting mede-bestuurder**
+
+Peter is nog bestuurder van Dinck tot 1 maart 2026. Er vinden gesprekken plaats met een "externe partij" over een "mogelijke samenwerking" — zonder dat Peter:
+- Op de hoogte is gesteld vóórafgaand aan deze email
+- Weet wie de externe partij is
+- Betrokken is bij de voorbereiding van het gesprek
+- Inbreng heeft gehad in de keuze van gesprekspartner
+
+Dit is een **nieuw incident van structurele buitensluiting** van een mede-bestuurder bij beslissingen die het voortbestaan van de vennootschap raken. Dit versterkt het dossier voor Art. 2:343 BW (uittreding) en Art. 2:345 BW (enquêteprocedure).
+
+**5. Meeting bij Grady — haar terrein**
+
+Het overleg wordt voorgesteld bij Grady Hofstra op kantoor — Douwine's accountant/adviseur. Dit is geen neutrale locatie. Het patroon herhaalt zich (zie e-mail 14 dec 2025: ook een eenzijdig geplande vergadering bij Grady).
+
+**6. "Belang van het personeel"**
+
+Dinck B.V. heeft inmiddels werknemers (eerder via VDenD, nu direct in dienst). Het stoppen van de financiering raakt deze werknemers direct. Douwine roept op om faillissement te voorkomen, terwijl zij zelf de handeling verricht die faillissement waarschijnlijker maakt.
+
+**7. Timing ten opzichte van aflossing 28 maart 2026**
+
+De eerste aflossing onder de leningsovereenkomst (1/9e van ~€466K = ~€55-75K) is over 7 weken verschuldigd. Dinck kan dit niet betalen. Door nu ook de operationele financiering te stoppen, wordt de situatie acuut — en het initiatief ligt bij Douwine.
+
+**8. Pre-emptie van Peters brief financiële zorgen**
+
+Peter had een conceptbrief klaarliggen (`concepten/brief-financiele-zorgen.md`) om als bestuurder de financiële risico's te signaleren. Douwine's email steelt het initiatief: zij frameert de crisis als veroorzaakt door haar eigen onderneming, niet door Dinck's structurele problemen.
+
+**Feitelijke claims vs. realiteit:**
+
+| Claim Douwine | Beoordeling |
+|--------------|-------------|
+| "Aanzienlijke tegenslag eigen onderneming" | Niet verifieerbaar — Peter heeft geen informatie over VDenD |
+| "Per direct financiering beëindigen" | Juridisch vaag — leningsovereenkomst vereist 3 maanden opzegtermijn |
+| "Volkomen los van laatste ontwikkelingen bestuur" | Timing maakt dit ongeloofwaardig — 5 weken na ontslagbrief |
+| "Gesprekken met externe partij" | Peter niet geïnformeerd — buitensluiting mede-bestuurder |
+| "Voorkomen faillissement centraal stellen" | Zij veroorzaakt de directe dreiging door financiering te stoppen |
+
 ---
 
 ## 6. Tijdlijn Vergaderverzoeken en Vertragingspatroon
@@ -226,10 +297,13 @@ Het prioriteren van crediteurenbelangen boven vennootschapsbelangen is een schen
 | Feitelijke onjuistheden Douwine | Minstens 4 aantoonbare onjuistheden in 2 e-mails | Ondermijnt geloofwaardigheid claims |
 | €190K claim | Juridisch onjuist (art. 2:175 BW) | Counter-argument gedocumenteerd |
 | "Afspraak 22 jan" | Douwine erkende zelf vertraging, beloofde data die nooit kwamen | Weerlegt haar claim van "expliciete afspraak" |
-| Belangenconflict | Door Douwine zelf bevestigd | Ondersteunt enqueteprocedure-grond |
+| Belangenconflict | Door Douwine zelf bevestigd (1 feb) + herhaald in handelen (7 feb) | Ondersteunt enqueteprocedure-grond |
 | Peters professionaliteit | Consistent zakelijk, de-escalerend, documenterend | Sterke correspondentie-track record |
 | Vertragingspatroon | 22 dagen, 4 verzoeken Peter, 0 concrete reacties Douwine | Ondersteunt Art. 2:343 BW (onredelijk om aandeelhouder te blijven) |
 | BCC Reneee | Peter documenteert bij externe adviseur | Zorgvuldigheid |
 | dagendou.nl | Douwine handelt vanuit persoonlijke entiteiten | Bevestigt rolvermenging |
 | Lopende feature work | iOS App + Gastouder Dashboard expliciet benoemd | Bewijst onbetaalde arbeid |
 | Marlou via dagendou.nl | Werkadres, niet persoonlijk | Bevestigt stromanconstructie |
+| **Financiering per direct gestopt (7 feb)** | Douwine stopt operationele financiering als schuldeiser, terwijl ze bestuurder is | **Nieuw incident tegenstrijdig belang + buitensluiting** |
+| **Externe partij zonder medeweten Peter** | Gesprekken gepland zonder Peter te informeren of betrekken | **Nieuw incident structurele buitensluiting mede-bestuurder** |
+| **Verdachte timing disclaimer** | "Volkomen los van ontwikkelingen bestuur" — 5 weken na ontslagbrief | Ongeloofwaardig, mogelijk drukmiddel |

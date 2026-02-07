@@ -319,11 +319,17 @@ De eerste aflossing (28 maart 2026, ~€65-75K) creëert urgentie voor **beide p
 
 **Volledige analyse**: `analyse/managementovereenkomst-analyse.md`
 
-### Gelijke Behandeling (Art. 3.1)
+### Gelijke Behandeling (Art. 3.1) — FORMEEL NIET NAGELEEFD
 
 Beide managementovereenkomsten bevatten: *"Bij wijzigingen zijn de wijzigingen gelijk voor beide bestuurders."*
 
-Het AVA-besluit van 30 november 2024 noemde alleen PHBX omdat dat de actief uitbetaalde fee was. In werkelijkheid zijn beide fees per 1 december 2024 gestopt. De €64.000 van Freca op de balans is de onbetaalde fee over april-november 2024 (dezelfde periode waarvoor Peter wél is betaald). Art. 3.1 is in dit opzicht nageleefd.
+Het AVA-besluit van 30 november 2024 wijzigt **uitsluitend** de fee van PHBX. Freca's managementovereenkomst wordt niet genoemd en niet gewijzigd. Feitelijk (boekhoudkundig) zijn beide fees per 1 december 2024 gestopt, maar er is **geen formeel besluit** voor Freca's fee. Art. 3.1 is formeel niet nageleefd.
+
+**Twee argumenten voor Peter:**
+1. Het AVA-besluit is aantastbaar wegens strijd met Art. 3.1 (ongelijke wijziging)
+2. Als Freca's fee juridisch doorloopt (€8.000/maand), bouwt Freca vordering op Dinck op die niet in de boekhouding staat — en verhoogt Dinck's schuldenlast aan Douwine's entiteiten verder
+
+Zie: `analyse/managementovereenkomst-analyse.md` sectie 8, vraag 8.
 
 ### Ongerechtvaardigde Verrijking
 
