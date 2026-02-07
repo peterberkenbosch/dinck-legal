@@ -75,7 +75,7 @@ Ontslag als bestuurder + volledig stoppen met werken + afwachten
 ### Status Na Ontslag
 - ✓ Bestuurdersaansprakelijkheid: weg
 - ✓ Zorgplicht: weg
-- ✓ Werkverplichtingen: geen (SHA legt geen werkplicht op)
+- ⚠ Managementovereenkomst: **LOOPT DOOR** (niet automatisch beëindigd)
 - ✓ Non-concurrentiebeding: triggert NIET
 - Aandeelhouderschap: blijft behouden
 
@@ -93,9 +93,25 @@ Ontslag als bestuurder + volledig stoppen met werken + afwachten
 - Externe developer: €100-150/uur, geen kennis codebase
 - Mogelijk platform-degradatie of faillissement
 
+### Managementovereenkomst — Gevolgen bij Nuclear
+
+**Volledige analyse**: `analyse/bestuurdersontslag-vs-managementovereenkomst.md`
+
+Het bestuurdersontslag beëindigt de managementovereenkomst NIET automatisch. Bij stoppen zonder formele opzegging MO:
+
+| Gevolg | Ernst | Toelichting |
+|--------|-------|-------------|
+| **PHBX in contractbreuk (Art. 2.3)** | LAAG | Fulltime verplichting wordt geschonden, maar schade = €0 (fee is nihil) |
+| **Art. 7.1.g trigger leningsovereenkomst** | HOOG (impact) / LAAG (waarschijnlijkheid) | "Staking bedrijfsuitoefening" → lening direct opeisbaar. Maar: MAD-dynamiek voorkomt uitvoering door Douwine |
+| **Vrijwaring Art. 4.2 blijft actief** | POSITIEF | Beschermt PHBX tegen claims derden zolang MO niet opgezegd |
+| **Ongerechtvaardigde verrijking loopt door** | POSITIEF | Argument wordt sterker naarmate MO langer loopt bij €0 fee |
+
+**Strategische keuze**: Bij nuclear scenario lijkt het gunstiger om de MO **niet** op te zeggen — vrijwaring blijft, geen staking-signaal, verrijkingsargument loopt door. Maar: juridische toetsing door advocaat nodig.
+
 ### Juridische Risico's
 - Claim "verwijtbaar handelen"? → Onwaarschijnlijk, geen werkplicht voor niet-besturende aandeelhouder
 - Bestuurdersaansprakelijkheid? → Alleen voor periode tot 1 maart, en jij was structureel buitengesloten
+- Contractbreuk MO? → Technisch ja, maar schade = €0 (fee is nihil)
 
 ---
 

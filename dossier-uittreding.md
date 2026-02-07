@@ -134,6 +134,21 @@ De ontslagbrief (30 jan 2026) bevat SHA-verwijzingen die niet meer gelden.
 - Als zij kooprecht willen uitoefenen → kunnen stellen dat SHA niet op Marlou van toepassing is
 - Als zij SHA negeren → hun probleem
 
+### 2.4 Bestuurdersontslag vs. Managementovereenkomst — MISMATCH
+
+**Volledige analyse**: `analyse/bestuurdersontslag-vs-managementovereenkomst.md`
+
+**Kernbevinding**: Het bestuurdersontslag (vennootschapsrecht, BW Boek 2) beëindigt de managementovereenkomst (contractenrecht, BW Boek 6) **niet automatisch**. Per 1 maart 2026 is Peter geen bestuurder meer, maar de managementovereenkomst PHBX ↔ Dinck loopt door — inclusief:
+
+| Wat loopt door | Artikel | Gevolg |
+|----------------|---------|--------|
+| Fulltime beschikbaarheid | Art. 2.3 | PHBX verplicht fulltime beschikbaar, voor €0 |
+| Vrijwaring | Art. 4.2 | Dinck vrijwaart PHBX voor schadeclaims derden |
+| Aansprakelijkheidsbeperking | Art. 4.3 | PHBX alleen aansprakelijk bij opzet/grove nalatigheid |
+| Opzegtermijn | Art. 5.1 | 3 maanden schriftelijk bij formele opzegging |
+
+**Strategische vraag voor advocaat**: Moet PHBX de managementovereenkomst formeel opzeggen? Voordeel van niet-opzeggen: vrijwaring blijft actief, geen "staking"-signaal (Art. 7.1.g leningsovereenkomst), ongerechtvaardigde verrijking-argument blijft doorlopen. Nadeel: juridische onduidelijkheid, formeel in contractbreuk (maar schade = €0).
+
 ---
 
 ## 3. Aandelenoverdracht November 2025
