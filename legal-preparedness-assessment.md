@@ -1,12 +1,12 @@
 # Dinck B.V. - Strategische Paraatheid Beoordeling
 
-**Datum**: 6 februari 2026
+**Datum**: 7 februari 2026 (bijgewerkt n.a.v. stopzetting financiering)
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
 **Doel**: Voorbereiding op consultatie met advocaat
 
 ---
 
-## 1. Samenvatting situatie (per 6 feb 2026)
+## 1. Samenvatting situatie (per 7 feb 2026)
 
 ### Sterke punten
 
@@ -14,13 +14,16 @@
 |----------|---------------|
 | **Vetorecht** (Art. 8.6 lid 2 statuten: unanimiteit) | Peter kan ELKE aandeelhoudersbeslissing blokkeren - verwatering, statutenwijzigingen, dividenden, bestuurdersbenoemingen |
 | **Onmisbaarheid platform** | Peter heeft het enige waardevolle bedrijfsmiddel gebouwd; vervangingskosten €250-350K; Douwine kan het niet onderhouden |
-| **10 gedocumenteerde uitsluitingsincidenten** | Solide basis voor Art. 2:343 BW (gedwongen uitkoop) indien nodig |
+| **12 gedocumenteerde uitsluitingsincidenten** | Solide basis voor Art. 2:343 BW (gedwongen uitkoop) indien nodig. Incl. stopzetting financiering (7 feb) en buitensluiting externe partij |
 | **SHA is nietig voor Marlou** | Verwijdert non-concurrentiebeding (Art. 7 SHA geldt alleen bij aandelenoverdracht), verwijdert Douwine's contractuele drukmiddelen |
 | **13+ maanden onbetaald werk** | Toont uitbuiting aan; versterkt het argument "onredelijk om te blijven" onder Art. 2:343 |
 | **Schoon correspondentiedossier** | Peters communicatie is professioneel, feitelijk, juridisch precies; Douwine's communicatie bevat feitelijke onjuistheden en dreigementen. Zie `analyse/correspondentie-analyse.md` |
 | **Ontslag is eenzijdig** | Kan niet worden geblokkeerd, betwist of voorwaardelijk gemaakt door Douwine/Marlou |
 | **Managementovereenkomst nog steeds actief** | Nooit formeel beëindigd; Art. 4.2 vrijwaring beschermt PHBX nog steeds. Zie `analyse/managementovereenkomst-analyse.md` |
-| **Beide vergoedingen gelijk stopgezet (Art. 3.1 nageleefd)** | Beide managementvergoedingen stopgezet per 1 dec 2024. Freca's €64K op de balans is onbetaalde vergoeding voor apr-nov 2024 (dezelfde periode waarin Peter betaald werd). Geen overtreding. |
+| **Art. 3.1 formeel NIET nageleefd** | AVA-besluit 30 nov 2024 wijzigt uitsluitend PHBX's fee — Freca wordt niet genoemd. Feitelijk zijn beide fees gestopt, maar er is geen formeel besluit voor Freca. Dit creëert een paradox: óf Freca's fee loopt juridisch door (oplopende vordering op Dinck), óf het AVA-besluit is aantastbaar wegens ongelijke behandeling. Zie `analyse/managementovereenkomst-analyse.md` sectie 2 en 4 |
+| **Bestuurdersontslag ≠ beëindiging MO** | Bestuurdersontslag (BW Boek 2) beëindigt de managementovereenkomst (BW Boek 6) NIET automatisch. MO vereist 3 maanden schriftelijke opzegging (Art. 5.1). Vrijwaring (Art. 4.2), aansprakelijkheidsbeperking (Art. 4.3) en fulltime verplichting (Art. 2.3) blijven actief. Strategisch voordeel: niet opzeggen. Zie `analyse/bestuurdersontslag-vs-managementovereenkomst.md` |
+| **Conceptbrief financiële zorgen gereed** | v2 met verwijzing naar stopzetting financiering, werknemersverplichtingen, tegenstrijdig belang en informatieverzoek over externe partij. Zie `concepten/brief-financiele-zorgen.md` |
+| **Stopzetting financiering documenteert tegenstrijdig belang** | Douwine stopt financiering als bestuurder VDenD/Freca, terwijl zij als bestuurder Dinck het belang van de vennootschap dient. Dit is geen theoretisch tegenstrijdig belang meer — het is bewezen door haar eigen handeling (Art. 2:239 lid 6 BW) |
 | **Grondslag ongerechtvaardigde verrijking** | ~1.440 uren onbetaald werk onder fulltime contractuele verplichting (Art. 2.3); geschatte waarde €108-180K |
 | **Lening is wederzijds gegarandeerde vernietiging** | Freca die de lening opeist = Dinck failliet = Douwine's €612K verloren. Beperkt haar daadwerkelijke opties ondanks contractuele bevoegdheid. Zie `analyse/geldlening-analyse.md` |
 | **Douwine's tegenstrijdig belang zelf gedocumenteerd** | Zij schreef: "handel ik niet alleen vanuit mijn rol als bestuurder en aandeelhouder, maar nadrukkelijk ook vanuit mijn positie als financier" |
@@ -29,8 +32,11 @@
 
 | Kwetsbaarheid | Risiconiveau | Actie vereist |
 |---------------|-----------|---------------|
-| **Risico versnelde opeising lening** | **KRITIEK** | Eerste aflossing ~€65-75K verschuldigd op 28 maart 2026; Dinck kan niet betalen; verzuim leidt tot volledige opeising. Zie `analyse/geldlening-analyse.md` |
-| **Art. 7.1.g staking-trigger** | **HOOG** | Indien Peter al het werk stopt EN platform stilstaat, kan Freca de gehele lening onmiddellijk opeisen (zonder opzegtermijn) |
+| **Stopzetting financiering — werknemers** | **ACUUT** | Per 7 feb 2026 stopt Douwine alle operationele financiering van Dinck. Salarissen werknemers kunnen niet worden voldaan uit eigen kasstroom (ARR €6.4K). Peter is als mede-bestuurder (tot 1 maart) medeverantwoordelijk. Urgent: juridisch advies vóór 12 feb |
+| **Meeting woensdag 12 feb bij Grady Hofstra** | **ACUUT** | Vergadering bij Douwine's accountant/adviseur. Risico: toezeggingen onder druk. Peter moet weten wat hij wel/niet mag zeggen. Overweeg eigen adviseur meenemen |
+| **Buitensluiting externe partij** | **HOOG** | Douwine spreekt dinsdag met "externe partij" over "mogelijke samenwerking" — Peter als mede-bestuurder niet geïnformeerd of betrokken. Risico: toezeggingen zonder Peters betrokkenheid |
+| **Risico versnelde opeising lening** | **KRITIEK** | Eerste aflossing ~€55-75K verschuldigd op 28 maart 2026; Dinck kan niet betalen; verzuim leidt tot volledige opeising. Nu versterkt: financiering gestopt, dus geen nieuwe inkomsten. Zie `analyse/geldlening-analyse.md` |
+| **Art. 7.1.g staking-trigger** | **HOOG** | Indien Peter al het werk stopt EN platform stilstaat, kan Freca de gehele lening onmiddellijk opeisen (zonder opzegtermijn). Strategische mitigatie: MO niet opzeggen vermindert "staking"-argument |
 | **Art. 7.2 opeising zonder reden** | **HOOG** | Freca kan de volledige lening (~€500K) op ELK moment opeisen met slechts 3 maanden opzegtermijn, zonder reden |
 | **Geen D&O-verzekering** | HOOG | Direct controleren of Dinck een polis heeft; zo niet, overweeg persoonlijke dekking vóór 1 maart |
 | **Werkt nog steeds onbetaald incl. feature-ontwikkeling** | HOOG | Wekt de indruk van berusting; doorlopende feature-ontwikkeling verzwakt onderhandelingspositie |
@@ -44,6 +50,21 @@
 ---
 
 ## 2. Kritieke hiaten om te adresseren
+
+### Hiaat 0: MEETING WOENSDAG 12 FEBRUARI (ACUUT)
+
+Peter heeft woensdag 12 februari een meeting bij Grady Hofstra (Douwine's accountant/adviseur). Dit is de eerste ontmoeting na de stopzetting van de financiering. Dinsdag spreekt Douwine met een onbekende "externe partij" over een "mogelijke samenwerking" — Peter weet hiervan niets.
+
+**Risico's**:
+- Toezeggingen onder druk (bijv. over aansprakelijkheid, KTLO, leveranciersrol)
+- Framing door Douwine vóór het gesprek begint (dinsdag met externe partij zonder Peter)
+- Grady is Douwine's adviseur, niet neutraal
+
+**Actie**:
+- Juridisch advies Maud vóór woensdag (urgente vragen A1-A5 in `vragen-advocaat-maud.md`)
+- Conceptbrief financiële zorgen verzenden vóór meeting (maandag/dinsdag) — zie `concepten/brief-financiele-zorgen.md`
+- Overweeg eigen adviseur meenemen
+- Voorbereiding: wat wel/niet zeggen of toezeggen
 
 ### Hiaat 1: STOP ONBETAALDE FEATURE-ONTWIKKELING (Urgent)
 
@@ -92,7 +113,7 @@ Alle onderhandelingen verlopen met Douwine, die GEEN aandeelhouder is. Marlou (d
 - **Partijen hebben alle ontbindingsrechten afgezien** (Art. 10/11) - bemoeilijkt het ongedaan maken van de overdracht
 - **Peter tekende in dubbele hoedanigheid** - als PHBX Holding (aandeelhouder) EN als Dinck B.V. (bestuurder die de overdracht erkent)
 
-**Nieuwe vragen voor advocaat**: Zie `analyse/notariele-akte-analyse.md` sectie 4 voor 6 specifieke vragen die voortvloeien uit de akte.
+**Vragen voor advocaat**: Zie `vragen-advocaat-maud.md` categorie H voor 5 specifieke vragen over de schijnconstructie.
 
 ---
 
@@ -106,7 +127,7 @@ Gegeven dat procederen financieel moeilijk is, is de optimale strategie **druk u
 2. **Treed af + schrijf uit bij KvK op 1 maart** - zoals gepland
 3. **Na 1 maart: stel een venster van 30 dagen** voor Douwine om in gesprek te gaan over uittredingsvoorwaarden
 4. **Geen reactie in april**: Stuur formeel Art. 2:217 BW informatieverzoek (gratis, signaleert escalatie)
-5. **Bij obstructie**: Stuur sommatie (via advocaat) met verwijzing naar Art. 2:343 BW gronden - de 10 gedocumenteerde incidenten maken dit geloofwaardig
+5. **Bij obstructie**: Stuur sommatie (via advocaat) met verwijzing naar Art. 2:343 BW gronden - de 12 gedocumenteerde incidenten maken dit geloofwaardig
 6. **KTLO als drukmiddel**: Na 1 maart heeft Peter NULKOMMANUL verplichting het platform te onderhouden. Het voorwaardelijk stellen van voortgezet KTLO aan zinvolle onderhandeling is legitiem
 7. **Procederen in reserve**: Art. 2:343 als uiterste middel; de geloofwaardige dreiging kan voldoende zijn
 
@@ -118,69 +139,71 @@ Gegeven dat procederen financieel moeilijk is, is de optimale strategie **druk u
 - Peters vetorecht blokkeert elke strategische koerswijziging die Douwine via de AVA probeert
 - De tijd werkt in Peters voordeel; Douwine's investering erodeert zonder technisch onderhoud
 
-### Leningsdynamiek voegt urgentie toe (NIEUW)
+### Leningsdynamiek voegt urgentie toe
 
 De leningsovereenkomst creëert extra druk op BEIDE partijen:
-- **28 maart 2026**: Eerste aflossing verschuldigd (~€65-75K). Dinck kan niet betalen. Dit is 27 dagen na Peters aftreden.
+- **28 maart 2026**: Eerste aflossing verschuldigd (~€55-75K). Dinck kan niet betalen. Dit is 27 dagen na Peters aftreden.
 - **Douwine's dilemma**: Als zij de lening opeist via Freca → Dinck gaat failliet → haar eigen €612K is verloren
 - **Peters tegenwicht**: Vorderingen uit managementovereenkomst (ongerechtvaardigde verrijking €108-180K voor fulltime onbetaald werk) kunnen een deel van de leningsdruk compenseren
 - **Wederzijds gegarandeerde vernietiging**: Geen van beide partijen heeft baat bij Dinck's faillissement. Dit versterkt de zaak voor een onderhandelde schikking.
 - **Het echte wapen is Art. 7.2** (opeising zonder reden met 3 maanden opzegtermijn), niet de loze dreigementen over bestuurdersaansprakelijkheid. Maar het inzetten ervan is zelfdestructief voor Douwine.
 
+### NIEUW: Stopzetting financiering verandert de dynamiek (7 feb 2026)
+
+Douwine's aankondiging om de financiering per direct te stoppen verandert het strategische landschap fundamenteel:
+
+- **Douwine forceert de crisis**: Door de operationele financiering te stoppen creëert zij het faillissementsrisico dat zij eerder als dreigement gebruikte
+- **Tegenstrijdig belang nu bewezen**: Niet langer theoretisch — Douwine handelt als schuldeiser (VDenD/Freca) ten koste van de vennootschap (Dinck) waarvan zij bestuurder is
+- **Werknemersrisico**: Dinck kan salarissen niet betalen uit eigen kasstroom. Peter heeft als mede-bestuurder (tot 1 maart) een signaleerplicht — die hij met de conceptbrief vervult
+- **Externe partij**: Douwine voert gesprekken over "mogelijke samenwerking" buiten Peter om — wederom buitensluiting, nu in een acuut crisiskader
+- **Peters positie versterkt**: Elke dag dat Peter onbetaald doorwerkt terwijl Douwine tegelijkertijd de financiering stopt, versterkt het argument van ongerechtvaardigde verrijking en bevestigt het exclusiepatroon
+
+### NIEUW: Art. 3.1 en MO-mismatch als strategische hefbomen
+
+Twee recent ontdekte bevindingen versterken Peters positie:
+
+1. **Art. 3.1 formeel niet nageleefd**: Het AVA-besluit van 30 nov 2024 wijzigt uitsluitend PHBX's managementfee. Freca's MO wordt niet genoemd. Dit creëert een paradox voor Douwine:
+   - Óf Freca's fee (€8.000/maand) loopt juridisch door → oplopende schuld Dinck aan Freca buiten de boeken
+   - Óf het AVA-besluit is aantastbaar → Peters fee had niet op nihil mogen worden gesteld zonder gelijke formele wijziging voor Freca
+
+2. **Bestuurdersontslag beëindigt MO niet**: De managementovereenkomst vereist 3 maanden schriftelijke opzegging (Art. 5.1). Het bestuurdersontslag per 1 maart is vennootschapsrecht (BW Boek 2); de MO is verbintenissenrecht (BW Boek 6). Strategisch niet opzeggen: vrijwaring (Art. 4.2) blijft actief, geen staking-signaal (Art. 7.1.g), unjust enrichment loopt door.
+
 ---
 
 ## 4. Voorbereiding advocaatgesprek
 
-Vragen voor de advocaatconsultatie:
+Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 30 vragen in 11 categorieën (A t/m K), geprioriteerd op urgentie:
 
-### Over bestuurdersaansprakelijkheid
-1. Heeft Dinck B.V. een D&O-verzekering die Peter dekt?
-2. Gegeven 10 gedocumenteerde incidenten van structurele uitsluiting van besluitvorming, hoe sterk is Peters verweer tegen een eventuele Art. 2:9 BW vordering?
-3. Is er risico vanuit de terugkijktermijn van 5 jaar na 1 maart?
+| Prioriteit | Vragen | Reden |
+|------------|--------|-------|
+| **1 — DIRECT** | A1-A5 | Stopzetting financiering, meeting woensdag 12 feb |
+| **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 beïnvloeden Peters positie in meeting |
+| **3 — VOOR 1 MAART** | D1-D3, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
+| **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3 | Uittreding, schijnconstructie, overig |
 
-### Over uittredingsstrategie
-4. Is Art. 2:343 BW (gedwongen uitkoop) haalbaar gegeven de 10 gedocumenteerde incidenten? Wat zijn realistische kosten?
-5. Kan Peter KTLO-onderhoud voorwaardelijk stellen aan voortgang in onderhandelingen zonder dat dit als misbruik van recht wordt aangemerkt?
-6. Moet Peter formeel eisen dat Marlou een toetredingsovereenkomst (SHA-toetredingsovereenkomst) tekent?
-7. Wat is de juridische status van de Freca → Marlou overdracht (koopprijs €1, vooraf afgesproken terugkoop €1,50)?
-
-### Over onbetaald werk
-8. Vormt 13+ maanden onbetaalde feature-ontwikkeling ongerechtvaardigde verrijking?
-9. Kan Peter vergoeding claimen voor werk dat verder gaat dan wat op de AVA van 30 november 2024 is afgesproken?
-10. Het AVA-besluit vermeldde "tijdelijk tot voldoende omzet" - is deze voorwaarde behoorlijk geëvalueerd?
-
-### Over de huidige situatie
-11. Moet Peter onmiddellijk alle onbetaalde feature-ontwikkeling staken?
-12. Moet Peter zich formeel tot Marlou (niet Douwine) richten als de juridische aandeelhouder-wederpartij?
-13. Hoe moet Peter de KvK-uitschrijving aanpakken als Douwine weigert mee te werken?
-
-### Over de leningsovereenkomst (NIEUW - uit brondocumentanalyse)
-14. Het leningsaddendum (verhoging limiet naar €500K) werd 14 dagen na eenzijdige stopzetting van Peters managementvergoeding getekend. Is er grond voor vernietiging op basis van Art. 3:44 lid 4 BW (misbruik van omstandigheden)?
-15. Eerste aflossing (~€65-75K) is verschuldigd op 28 maart 2026 - Dinck kan niet betalen. Wat zijn de juridische gevolgen wanneer Freca de lening NIET onmiddellijk opeist? Schept dit een patroon van berusting?
-16. Douwine is bestuurder van zowel Freca (schuldeiser) als Dinck (schuldenaar). Hoe is Art. 2:239 lid 6 BW (tegenstrijdig belang) van toepassing wanneer Freca de lening opeist?
-17. Leidt Peters aftreden als bestuurder tot activering van Art. 7.1.g ("staking bedrijfsuitoefening")? Of alleen wanneer Dinck daadwerkelijk de activiteiten staakt?
-18. Art. 9: Heeft Freca jaarlijkse balansopgaven verstrekt? Heeft Dinck tijdig bezwaar gemaakt (termijn van 6 weken)? Zo niet, is het saldo dan juridisch vastgesteld?
-
-### Over de managementovereenkomst (NIEUW - uit brondocumentanalyse)
-19. Eindigt de managementovereenkomst automatisch wanneer Peter aftreedt als bestuurder, of geldt formele opzegging met 3 maanden opzegtermijn?
-20. Kan PHBX een vordering uit ongerechtvaardigde verrijking (Art. 6:212 BW) instellen voor ~1.440 uren onbetaald werk onder de fulltime verplichting (Art. 2.3)?
-21. Het AVA-besluit was uitdrukkelijk tijdelijk ("indien de opbrengsten... op een voldoende niveau komen"). Is deze voorwaarde ooit formeel geëvalueerd? Wat zijn de gevolgen van het uitblijven van een herbeoordeling?
-
-### Over waardering
-22. Wat is de meest kosteneffectieve manier om de aandelenwaarde vast te stellen? (Wettelijk 3-deskundigen-mechanisme vs. enkele onafhankelijke waardering)
-23. Hoe wordt Peters arbeidsinvestering van €210-350K meegewogen in een aandelenwaardering?
+De prioriteit-1 vragen moeten idealiter **vóór woensdag 12 februari** beantwoord zijn.
 
 ---
 
-## 5. Directe actiepunten (vóór advocaatgesprek)
+## 5. Directe actiepunten
 
-- [ ] **Stop alle onbetaalde feature-ontwikkeling** - alleen KTLO vanaf vandaag
-- [ ] **Controleer D&O-verzekering** - bel Dinck's verzekeraar of raadpleeg polisdocumenten
-- [ ] **Documenteer onbetaalde werkuren** - maak retroactief logboek van al het werk sinds jan 2025
+### ACUUT — Vóór meeting woensdag 12 februari
+
+- [ ] **Juridisch advies Maud** — urgente vragen A1-A5 uit `vragen-advocaat-maud.md` bespreken vóór woensdag
+- [ ] **Conceptbrief financiële zorgen verzenden** — maandag 10 of dinsdag 11 feb, vóór meeting. Zie `concepten/brief-financiele-zorgen.md`
+- [ ] **Voorbereiding meeting woensdag** — bepalen wat wel/niet zeggen, overweeg eigen adviseur meenemen
+- [ ] **Reactiestrategie op stopzetting financiering** — niet reageren op de e-mail van 7 feb vóór juridisch advies
+
+### URGENT — Vóór 1 maart 2026
+
+- [ ] **Stop alle onbetaalde feature-ontwikkeling** — alleen KTLO vanaf vandaag
+- [ ] **Controleer D&O-verzekering** — bel Dinck's verzekeraar of raadpleeg polisdocumenten
+- [ ] **Documenteer onbetaalde werkuren** — maak retroactief logboek van al het werk sinds jan 2025
 - [x] ~~**Verkrijg kopie notariële akte**~~ (verkregen 6 feb 2026 - zie `analyse/notariele-akte-analyse.md`)
 - [ ] **Bewaar huidig KvK-uittreksel** als bewijs van aandeelhouderstatus
-- [ ] **Stel chronologische incidententijdlijn op** voor advocaat (de 10 incidenten + correspondentiesamenvatting)
-- [ ] **Bereken totale waarde onbetaalde arbeid** - uren x markttarief (€75-125/uur)
+- [ ] **Stel chronologische incidententijdlijn op** voor advocaat (de 12 incidenten + correspondentiesamenvatting)
+- [ ] **Bereken totale waarde onbetaalde arbeid** — uren x markttarief (€75-125/uur)
+- [ ] **MO-keuze afstemmen met advocaat** — wel of niet opzeggen vóór 1 maart (vragen B1-B3)
 
 ---
 
@@ -201,9 +224,15 @@ Vragen voor de advocaatconsultatie:
 |---------|-------------|-------------|
 | Art. 2:9 BW | Bestuurdersaansprakelijkheid | Verweer: structureel uitgesloten van besluitvorming |
 | Art. 2:217 BW | Informatierechten aandeelhouder | Financiële gegevens opvragen na aftreden |
-| Art. 2:343 BW | Gedwongen uitkoop (uittreding) | Primair uittredingsmiddel indien onderhandeling faalt |
+| Art. 2:239 lid 6 BW | Tegenstrijdig belang bestuurder | Douwine: bestuurder Dinck én bestuurder schuldeiser Freca/VDenD. Bewezen door stopzetting financiering |
+| Art. 2:248 BW | Bestuurdersaansprakelijkheid faillissement | Risico: maar verweer via signaleerplicht (conceptbrief) en uitsluiting van besluitvorming |
+| Art. 2:343 BW | Gedwongen uitkoop (uittreding) | Primair uittredingsmiddel indien onderhandeling faalt; 12 incidenten |
 | Art. 2:345 BW | Enquêteprocedure | Nucleaire optie (duur maar krachtig) |
-| Art. 6:212 BW | Ongerechtvaardigde verrijking | Mogelijke vordering voor 13 maanden onbetaald werk |
+| Art. 3:44 lid 4 BW | Misbruik van omstandigheden | Addendum €500K getekend 14 dagen na fee-stopzetting |
+| Art. 6:212 BW | Ongerechtvaardigde verrijking | Mogelijke vordering voor 13+ maanden onbetaald werk (~€108-180K) |
+| Art. 3.1 MO | Gelijke behandeling bestuurders | Formeel niet nageleefd: AVA-besluit wijzigt alleen PHBX's fee |
+| Art. 4.2 MO | Vrijwaring bestuurder | Blijft actief zolang MO niet formeel wordt opgezegd |
+| Art. 5.1 MO | Beëindiging MO: 3 maanden schriftelijk | MO niet automatisch beëindigd door bestuurdersontslag |
 | Art. 8.6 lid 2 Statuten | Unanimiteitsvereiste | Absoluut vetorecht op alle AVA-besluiten |
 | Art. 6.2 Statuten | Voorkeursrecht + 3-deskundigen-waardering | Voorkomt verwatering; objectief prijsmechanisme |
 
@@ -216,17 +245,19 @@ Deze beoordeling is een synthese van informatie uit het volledige dossier:
 | Document | Inhoud |
 |----------|-----------------|
 | `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, tegenargumenten |
-| `incident-register.md` | 10 gedocumenteerde incidenten van structurele uitsluiting |
+| `incident-register.md` | 12 gedocumenteerde incidenten van structurele uitsluiting |
 | `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie |
-| `legal-consult-questions.md` | Gedetailleerde gecategoriseerde vragen voor advocaat |
+| `vragen-advocaat-maud.md` | **GECONSOLIDEERD** — 30 vragen in 11 categorieën, geprioriteerd op urgentie |
+| `concepten/brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit (verzenden vóór 12 feb) |
 | `analyse/sha-analyse.md` | SHA-analyse (niet-werkende status) |
 | `analyse/statuten-analyse.md` | Statutenanalyse (unanimiteit, vetorecht) |
 | `analyse/strategische-opties.md` | Strategische scenario's en opties |
 | `analyse/notariele-akte-analyse.md` | Volledige analyse notariële akte (6 kernbevindingen + 6 advocaatvragen) |
-| `analyse/geldlening-analyse.md` | **NIEUW** - Volledige analyse leningsovereenkomst + addendum (opeisbaarheid, €500K limiet, aflossing, strategische implicaties) |
-| `analyse/managementovereenkomst-analyse.md` | **NIEUW** - Analyse managementovereenkomsten + AVA-notulen (vergoedingsstatus, fulltime verplichting, beëindigingsstatus, ongerechtvaardigde verrijking) |
-| `analyse/correspondentie-analyse.md` | **NIEUW** - Geverifieerde tijdlijn uit bronemails (feitelijke claims vs realiteit, toonanalyse, nieuwe details) |
+| `analyse/geldlening-analyse.md` | Volledige analyse leningsovereenkomst + addendum |
+| `analyse/managementovereenkomst-analyse.md` | Analyse managementovereenkomsten + AVA-notulen (incl. Art. 3.1 bevinding) |
+| `analyse/correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (incl. e-mail 7 feb stopzetting financiering) |
+| `analyse/bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch: bestuurdersontslag beëindigt MO niet automatisch |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie |
 | `files/` | Originele juridische documenten (PDF's): notariële akte, SHA, statuten, leningsovereenkomsten, managementovereenkomsten, KvK-uittreksel, e-mails |
 
