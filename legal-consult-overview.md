@@ -55,6 +55,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | 02-02-2026 | Peter verduidelijkt: ontslag is eenzijdig, ingangsdatum 1 maart | Reactie |
 | 02-02-2026 | Peter voegt Marlou toe aan CC (daadwerkelijke aandeelhouder) | Reactie |
 | 06-02-2026 | Juridisch consult (intake) via Omnius met Maud van der Zee; memo volgt | Juridisch advies |
+| **07-02-2026** | **Douwine stopt financiering Dinck per direct; externe partij zonder Peters medeweten** | **Incident #11 + #12** |
 | **01-03-2026** | **Ingangsdatum ontslag als bestuurder** | In afwachting |
 
 ---
@@ -73,7 +74,22 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 
 ---
 
-## D. Huidige Status (per 4 februari 2026)
+## D. Huidige Status (bijgewerkt 7 februari 2026)
+
+**Geconsolideerde vragenlijst voor advocaat**: `vragen-advocaat-maud.md`
+
+### NIEUWE ONTWIKKELING (7 feb 2026)
+
+Douwine heeft per e-mail aangekondigd:
+- Financiering Dinck **per direct** te beëindigen (wegens "tegenslag eigen onderneming")
+- Gesprekken met **externe partij** over "mogelijke samenwerking" — Peter niet geïnformeerd
+- Meeting **woensdag 12 feb** bij Grady Hofstra op kantoor
+
+Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee nieuwe incidenten van buitensluiting (#11 en #12). Zie `analyse/correspondentie-analyse.md`.
+
+---
+
+### Eerdere status (per 4 februari 2026)
 
 ### Ontslag als bestuurder
 - **Brief verstuurd**: 30 januari 2026
@@ -147,6 +163,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 |-------|-----------|------------------|
 | 01-02-2026 | Douwine → Peter (CC: Grady, Marlou) | Wijst datum af, aansprakelijkheidsdreigingen, onjuiste claims |
 | 02-02-2026 | Peter → Douwine (CC: Marlou) | Verduidelijkt eenzijdig karakter, corrigeert onjuiste claims |
+| **07-02-2026** | **Douwine → Peter (CC: Grady, Marlou)** | **Financiering per direct gestopt; externe partij dinsdag; meeting woensdag bij Grady** |
 
 ---
 
@@ -164,6 +181,8 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | 8 | 20-01-2026 | Operationeel | Niet-verschijnen bij gepland werkoverleg |
 | 9 | 2025 (lopend) | Operationeel / Financieel | Detachering Yanna Talma aan BVOK zonder overleg; Douwine is zelf BVOK-bestuurslid |
 | 10 | 2025 | Operationeel / Bestuurlijk | Verhuizing Dinck naar pand van Douwine's eigen vennootschap zonder bestuurlijk overleg |
+| 11 | 07-02-2026 | Financieel / Bestuurlijk | Eenzijdig stopzetten operationele financiering Dinck als bestuurder VDenD/Freca, met directe gevolgen voor werknemers; tegenstrijdig belang |
+| 12 | 07-02-2026 | Bestuurlijk | Gesprekken met externe partij over toekomst Dinck gepland zonder mede-bestuurder Peter te informeren of betrekken |
 
 ---
 
@@ -185,15 +204,21 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 
 ## H. Vervolgstappen
 
+### URGENT — Vóór meeting 12 februari
+- [ ] Geconsolideerde vragen aan Maud voorleggen — zie `vragen-advocaat-maud.md`
+- [ ] Beslissen over verzending brief financiële zorgen — zie `concepten/brief-financiele-zorgen.md`
+- [ ] Strategie meeting woensdag bepalen (eigen adviseur? wat wel/niet toezeggen?)
+- [ ] Reactie op Douwine's email 7 feb — na afstemming met Maud
+
 ### Voor 1 maart 2026
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
-- [ ] KvK-uittreksel bewaren als bewijs
+- [x] KvK-uittreksel bewaard (1 feb 2026)
 - [ ] Uitschrijving bij KvK voorbereiden (formulier 17a)
 - [ ] KTLO-scope documenteren indien nodig
 
 ### Op/na 1 maart 2026
 - [ ] Uitschrijving indienen bij KvK
-- [ ] Bevestiging dat bestuurderschap is beeindigd
+- [ ] Bevestiging dat bestuurderschap is beëindigd
 - [ ] Informatierechten uitoefenen op grond van Art. 2:217 BW
 - [ ] Infrastructuurkosten factureren aan Dinck
-- [ ] Juridische opties beoordelen indien onderhandelingen vastgelopen blijven
+- [ ] Juridische opties beoordelen (Art. 2:343 BW uittreding)
