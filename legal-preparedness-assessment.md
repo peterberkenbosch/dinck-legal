@@ -258,6 +258,7 @@ Deze beoordeling is een synthese van informatie uit het volledige dossier:
 | `analyse/managementovereenkomst-analyse.md` | Analyse managementovereenkomsten + AVA-notulen (incl. Art. 3.1 bevinding) |
 | `analyse/correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (incl. e-mail 7 feb stopzetting financiering) |
 | `analyse/bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch: bestuurdersontslag beëindigt MO niet automatisch |
+| `analyse/worst-case-scenarios.md` | Scenario-analyse: werkstaking, faillissement, UWV, speltheorie |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie |
 | `files/` | Originele juridische documenten (PDF's): notariële akte, SHA, statuten, leningsovereenkomsten, managementovereenkomsten, KvK-uittreksel, e-mails |
 

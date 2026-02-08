@@ -57,6 +57,8 @@
 
 **D3.** Douwine's vage aansprakelijkheidsdreiging (e-mail 1 feb 2026: "verantwoordelijkheden of aansprakelijkheden verdwijnen niet") — is hier een reële grondslag voor? Zie `juridische-analyse.md` sectie 6.
 
+**D4.** Is de jaarrekening 2024 van Dinck B.V. tijdig gedeponeerd? Art. 2:248 lid 2 BW bevat een bewijsvermoeden: als de jaarrekening niet tijdig is gedeponeerd, wordt vermoed dat er sprake is van onbehoorlijk bestuur. Peter was structureel buitengesloten van de financiële administratie — is dit een verweer? Zie `analyse/worst-case-scenarios.md` sectie 6.
+
 ### E. Leningsovereenkomst Freca → Dinck
 
 **Context**: Leningsovereenkomst 28 maart 2024 + addendum 31 december 2024. Max €500K, 5% rente, eerste aflossing 28 maart 2026. Zie `analyse/geldlening-analyse.md`.

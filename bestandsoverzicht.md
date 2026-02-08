@@ -30,6 +30,7 @@
 | `sha-analyse.md` | Aandeelhoudersovereenkomst (niet-werkend, Marlou geen partij) |
 | `statuten-analyse.md` | Statuten (unanimiteit Art. 8.6 lid 2, vetorecht, voorkeursrecht) |
 | `strategische-opties.md` | Strategische scenario's en opties |
+| `worst-case-scenarios.md` | Scenario-analyse: werkstaking, faillissement, UWV, verdeling, speltheorie |
 
 ---
 
@@ -39,7 +40,7 @@
 |---------|--------|--------|
 | `brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit | Verzenden vóór 11 feb |
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
-| `gespreksleidraad.md` | Gespreksleidraad voor overleg | |
+| `gespreksleidraad.md` | Gespreksleidraad meeting woensdag 11 feb bij Grady Hofstra | Actueel (8 feb) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
 
