@@ -36,6 +36,8 @@
 | 14 | **1 feb 2026, 08:55** | **Douwine (douwine@dagendou.nl)** | **Peter (info@phbxholding.com)** | **Grady, Marlou (m.gorter@dagendou.nl)** | — | **Weigering, dreigingen, feitelijke onjuistheden** |
 | 15 | **2 feb 2026, 18:00** | **Peter (info@phbxholding.com)** | **Douwine (douwine@dagendou.nl)** | **Grady, Marlou** | **Reneee (mail@reneee.nl)** | **Kort zakelijk: eenzijdige rechtshandeling, correcties** |
 | 16 | **7 feb 2026, 18:35** | **Douwine** | **Peter** | **Grady, Marlou** | — | **Financiering Dinck "per direct" beëindigd, externe partij dinsdag, meeting woensdag bij Grady** |
+| 17 | **8 feb 2026** | **Peter (info@phbxholding.com)** | **Douwine (douwine@dagendou.nl)** | **Grady, Marlou** | — | **Bevestiging meeting woensdag, vraagt tijdstip. "Inhoudelijk reageer ik separaat."** |
+| 18 | **8 feb 2026** | **Peter (peter@phbxholding.com)** | **AVA Dinck B.V. (douwine@dinck.nl, m.gorter@dagendou.nl)** | **peter@dinck.nl** | — | **Brief financiële zorgen — signalering risico's en continuïteit (apart verzonden, nieuwe thread)** |
 
 ---
 

@@ -164,6 +164,8 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 | 01-02-2026 | Douwine → Peter (CC: Grady, Marlou) | Wijst datum af, aansprakelijkheidsdreigingen, onjuiste claims |
 | 02-02-2026 | Peter → Douwine (CC: Marlou) | Verduidelijkt eenzijdig karakter, corrigeert onjuiste claims |
 | **07-02-2026** | **Douwine → Peter (CC: Grady, Marlou)** | **Financiering per direct gestopt; externe partij dinsdag; meeting woensdag bij Grady** |
+| **08-02-2026** | **Peter → Douwine (CC: Grady, Marlou)** | **Bevestiging meeting woensdag, "inhoudelijk reageer ik separaat"** |
+| **08-02-2026** | **Peter → AVA Dinck B.V.** | **Brief financiële zorgen — signalering risico's en continuïteit (separate mail)** |
 
 ---
 

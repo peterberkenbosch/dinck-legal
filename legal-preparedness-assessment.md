@@ -190,9 +190,9 @@ De prioriteit-1 vragen moeten idealiter **vóór woensdag 11 februari** beantwoo
 ### ACUUT — Vóór meeting woensdag 11 februari
 
 - [ ] **Juridisch advies Maud** — urgente vragen A1-A5 uit `vragen-advocaat-maud.md` bespreken vóór woensdag
-- [ ] **Conceptbrief financiële zorgen verzenden** — maandag 10 of dinsdag 11 feb, vóór meeting. Zie `concepten/brief-financiele-zorgen.md`
-- [ ] **Voorbereiding meeting woensdag** — bepalen wat wel/niet zeggen, overweeg eigen adviseur meenemen
-- [ ] **Reactiestrategie op stopzetting financiering** — niet reageren op de e-mail van 7 feb vóór juridisch advies
+- [x] **Brief financiële zorgen verzonden** (8 feb 2026) — zie `concepten/brief-financiele-zorgen.md`
+- [x] **Meeting woensdag bevestigd** (8 feb 2026) — kort zakelijk, "inhoudelijk reageer ik separaat"
+- [x] **Voorbereiding meeting woensdag** — gespreksleidraad herschreven (`concepten/gespreksleidraad.md`) + worst-case scenarios (`analyse/worst-case-scenarios.md`)
 
 ### URGENT — Vóór 1 maart 2026
 

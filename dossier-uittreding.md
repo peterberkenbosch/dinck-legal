@@ -510,9 +510,9 @@ Douwine stopt als directeur VDenD/Freca (schuldeiser) de financiering, terwijl z
 - [ ] KvK-uitschrijving voorbereiden (formulier 17a)
 - [ ] KTLO-scope document delen indien nodig
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
-- [ ] Brief financiële zorgen verzenden (concept gereed, verzenden na memo Omnius) - zie `concepten/brief-financiele-zorgen.md` — **NB: Douwine's email 7 feb pre-empt deze brief; context is veranderd, mogelijk aanpassen**
-- [ ] Meeting woensdag 11 feb bij Grady Hofstra — beslissen of en hoe Peter deelneemt
-- [ ] Reactie op Douwine's email 7 feb — **niet overhaast reageren, eerst strategie bepalen**
+- [x] Brief financiële zorgen verzonden (8 feb 2026) - zie `concepten/brief-financiele-zorgen.md`
+- [x] Meeting woensdag 11 feb bevestigd per email (8 feb 2026)
+- [x] Reactie op Douwine's email 7 feb — kort bevestigd, inhoudelijke reactie via brief
 
 ### Na 1 maart 2026
 
