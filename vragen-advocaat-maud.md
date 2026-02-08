@@ -1,7 +1,7 @@
 # Vragen voor Advocaat — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 7 februari 2026 (n.a.v. nieuwe ontwikkelingen)
+**Bijgewerkt**: 8 februari 2026 (n.a.v. nieuwe ontwikkelingen)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 
@@ -22,6 +22,8 @@
 **A4.** De meeting woensdag is bij Grady Hofstra (Douwine's accountant/adviseur). Zijn er aandachtspunten of risico's voor Peter? Moet hij eigen adviseur meenemen? Wat moet Peter wel/niet zeggen of toezeggen?
 
 **A5.** De conceptbrief financiële zorgen (`concepten/brief-financiele-zorgen.md`) was al opgesteld vóór Douwine's email. Is het raadzaam deze alsnog te verzenden vóór de meeting van woensdag? Of wachten?
+
+**A6.** Heeft Peter als mede-bestuurder een informatieplicht jegens de werknemers van Dinck B.V. nu de operationele financiering is stopgezet en salarisbetaling onzeker is? Zo ja, wanneer moet hij hen informeren — vóór de meeting van woensdag 11 feb, of pas als na de meeting blijkt dat er geen oplossing komt? Wat zijn de risico's van te vroeg vs. te laat informeren (paniek vs. bestuurdersaansprakelijkheid)?
 
 ### B. Managementovereenkomst — Wel of Niet Opzeggen
 
@@ -143,7 +145,7 @@ Gezien de urgentie (meeting woensdag 11 feb, werknemersverplichtingen, vertrek p
 
 | Prioriteit | Vragen | Reden |
 |------------|--------|-------|
-| **1 — DIRECT** | A1-A5 | Stopzetting financiering, meeting woensdag |
+| **1 — DIRECT** | A1-A6 | Stopzetting financiering, meeting woensdag |
 | **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 beïnvloeden Peters positie in meeting |
 | **3 — VOOR 1 MAART** | D1-D3, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
 | **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3 | Uittreding, schijnconstructie, overig |
