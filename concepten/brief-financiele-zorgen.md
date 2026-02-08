@@ -1,6 +1,6 @@
 # Brief financiële zorgen — continuïteit Dinck B.V.
 
-**Status**: CONCEPT v2 — nog niet verzonden
+**Status**: VERZONDEN op 8 februari 2026
 **Vorige versie**: v1 (6 feb 2026) signaleerde alleen aflossingsrisico 28 maart
 **Aanleiding update**: e-mail Douwine 7 feb 2026 — stopzetting financiering per direct
 **Verzenden**: vóór meeting woensdag 11 feb (bij voorkeur maandag 9 of dinsdag 10 feb)
@@ -11,7 +11,7 @@
 peter@phbxholding.com
 KvK: 75861097
 
-Oosterwolde, [datum invullen]
+Oosterwolde, 8 februari 2026
 
 **Aan de Algemene Vergadering van Aandeelhouders van Dinck B.V.**
 Van Emstweg 85
@@ -119,7 +119,7 @@ Bestuurder Dinck B.V.
 
 | Veld | Waarde |
 |------|--------|
-| Verzonden op | [datum] |
+| Verzonden op | 8 februari 2026 |
 | Van | peter@phbxholding.com |
 | Aan | douwine@dinck.nl, m.gorter@dagendou.nl |
 | CC | peter@dinck.nl |

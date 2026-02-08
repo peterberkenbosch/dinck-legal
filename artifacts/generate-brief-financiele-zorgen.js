@@ -86,7 +86,7 @@ const doc = new Document({
       p("peter@phbxholding.com", { size: 20 }),
       p("KvK: 75861097", { size: 20 }),
       p(""),
-      p("Oosterwolde, 10 februari 2026"),
+      p("Oosterwolde, 8 februari 2026"),
       p(""),
 
       // Geadresseerde
