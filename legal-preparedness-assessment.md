@@ -32,8 +32,8 @@
 
 | Kwetsbaarheid | Risiconiveau | Actie vereist |
 |---------------|-----------|---------------|
-| **Stopzetting financiering — werknemers** | **ACUUT** | Per 7 feb 2026 stopt Douwine alle operationele financiering van Dinck. Salarissen werknemers kunnen niet worden voldaan uit eigen kasstroom (ARR €6.4K). Peter is als mede-bestuurder (tot 1 maart) medeverantwoordelijk. Urgent: juridisch advies vóór 12 feb |
-| **Meeting woensdag 12 feb bij Grady Hofstra** | **ACUUT** | Vergadering bij Douwine's accountant/adviseur. Risico: toezeggingen onder druk. Peter moet weten wat hij wel/niet mag zeggen. Overweeg eigen adviseur meenemen |
+| **Stopzetting financiering — werknemers** | **ACUUT** | Per 7 feb 2026 stopt Douwine alle operationele financiering van Dinck. Salarissen werknemers kunnen niet worden voldaan uit eigen kasstroom (ARR €6.4K). Peter is als mede-bestuurder (tot 1 maart) medeverantwoordelijk. Urgent: juridisch advies vóór 11 feb |
+| **Meeting woensdag 11 feb bij Grady Hofstra** | **ACUUT** | Vergadering bij Douwine's accountant/adviseur. Risico: toezeggingen onder druk. Peter moet weten wat hij wel/niet mag zeggen. Overweeg eigen adviseur meenemen |
 | **Buitensluiting externe partij** | **HOOG** | Douwine spreekt dinsdag met "externe partij" over "mogelijke samenwerking" — Peter als mede-bestuurder niet geïnformeerd of betrokken. Risico: toezeggingen zonder Peters betrokkenheid |
 | **Risico versnelde opeising lening** | **KRITIEK** | Eerste aflossing ~€55-75K verschuldigd op 28 maart 2026; Dinck kan niet betalen; verzuim leidt tot volledige opeising. Nu versterkt: financiering gestopt, dus geen nieuwe inkomsten. Zie `analyse/geldlening-analyse.md` |
 | **Art. 7.1.g staking-trigger** | **HOOG** | Indien Peter al het werk stopt EN platform stilstaat, kan Freca de gehele lening onmiddellijk opeisen (zonder opzegtermijn). Strategische mitigatie: MO niet opzeggen vermindert "staking"-argument |
@@ -51,9 +51,9 @@
 
 ## 2. Kritieke hiaten om te adresseren
 
-### Hiaat 0: MEETING WOENSDAG 12 FEBRUARI (ACUUT)
+### Hiaat 0: MEETING WOENSDAG 11 FEBRUARI (ACUUT)
 
-Peter heeft woensdag 12 februari een meeting bij Grady Hofstra (Douwine's accountant/adviseur). Dit is de eerste ontmoeting na de stopzetting van de financiering. Dinsdag spreekt Douwine met een onbekende "externe partij" over een "mogelijke samenwerking" — Peter weet hiervan niets.
+Peter heeft woensdag 11 februari een meeting bij Grady Hofstra (Douwine's accountant/adviseur). Dit is de eerste ontmoeting na de stopzetting van de financiering. Dinsdag spreekt Douwine met een onbekende "externe partij" over een "mogelijke samenwerking" — Peter weet hiervan niets.
 
 **Risico's**:
 - Toezeggingen onder druk (bijv. over aansprakelijkheid, KTLO, leveranciersrol)
@@ -61,7 +61,7 @@ Peter heeft woensdag 12 februari een meeting bij Grady Hofstra (Douwine's accoun
 - Grady is Douwine's adviseur, niet neutraal
 
 **Actie**:
-- Juridisch advies Maud vóór woensdag (urgente vragen A1-A5 in `vragen-advocaat-maud.md`)
+- Juridisch advies Maud vóór woensdag 11 feb (urgente vragen A1-A5 in `vragen-advocaat-maud.md`)
 - Conceptbrief financiële zorgen verzenden vóór meeting (maandag/dinsdag) — zie `concepten/brief-financiele-zorgen.md`
 - Overweeg eigen adviseur meenemen
 - Voorbereiding: wat wel/niet zeggen of toezeggen
@@ -176,18 +176,18 @@ Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 30 vragen i
 
 | Prioriteit | Vragen | Reden |
 |------------|--------|-------|
-| **1 — DIRECT** | A1-A5 | Stopzetting financiering, meeting woensdag 12 feb |
+| **1 — DIRECT** | A1-A5 | Stopzetting financiering, meeting woensdag 11 feb |
 | **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 beïnvloeden Peters positie in meeting |
 | **3 — VOOR 1 MAART** | D1-D3, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
 | **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3 | Uittreding, schijnconstructie, overig |
 
-De prioriteit-1 vragen moeten idealiter **vóór woensdag 12 februari** beantwoord zijn.
+De prioriteit-1 vragen moeten idealiter **vóór woensdag 11 februari** beantwoord zijn.
 
 ---
 
 ## 5. Directe actiepunten
 
-### ACUUT — Vóór meeting woensdag 12 februari
+### ACUUT — Vóór meeting woensdag 11 februari
 
 - [ ] **Juridisch advies Maud** — urgente vragen A1-A5 uit `vragen-advocaat-maud.md` bespreken vóór woensdag
 - [ ] **Conceptbrief financiële zorgen verzenden** — maandag 10 of dinsdag 11 feb, vóór meeting. Zie `concepten/brief-financiele-zorgen.md`
@@ -249,7 +249,7 @@ Deze beoordeling is een synthese van informatie uit het volledige dossier:
 | `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie |
 | `vragen-advocaat-maud.md` | **GECONSOLIDEERD** — 30 vragen in 11 categorieën, geprioriteerd op urgentie |
-| `concepten/brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit (verzenden vóór 12 feb) |
+| `concepten/brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit (verzenden vóór 11 feb) |
 | `analyse/sha-analyse.md` | SHA-analyse (niet-werkende status) |
 | `analyse/statuten-analyse.md` | Statutenanalyse (unanimiteit, vetorecht) |
 | `analyse/strategische-opties.md` | Strategische scenario's en opties |

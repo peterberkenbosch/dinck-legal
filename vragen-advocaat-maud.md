@@ -7,7 +7,7 @@
 
 ---
 
-## URGENT — Vóór Meeting Woensdag 12 Februari
+## URGENT — Vóór Meeting Woensdag 11 Februari
 
 ### A. Stopzetting Financiering (7 feb 2026)
 
@@ -137,7 +137,7 @@
 
 ## Prioritering voor Eerste Gesprek
 
-Gezien de urgentie (meeting woensdag 12 feb, werknemersverplichtingen, vertrek per 1 maart):
+Gezien de urgentie (meeting woensdag 11 feb, werknemersverplichtingen, vertrek per 1 maart):
 
 | Prioriteit | Vragen | Reden |
 |------------|--------|-------|

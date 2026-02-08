@@ -83,7 +83,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 Douwine heeft per e-mail aangekondigd:
 - Financiering Dinck **per direct** te beëindigen (wegens "tegenslag eigen onderneming")
 - Gesprekken met **externe partij** over "mogelijke samenwerking" — Peter niet geïnformeerd
-- Meeting **woensdag 12 feb** bij Grady Hofstra op kantoor
+- Meeting **woensdag 11 feb** bij Grady Hofstra op kantoor
 
 Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee nieuwe incidenten van buitensluiting (#11 en #12). Zie `analyse/correspondentie-analyse.md`.
 
@@ -204,7 +204,7 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 
 ## H. Vervolgstappen
 
-### URGENT — Vóór meeting 12 februari
+### URGENT — Vóór meeting 11 februari
 - [ ] Geconsolideerde vragen aan Maud voorleggen — zie `vragen-advocaat-maud.md`
 - [ ] Beslissen over verzending brief financiële zorgen — zie `concepten/brief-financiele-zorgen.md`
 - [ ] Strategie meeting woensdag bepalen (eigen adviseur? wat wel/niet toezeggen?)

@@ -37,7 +37,7 @@
 
 | Bestand | Inhoud | Status |
 |---------|--------|--------|
-| `brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit | Verzenden vóór 12 feb |
+| `brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit | Verzenden vóór 11 feb |
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
 | `gespreksleidraad.md` | Gespreksleidraad voor overleg | |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |

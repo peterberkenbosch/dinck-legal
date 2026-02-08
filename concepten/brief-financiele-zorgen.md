@@ -3,7 +3,7 @@
 **Status**: CONCEPT v2 — nog niet verzonden
 **Vorige versie**: v1 (6 feb 2026) signaleerde alleen aflossingsrisico 28 maart
 **Aanleiding update**: e-mail Douwine 7 feb 2026 — stopzetting financiering per direct
-**Verzenden**: vóór meeting woensdag 12 feb (bij voorkeur maandag 9 of dinsdag 10 feb)
+**Verzenden**: vóór meeting woensdag 11 feb (bij voorkeur maandag 9 of dinsdag 10 feb)
 
 ---
 
@@ -105,7 +105,7 @@ Gelet op het voorgaande verzoek ik het bestuur en de aandeelhouders om:
 
 ## 8. Afsluiting
 
-Ik schrijf deze brief vanuit mijn verantwoordelijkheid als bestuurder van Dinck B.V. en in het belang van de vennootschap en haar werknemers. Ik merk op dat ik deze risico's reeds had geïdentificeerd vóór de mededeling van 7 februari 2026. Ik acht het van belang dat de situatie op korte termijn wordt besproken en verzoek om dit te agenderen voor het overleg van woensdag 12 februari.
+Ik schrijf deze brief vanuit mijn verantwoordelijkheid als bestuurder van Dinck B.V. en in het belang van de vennootschap en haar werknemers. Ik merk op dat ik deze risico's reeds had geïdentificeerd vóór de mededeling van 7 februari 2026. Ik acht het van belang dat de situatie op korte termijn wordt besproken en verzoek om dit te agenderen voor het overleg van woensdag 11 februari.
 
 Met vriendelijke groet,
 
@@ -134,7 +134,7 @@ Bestuurder Dinck B.V.
 >
 > Bijgaand tref je mijn brief aan waarin ik als bestuurder van Dinck B.V. een aantal financiële risico's signaleer, mede naar aanleiding van de mededeling van 7 februari jl. over de stopzetting van de financiering.
 >
-> Ik verzoek om een schriftelijke reactie vóór 1 maart 2026 en stel voor dit te bespreken in het overleg van woensdag 12 februari.
+> Ik verzoek om een schriftelijke reactie vóór 1 maart 2026 en stel voor dit te bespreken in het overleg van woensdag 11 februari.
 >
 > Met vriendelijke groet,
 >
@@ -153,7 +153,7 @@ Bestuurder Dinck B.V.
 | **Urgentie** | Toekomstig risico (7 weken) | Acuut risico (werknemers nu) |
 | **Tegenstrijdig belang** | Theoretisch benoemd | Bewezen door handeling (financiering gestopt als schuldeiser terwijl bestuurder schuldenaar) |
 | **Informatievraag** | Niet aanwezig | Externe partij — mede-bestuurder niet geïnformeerd |
-| **Timing verzending** | Na memo Maud | Vóór meeting woensdag 12 feb |
+| **Timing verzending** | Na memo Maud | Vóór meeting woensdag 11 feb |
 
 ### Waarom Deze Brief (ongewijzigd + nieuw)
 
