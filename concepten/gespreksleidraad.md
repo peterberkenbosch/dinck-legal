@@ -45,7 +45,14 @@ Als Douwine/Grady bezwaar maakt: "Dan stel ik voor dat we beiden aantekeningen m
 |-------------|-----------------|
 | "Dat lossen we wel op" | "Graag concreet. Wanneer en hoe? De werknemers hebben recht op zekerheid." |
 | "Dinck moet eigen omzet genereren" | "De ARR is €6.400 per jaar. Dat is onvoldoende voor één maand salaris." |
-| "Dat is ook jouw verantwoordelijkheid als bestuurder" | "Daarom heb ik de risico's schriftelijk gesignaleerd in mijn brief van [datum]. Wat is jouw voorstel om dit op te lossen?" |
+| "Dat is ook jouw verantwoordelijkheid als bestuurder" | "Daarom heb ik de risico's schriftelijk gesignaleerd in mijn brief van 8 februari. Wat is jouw voorstel om dit op te lossen?" |
+
+**Werknemers informeren — als dit ter sprake komt**:
+
+| Douwine/Grady zegt | Peter antwoordt |
+|-------------|-----------------|
+| "Heb je de werknemers al geïnformeerd?" | "Ik heb de risico's als bestuurder gesignaleerd bij de AVA. Over de communicatie naar werknemers wil ik eerst juridisch advies, juist om zorgvuldig te handelen." |
+| "Jij moet de werknemers inlichten" | "Die verantwoordelijkheid rust op het bestuur. Dat zijn wij beiden. Laten we dat samen en zorgvuldig doen." |
 
 **Kernpunt**: Als de financiering niet hervat wordt en er geen alternatief is, kunnen de salarissen niet worden betaald. Bij onbetaalde lonen hebben werknemers het recht om het faillissement van Dinck aan te vragen. Het UWV vangt werknemers dan op via de loongarantieregeling.
 
@@ -54,7 +61,7 @@ Als Douwine/Grady bezwaar maakt: "Dan stel ik voor dat we beiden aantekeningen m
 
 ### 2b. Externe partij — informatierecht mede-bestuurder
 
-> "In dezelfde mail noem je gesprekken met een externe partij over mogelijke samenwerking. Ik ben daar als mede-bestuurder niet over geïnformeerd. Wie is die partij, en wat wordt er besproken?"
+> "In je mail van 7 februari noemde je gesprekken met een externe partij over mogelijke samenwerking, afgelopen dinsdag. Ik ben daar als mede-bestuurder niet over geïnformeerd. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
 
 **Verwachte reacties en counters**:
 
@@ -177,7 +184,7 @@ Dit geldt voor:
 
 ## 8. Checklist voorbereiding
 
-- [ ] Brief financiële zorgen verzonden (vóór de meeting!)
+- [x] Brief financiële zorgen verzonden (8 februari 2026)
 - [ ] Opname-app getest en opgeladen
 - [ ] Juridisch advies Maud ontvangen (idealiter vóór meeting; anders: niets toezeggen)
 - [ ] Dit document doorgelezen
