@@ -19,6 +19,7 @@ Van Emstweg 85
 
 **Kopie aan:**
 - Douwine Koopman (mede-bestuurder Dinck B.V.)
+- Marlou Woltmeijer (aandeelhouder Dinck B.V.)
 
 ---
 
