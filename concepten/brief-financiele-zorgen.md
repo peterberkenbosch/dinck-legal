@@ -1,4 +1,4 @@
-# Brief Financiële Zorgen — Continuïteit Dinck B.V.
+# Brief financiële zorgen — continuïteit Dinck B.V.
 
 **Status**: CONCEPT v2 — nog niet verzonden
 **Vorige versie**: v1 (6 feb 2026) signaleerde alleen aflossingsrisico 28 maart
@@ -41,13 +41,13 @@ Het addendum op de overeenkomst van geldlening d.d. 31 december 2024 stelt de ma
 
 Ik constateer dat door de jaarlijkse rente van 5% over het uitstaande bedrag (geschat ~€23.000 per jaar) deze limiet naar verwachting in de loop van 2026 zal worden bereikt of overschreden, zonder dat er nieuwe opnames plaatsvinden.
 
-## 2. Naderende Eerste Aflossing
+## 2. Naderende eerste aflossing
 
 Op grond van het addendum d.d. 31 december 2024 is de eerste aflossing verschuldigd op **28 maart 2026**. Het verschuldigde bedrag bedraagt 1/9e van het uitstaande bedrag, vermeerderd met 5% rente. Op basis van het huidige saldo komt dit neer op een geschat bedrag van **€55.000 tot €75.000**.
 
 De huidige jaaromzet (ARR) van Dinck B.V. bedraagt circa **€6.400**. De vennootschap beschikt niet over voldoende operationele kasstromen om deze aflossing te voldoen.
 
-## 3. Stopzetting Operationele Financiering
+## 3. Stopzetting operationele financiering
 
 Op 7 februari 2026 heeft mede-bestuurder Douwine Koopman per e-mail medegedeeld dat de financiering van Dinck B.V. met onmiddellijke ingang wordt beëindigd, wegens een tegenslag binnen haar eigen onderneming.
 
@@ -59,7 +59,7 @@ Ik constateer het volgende:
 
 Als bestuurder acht ik het mijn plicht deze situatie te signaleren. De vennootschap dient haar werkgeversverplichtingen na te komen en ik verzoek om op korte termijn duidelijkheid over hoe dit wordt geborgd.
 
-## 4. Informatieverzoek Mede-Bestuurder
+## 4. Informatieverzoek mede-bestuurder
 
 In dezelfde e-mail wordt melding gemaakt van gesprekken met een "externe partij" over een "mogelijke samenwerking", die komende dinsdag zouden plaatsvinden. Als mede-bestuurder van Dinck B.V. ben ik hierover niet vooraf geïnformeerd en niet betrokken bij de voorbereiding van deze gesprekken.
 
@@ -70,7 +70,7 @@ Ik verzoek om als mede-bestuurder te worden geïnformeerd over:
 
 Ik wijs erop dat besluiten over samenwerkingen, herstructureringen of overdracht van bedrijfsactiviteiten de betrokkenheid van het voltallige bestuur en — waar nodig — de goedkeuring van de algemene vergadering vereisen.
 
-## 5. Juridische Gevolgen bij Niet-Betaling Aflossing
+## 5. Juridische gevolgen bij niet-betaling aflossing
 
 Ik wijs op de volgende bepalingen uit de overeenkomst van geldlening:
 
@@ -80,7 +80,7 @@ Ik wijs op de volgende bepalingen uit de overeenkomst van geldlening:
 
 Het risico dat de volledige schuld aan Freca B.V. in één keer opeisbaar wordt, brengt een reëel continuïteitsrisico voor de vennootschap met zich mee.
 
-## 6. Tegenstrijdig Belang
+## 6. Tegenstrijdig belang
 
 Ik breng onder uw aandacht dat bij besluitvorming over deze kwesties sprake is van een tegenstrijdig belang in de zin van artikel 2:239 lid 6 BW:
 
