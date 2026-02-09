@@ -1,4 +1,4 @@
-# Vragen voor Advocaat — Maud van der Zee (Omnius)
+# Juridische vragen — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
 **Bijgewerkt**: 9 februari 2026 (n.a.v. nieuwe ontwikkelingen)
