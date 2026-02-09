@@ -6,7 +6,7 @@
 **Bijlagen**:
 - E-mail Douwine 6 feb 2026 + mijn reacties (PDF)
 - Brief financiële zorgen aan AVA Dinck B.V. (PDF)
-- Volledige vragenlijst advocaat (31 vragen, 11 categorieën)
+- Juridische vragen (31 vragen, 11 categorieën)
 
 ---
 
