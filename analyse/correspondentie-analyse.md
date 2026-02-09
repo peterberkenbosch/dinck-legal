@@ -40,6 +40,13 @@
 | 18 | **8 feb 2026** | **Peter (peter@phbxholding.com)** | **AVA Dinck B.V. (douwine@dagendou.nl, m.gorter@dagendou.nl)** | **douwine@dinck.nl, peter@dinck.nl** | — | **Brief financiële zorgen — signalering risico's en continuïteit (apart verzonden, nieuwe thread, Grady bewust niet in CC)** |
 | 19 | **9 feb 2026** | **Douwine** | **Marlou, Peter** | — | — | **Bevestiging meeting woensdag 12:30 bij Grady Hofstra. Adres: Bareldsburglaan 4-5, Oosterwolde. Geen inhoudelijke reactie op brief financiële zorgen.** |
 
+**Observaties bij #19 — Douwine's bevestigingsmail 9 feb:**
+
+1. **Aanhef "Marlou en Peter"** — Marlou wordt als eerste genoemd, Peter als tweede. Positioneert Peter als bijfiguur, terwijl hij mede-bestuurder en medetekenbevoegd is.
+2. **Geen inhoudelijke reactie op brief financiële zorgen** — De brief van 8 februari (entry #18) wordt niet erkend, niet beantwoord, niet weersproken. Stillzwijgen kan later tegen Douwine werken: de risico's zijn gesignaleerd en niet betwist.
+3. **Ondertekening met alle vier entiteiten** — Douwine tekent namens VDenD, Freca B.V., Dinck B.V. én persoonlijk. Bevestigt het patroon van vervaging tussen haar privébelangen en de vennootschap. Relevant voor tegenstrijdig belang (Art. 2:239 lid 6 BW).
+4. **"Ik vertrouw erop jullie daar te treffen"** — Aanname van aanwezigheid in plaats van verzoek. Past in het patroon van eenzijdige regie: locatie (haar accountant), tijdstip (haar keuze), agenda (onbekend).
+
 ---
 
 ## 2. Nieuwe Details uit Bronanalyse
