@@ -38,6 +38,7 @@
 | 16 | **6 feb 2026, 18:35** | **Douwine** | **Peter** | **Grady, Marlou** | — | **Financiering Dinck "per direct" beëindigd, externe partij dinsdag, meeting woensdag bij Grady** |
 | 17 | **8 feb 2026** | **Peter (info@phbxholding.com)** | **Douwine (douwine@dagendou.nl)** | **Grady, Marlou** | — | **Bevestiging meeting woensdag, vraagt tijdstip. "Inhoudelijk reageer ik separaat."** |
 | 18 | **8 feb 2026** | **Peter (peter@phbxholding.com)** | **AVA Dinck B.V. (douwine@dagendou.nl, m.gorter@dagendou.nl)** | **douwine@dinck.nl, peter@dinck.nl** | — | **Brief financiële zorgen — signalering risico's en continuïteit (apart verzonden, nieuwe thread, Grady bewust niet in CC)** |
+| 19 | **9 feb 2026** | **Douwine** | **Marlou, Peter** | — | — | **Bevestiging meeting woensdag 12:30 bij Grady Hofstra. Adres: Bareldsburglaan 4-5, Oosterwolde. Geen inhoudelijke reactie op brief financiële zorgen.** |
 
 ---
 
