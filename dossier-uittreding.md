@@ -1,5 +1,7 @@
 # Dossier Uittreding Dinck B.V.
 
+**Bijgewerkt**: 9 februari 2026
+
 ## 1. Situatieschets
 
 ### 1.1 Partijen
@@ -333,6 +335,10 @@ Kort, zakelijk, zonder hooks:
 | 1 feb | Douwine → Peter | CC: Grady + **Marlou** (door Douwine toegevoegd) |
 | 2 feb | Peter → Douwine | CC: **Marlou** (door Peter behouden) |
 | 6 feb | Douwine → Peter | CC: Grady + **Marlou** (financiering stopgezet) |
+| 8 feb | Peter → Douwine | CC: Grady + Marlou (bevestiging meeting, vraagt tijdstip) |
+| 8 feb | Peter → AVA Dinck | CC: peter@dinck.nl, douwine@dinck.nl (brief financiële zorgen, Grady bewust niet in CC) |
+| 9 feb | Douwine → Marlou, Peter | Bevestiging meeting wo 12:30, Bareldsburglaan 4-5, Oosterwolde. Geen reactie op brief. |
+| 9 feb | Peter → Maud (Omnius) | Update + 6 urgente vragen, bijlagen: e-mail + brief + vragenlijst (zaak #547764) |
 
 De originele ontslagbrief ging alleen naar Douwine. Marlou hoorde er pas van toen Douwine haar op 1 februari in CC zette.
 
@@ -379,7 +385,7 @@ Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwi
 Douwine kondigt aan:
 1. **"Per direct"** financiering van Dinck beëindigen wegens "aanzienlijke tegenslag" in eigen onderneming (VDenD)
 2. **Dinsdag** gesprekken met "externe partij" over "mogelijke samenwerking" — Peter niet geïnformeerd, niet betrokken
-3. **Woensdag** meeting bij Grady Hofstra op kantoor, 12:00 of 13:00
+3. **Woensdag 11 feb, 12:30** meeting bij Grady Hofstra, Bareldsburglaan 4-5, Oosterwolde
 4. Benadrukt dat dit "volkomen los staat van de laatste ontwikkelingen binnen het bestuur"
 
 #### Wat Dit Betekent
@@ -513,6 +519,9 @@ Douwine stopt als directeur VDenD/Freca (schuldeiser) de financiering, terwijl z
 - [x] Brief financiële zorgen verzonden (8 feb 2026) - zie `concepten/brief-financiele-zorgen.md`
 - [x] Meeting woensdag 11 feb bevestigd per email (8 feb 2026)
 - [x] Reactie op Douwine's email 6 feb — kort bevestigd, inhoudelijke reactie via brief
+- [x] Update-email aan Maud van der Zee (Omnius, zaak #547764) met 6 urgente vragen + bijlagen (9 feb 2026)
+- [x] Douwine's bevestiging ontvangen: meeting wo 11 feb 12:30, Bareldsburglaan 4-5, Oosterwolde (9 feb 2026)
+- [ ] Juridisch advies Maud ontvangen (idealiter vóór meeting wo 11 feb)
 
 ### Na 1 maart 2026
 
