@@ -185,15 +185,52 @@ Douwine kocht een nieuwe locatie in Appelscha voor haar kinderopvangbedrijf Voor
 
 ---
 
+### 11. Eenzijdige Stopzetting Operationele Financiering
+
+| Veld | Waarde |
+|------|--------|
+| Datum | 6 februari 2026 |
+| Categorie | Financieel / Bestuurlijk |
+| Bewijs | E-mail Douwine 6 feb 2026 18:35 |
+
+**Beschrijving**:
+Douwine besloot als directeur van VDenD/Freca (schuldeiser) de operationele financiering van Dinck B.V. per direct te beëindigen. De salarissen van Dinck's werknemers werden tot op heden gefinancierd via stortingen vanuit VDenD. Dinck heeft zelf onvoldoende kasstroom (ARR €6.400 per jaar) om lonen te betalen. Het besluit werd eenzijdig genomen — zonder voorafgaand overleg met Peter als mede-bestuurder.
+
+**Citaat Douwine**:
+> "Helaas moet ik jullie informeren dat er een aanzienlijke tegenslag is in mijn eigen onderneming, als gevolg hiervan zal ik de financiering van Dinck per direct moeten beëindigen."
+
+**Analyse**: Dit is het meest ingrijpende incident tot dusver. Douwine handelt hier als directeur van de financierende entiteiten (VDenD/Freca) terwijl zij als bestuurder van Dinck het voortbestaan van de vennootschap zou moeten beschermen. Het tegenstrijdig belang (Art. 2:239 lid 6 BW) is hier niet langer theoretisch — het is bewezen door haar eigen handeling. Het besluit bedreigt direct het voortbestaan van Dinck en de positie van haar werknemers.
+
+---
+
+### 12. Gesprekken Externe Partij Zonder Informatie Mede-Bestuurder
+
+| Veld | Waarde |
+|------|--------|
+| Datum | 6 februari 2026 (bekendmaking); gesprekken dinsdag 10 feb 2026 |
+| Categorie | Bestuurlijk / Strategisch |
+| Bewijs | E-mail Douwine 6 feb 2026 18:35 |
+
+**Beschrijving**:
+In dezelfde e-mail meldde Douwine dat zij gesprekken voert met een "externe partij" over een "mogelijke samenwerking", gepland op dinsdag 10 februari. Peter was als mede-bestuurder niet vooraf geïnformeerd over het bestaan van deze gesprekken, de identiteit van de partij, de aard van de samenwerking, of eventuele voorwaarden. Peter is nog bestuurder tot 1 maart 2026.
+
+**Citaat Douwine**:
+> "Afgelopen dinsdag heeft er een eerste gesprek plaatsgevonden met een partij die mogelijk wilt participeren of op een andere manier betrokken wilt worden bij Dinck. Dit zijn verkennende gesprekken en ik zal jullie hier over informeren zodra er meer duidelijkheid is."
+
+**Analyse**: Dit illustreert de escalatie van het buitensluitingspatroon: van operationele beslissingen (incidenten 1-10) naar strategische besluitvorming over het voortbestaan en de toekomst van de vennootschap. Peter, als mede-bestuurder én aandeelhouder met vetorecht (Art. 8.6 lid 2 statuten), wordt geconfronteerd met een fait accompli. Elk AVA-besluit over samenwerking, participatie of herstructurering vereist zijn instemming — maar hij wordt niet eens geïnformeerd over de gesprekken.
+
+---
+
 ## Patroon van Buitensluiting
 
 | Categorie | Voorbeelden |
 |-----------|-------------|
-| Financiële beslissingen | Management fee, jaarrekening, prognoses |
+| Financiële beslissingen | Management fee, jaarrekening, prognoses, **stopzetting financiering** |
 | Aandeelhouderszaken | Overdracht zonder informatie, €190K claim |
 | Personeelszaken | Mutaties niet gecommuniceerd |
 | Communicatie | Eenzijdige vergaderingen, beschuldigingen |
 | Operationeel | Niet verschijnen overleg, detachering zonder overleg, verhuizing zonder overleg |
-| Bestuurlijk | Adreswijziging en vestiging in pand eigen vennootschap zonder bestuurlijk overleg |
+| Bestuurlijk | Adreswijziging zonder overleg, **externe partij gesprekken zonder mede-bestuurder** |
+| Tegenstrijdig belang | **Financiering gestopt als schuldeiser, terwijl bestuurder van schuldenaar** |
 
-**Conclusie**: 10 gedocumenteerde incidenten over ~14 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder.
+**Conclusie**: 12 gedocumenteerde incidenten over ~16 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder. De incidenten escaleren in ernst: van informatie-achterstelling (2024-2025) naar eenzijdige financiële beslissingen die het voortbestaan van de vennootschap bedreigen (februari 2026).

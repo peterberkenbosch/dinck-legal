@@ -13,21 +13,23 @@
 
 Grady is Douwine's accountant en adviseur. Hij is geen mediator. Behandel alles wat in deze meeting wordt gezegd alsof het in een juridische procedure kan worden gebruikt — want dat kan.
 
-### Marlou is aanwezig
+### Marlou spreekt met Douwine's stem
 
-Douwine's bevestigingsmail is gericht aan "Marlou en Peter" — Marlou zit er dus bij. Marlou is formeel aandeelhouder (66,7% via overdracht Freca), maar feitelijk stroman en werknemer van Douwine. Verwacht niet dat zij een onafhankelijke positie inneemt. Als Marlou het woord neemt:
+Douwine's bevestigingsmail is gericht aan "Marlou en Peter" — Marlou zit er dus bij. Marlou is formeel aandeelhouder (66,7% via overdracht Freca), maar feitelijk stroman en werknemer van Douwine. **Alles wat Marlou zegt, komt van Douwine.** Behandel haar bijdragen als Douwine's positie. Verwacht niet dat zij een onafhankelijke positie inneemt.
 
-> "Spreek je nu als aandeelhouder van Dinck, of namens Douwine?"
+Bij alles wat Marlou zegt, denk: *"Dit is Douwine's boodschap via een andere mond."*
 
-Dit hoeft Peter niet te vragen — maar het is goed om in het achterhoofd te houden bij alles wat Marlou zegt.
+Niet corrigeren, niet confronteren — gewoon weten. Als Marlou iets toezegt of voorstelt, geldt hetzelfde als voor Douwine: niets toezeggen, alles meenemen.
 
-### Grady als "objectieve" adviseur
+### Grady is Douwine's adviseur — niet neutraal, niet objectief
+
+Grady Hofstra is Douwine's accountant, de meeting is op zijn kantoor, en het gesprek vindt plaats op Douwine's terrein. Dit is geen mediatie. Grady is een partijadviseur — zijn berekeningen, waarderingen en voorstellen dienen Douwine's belang.
 
 Als Grady berekeningen, waarderingen of voorstellen presenteert alsof die objectief zijn:
 
 > "Grady, je bent Douwine's adviseur. Ik neem je inbreng ter kennisgeving aan, maar voor objectieve waarderingen voorzien de statuten in drie onafhankelijke deskundigen."
 
-Niet in discussie gaan over Grady's cijfers. Noteren, meenemen, later laten toetsen.
+Niet in discussie gaan over Grady's cijfers. Noteren, meenemen, later laten toetsen door Maud of een eigen adviseur.
 
 ### Opname melden
 
@@ -104,7 +106,15 @@ Als Douwine/Grady bezwaar maakt: "Dan stel ik voor dat we beiden aantekeningen m
 
 ---
 
-## 3. Grenzen — wat Peter NIET zegt of toezegt
+## 3. DE GOUDEN REGEL: Nergens aan committen
+
+**Doel van deze meeting is LUISTEREN, niet BESLISSEN.**
+
+Peter gaat naar huis met informatie, niet met verplichtingen. Elk voorstel — hoe redelijk het ook klinkt — gaat eerst langs Maud. Geen uitzonderingen.
+
+**Onthoud**: Marlou = Douwine's stem. Grady = Douwine's adviseur. Jij bent de enige in de kamer die jouw belang dient.
+
+### Wat Peter NIET zegt of toezegt
 
 | Absoluut niet | Reden |
 |---------------|-------|
@@ -116,6 +126,7 @@ Als Douwine/Grady bezwaar maakt: "Dan stel ik voor dat we beiden aantekeningen m
 | Dreigen met faillissement | Niet nodig — de feiten spreken voor zich |
 | Oordeel over Douwine's "tegenslag" bij VDenD | Op face value nemen, geen speculatie |
 | Reageren op provocaties of beschuldigingen | Zakelijk blijven. "Dat is jouw interpretatie. Ik houd me aan de feiten." |
+| Akkoord gaan met "we spreken af dat..." | Alles schriftelijk, alles via adviseur |
 
 ---
 
@@ -177,6 +188,14 @@ Niet reageren, maar informatie verzamelen. Stel deze vragen:
 
 Niet doorvragen naar de aard van de tegenslag. Op face value nemen. De focus terugbrengen naar Dinck's verplichtingen.
 
+### Marlou neemt het woord / doet een voorstel
+
+Marlou kan worden ingezet om voorstellen "zachter" te laten klinken of om te doen alsof er een onafhankelijke stem is. Onthoud: zij spreekt met Douwine's stem.
+
+> Luisteren, noteren, niet inhoudelijk reageren. Behandel het als Douwine's voorstel.
+
+Als Marlou iets toezegt namens de AVA: "Dat is goed om te horen. Ik wil het graag schriftelijk ontvangen zodat ik het kan laten toetsen."
+
 ### Emotionele druk / beschuldigingen
 
 > "Ik begrijp dat dit een moeilijke situatie is. Ik wil dit zakelijk en constructief oplossen. Laten we bij de feiten blijven."
@@ -185,18 +204,20 @@ Niet doorvragen naar de aard van de tegenslag. Op face value nemen. De focus ter
 
 ## 6. Peters positie van kracht samengevat
 
-**Voor eigen referentie — niet uitspreken tenzij nodig:**
+**Voor eigen referentie — niet uitspreken tenzij nodig. Dit is waarom je sterk zit:**
 
 | Drukmiddel | Status |
 |-----------|--------|
-| Vetorecht (Art. 8.6 lid 2) | Blokkeert elke AVA-beslissing |
-| Platformafhankelijkheid | Vervangingskosten €250-350K |
-| 12 gedocumenteerde uitsluitingsincidenten | Grondslag Art. 2:343 (uittreding vorderen) |
-| Brief financiële zorgen | Signaleerplicht vervuld |
+| Vetorecht (Art. 8.6 lid 2) | Blokkeert elke AVA-beslissing — geen deal met externe partij zonder jou |
+| Platformafhankelijkheid | Vervangingskosten €250-350K, alleen Peter kan het onderhouden |
+| 12 gedocumenteerde uitsluitingsincidenten | Grondslag Art. 2:343 (uittreding vorderen), escalerend patroon |
+| Brief financiële zorgen | Signaleerplicht vervuld — je bent een diligente bestuurder |
 | Ongerechtvaardigde verrijking | €108-180K aan onbetaald werk |
-| MO niet opgezegd | Vrijwaring (Art. 4.2) nog actief |
-| SHA niet-werkend | Geen non-concurrentiebeding |
-| Art. 3.1 schending | Formeel alleen PHBX's fee gewijzigd |
+| MO niet opgezegd | Vrijwaring (Art. 4.2) nog actief, recht op opschorting (Art. 6:262 BW) |
+| SHA niet-werkend | Geen non-concurrentiebeding afdwingbaar |
+| Art. 3.1 schending | Formeel alleen PHBX's fee gewijzigd — ongelijke behandeling |
+| Tegenstrijdig belang bewezen | Douwine's eigen handeling (financiering gestopt) bewijst het |
+| Asymmetrie bij faillissement | Douwine verliest ~€612K, Peter verliest twijfelachtige equity |
 
 ---
 
