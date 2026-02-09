@@ -8,11 +8,11 @@
 
 | Bestand | Inhoud | Status |
 |---------|--------|--------|
-| `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, ontwikkelingen | Actueel (6 feb) |
+| `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, ontwikkelingen | Actueel (9 feb) |
 | `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's | Actueel (6 feb) |
 | `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling | Actueel (6 feb) |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
-| `vragen-advocaat-maud.md` | 30 geconsolideerde vragen voor Maud (11 categorieën A-K) | Actueel (6 feb) |
+| `vragen-advocaat-maud.md` | 31 juridische vragen voor Maud (11 categorieën A-K) | Actueel (9 feb) |
 | `incident-register.md` | 12 gedocumenteerde uitsluitingsincidenten | Actueel (6 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 
@@ -23,7 +23,7 @@
 | Bestand | Inhoud |
 |---------|--------|
 | `bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch: bestuurdersontslag beëindigt MO niet automatisch |
-| `correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (incl. e-mail 6 feb stopzetting financiering) |
+| `correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (19 entries t/m 9 feb, incl. observaties) |
 | `geldlening-analyse.md` | Leningsovereenkomst + addendum (opeisbaarheid, €500K limiet, aflossing) |
 | `managementovereenkomst-analyse.md` | Managementovereenkomsten + AVA-notulen (incl. Art. 3.1 bevinding) |
 | `notariele-akte-analyse.md` | Notariële akte aandelenoverdracht Freca → Marlou |
@@ -38,9 +38,10 @@
 
 | Bestand | Inhoud | Status |
 |---------|--------|--------|
-| `brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit | Verzenden vóór 11 feb |
+| `brief-financiele-zorgen.md` | Brief financiële zorgen — signalering risico's en continuïteit | Verzonden 8 feb 2026 |
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
-| `gespreksleidraad.md` | Gespreksleidraad meeting woensdag 11 feb bij Grady Hofstra | Actueel (8 feb) |
+| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb 12:30, Grady Hofstra, Oosterwolde | Actueel (9 feb) |
+| `email-maud-update-9feb.md` | Update-email aan Maud van der Zee (Omnius, zaak #547764) | Verzonden 9 feb 2026 |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
 
@@ -97,4 +98,7 @@ Eerder gegenereerde .docx versies van conceptdocumenten. Gegenereerd via `genera
 | `Dossier_Uittreding_Dinck_BV.docx` | `dossier-uittreding.md` |
 | `Dossier_Juridische_Analyse_Feb2026.docx` | `juridische-analyse.md` |
 | `legal-consult-overview.docx` | `legal-consult-overview.md` |
-| `legal-consult-questions.docx` | Verouderd — vervangen door `vragen-advocaat-maud.md` |
+| `Brief_Financiele_Zorgen_Dinck_BV.docx` | `concepten/brief-financiele-zorgen.md` |
+| `Brief_Financiele_Zorgen_Dinck_BV.pdf` | PDF-versie van bovenstaande |
+| `Vragen_Maud_van_der_Zee.docx` | `vragen-advocaat-maud.md` |
+| `legal-consult-questions.docx` | Verouderd — vervangen door `Vragen_Maud_van_der_Zee.docx` |
