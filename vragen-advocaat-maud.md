@@ -133,6 +133,8 @@
 
 **K1.** Heeft Freca jaarlijkse saldo-overzichten verstrekt (Art. 9 leningsovereenkomst)? Heeft Dinck tijdig bezwaar gemaakt? Zo niet, is het saldo juridisch vastgesteld?
 
+> **Feitelijk**: Nee, Freca heeft geen jaarlijkse saldo-overzichten verstrekt. Dinck heeft geen bezwaar gemaakt. Er is geen juridisch vastgesteld saldo — het huidige saldo komt uitsluitend uit de Snelstart-boekhouding.
+
 **K2.** Is Art. 11.3 (uitsluiting ontbinding leningsovereenkomst) houdbaar? Kan de overeenkomst desondanks worden aangetast?
 
 **K3.** Is er aanleiding om de Belastingdienst te informeren over de mogelijk hogere waarde van de aandelen bij de €1 overdracht? Kan dit indirect druk zetten?
