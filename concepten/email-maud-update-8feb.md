@@ -6,6 +6,7 @@
 **Bijlagen**:
 - E-mail Douwine 7 feb 2026 + mijn reacties (PDF)
 - Brief financiële zorgen aan AVA Dinck B.V. (PDF)
+- Volledige vragenlijst advocaat (31 vragen, 11 categorieën)
 
 ---
 
@@ -42,7 +43,7 @@ Ik heb de volgende vragen die idealiter beantwoord zijn vóór de meeting van wo
 
 6. **Managementovereenkomst**: Mijn bestuurdersontslag per 1 maart beëindigt de managementovereenkomst niet automatisch. Is het strategisch raadzaam om de MO juist niet op te zeggen? De vrijwaring (Art. 4.2) blijft dan actief en het argument van ongerechtvaardigde verrijking loopt door.
 
-Het volledige vragenbestand met alle 31 vragen heb ik eerder gedeeld. Bovenstaande zes zijn het meest urgent gezien de meeting van woensdag.
+Het volledige vragenbestand met alle 31 vragen zit in de bijlage. Bovenstaande zes zijn het meest urgent gezien de meeting van woensdag.
 
 Zou je me laten weten of je hier vóór woensdag op kunt reageren, al dan niet telefonisch?
 
