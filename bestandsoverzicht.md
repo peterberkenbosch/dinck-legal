@@ -1,6 +1,6 @@
 # Dossier Dinck B.V. — Bestandsoverzicht
 
-**Bijgewerkt**: 9 februari 2026
+**Bijgewerkt**: 9 februari 2026 (avond)
 
 ---
 
@@ -13,7 +13,7 @@
 | `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling | Actueel (6 feb) |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
 | `vragen-advocaat-maud.md` | 31 juridische vragen voor Maud (11 categorieën A-K) | Actueel (9 feb) |
-| `incident-register.md` | 12 gedocumenteerde uitsluitingsincidenten | Actueel (6 feb) |
+| `incident-register.md` | 12 gedocumenteerde uitsluitingsincidenten (incl. #11 financiering + #12 externe partij) | Actueel (9 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 
 ---
@@ -40,7 +40,8 @@
 |---------|--------|--------|
 | `brief-financiele-zorgen.md` | Brief financiële zorgen — signalering risico's en continuïteit | Verzonden 8 feb 2026 |
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
-| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb 12:30, Grady Hofstra, Oosterwolde | Actueel (9 feb) |
+| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (9 secties) | Actueel (9 feb, definitief) |
+| `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — drie regels, counters, kracht | Actueel (9 feb) |
 | `email-maud-update-9feb.md` | Update-email aan Maud van der Zee (Omnius, zaak #547764) | Verzonden 9 feb 2026 |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
@@ -100,5 +101,7 @@ Eerder gegenereerde .docx versies van conceptdocumenten. Gegenereerd via `genera
 | `legal-consult-overview.docx` | `legal-consult-overview.md` |
 | `Brief_Financiele_Zorgen_Dinck_BV.docx` | `concepten/brief-financiele-zorgen.md` |
 | `Brief_Financiele_Zorgen_Dinck_BV.pdf` | PDF-versie van bovenstaande |
+| `Meeting_Cheatsheet_11Feb.pdf` | PDF 2-pager meeting cheatsheet (compact, printbaar) |
+| `Gespreksleidraad_11Feb.pdf` | PDF gespreksleidraad (4 pagina's, volledig draaiboek) |
 | `Vragen_Maud_van_der_Zee.docx` | `vragen-advocaat-maud.md` |
 | `legal-consult-questions.docx` | Verouderd — vervangen door `Vragen_Maud_van_der_Zee.docx` |
