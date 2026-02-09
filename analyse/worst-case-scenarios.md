@@ -1,7 +1,7 @@
 # Analyse: Worst-Case Scenario's — Stopzetting Financiering, Werkstaking, Faillissement
 
 **Datum analyse**: 8 februari 2026
-**Aanleiding**: Stopzetting operationele financiering Dinck B.V. door Douwine per 7 feb 2026
+**Aanleiding**: Stopzetting operationele financiering Dinck B.V. door Douwine per 6 feb 2026
 **Kernvraag**: Wat als Peter alle werkzaamheden stopt, werknemers niet meer betaald kunnen worden, en faillissement de enige uitweg is?
 
 ---

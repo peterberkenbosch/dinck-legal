@@ -75,7 +75,7 @@ Dit maakt de situatie nog schrijnender: Douwine handhaaft de fulltime verplichti
 
 **Analyse**: Deze clausule staat in BEIDE overeenkomsten.
 
-**KRITIEKE BEVINDING (7 feb 2026)**: Het AVA-besluit van 30 november 2024 wijzigt **uitsluitend** de managementovereenkomst met PHBX Holding. Freca's managementovereenkomst wordt niet genoemd — niet in het agendapunt, niet in het besluit, niet in de herlevingsclausule. Er is **geen formeel besluit** dat Freca's fee wijzigt.
+**KRITIEKE BEVINDING (6 feb 2026)**: Het AVA-besluit van 30 november 2024 wijzigt **uitsluitend** de managementovereenkomst met PHBX Holding. Freca's managementovereenkomst wordt niet genoemd — niet in het agendapunt, niet in het besluit, niet in de herlevingsclausule. Er is **geen formeel besluit** dat Freca's fee wijzigt.
 
 **Feitelijke vs. juridische situatie:**
 

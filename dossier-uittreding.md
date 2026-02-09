@@ -35,7 +35,7 @@
 - RC Freca: formele leningsovereenkomst met specifieke voorwaarden
 - Overige posten: handelscrediteuren — ander juridisch regime
 
-**Financieringsstructuur**: Loonkosten personeel (inmiddels in dienst bij Dinck B.V.) werden door VDenD gestort op de bankrekening van Dinck, en via memoriaal geboekt op de Freca RC. Per 7 februari 2026 is deze financiering **per direct stopgezet** door Douwine (zie §5.6).
+**Financieringsstructuur**: Loonkosten personeel (inmiddels in dienst bij Dinck B.V.) werden door VDenD gestort op de bankrekening van Dinck, en via memoriaal geboekt op de Freca RC. Per 6 februari 2026 is deze financiering **per direct stopgezet** door Douwine (zie §5.6).
 
 ### 1.6 Leningsovereenkomst Freca → Dinck
 
@@ -332,7 +332,7 @@ Kort, zakelijk, zonder hooks:
 | 30 jan | Peter → Douwine | **Niet in CC** (ontslagbrief) |
 | 1 feb | Douwine → Peter | CC: Grady + **Marlou** (door Douwine toegevoegd) |
 | 2 feb | Peter → Douwine | CC: **Marlou** (door Peter behouden) |
-| 7 feb | Douwine → Peter | CC: Grady + **Marlou** (financiering stopgezet) |
+| 6 feb | Douwine → Peter | CC: Grady + **Marlou** (financiering stopgezet) |
 
 De originele ontslagbrief ging alleen naar Douwine. Marlou hoorde er pas van toen Douwine haar op 1 februari in CC zette.
 
@@ -368,9 +368,9 @@ Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwi
 | Na 1 maart | Formele correspondentie (informatierechten, AVA-verzoeken) **aan Marlou** als aandeelhouder, met Douwine in CC als bestuurder |
 | Advocaatgesprek | Bespreken of separate bevestiging van het ontslag aan Marlou wenselijk is |
 
-### 5.6 Nieuwe Ontwikkeling: Financiering Stopgezet (7 februari 2026)
+### 5.6 Nieuwe Ontwikkeling: Financiering Stopgezet (6 februari 2026)
 
-**E-mail van Douwine, 7 feb 2026 18:35, CC: Grady Hofstra, Marlou Woltmeijer**
+**E-mail van Douwine, 6 feb 2026 18:35, CC: Grady Hofstra, Marlou Woltmeijer**
 
 **Volledige analyse**: `analyse/correspondentie-analyse.md`, sectie 5
 
@@ -512,7 +512,7 @@ Douwine stopt als directeur VDenD/Freca (schuldeiser) de financiering, terwijl z
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
 - [x] Brief financiële zorgen verzonden (8 feb 2026) - zie `concepten/brief-financiele-zorgen.md`
 - [x] Meeting woensdag 11 feb bevestigd per email (8 feb 2026)
-- [x] Reactie op Douwine's email 7 feb — kort bevestigd, inhoudelijke reactie via brief
+- [x] Reactie op Douwine's email 6 feb — kort bevestigd, inhoudelijke reactie via brief
 
 ### Na 1 maart 2026
 

@@ -1,6 +1,6 @@
 # Dossier Dinck B.V. — Bestandsoverzicht
 
-**Bijgewerkt**: 7 februari 2026
+**Bijgewerkt**: 9 februari 2026
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Bestand | Inhoud | Status |
 |---------|--------|--------|
-| `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, ontwikkelingen | Actueel (7 feb) |
-| `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's | Actueel (7 feb) |
-| `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling | Actueel (7 feb) |
-| `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (7 feb) |
-| `vragen-advocaat-maud.md` | 30 geconsolideerde vragen voor Maud (11 categorieën A-K) | Actueel (7 feb) |
-| `incident-register.md` | 12 gedocumenteerde uitsluitingsincidenten | Actueel (7 feb) |
+| `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, ontwikkelingen | Actueel (6 feb) |
+| `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's | Actueel (6 feb) |
+| `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling | Actueel (6 feb) |
+| `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
+| `vragen-advocaat-maud.md` | 30 geconsolideerde vragen voor Maud (11 categorieën A-K) | Actueel (6 feb) |
+| `incident-register.md` | 12 gedocumenteerde uitsluitingsincidenten | Actueel (6 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 
 ---
@@ -23,7 +23,7 @@
 | Bestand | Inhoud |
 |---------|--------|
 | `bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch: bestuurdersontslag beëindigt MO niet automatisch |
-| `correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (incl. e-mail 7 feb stopzetting financiering) |
+| `correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (incl. e-mail 6 feb stopzetting financiering) |
 | `geldlening-analyse.md` | Leningsovereenkomst + addendum (opeisbaarheid, €500K limiet, aflossing) |
 | `managementovereenkomst-analyse.md` | Managementovereenkomsten + AVA-notulen (incl. Art. 3.1 bevinding) |
 | `notariele-akte-analyse.md` | Notariële akte aandelenoverdracht Freca → Marlou |

@@ -35,7 +35,7 @@
 | 13 | **30 jan 2026, 13:08** | **Peter (info@phbxholding.com)** | **douwine@dinck.nl** | **Douwine (douwine@dagendou.nl)** | — | **Ontslagbrief bestuurder per 1 maart 2026** |
 | 14 | **1 feb 2026, 08:55** | **Douwine (douwine@dagendou.nl)** | **Peter (info@phbxholding.com)** | **Grady, Marlou (m.gorter@dagendou.nl)** | — | **Weigering, dreigingen, feitelijke onjuistheden** |
 | 15 | **2 feb 2026, 18:00** | **Peter (info@phbxholding.com)** | **Douwine (douwine@dagendou.nl)** | **Grady, Marlou** | **Reneee (mail@reneee.nl)** | **Kort zakelijk: eenzijdige rechtshandeling, correcties** |
-| 16 | **7 feb 2026, 18:35** | **Douwine** | **Peter** | **Grady, Marlou** | — | **Financiering Dinck "per direct" beëindigd, externe partij dinsdag, meeting woensdag bij Grady** |
+| 16 | **6 feb 2026, 18:35** | **Douwine** | **Peter** | **Grady, Marlou** | — | **Financiering Dinck "per direct" beëindigd, externe partij dinsdag, meeting woensdag bij Grady** |
 | 17 | **8 feb 2026** | **Peter (info@phbxholding.com)** | **Douwine (douwine@dagendou.nl)** | **Grady, Marlou** | — | **Bevestiging meeting woensdag, vraagt tijdstip. "Inhoudelijk reageer ik separaat."** |
 | 18 | **8 feb 2026** | **Peter (peter@phbxholding.com)** | **AVA Dinck B.V. (douwine@dagendou.nl, m.gorter@dagendou.nl)** | **douwine@dinck.nl, peter@dinck.nl** | — | **Brief financiële zorgen — signalering risico's en continuïteit (apart verzonden, nieuwe thread, Grady bewust niet in CC)** |
 
@@ -159,7 +159,7 @@ Uit haar e-mailhandtekening:
 | Jan 2026 (midden) | Nogmaals data gevraagd, concreet voorstel | Erkent vertraging, belooft data → levert niet |
 | Jan 2026 (eind) | Ontslagbrief na 8 dagen stilte | — |
 | Feb 2026 (begin) | Kort, zakelijk, corrigeert onjuistheden | **Escalatie**: dreigingen, weigering, feitelijke onjuistheden |
-| Feb 2026 (7 feb) | — | **Nucleaire escalatie**: financiering per direct gestopt, externe partij zonder medeweten Peter, meeting opgelegd bij haar adviseur |
+| Feb 2026 (6 feb) | — | **Nucleaire escalatie**: financiering per direct gestopt, externe partij zonder medeweten Peter, meeting opgelegd bij haar adviseur |
 
 ---
 
@@ -203,7 +203,7 @@ Uit haar e-mailhandtekening:
 
 Het prioriteren van crediteurenbelangen boven vennootschapsbelangen is een schending van de bestuurdersplicht.
 
-### E-mail 7 februari 2026, 18:35 (Douwine → Peter, CC Grady + Marlou)
+### E-mail 6 februari 2026, 18:35 (Douwine → Peter, CC Grady + Marlou)
 
 **Volledige tekst** (kern):
 
@@ -299,13 +299,13 @@ Peter had een conceptbrief klaarliggen (`concepten/brief-financiele-zorgen.md`) 
 | Feitelijke onjuistheden Douwine | Minstens 4 aantoonbare onjuistheden in 2 e-mails | Ondermijnt geloofwaardigheid claims |
 | €190K claim | Juridisch onjuist (art. 2:175 BW) | Counter-argument gedocumenteerd |
 | "Afspraak 22 jan" | Douwine erkende zelf vertraging, beloofde data die nooit kwamen | Weerlegt haar claim van "expliciete afspraak" |
-| Belangenconflict | Door Douwine zelf bevestigd (1 feb) + herhaald in handelen (7 feb) | Ondersteunt enqueteprocedure-grond |
+| Belangenconflict | Door Douwine zelf bevestigd (1 feb) + herhaald in handelen (6 feb) | Ondersteunt enqueteprocedure-grond |
 | Peters professionaliteit | Consistent zakelijk, de-escalerend, documenterend | Sterke correspondentie-track record |
 | Vertragingspatroon | 22 dagen, 4 verzoeken Peter, 0 concrete reacties Douwine | Ondersteunt Art. 2:343 BW (onredelijk om aandeelhouder te blijven) |
 | BCC Reneee | Peter documenteert bij externe adviseur | Zorgvuldigheid |
 | dagendou.nl | Douwine handelt vanuit persoonlijke entiteiten | Bevestigt rolvermenging |
 | Lopende feature work | iOS App + Gastouder Dashboard expliciet benoemd | Bewijst onbetaalde arbeid |
 | Marlou via dagendou.nl | Werkadres, niet persoonlijk | Bevestigt stromanconstructie |
-| **Financiering per direct gestopt (7 feb)** | Douwine stopt operationele financiering als schuldeiser, terwijl ze bestuurder is | **Nieuw incident tegenstrijdig belang + buitensluiting** |
+| **Financiering per direct gestopt (6 feb)** | Douwine stopt operationele financiering als schuldeiser, terwijl ze bestuurder is | **Nieuw incident tegenstrijdig belang + buitensluiting** |
 | **Externe partij zonder medeweten Peter** | Gesprekken gepland zonder Peter te informeren of betrekken | **Nieuw incident structurele buitensluiting mede-bestuurder** |
 | **Verdachte timing disclaimer** | "Volkomen los van ontwikkelingen bestuur" — 5 weken na ontslagbrief | Ongeloofwaardig, mogelijk drukmiddel |

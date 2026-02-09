@@ -2,7 +2,7 @@
 
 **Status**: VERZONDEN op 8 februari 2026
 **Vorige versie**: v1 (6 feb 2026) signaleerde alleen aflossingsrisico 28 maart
-**Aanleiding update**: e-mail Douwine 7 feb 2026 — stopzetting financiering per direct
+**Aanleiding update**: e-mail Douwine 6 feb 2026 — stopzetting financiering per direct
 **Verzenden**: vóór meeting woensdag 11 feb (bij voorkeur maandag 9 of dinsdag 10 feb)
 
 ---
@@ -49,7 +49,7 @@ De huidige jaaromzet (ARR) van Dinck B.V. bedraagt circa **€6.400**. De vennoo
 
 ## 3. Stopzetting operationele financiering
 
-Op 7 februari 2026 heeft mede-bestuurder Douwine Koopman per e-mail medegedeeld dat de financiering van Dinck B.V. met onmiddellijke ingang wordt beëindigd, wegens een tegenslag binnen haar eigen onderneming.
+Op 6 februari 2026 heeft mede-bestuurder Douwine Koopman per e-mail medegedeeld dat de financiering van Dinck B.V. met onmiddellijke ingang wordt beëindigd, wegens een tegenslag binnen haar eigen onderneming.
 
 Ik constateer het volgende:
 
@@ -105,7 +105,7 @@ Gelet op het voorgaande verzoek ik het bestuur en de aandeelhouders om:
 
 ## 8. Afsluiting
 
-Ik schrijf deze brief vanuit mijn verantwoordelijkheid als bestuurder van Dinck B.V. en in het belang van de vennootschap en haar werknemers. Ik merk op dat ik deze risico's reeds had geïdentificeerd vóór de mededeling van 7 februari 2026. Ik acht het van belang dat de situatie op korte termijn wordt besproken en verzoek om dit te agenderen voor het overleg van woensdag 11 februari.
+Ik schrijf deze brief vanuit mijn verantwoordelijkheid als bestuurder van Dinck B.V. en in het belang van de vennootschap en haar werknemers. Ik merk op dat ik deze risico's reeds had geïdentificeerd vóór de mededeling van 6 februari 2026. Ik acht het van belang dat de situatie op korte termijn wordt besproken en verzoek om dit te agenderen voor het overleg van woensdag 11 februari.
 
 Met vriendelijke groet,
 
@@ -132,7 +132,7 @@ Bestuurder Dinck B.V.
 
 > Beste Douwine, beste Marlou,
 >
-> Bijgaand tref je mijn brief aan waarin ik als bestuurder van Dinck B.V. een aantal financiële risico's signaleer, mede naar aanleiding van de mededeling van 7 februari jl. over de stopzetting van de financiering.
+> Bijgaand tref je mijn brief aan waarin ik als bestuurder van Dinck B.V. een aantal financiële risico's signaleer, mede naar aanleiding van de mededeling van 6 februari jl. over de stopzetting van de financiering.
 >
 > Ik verzoek om een schriftelijke reactie vóór 1 maart 2026 en stel voor dit te bespreken in het overleg van woensdag 11 februari.
 >
@@ -147,7 +147,7 @@ Bestuurder Dinck B.V.
 
 ### Wat Is Veranderd t.o.v. v1
 
-| Aspect | v1 (6 feb) | v2 (7 feb) |
+| Aspect | v1 (6 feb) | v2 (6 feb) |
 |--------|-----------|-----------|
 | **Aanleiding** | Naderende aflossing 28 maart | Aflossing + acute stopzetting financiering |
 | **Urgentie** | Toekomstig risico (7 weken) | Acuut risico (werknemers nu) |

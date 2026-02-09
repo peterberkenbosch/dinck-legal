@@ -9,9 +9,9 @@
 
 ## URGENT — Vóór Meeting Woensdag 11 Februari
 
-### A. Stopzetting Financiering (7 feb 2026)
+### A. Stopzetting Financiering (6 feb 2026)
 
-**Context**: Douwine heeft per e-mail van 7 feb 2026 aangekondigd de financiering van Dinck per direct te beëindigen wegens "tegenslag in eigen onderneming." Dinck heeft werknemers in dienst en onvoldoende eigen kasstroom voor salarisverplichtingen. Zie `analyse/correspondentie-analyse.md`.
+**Context**: Douwine heeft per e-mail van 6 feb 2026 aangekondigd de financiering van Dinck per direct te beëindigen wegens "tegenslag in eigen onderneming." Dinck heeft werknemers in dienst en onvoldoende eigen kasstroom voor salarisverplichtingen. Zie `analyse/correspondentie-analyse.md`.
 
 **A1.** Kan Douwine als bestuurder van VDenD/Freca eenzijdig de operationele financiering van Dinck stopzetten, terwijl zij tegelijk bestuurder van Dinck is? Hoe verhoudt dit zich tot haar bestuurdersplicht jegens Dinck (Art. 2:9 BW) en het tegenstrijdig belang (Art. 2:239 lid 6 BW)?
 

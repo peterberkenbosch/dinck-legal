@@ -74,11 +74,11 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 
 ---
 
-## D. Huidige Status (bijgewerkt 7 februari 2026)
+## D. Huidige Status (bijgewerkt 6 februari 2026)
 
 **Geconsolideerde vragenlijst voor advocaat**: `vragen-advocaat-maud.md`
 
-### NIEUWE ONTWIKKELING (7 feb 2026)
+### NIEUWE ONTWIKKELING (6 feb 2026)
 
 Douwine heeft per e-mail aangekondigd:
 - Financiering Dinck **per direct** te beëindigen (wegens "tegenslag eigen onderneming")
@@ -210,7 +210,7 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 - [ ] Geconsolideerde vragen aan Maud voorleggen — zie `vragen-advocaat-maud.md`
 - [ ] Beslissen over verzending brief financiële zorgen — zie `concepten/brief-financiele-zorgen.md`
 - [ ] Strategie meeting woensdag bepalen (eigen adviseur? wat wel/niet toezeggen?)
-- [ ] Reactie op Douwine's email 7 feb — na afstemming met Maud
+- [ ] Reactie op Douwine's email 6 feb — na afstemming met Maud
 
 ### Voor 1 maart 2026
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting

@@ -4,7 +4,7 @@
 **Van**: Peter Berkenbosch / PHBX Holding B.V.
 **Onderwerp**: Zaak #547764 — Dinck B.V. — urgente ontwikkeling: financiering stopgezet, meeting woensdag 11 feb
 **Bijlagen**:
-- E-mail Douwine 7 feb 2026 + mijn reacties (PDF)
+- E-mail Douwine 6 feb 2026 + mijn reacties (PDF)
 - Brief financiële zorgen aan AVA Dinck B.V. (PDF)
 - Volledige vragenlijst advocaat (31 vragen, 11 categorieën)
 
@@ -16,7 +16,7 @@ Naar aanleiding van onze intake op 6 februari wil ik je informeren over een urge
 
 **Wat er is gebeurd**
 
-Vrijdagavond 7 februari heeft Douwine per e-mail aangekondigd dat zij de operationele financiering van Dinck B.V. per direct beëindigt, wegens "een aanzienlijke tegenslag in haar eigen onderneming." Tot nu toe werden de salarissen van Dinck's werknemers gefinancierd via stortingen vanuit haar bedrijf VDenD. Dinck heeft zelf onvoldoende kasstroom (ARR €6.400 per jaar) om de lonen te betalen.
+Vrijdagavond 6 februari heeft Douwine per e-mail aangekondigd dat zij de operationele financiering van Dinck B.V. per direct beëindigt, wegens "een aanzienlijke tegenslag in haar eigen onderneming." Tot nu toe werden de salarissen van Dinck's werknemers gefinancierd via stortingen vanuit haar bedrijf VDenD. Dinck heeft zelf onvoldoende kasstroom (ARR €6.400 per jaar) om de lonen te betalen.
 
 In dezelfde mail meldt zij gesprekken met een "externe partij" over een "mogelijke samenwerking" komende dinsdag 10 februari. Ik ben hier als mede-bestuurder niet over geïnformeerd en niet bij betrokken.
 

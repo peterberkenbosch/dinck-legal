@@ -1,7 +1,7 @@
 # Gespreksleidraad — Meeting Woensdag 11 Februari 2026
 
 **Locatie**: Kantoor Grady Hofstra (Douwine's accountant/adviseur)
-**Context**: Eerste ontmoeting na stopzetting financiering (7 feb 2026)
+**Context**: Eerste ontmoeting na stopzetting financiering (6 feb 2026)
 **Doel Peter**: Positie beschermen, geen toezeggingen doen, feiten laten spreken
 
 ---
@@ -37,7 +37,7 @@ Als Douwine/Grady bezwaar maakt: "Dan stel ik voor dat we beiden aantekeningen m
 
 ### 2a. Financiering stopgezet — gevolgen voor werknemers
 
-> "In jouw mail van 7 februari schrijf je dat de financiering per direct stopt. Dinck heeft werknemers in dienst. De salarissen werden tot nu toe gefinancierd door stortingen vanuit VDenD. Hoe worden de werknemers nu betaald?"
+> "In jouw mail van 6 februari schrijf je dat de financiering per direct stopt. Dinck heeft werknemers in dienst. De salarissen werden tot nu toe gefinancierd door stortingen vanuit VDenD. Hoe worden de werknemers nu betaald?"
 
 **Verwachte reacties en counters**:
 
@@ -61,7 +61,7 @@ Als Douwine/Grady bezwaar maakt: "Dan stel ik voor dat we beiden aantekeningen m
 
 ### 2b. Externe partij — informatierecht mede-bestuurder
 
-> "In je mail van 7 februari noemde je gesprekken met een externe partij over mogelijke samenwerking, afgelopen dinsdag. Ik ben daar als mede-bestuurder niet over geïnformeerd. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
+> "In je mail van 6 februari noemde je gesprekken met een externe partij over mogelijke samenwerking, afgelopen dinsdag. Ik ben daar als mede-bestuurder niet over geïnformeerd. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
 
 **Verwachte reacties en counters**:
 
