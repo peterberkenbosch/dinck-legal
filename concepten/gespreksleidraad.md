@@ -75,12 +75,12 @@ Als Douwine/Grady bezwaar maakt: "Dan stel ik voor dat we beiden aantekeningen m
 
 **Kernpunt**: Als de financiering niet hervat wordt en er geen alternatief is, kunnen de salarissen niet worden betaald. Bij onbetaalde lonen hebben werknemers het recht om het faillissement van Dinck aan te vragen. Het UWV vangt werknemers dan op via de loongarantieregeling.
 
-**Dit niet als dreigement formuleren**, maar als feitelijke constatering:
-> "Als de financiering gestopt blijft en er geen alternatieve inkomsten zijn, is faillissement een reëel scenario. Werknemers worden dan via het UWV opgevangen. Maar de vorderingen van Freca en VDenD zijn in dat geval concurrent — die worden vrijwel niets waard."
+**Achtergrondkennis (niet actief uitspreken tenzij Douwine zelf het faillissementsscenario op tafel legt)**:
+Als de financiering gestopt blijft en er geen alternatieve inkomsten zijn, is faillissement onvermijdelijk. Werknemers worden via het UWV opgevangen. De vorderingen van Freca en VDenD zijn in dat geval concurrent — die worden vrijwel niets waard. Dit hoeft Peter niet te zeggen — de feiten spreken voor zich.
 
 ### 2b. Externe partij — informatierecht mede-bestuurder
 
-> "In je mail van 6 februari noemde je gesprekken met een externe partij over mogelijke samenwerking, afgelopen dinsdag. Ik ben daar als mede-bestuurder niet over geïnformeerd. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
+> "In je mail van 6 februari noemde je een gesprek met een externe partij over mogelijke samenwerking. Dat gesprek was gisteren gepland. Ik ben daar als mede-bestuurder niet over geïnformeerd. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
 
 **Verwachte reacties en counters**:
 
@@ -192,9 +192,11 @@ Niet doorvragen naar de aard van de tegenslag. Op face value nemen. De focus ter
 
 Marlou kan worden ingezet om voorstellen "zachter" te laten klinken of om te doen alsof er een onafhankelijke stem is. Onthoud: zij spreekt met Douwine's stem.
 
-> Luisteren, noteren, niet inhoudelijk reageren. Behandel het als Douwine's voorstel.
+Luisteren, noteren, niet inhoudelijk reageren. Behandel het als Douwine's voorstel.
 
-Als Marlou iets toezegt namens de AVA: "Dat is goed om te horen. Ik wil het graag schriftelijk ontvangen zodat ik het kan laten toetsen."
+Als Marlou iets toezegt namens de AVA:
+
+> "Dat is goed om te horen. Ik wil het graag schriftelijk ontvangen zodat ik het kan laten toetsen."
 
 ### Emotionele druk / beschuldigingen
 
