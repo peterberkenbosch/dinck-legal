@@ -13,6 +13,22 @@
 
 Grady is Douwine's accountant en adviseur. Hij is geen mediator. Behandel alles wat in deze meeting wordt gezegd alsof het in een juridische procedure kan worden gebruikt — want dat kan.
 
+### Marlou is aanwezig
+
+Douwine's bevestigingsmail is gericht aan "Marlou en Peter" — Marlou zit er dus bij. Marlou is formeel aandeelhouder (66,7% via overdracht Freca), maar feitelijk stroman en werknemer van Douwine. Verwacht niet dat zij een onafhankelijke positie inneemt. Als Marlou het woord neemt:
+
+> "Spreek je nu als aandeelhouder van Dinck, of namens Douwine?"
+
+Dit hoeft Peter niet te vragen — maar het is goed om in het achterhoofd te houden bij alles wat Marlou zegt.
+
+### Grady als "objectieve" adviseur
+
+Als Grady berekeningen, waarderingen of voorstellen presenteert alsof die objectief zijn:
+
+> "Grady, je bent Douwine's adviseur. Ik neem je inbreng ter kennisgeving aan, maar voor objectieve waarderingen voorzien de statuten in drie onafhankelijke deskundigen."
+
+Niet in discussie gaan over Grady's cijfers. Noteren, meenemen, later laten toetsen.
+
 ### Opname melden
 
 > "Ik neem dit gesprek op zodat ik er een gespreksverslag van kan maken. Dat verslag deel ik daarna met jullie."
@@ -69,8 +85,8 @@ Als Douwine/Grady bezwaar maakt: "Dan stel ik voor dat we beiden aantekeningen m
 | Douwine zegt | Peter antwoordt |
 |-------------|-----------------|
 | "Dat is vertrouwelijk" | "Als mede-bestuurder heb ik recht op volledige informatie. Ik kan geen verantwoordelijkheid dragen voor beslissingen waar ik niet bij betrokken ben." |
-| "Het is nog verkennend" | "Dat snap ik. Maar als bestuurder moet ik weten of er gesprekken lopen die de vennootschap raken." |
-| "Ik vertel het woensdag wel" | "Graag voorafgaand, schriftelijk, zodat ik me kan voorbereiden." |
+| "Het is nog verkennend" | "Dat snap ik. Maar als bestuurder moet ik weten of er gesprekken lopen die de vennootschap raken. Wat is er dinsdag besproken?" |
+| "Dat gaat jou niet aan" | "Zolang ik bestuurder ben, gaat alles wat Dinck raakt mij aan. Dat is geen keuze, dat is een wettelijke verplichting." |
 
 **Let op**: Peters vetorecht (Art. 8.6 lid 2) blokkeert elke deal met een externe partij die AVA-goedkeuring vereist. Dat hoeft Peter niet te zeggen — maar het is de realiteit.
 
@@ -118,6 +134,19 @@ Dit geldt voor:
 
 **Niets ondertekenen. Niets mondeling toezeggen. Alles schriftelijk.**
 
+### Als Douwine/Grady met een concreet voorstel komt
+
+Niet reageren, maar informatie verzamelen. Stel deze vragen:
+
+1. "Kun je dat op papier zetten zodat ik het kan laten toetsen?"
+2. "Wat is de tijdlijn die je voor ogen hebt?"
+3. "Wie is de externe partij en wat is hun rol precies?"
+4. "Hoe wordt de waarde van de aandelen / het platform daarin bepaald?"
+5. "Wat gebeurt er met de leningsovereenkomst in dit scenario?"
+6. "Wat gebeurt er met de werknemers?"
+
+**Luisteren, noteren, niets toezeggen.** Elk voorstel gaat eerst langs Maud.
+
 ---
 
 ## 5. Verwachte druk en tactieken
@@ -141,6 +170,12 @@ Dit geldt voor:
 ### "Grady heeft berekend dat de aandelen niets waard zijn"
 
 > "De statuten voorzien in waardering door drie onafhankelijke deskundigen bij geen overeenstemming. Eén partijadviseur is geen objectieve waardering."
+
+### "Ik heb een tegenslag in mijn eigen onderneming, ik kan niet anders"
+
+> "Dat is vervelend om te horen. Maar de verplichtingen van Dinck jegens haar werknemers bestaan onafhankelijk van de situatie bij VDenD. De vraag blijft: hoe worden de salarissen betaald?"
+
+Niet doorvragen naar de aard van de tegenslag. Op face value nemen. De focus terugbrengen naar Dinck's verplichtingen.
 
 ### Emotionele druk / beschuldigingen
 
