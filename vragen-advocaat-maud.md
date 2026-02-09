@@ -1,7 +1,7 @@
 # Vragen voor Advocaat — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 8 februari 2026 (n.a.v. nieuwe ontwikkelingen)
+**Bijgewerkt**: 9 februari 2026 (n.a.v. nieuwe ontwikkelingen)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 

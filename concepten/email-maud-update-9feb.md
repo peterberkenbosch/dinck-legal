@@ -1,4 +1,4 @@
-# Concept e-mail aan Maud van der Zee — 8 februari 2026
+# Concept e-mail aan Maud van der Zee — 9 februari 2026
 
 **Aan**: [e-mailadres Maud]
 **Van**: Peter Berkenbosch / PHBX Holding B.V.
@@ -25,7 +25,7 @@ Woensdag 11 februari is er een meeting gepland bij Grady Hofstra, haar accountan
 **Wat ik heb gedaan**
 
 - Ik heb dezelfde avond zakelijk gereageerd: meeting bevestigd, om een tijdstip gevraagd, en aangegeven dat ik inhoudelijk separaat reageer.
-- Vandaag (8 feb) heb ik een brief financiële zorgen verzonden aan de AVA van Dinck B.V., waarin ik als bestuurder de financiële risico's en continuïteitsrisico's signaleer. Deze brief was al in voorbereiding vóór Douwine's e-mail. Beide stukken zitten in de bijlage.
+- Gisteren (8 feb) heb ik een brief financiële zorgen verzonden aan de AVA van Dinck B.V., waarin ik als bestuurder de financiële risico's en continuïteitsrisico's signaleer. Deze brief was al in voorbereiding vóór Douwine's e-mail. Beide stukken zitten in de bijlage.
 
 **Urgente vragen vóór woensdag**
 
