@@ -1,7 +1,7 @@
 # Gespreksleidraad — Meeting Woensdag 11 Februari 2026
 
 **Tijd**: 12:30 uur
-**Locatie**: Kantoor Grady Hofstra, Bareldsburglaan 4-5, Oosterwolde (Douwine's accountant/adviseur)
+**Locatie**: Van der Meer Accountants & Consultants, Venekoterweg 44, 8431 HH Oosterwolde (kantoor Grady Hofstra)
 **Context**: Eerste ontmoeting na stopzetting financiering (6 feb 2026)
 **Doel Peter**: Positie beschermen, geen toezeggingen doen, feiten laten spreken
 
