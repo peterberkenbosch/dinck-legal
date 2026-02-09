@@ -2,7 +2,7 @@
 
 **Aan**: [e-mailadres Maud]
 **Van**: Peter Berkenbosch / PHBX Holding B.V.
-**Onderwerp**: Dinck B.V. — urgente ontwikkeling: financiering stopgezet, meeting woensdag 11 feb
+**Onderwerp**: Zaak #547764 — Dinck B.V. — urgente ontwikkeling: financiering stopgezet, meeting woensdag 11 feb
 **Bijlagen**:
 - E-mail Douwine 7 feb 2026 + mijn reacties (PDF)
 - Brief financiële zorgen aan AVA Dinck B.V. (PDF)
