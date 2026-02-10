@@ -12,7 +12,7 @@
 | `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's | Actueel (6 feb) |
 | `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling | Actueel (6 feb) |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
-| `vragen-advocaat-maud.md` | 37 juridische vragen voor Maud (12 categorieën A-L, incl. concept akte teruglevering) | Actueel (10 feb) |
+| `vragen-advocaat-maud.md` | 37 juridische vragen voor Maud (12 categorieën A-L, L4 verrijkt met BW-refs Art. 6:248/6:159/6:22) | Actueel (10 feb) |
 | `incident-register.md` | 13 gedocumenteerde uitsluitingsincidenten (incl. #13 eenzijdige teruglevering aandelen) | Actueel (10 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 
@@ -27,7 +27,7 @@
 | `geldlening-analyse.md` | Leningsovereenkomst + addendum (opeisbaarheid, €500K limiet, aflossing) |
 | `managementovereenkomst-analyse.md` | Managementovereenkomsten + AVA-notulen (incl. Art. 3.1 bevinding) |
 | `notariele-akte-analyse.md` | Notariële akte aandelenoverdracht Freca → Marlou |
-| `sha-analyse.md` | Aandeelhoudersovereenkomst (niet-werkend, Marlou geen partij) |
+| `sha-analyse.md` | Aandeelhoudersovereenkomst (niet-werkend, Marlou geen partij; cross-ref naar herleving-analyse) |
 | `statuten-analyse.md` | Statuten (unanimiteit Art. 8.6 lid 2, vetorecht, voorkeursrecht) |
 | `strategische-opties.md` | Strategische scenario's en opties |
 | `patronenanalyse-buitensluiting.md` | Juridisch narratief: 12 incidenten in escalerend patroon, court-ready |
@@ -35,7 +35,7 @@
 | `worst-case-scenarios.md` | Scenario-analyse: werkstaking, faillissement, UWV, verdeling, speltheorie |
 | `concept-akte-teruglevering-analyse.md` | Concept akte teruglevering Marlou → Freca (artikel-vergelijking, nota-analyse, schijnconstructie) |
 | `voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht (met SHA-herlevingsrisico per optie) |
-| `sha-herleving-analyse.md` | SHA-herlevingsrisico bij terugkeer Freca als aandeelhouder (non-concurrentie, boeteclausule) |
+| `sha-herleving-analyse.md` | SHA-herleving verdiept: beëindigingsanalyse (7 routes), Art. 9 tegenvordering, Art. 6:248 verdediging, schijnconstructie-analyse |
 
 ---
 
