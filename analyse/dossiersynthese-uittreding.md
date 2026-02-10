@@ -184,7 +184,7 @@ Dertien gedocumenteerde incidenten over zestien maanden tonen een escalerend pat
 
 3. **Externe partij**: Onbekend wie, wat besproken, welke toezeggingen. Peters vetorecht (Art. 8.6 lid 2) blokkeert elke deal die AVA-goedkeuring vereist.
 
-4. **Peters bestuurdersaansprakelijkheid**: Beschermd door signaleerplicht (brief 8 feb) en buitensluiting van besluitvorming (13 incidenten). Geldt tot 1 maart.
+4. **Peters bestuurdersaansprakelijkheid**: Beschermd door signaleerplicht (brief 8 feb) en buitensluiting van besluitvorming (14 incidenten). Geldt tot 1 maart.
 
 ### 5.3 Douwine's e-mail 6 februari — analyse
 
@@ -288,7 +288,7 @@ Rechter verplicht mede-aandeelhouder om aandelen over te nemen tegen door deskun
 |--------|-------------|
 | **Kosten** | €15.000 — €40.000+ |
 | **Doorlooptijd** | 12-24 maanden |
-| **Grondslag** | 13 incidenten, tegenstrijdig belang, informatieweigering |
+| **Grondslag** | 14 incidenten, tegenstrijdig belang, informatieweigering |
 | **Voordeel** | Prijs door onafhankelijke deskundige; niet afhankelijk van Douwine's medewerking |
 | **Nadeel** | Duur, lang, Marlou (niet Douwine) is formeel wederpartij |
 
@@ -444,7 +444,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 cate
 
 | Bestand | Inhoud |
 |---------|--------|
-| `analyse/patronenanalyse-buitensluiting.md` | 13 incidenten in juridisch narratief — **NIEUW** |
+| `analyse/patronenanalyse-buitensluiting.md` | 14 incidenten in juridisch narratief — **NIEUW** |
 | `analyse/correspondentie-analyse.md` | Geverifieerde tijdlijn 19 e-mails (incl. 6 feb email) |
 | `analyse/managementovereenkomst-analyse.md` | MO's + AVA-notulen + Art. 3.1 bevinding |
 | `analyse/bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch BW Boek 2 vs. Boek 6 |
@@ -463,7 +463,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 cate
 |---------|--------|
 | `dossier-uittreding.md` | Volledig feitelijk dossier |
 | `juridische-analyse.md` | Juridische positie-analyse |
-| `incident-register.md` | 13 incidenten structurele buitensluiting |
+| `incident-register.md` | 14 incidenten structurele buitensluiting |
 | `vragen-advocaat-maud.md` | 37 vragen, 12 categorieën |
 | `legal-preparedness-assessment.md` | Strategische paraatheid |
 

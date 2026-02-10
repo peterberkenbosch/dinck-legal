@@ -318,7 +318,7 @@ Als Marlou iets toezegt namens de AVA:
 |-----------|--------|
 | Vetorecht (Art. 8.6 lid 2) | Blokkeert elke AVA-beslissing — geen deal met externe partij zonder jou |
 | Platformafhankelijkheid | Vervangingskosten €250-350K, alleen Peter kan het onderhouden |
-| 13 gedocumenteerde uitsluitingsincidenten | Grondslag Art. 2:343 (uittreding vorderen), escalerend patroon |
+| 14 gedocumenteerde uitsluitingsincidenten | Grondslag Art. 2:343 (uittreding vorderen), escalerend patroon |
 | Brief financiële zorgen | Signaleerplicht vervuld — je bent een diligente bestuurder |
 | Ongerechtvaardigde verrijking | €108-180K aan onbetaald werk |
 | MO niet opgezegd | Vrijwaring (Art. 4.2) nog actief, recht op opschorting (Art. 6:262 BW) |

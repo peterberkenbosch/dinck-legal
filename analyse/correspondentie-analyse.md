@@ -288,6 +288,34 @@ Peter had een conceptbrief klaarliggen (`concepten/brief-financiele-zorgen.md`) 
 | "Gesprekken met externe partij" | Peter niet geïnformeerd — buitensluiting mede-bestuurder |
 | "Voorkomen faillissement centraal stellen" | Zij veroorzaakt de directe dreiging door financiering te stoppen |
 
+### E-mail 10 februari 2026 (Grady Hofstra → notaris Koops, inline reply in concept akte thread)
+
+**Context**: De notaris schreef in de begeleidende correspondentie bij de concept akte teruglevering:
+
+> "Ik ga er van uit dat Van der Meer heeft geconstateerd dat €1 nog steeds een reële prijs is voor de aandelen en dat Van der Meer partijen op de (fiscale) gevolgen heeft gewezen."
+
+**Grady's reactie** (inline antwoord): "Dank, ja"
+
+**Analyse — 4 observaties:**
+
+**1. Grady spreekt als Van der Meer (Dinck's accountant)**
+
+De notaris spreekt Van der Meer aan in professionele hoedanigheid — als Dinck's accountant, niet als Douwine's adviseur. Grady accepteert die aanspraak zonder correctie. Hiermee gebruikt hij de professionele autoriteit van de samenstelovereenkomst met Dinck om een waardering te legitimeren die uitsluitend Douwine's belang dient.
+
+**2. Peter niet geïnformeerd over waardering of fiscale gevolgen**
+
+De notaris schrijft "partijen op de (fiscale) gevolgen heeft gewezen". Peter heeft als mede-bestuurder en mede-aandeelhouder (33,3%) niets ontvangen over fiscale gevolgen. De bewering van Grady dat "partijen" zijn geïnformeerd is feitelijk onjuist voor zover het Peter betreft.
+
+**3. Geen formele waardering**
+
+"Dank, ja" per e-mail is geen waarderingsrapport en geen professionele constatering. De statuten voorzien bij geen overeenstemming over de prijs in waardering door drie onafhankelijke deskundigen — niet in een informele bevestiging door een conflicted accountant.
+
+**4. NBA-schending wordt concreet**
+
+Dit is het sterkste bewijs tot dusver van Grady's belangenconflict: hij spreekt een professioneel oordeel uit (€1 is reëel) in zijn rol als Dinck's accountant, zonder het volledige bestuur te consulteren, ten gunste van één partij. Dit versterkt de grondslag voor een NBA-klacht (Art. 11 objectiviteit, Art. 13 zorgvuldigheid, Art. 21 bedreiging vertrouwdheid VGBA).
+
+Zie ook: `analyse/grady-hofstra-dynamiek.md` sectie 5a, `incident-register.md` incident #14.
+
 ---
 
 ## 6. Tijdlijn Vergaderverzoeken en Vertragingspatroon
@@ -325,3 +353,4 @@ Peter had een conceptbrief klaarliggen (`concepten/brief-financiele-zorgen.md`) 
 | **Financiering per direct gestopt (6 feb)** | Douwine stopt operationele financiering als schuldeiser, terwijl ze bestuurder is | **Nieuw incident tegenstrijdig belang + buitensluiting** |
 | **Externe partij zonder medeweten Peter** | Gesprekken gepland zonder Peter te informeren of betrekken | **Nieuw incident structurele buitensluiting mede-bestuurder** |
 | **Verdachte timing disclaimer** | "Volkomen los van ontwikkelingen bestuur" — 5 weken na ontslagbrief | Ongeloofwaardig, mogelijk drukmiddel |
+| **Grady bevestigt €1 waardering als Van der Meer (10 feb)** | "Dank, ja" aan notaris — spreekt als Dinck's accountant zonder Peter te consulteren | **Concreet bewijs belangenconflict + NBA-schending** |

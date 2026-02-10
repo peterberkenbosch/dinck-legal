@@ -256,6 +256,33 @@ De nota's zijn al opgesteld: Freca betaalt €788,59 (inclusief koopsom, notari�
 
 ---
 
+### 14. Eenzijdige Waardering Aandelen Door Dinck's Eigen Accountant Zonder Mede-Bestuurder
+
+| Veld | Waarde |
+|------|--------|
+| Datum | 10 februari 2026 |
+| Categorie | Aandeelhouderszaken / Professionele integriteit |
+| Bewijs | E-mail notaris Koops 10 feb 2026 (concept akte thread); inline reactie Grady Hofstra "Dank, ja" |
+
+**Beschrijving**:
+In de e-mailcorrespondentie rondom de concept akte teruglevering aandelen schreef notaris Koops:
+
+> "Ik ga er van uit dat Van der Meer heeft geconstateerd dat €1 nog steeds een reële prijs is voor de aandelen en dat Van der Meer partijen op de (fiscale) gevolgen heeft gewezen."
+
+Grady Hofstra (Van der Meer Accountants & Consultants) antwoordde inline: "Dank, ja".
+
+Hiermee bevestigt Grady, in zijn hoedanigheid als accountant van Dinck B.V. (samenstelovereenkomst), aan de notaris dat:
+1. €1 een reële prijs is voor de aandelen
+2. Partijen zijn gewezen op de fiscale gevolgen
+
+Peter was als mede-bestuurder en mede-aandeelhouder (33,3%) **niet betrokken bij of geïnformeerd over** deze waardering of de fiscale gevolgen. Er is geen formeel waarderingsrapport — alleen twee woorden ("Dank, ja") per e-mail.
+
+**Analyse**: Dit incident is het meest concrete bewijs van Grady's belangenconflict (zie `analyse/grady-hofstra-dynamiek.md`). De notaris behandelt Van der Meer als professionele autoriteit (Dinck's accountant) — een rol die zorgplicht jegens het volledige bestuur impliceert. Grady bevestigt de waardering zonder Peter te consulteren, terwijl die waardering uitsluitend Douwine's belang dient (goedkope terugkoop Freca). De statuten voorzien bij geen overeenstemming in waardering door drie onafhankelijke deskundigen — niet in een informele bevestiging door een conflicted partijadviseur.
+
+De bewering dat "partijen" zijn gewezen op fiscale gevolgen is feitelijk onjuist: Peter heeft geen enkele informatie ontvangen over fiscale gevolgen van de teruglevering.
+
+---
+
 ## Patroon van Buitensluiting
 
 | Categorie | Voorbeelden |
@@ -266,7 +293,7 @@ De nota's zijn al opgesteld: Freca betaalt €788,59 (inclusief koopsom, notari�
 | Communicatie | Eenzijdige vergaderingen, beschuldigingen |
 | Operationeel | Niet verschijnen overleg, detachering zonder overleg, verhuizing zonder overleg |
 | Bestuurlijk | Adreswijziging zonder overleg, **externe partij gesprekken zonder mede-bestuurder** |
-| Aandeelhouderszaken | Overdracht zonder informatie, **teruglevering zonder overleg** |
+| Aandeelhouderszaken | Overdracht zonder informatie, **teruglevering zonder overleg**, **waardering zonder mede-bestuurder** |
 | Tegenstrijdig belang | **Financiering gestopt als schuldeiser, terwijl bestuurder van schuldenaar** |
 
-**Conclusie**: 13 gedocumenteerde incidenten over ~16 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder. De incidenten escaleren in ernst: van informatie-achterstelling (2024-2025) naar eenzijdige financiële beslissingen die het voortbestaan van de vennootschap bedreigen en eenzijdige aandelentransacties waarvoor Peters medewerking wordt verwacht zonder voorafgaand overleg (februari 2026).
+**Conclusie**: 14 gedocumenteerde incidenten over ~16 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder. De incidenten escaleren in ernst: van informatie-achterstelling (2024-2025) naar eenzijdige financiële beslissingen die het voortbestaan van de vennootschap bedreigen en eenzijdige aandelentransacties waarvoor Peters medewerking wordt verwacht zonder voorafgaand overleg (februari 2026).

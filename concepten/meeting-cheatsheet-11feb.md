@@ -225,7 +225,7 @@ Niet in discussie gaan over zijn cijfers. Noteren, meenemen, later laten toetsen
 - **Voorkeursrecht = blokkeringsmacht**: Zonder jouw handtekening kan de teruglevering niet plaatsvinden
 - **Vetorecht**: Geen AVA-besluit zonder jou — geen deal met externe partij mogelijk
 - **Platform**: Alleen jij kunt het onderhouden — vervangingskosten €250-350K
-- **Dossier**: 13 incidenten, brief + constateringsbrief verzonden, signaleerplicht vervuld
+- **Dossier**: 14 incidenten, brief + constateringsbrief verzonden, signaleerplicht vervuld
 - **Asymmetrie**: Douwine verliest €612K bij faillissement, jij verliest twijfelachtige equity
 - **Na 1 maart**: Geen bestuurder = geen zorgplicht = geen gratis werk
 - **Opschortingsrecht**: Art. 6:262 BW — €0 fee = recht om prestatie op te schorten

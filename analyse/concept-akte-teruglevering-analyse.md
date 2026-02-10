@@ -241,10 +241,12 @@ Na 1 maart kan alleen Douwine als bestuurder van Dinck de akte mede-ondertekenen
 | Koopprijs in concept akte | €1,00 |
 | Verschil | €0,50 (33% minder) |
 
-**Wie heeft de prijs bepaald?** Niet duidelijk. Peter wist van de mondelinge afspraak van €1,50. De akte vermeldt €1,00. Mogelijkheden:
+**Wie heeft de prijs bepaald?** Grady Hofstra heeft per e-mail aan de notaris bevestigd dat €1 "een reële prijs" is. De notaris schreef: *"Ik ga er van uit dat Van der Meer heeft geconstateerd dat €1 nog steeds een reële prijs is voor de aandelen en dat Van der Meer partijen op de (fiscale) gevolgen heeft gewezen."* Grady antwoordde inline: "Dank, ja". Er is geen formeel waarderingsrapport — alleen twee woorden per e-mail van een conflicted accountant (zie `analyse/grady-hofstra-dynamiek.md`).
+
+Mogelijkheden:
 1. Douwine heeft de prijs eenzijdig verlaagd — Marlou accepteert dit zonder protest (stroman)
 2. Het was altijd €1,00 en de €1,50 was een misverstand
-3. Grady heeft de prijs "vastgesteld" — maar op welke basis?
+3. Grady heeft de prijs "vastgesteld" in zijn dubbele pet als Dinck's accountant / Douwine's adviseur — **nu bevestigd door zijn "Dank, ja" e-mail**
 
 **Strategische waarde**: De prijsafwijking versterkt het argument dat Marlou geen werkelijke zeggenschap heeft. Een echte koper die €1,50 was beloofd zou niet zonder meer akkoord gaan met €1,00.
 

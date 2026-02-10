@@ -141,6 +141,37 @@ Dit is geen acuut wapen — het is een strategische reserve. Het dreigement alle
 
 ---
 
+## 5a. Concreet bewijs: "Dank, ja" — waardering €1 bevestigd aan notaris (10 feb 2026)
+
+Op 10 februari 2026 reageerde Grady Hofstra per e-mail op de concept akte teruglevering aandelen. De notaris (Koops) schreef in de begeleidende correspondentie:
+
+> "Ik ga er van uit dat Van der Meer heeft geconstateerd dat €1 nog steeds een reële prijs is voor de aandelen en dat Van der Meer partijen op de (fiscale) gevolgen heeft gewezen."
+
+Grady antwoordde inline: **"Dank, ja"**.
+
+### Wat dit bewijst
+
+1. **Grady bevestigt de waardering van €1 in zijn hoedanigheid als Van der Meer** — de notaris spreekt Van der Meer aan als Dinck's accountant (professionele autoriteit), niet als Douwine's adviseur. Grady accepteert die aanspraak met "Dank, ja" zonder correctie.
+
+2. **Er is geen formele waardering** — geen waarderingsrapport, geen onderbouwing, geen methodologie. "Dank, ja" op een e-mail is geen professionele constatering. De statuten voorzien bij geen overeenstemming in drie onafhankelijke deskundigen.
+
+3. **Peter is NIET geïnformeerd** — de notaris schrijft "partijen op de (fiscale) gevolgen heeft gewezen". Peter heeft als mede-bestuurder en mede-aandeelhouder niets ontvangen over fiscale gevolgen. Wie zijn "partijen"? Kennelijk alleen Douwine/Marlou.
+
+4. **Dubbele pet in actie** — Grady gebruikt zijn professionele autoriteit als Dinck's accountant om de €1 prijs te legitimeren richting de notaris, terwijl die lage prijs uitsluitend Douwine's belang dient (goedkope terugkoop voor Freca). Dit is het belangenconflict in zijn meest concrete vorm.
+
+5. **NBA-schending wordt aantoonbaar** — dit is niet langer een theoretisch conflict. Grady heeft een concreet professioneel oordeel uitgesproken (€1 is reëel) in zijn rol als Dinck's accountant, zonder het volledige bestuur (Peter) te consulteren, terwijl hij weet dat dit oordeel één partij bevoordeelt.
+
+### Nieuw uitsluitingsincident (#14)
+
+Peter als mede-bestuurder en mede-aandeelhouder (33,3%) is niet betrokken bij of geïnformeerd over:
+- De waarderingsbepaling van €1 per aandeel
+- De fiscale gevolgen van de transactie
+- Het feit dat Van der Meer (Dinck's eigen accountant) deze waardering namens de vennootschap bevestigt
+
+Dit is incident #14 in het uitsluitingsregister.
+
+---
+
 ## 6. Samenvattende risicomatrix
 
 | Aspect | Risico voor Peter | Mitigatie |
