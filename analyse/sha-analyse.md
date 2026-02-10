@@ -8,6 +8,8 @@
 
 ## 1. Status SHA
 
+> **Let op**: Voor de verdiepte analyse over SHA-herleving bij terugkeer Freca als aandeelhouder, zie `analyse/sha-herleving-analyse.md` (secties 2.4–2.7: beëindigingsanalyse, Art. 9 tegenvordering, Art. 6:248 verdediging, schijnconstructie-analyse).
+
 ### KRITIEK: SHA IS FEITELIJK WAARDELOOS
 
 | Feit | Gevolg |
@@ -139,3 +141,4 @@ De verzonden ontslagbrief (30 jan 2026) bevat verwijzingen naar:
 1. **Niet actief aankaarten** dat SHA niet geldt — maar ook niet doen alsof het wel geldt
 2. **Beroepen op statuten** waar mogelijk (die gelden wel)
 3. **Formele positie innemen** als nodig: eis toetredingsovereenkomst van Marlou of stel vast dat SHA niet geldt
+4. **Bij teruglevering Freca**: SHA herleeft waarschijnlijk — maar Peter heeft offensieve (Art. 9 tegenvordering) en defensieve (Art. 6:248 lid 2 BW) instrumenten. Zie `analyse/sha-herleving-analyse.md`

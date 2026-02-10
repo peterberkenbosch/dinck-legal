@@ -153,7 +153,12 @@
 
 **L3.** Als Peter zijn voorkeursrecht uitoefent: tegen welke prijs moet hij de aandelen overnemen? Is dit realistisch gezien de schuldenlast van Dinck (€466K aan Freca, €146K aan VDenD)?
 
-**L4.** Herleeft de aandeelhoudersovereenkomst (SHA) als Freca weer aandeelhouder wordt? Zo ja, wordt het non-concurrentiebeding (Art. 7 SHA: 3 jaar) dan actief? En de boeteclausule (Art. 10 SHA: €100K + €1K/dag)?
+**L4.** Herleeft de aandeelhoudersovereenkomst (SHA) als Freca weer aandeelhouder wordt? De verdiepte analyse (`analyse/sha-herleving-analyse.md`, secties 2.4–2.7) concludeert dat de SHA nooit formeel is beëindigd — Art. 1.2 SHA vereist schriftelijke overeenstemming, Art. 8.4 SHA sluit ontbinding uit, en geen andere beëindigingsroute (Art. 6:265 BW, Art. 6:22 BW) is vervuld. Specifieke deelvragen:
+
+- **(a)** Wordt het non-concurrentiebeding (Art. 7 SHA: 3 jaar na levering aandelen) actief als Freca weer aandeelhouder wordt?
+- **(b)** Kan Peter zich verdedigen via **Art. 6:248 lid 2 BW** (beperkende werking redelijkheid en billijkheid) — selectieve handhaving door Freca die zelf structureel de SHA heeft geschonden (Art. 9 derdenbeding, Art. 3.1 gelijke behandeling, 13 uitsluitingsincidenten)?
+- **(c)** Freca heeft bij de overdracht aan Marlou (7 nov 2025) haar **Art. 9 SHA-verplichting** (derdenbeding) niet nagekomen: geen toetredingsovereenkomst voor Marlou, geen contractsoverneming conform **Art. 6:159 BW** (vereist medewerking Peter, nooit gevraagd). Activeert dit de boeteclausule Art. 10 SHA (€100K + €1K/dag) als zelfstandige tegenvordering, onafhankelijk van de herlevingsvraag?
+- **(d)** Kan Peter vooraf uitsluiting van SHA-herleving bedingen als voorwaarde voor het tekenen van de akte? Zo ja, welke formulering?
 
 **L5.** De mondeling afgesproken terugkoopprijs was €1,50. De concept akte vermeldt €1,00. Is Peter verplicht mee te werken aan een eenzijdig gewijzigde prijs? Heeft de prijsafwijking juridische consequenties?
 
@@ -187,3 +192,6 @@ Gezien de urgentie (meeting woensdag 11 feb, werknemersverplichtingen, vertrek p
 | Strategische opties | `analyse/strategische-opties.md` |
 | Volledig overzicht | `legal-consult-overview.md` |
 | Conceptbrief financiële zorgen | `concepten/brief-financiele-zorgen.md` |
+| SHA herleving (verdiept) | `analyse/sha-herleving-analyse.md` |
+| Concept akte teruglevering | `analyse/concept-akte-teruglevering-analyse.md` |
+| Voorkeursrecht strategisch | `analyse/voorkeursrecht-strategische-analyse.md` |
