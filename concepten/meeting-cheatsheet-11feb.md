@@ -5,6 +5,21 @@
 
 ---
 
+## NON-VERBAAL — rust = kracht
+
+| | Advies |
+|---|--------|
+| **Kleding** | Navy / donkerblauw. Geen rood. Geen logo's. Verzorgd. |
+| **Houding** | Rechtop, open, langzaam. Geen gekruiste armen/benen. |
+| **Handen** | Steepling (vingertoppen tegen elkaar) of pen in hand. Op tafel. |
+| **Oogcontact** | 60-70%, 7-10 sec per keer. Direct bij eigen uitspraken. |
+| **Zitplek** | Deur in zicht. Kopse kant als het kan. Niet naast Douwine. |
+| **Stem** | Langzaam, laag register, pauzes. Zachter als zij harder worden. |
+
+> *Volledig advies: `concepten/presentatie-advies-11feb.md`*
+
+---
+
 ## DE DRIE REGELS
 
 1. **NERGENS AAN COMMITTEN** — Elk voorstel: "Ik bespreek dit met mijn adviseur en kom schriftelijk terug."
