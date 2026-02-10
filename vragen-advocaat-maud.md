@@ -1,7 +1,7 @@
 # Juridische vragen — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 10 februari 2026 (n.a.v. concept akte teruglevering + categorie L toegevoegd)
+**Bijgewerkt**: 10 februari 2026 (n.a.v. concept akte teruglevering + categorie L + Grady triple role analyse + categorie M toegevoegd)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 
@@ -19,7 +19,7 @@
 
 **A3.** Douwine meldt gesprekken met een "externe partij" komende dinsdag over een "mogelijke samenwerking." Peter is niet geïnformeerd of betrokken. Wat zijn Peters rechten als mede-bestuurder? Kan hij eisen dat er geen toezeggingen worden gedaan zonder zijn betrokkenheid?
 
-**A4.** De meeting woensdag is bij Grady Hofstra (Douwine's accountant/adviseur). Zijn er aandachtspunten of risico's voor Peter? Moet hij eigen adviseur meenemen? Wat moet Peter wel/niet zeggen of toezeggen?
+**A4.** De meeting woensdag is bij Grady Hofstra (Van der Meer Accountants & Consultants). Grady heeft een dubbele pet: hij is formeel de accountant van Dinck B.V. (samenstelovereenkomst) — waardoor Peter als bestuurder ook zijn cliënt is — terwijl hij tegelijk Douwine persoonlijk adviseert over Peters exit. Bovendien was Peter vroeger zelf cliënt bij Van der Meer (PHBX Holding) en is daar vertrokken. Grady heeft op 10 feb per e-mail de €1 waardering bevestigd aan de notaris in zijn hoedanigheid als Van der Meer, zonder Peter te consulteren (zie M1-M4). Zijn er aandachtspunten of risico's voor Peter? Moet hij eigen adviseur meenemen? Wat moet Peter wel/niet zeggen of toezeggen? Zie `analyse/grady-hofstra-dynamiek.md`.
 
 **A5.** De conceptbrief financiële zorgen (`concepten/brief-financiele-zorgen.md`) was al opgesteld vóór Douwine's email. Is het raadzaam deze alsnog te verzenden vóór de meeting van woensdag? Of wachten?
 
@@ -55,7 +55,7 @@
 
 **D1.** Peter treedt af als bestuurder per 1 maart 2026. Dinck's schuldpositie is €612K, ARR is €6.4K, aflossing 28 maart is onmogelijk. Loopt Peter risico op bestuurdersaansprakelijkheid (Art. 2:248 BW) voor de periode vóór zijn vertrek?
 
-**D2.** Peter was structureel buitengesloten van besluitvorming (10 gedocumenteerde incidenten, zie `legal-consult-overview.md` sectie F). Is dit een verweer tegen bestuurdersaansprakelijkheid?
+**D2.** Peter was structureel buitengesloten van besluitvorming (14 gedocumenteerde incidenten, zie `incident-register.md`). Is dit een verweer tegen bestuurdersaansprakelijkheid?
 
 **D3.** Douwine's vage aansprakelijkheidsdreiging (e-mail 1 feb 2026: "verantwoordelijkheden of aansprakelijkheden verdwijnen niet") — is hier een reële grondslag voor? Zie `juridische-analyse.md` sectie 6.
 
@@ -115,7 +115,7 @@
 
 ### I. Uittreding Vorderen
 
-**I1.** Hoe sterk is het dossier voor een Art. 2:343 BW procedure (uittreding vorderen)? Peter heeft 10+ gedocumenteerde incidenten van structurele buitensluiting, waaronder de recente stopzetting van financiering en buitensluiting bij gesprekken met externe partij.
+**I1.** Hoe sterk is het dossier voor een Art. 2:343 BW procedure (uittreding vorderen)? Peter heeft 14 gedocumenteerde incidenten van structurele buitensluiting (zie `incident-register.md`), waaronder stopzetting financiering, buitensluiting bij gesprekken met externe partij, en eenzijdige waardering door Dinck's eigen accountant zonder Peter te consulteren.
 
 **I2.** Hoe wordt de prijs van de aandelen bepaald bij Art. 2:343? Wordt de vervangingswaarde van het platform (€250-350K) meegewogen, of alleen de boekwaarde?
 
@@ -156,13 +156,25 @@
 **L4.** Herleeft de aandeelhoudersovereenkomst (SHA) als Freca weer aandeelhouder wordt? De verdiepte analyse (`analyse/sha-herleving-analyse.md`, secties 2.4–2.7) concludeert dat de SHA nooit formeel is beëindigd — Art. 1.2 SHA vereist schriftelijke overeenstemming, Art. 8.4 SHA sluit ontbinding uit, en geen andere beëindigingsroute (Art. 6:265 BW, Art. 6:22 BW) is vervuld. Specifieke deelvragen:
 
 - **(a)** Wordt het non-concurrentiebeding (Art. 7 SHA: 3 jaar na levering aandelen) actief als Freca weer aandeelhouder wordt?
-- **(b)** Kan Peter zich verdedigen via **Art. 6:248 lid 2 BW** (beperkende werking redelijkheid en billijkheid) — selectieve handhaving door Freca die zelf structureel de SHA heeft geschonden (Art. 9 derdenbeding, Art. 3.1 gelijke behandeling, 13 uitsluitingsincidenten)?
+- **(b)** Kan Peter zich verdedigen via **Art. 6:248 lid 2 BW** (beperkende werking redelijkheid en billijkheid) — selectieve handhaving door Freca die zelf structureel de SHA heeft geschonden (Art. 9 derdenbeding, Art. 3.1 gelijke behandeling, 14 uitsluitingsincidenten)?
 - **(c)** Freca heeft bij de overdracht aan Marlou (7 nov 2025) haar **Art. 9 SHA-verplichting** (derdenbeding) niet nagekomen: geen toetredingsovereenkomst voor Marlou, geen contractsoverneming conform **Art. 6:159 BW** (vereist medewerking Peter, nooit gevraagd). Activeert dit de boeteclausule Art. 10 SHA (€100K + €1K/dag) als zelfstandige tegenvordering, onafhankelijk van de herlevingsvraag?
 - **(d)** Kan Peter vooraf uitsluiting van SHA-herleving bedingen als voorwaarde voor het tekenen van de akte? Zo ja, welke formulering?
 
 **L5.** De mondeling afgesproken terugkoopprijs was €1,50. De concept akte vermeldt €1,00. Is Peter verplicht mee te werken aan een eenzijdig gewijzigde prijs? Heeft de prijsafwijking juridische consequenties?
 
 **L6.** Na 1 maart 2026 is Peter geen bestuurder van Dinck meer. Hoedanigheid (b) in de akte — "als bestuurder van Dinck B.V." — vervalt dan. Wat zijn de gevolgen als Peter niet tekent vóór 1 maart? Kan de akte dan nog worden gepasseerd (met Douwine als enig bestuurder Dinck, terwijl zij ook bestuurder Freca/koper is)?
+
+### M. Grady Hofstra — Professioneel Belangenconflict
+
+**Context**: Grady Hofstra (Van der Meer Accountants & Consultants) vervult drie rollen tegelijk: (1) formeel accountant van Dinck B.V. (samenstelovereenkomst), (2) Douwine's persoonlijke adviseur bij Peters exit, en (3) ex-accountant van PHBX Holding (Peter is vertrokken naar andere accountant). Op 10 februari bevestigde Grady per e-mail aan notaris Koops dat €1 "een reële prijs" is voor de aandelen, in zijn hoedanigheid als Van der Meer — zonder Peter als mede-bestuurder te consulteren of te informeren over fiscale gevolgen. Zie `analyse/grady-hofstra-dynamiek.md`.
+
+**M1.** Grady is als Dinck's accountant (samenstelovereenkomst) gebonden aan de VGBA (NBA-beroepsregels). Hij adviseert tegelijk Douwine tegen Peter bij dezelfde vennootschap. Is dit een schending van Art. 11 (objectiviteit), Art. 13 (zorgvuldigheid) en/of Art. 21 (bedreiging vertrouwdheid/eigenbelang) VGBA?
+
+**M2.** Grady bevestigde per e-mail aan de notaris ("Dank, ja") dat €1 een reële prijs is voor de aandelen en dat "partijen" op de fiscale gevolgen zijn gewezen — terwijl Peter niets heeft ontvangen. Is deze bevestiging te kwalificeren als een beroepsfout? Kan Peter zich erop beroepen dat de waardering niet namens het volledige bestuur is gedaan?
+
+**M3.** Is een NBA-klacht (tuchtprocedure) tegen Grady kansrijk, en zo ja, wanneer is het strategisch raadzaam om die in te dienen? Is het dreigement alleen al effectief als drukmiddel?
+
+**M4.** Grady stelt als Dinck's accountant de jaarrekening 2024 samen. Keuzes daarin (waardering platform, classificatie Freca's €64K, continuïteitsveronderstelling) beïnvloeden de aandelenwaardering bij Peters uittreding. Kan Peter eisen dat de jaarrekening wordt beoordeeld door een onafhankelijke accountant, gezien Grady's belangenconflict?
 
 ---
 
@@ -176,7 +188,7 @@ Gezien de urgentie (meeting woensdag 11 feb, werknemersverplichtingen, vertrek p
 | **1 — DIRECT** | A1-A6 | Stopzetting financiering, meeting woensdag |
 | **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 beïnvloeden Peters positie in meeting |
 | **3 — VOOR 1 MAART** | D1-D3, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
-| **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3 | Uittreding, schijnconstructie, overig |
+| **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3, M1-M4 | Uittreding, schijnconstructie, Grady NBA, overig |
 
 ---
 
@@ -195,3 +207,4 @@ Gezien de urgentie (meeting woensdag 11 feb, werknemersverplichtingen, vertrek p
 | SHA herleving (verdiept) | `analyse/sha-herleving-analyse.md` |
 | Concept akte teruglevering | `analyse/concept-akte-teruglevering-analyse.md` |
 | Voorkeursrecht strategisch | `analyse/voorkeursrecht-strategische-analyse.md` |
+| Grady Hofstra triple role | `analyse/grady-hofstra-dynamiek.md` |
