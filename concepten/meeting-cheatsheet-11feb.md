@@ -91,6 +91,25 @@ Geldt voor: elk voorstel over aandelen, werkzaamheden, KTLO, lening, externe par
 
 ---
 
+## ALS GRADY MET EEN VOORSTEL/DOCUMENT KOMT
+
+**Kern**: Aannemen, niet reageren, later laten beoordelen.
+
+> "Dank je. Ik neem dit mee en laat het beoordelen door mijn adviseur. Ik reageer schriftelijk."
+
+**NIET doorlezen in de meeting. NIET reageren op specifieke punten. NIET vragen stellen over de inhoud.**
+
+| Zij zeggen | Jij zegt |
+|-----------|---------|
+| "Teken hier even" | "Ik onderteken niets zonder juridisch advies." |
+| "Dit is redelijk, je hoeft alleen maar..." | "Hoe redelijker het klinkt, hoe belangrijker dat mijn adviseur het beoordeelt." |
+| "We hebben dit al besproken" | "Ik neem het mee. Ik kom schriftelijk terug." |
+| "Dit is alleen een samenvatting van wat we afspraken" | "Dan is er geen haast. Ik laat het toetsen." |
+
+**Handelwijze**: Document aannemen → in tas → niet openen → later laten beoordelen door Maud.
+
+---
+
 ## ALS MARLOU HET WOORD NEEMT
 
 Zij kan worden ingezet om voorstellen "zachter" te laten klinken. Behandel alles als Douwine's voorstel.
@@ -105,6 +124,44 @@ Zij kan worden ingezet om voorstellen "zachter" te laten klinken. Behandel alles
 > "Grady, je bent Douwine's adviseur. Ik neem je inbreng ter kennisgeving aan, maar voor objectieve waarderingen voorzien de statuten in drie onafhankelijke deskundigen."
 
 Niet in discussie gaan over zijn cijfers. Noteren, meenemen, later laten toetsen.
+
+---
+
+## ALS DE EXTERNE PARTIJ PETER'S BETROKKENHEID ALS VOORWAARDE STELT
+
+**Het scenario**: Douwine zegt dat de externe partij wil dat Peter blijft werken / binnenboord blijft / gratis KTLO doet. Als Peter dat niet doet, gaat de deal niet door — en is het "Peters schuld".
+
+**Dit is geen druk — dit is bewijs van jouw waarde.** Als zij jou nodig hebben, bevestigt dat precies wat je al weet: het platform is van jou, en zonder jou werkt het niet.
+
+| Douwine/Grady zegt | Jij zegt |
+|-----------|---------|
+| "De externe partij wil dat jij blijft" | "Dan had ik bij die gesprekken betrokken moeten worden. Ik hoor dit nu voor het eerst." |
+| "Als jij weggaat gaat de deal niet door" | "Ik ben buitengesloten van die gesprekken. Ik kan geen verantwoordelijkheid nemen voor voorwaarden die zonder mij zijn afgesproken." |
+| "Je laat de werknemers in de steek" | "De financiering is gestopt door jou. Mijn betrokkenheid was jouw keuze om niet te bespreken." |
+| "Je hoeft alleen maar door te gaan met wat je doet" | "Gratis werken is geen 'gewoon doorgaan'. Dat is een voorwaarde die compensatie vereist." |
+| "Het is maar tijdelijk / een paar maanden" | "Graag concreet en schriftelijk. Ik bespreek het met mijn adviseur." |
+| "Dit is de enige manier om Dinck te redden" | "Als mijn werk essentieel is voor het voortbestaan, dan is faire compensatie daarvoor ook essentieel." |
+| "Je bent egoïstisch / je denkt alleen aan jezelf" | "Ik heb 3 maanden fulltime gewerkt voor €0. Ik denk aan een faire oplossing." |
+
+**NIET zeggen**:
+- NIET "ja" of "ik wil wel meewerken" — dat is een toezegging
+- NIET "nee, ik doe het niet" — dat geeft hen het narratief "Peter blokkeert"
+- NIET vragen wie de externe partij is in deze context — dat doe je bij punt 2 (informatierecht)
+
+**WEL zeggen**:
+> "Als mijn betrokkenheid een voorwaarde is van deze samenwerking, dan praten we over een schriftelijke overeenkomst met faire compensatie. Dat bespreek ik met mijn adviseur."
+
+---
+
+## ALS DOUWINE VRAAGT NAAR MAUD
+
+> "Ik heb het dossier gestuurd, ik ben in afwachting van haar advies."
+
+- NIET suggereren dat je advies hebt dat je niet hebt
+- NIET een tijdlijn noemen ("volgende week", "over twee dagen")
+- NIET zeggen dat Maud niet heeft gereageerd
+- Als "dan heb je dus geen advies?": "Ik heb een adviseur. Ik wacht haar advies af."
+- Als "waarom neem je dan geen beslissingen?": "Juist dáárom — ik wil zorgvuldig handelen."
 
 ---
 
@@ -147,12 +204,16 @@ Niet in discussie gaan over zijn cijfers. Noteren, meenemen, later laten toetsen
 - **Voorkeursrecht = blokkeringsmacht**: Zonder jouw handtekening kan de teruglevering niet plaatsvinden
 - **Vetorecht**: Geen AVA-besluit zonder jou — geen deal met externe partij mogelijk
 - **Platform**: Alleen jij kunt het onderhouden — vervangingskosten €250-350K
-- **Dossier**: 12 incidenten, brief verzonden, signaleerplicht vervuld
+- **Dossier**: 13 incidenten, brief + constateringsbrief verzonden, signaleerplicht vervuld
 - **Asymmetrie**: Douwine verliest €612K bij faillissement, jij verliest twijfelachtige equity
 - **Na 1 maart**: Geen bestuurder = geen zorgplicht = geen gratis werk
 - **Opschortingsrecht**: Art. 6:262 BW — €0 fee = recht om prestatie op te schorten
 - **Tegenstrijdig belang**: Bewezen door haar eigen handeling (financiering gestopt)
 - **MO niet opgezegd**: Vrijwaring (Art. 4.2) nog actief
+- **SHA herleving = beheersbaar**: 3 verdedigingslagen (Art. 1.2 + Art. 9 tegenvordering + Art. 6:248 lid 2 BW)
+- **Art. 9 tegenvordering**: €100K + €1K/dag — Peters eigen wapen als Freca de SHA inroept
+- **Hoedanigheid (b) vervalt 1 maart**: Leverage, niet zwakte — na 1 maart kan Peter niet meer tekenen als bestuurder
+- **Notaris concludeert**: Nieuwe waiver nodig — Peters handtekening is de poort
 
 ---
 
@@ -162,7 +223,9 @@ Niet in discussie gaan over zijn cijfers. Noteren, meenemen, later laten toetsen
 - Werknemers zijn bij faillissement beschermd via UWV loongarantieregeling
 - Peter kan na 1 maart alle werk stoppen (opschortingsrecht, €0 schade)
 - Curator zou Douwine onderzoeken, niet Peter (tegenstrijdig belang, gestopte financiering)
-- SHA is niet-werkend — geen non-concurrentiebeding afdwingbaar
+- SHA herleving = beheersbaar risico — 3 verdedigingslagen (Art. 1.2 + Art. 9 tegenvordering + Art. 6:248 lid 2 BW)
+- Als Douwine emotioneel speelt over werknemers: "Werknemers zijn beschermd via UWV. De financiering stoppen was jouw keuze."
+- Als MO ter sprake komt: "Dat bespreek ik met mijn adviseur." — NIET opzeggen, NIET bespreken
 
 ---
 

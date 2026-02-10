@@ -193,6 +193,36 @@ Niet reageren, maar informatie verzamelen. Stel deze vragen:
 
 ---
 
+### Als Grady met een voorstel of transitieplan komt
+
+Dit is het meest waarschijnlijke scenario. Grady heeft de meeting georganiseerd, het is zijn kantoor, en hij heeft iets voorbereid. Verwacht een schriftelijk document — een "voorstel", "transitieplan", "overzicht", of "samenvatting van afspraken".
+
+**Kernregel**: NIET doorlezen. NIET reageren op specifieke punten. NIET vragen stellen over de inhoud.
+
+> "Dank je, Grady. Ik neem dit mee en laat het beoordelen door mijn adviseur. Ik reageer schriftelijk."
+
+**Handelwijze**:
+1. Document aannemen
+2. In de tas — niet openen, niet doorlezen in de meeting
+3. Geen inhoudelijke reactie, geen vragen
+4. Later laten beoordelen door Maud
+
+**Counter-tabel voor typische drukzinnen**:
+
+| Grady/Douwine zegt | Peter antwoordt |
+|-------------|-----------------|
+| "Teken hier even" | "Ik onderteken niets zonder juridisch advies." |
+| "Dit is redelijk, je hoeft alleen maar..." | "Hoe redelijker het klinkt, hoe belangrijker dat mijn adviseur het beoordeelt." |
+| "We moeten dit nu beslissen" | "Als het zo urgent is, dan is het ook urgent genoeg om het goed te beoordelen." |
+| "Dit is alleen een samenvatting van wat we al besproken hebben" | "Dan is er geen haast. Ik laat het toetsen." |
+| "De notaris wacht hierop" | "De notaris kan wachten tot ik juridisch advies heb." |
+| "Na 1 maart wordt het ingewikkelder" | "Reden te meer om nu niets te overhaasten." |
+| "Grady heeft dit objectief opgesteld" | "Grady, je bent Douwine's adviseur. Ik laat het toetsen door mijn eigen adviseur." |
+
+**Expliciete instructie**: NIET ondertekenen. NIET mondeling akkoord geven. NIET zeggen "dat klinkt redelijk" of "daar kan ik mee leven". Alles gaat mee naar huis.
+
+---
+
 ## 5. Verwachte druk en tactieken
 
 ### "Je hebt een zorgplicht als bestuurder"
@@ -231,6 +261,41 @@ Als Marlou iets toezegt namens de AVA:
 
 > "Dat is goed om te horen. Ik wil het graag schriftelijk ontvangen zodat ik het kan laten toetsen."
 
+### Externe partij stelt Peter's betrokkenheid als voorwaarde
+
+**Het scenario**: Douwine presenteert het alsof de externe partij wil dat Peter blijft werken, binnenboord blijft, of gratis KTLO blijft doen als voorwaarde voor de samenwerking. Als Peter weigert, is het "zijn schuld" dat de deal niet doorgaat en de werknemers hun baan verliezen.
+
+**Waarom dit scenario waarschijnlijk is**: Douwine weet dat het platform zonder Peter niet werkt. Een externe partij die dat ook ziet, zal continuïteit eisen. Douwine zal dit framen als Peters verantwoordelijkheid — niet als bewijs van Peters waarde.
+
+**De omdenking**: Als de externe partij Peter's betrokkenheid als voorwaarde stelt, bewijst dat:
+1. Peter's werk is essentieel — dat rechtvaardigt compensatie, niet gratis arbeid
+2. Peter had bij de gesprekken betrokken moeten worden — dat is niet gebeurd
+3. Voorwaarden die zonder Peter zijn afgesproken, binden Peter niet
+
+**Verwachte drukzinnen en counters**:
+
+| Douwine/Grady zegt | Peter antwoordt |
+|-------------|-----------------|
+| "De externe partij wil dat jij erbij blijft" | "Dan had ik bij die gesprekken betrokken moeten worden. Ik hoor dit nu voor het eerst." |
+| "Als jij stopt gaat deze deal niet door" | "Ik ben buitengesloten van die gesprekken. Ik kan geen verantwoordelijkheid nemen voor voorwaarden die zonder mij zijn afgesproken." |
+| "Je laat de werknemers in de steek als je dit niet doet" | "De financiering is gestopt door jou, niet door mij. En de werknemers zijn beschermd." |
+| "Je hoeft alleen maar door te gaan met wat je al deed" | "Ik heb de afgelopen maanden fulltime gewerkt voor €0. 'Gewoon doorgaan' is een voorwaarde die compensatie vereist." |
+| "Het is maar voor een overgangsperiode" | "Graag concreet en schriftelijk — duur, scope, compensatie. Ik bespreek het met mijn adviseur." |
+| "Dit is de enige manier om Dinck te redden" | "Als mijn werk essentieel is voor het voortbestaan van Dinck, dan is faire compensatie daarvoor ook essentieel." |
+| "Je bent egoïstisch / je denkt alleen aan jezelf" | "Ik heb 3 maanden fulltime gewerkt zonder vergoeding. Ik vraag om een faire regeling. Dat is niet egoïstisch." |
+
+**Peters kernzin voor dit scenario**:
+
+> "Als mijn betrokkenheid een voorwaarde is van deze samenwerking, dan praten we over een schriftelijke overeenkomst met faire compensatie. Dat bespreek ik met mijn adviseur."
+
+**Belangrijk — niet in de val trappen**:
+- NIET "ja" of "ik wil best meewerken" zeggen — dat is een toezegging die later tegen je wordt gebruikt
+- NIET "nee, ik doe het niet" zeggen — dat geeft Douwine het narratief "Peter heeft de deal geblokkeerd"
+- NIET schuld accepteren voor het niet-doorgaan van een deal waar je buiten bent gehouden
+- WEL doorverwijzen naar je adviseur, WEL aangeven dat compensatie een voorwaarde is
+
+---
+
 ### Emotionele druk / beschuldigingen
 
 > "Ik begrijp dat dit een moeilijke situatie is. Ik wil dit zakelijk en constructief oplossen. Laten we bij de feiten blijven."
@@ -245,13 +310,14 @@ Als Marlou iets toezegt namens de AVA:
 |-----------|--------|
 | Vetorecht (Art. 8.6 lid 2) | Blokkeert elke AVA-beslissing — geen deal met externe partij zonder jou |
 | Platformafhankelijkheid | Vervangingskosten €250-350K, alleen Peter kan het onderhouden |
-| 12 gedocumenteerde uitsluitingsincidenten | Grondslag Art. 2:343 (uittreding vorderen), escalerend patroon |
+| 13 gedocumenteerde uitsluitingsincidenten | Grondslag Art. 2:343 (uittreding vorderen), escalerend patroon |
 | Brief financiële zorgen | Signaleerplicht vervuld — je bent een diligente bestuurder |
 | Ongerechtvaardigde verrijking | €108-180K aan onbetaald werk |
 | MO niet opgezegd | Vrijwaring (Art. 4.2) nog actief, recht op opschorting (Art. 6:262 BW) |
-| SHA niet-werkend | Geen non-concurrentiebeding afdwingbaar |
+| SHA slapend — beheersbaar risico | Peter heeft 3 verdedigingslagen (Art. 1.2 + Art. 9 tegenvordering + Art. 6:248 lid 2 BW). Niet uitspreken, wel weten. |
 | Art. 3.1 schending | Formeel alleen PHBX's fee gewijzigd — ongelijke behandeling |
 | Tegenstrijdig belang bewezen | Douwine's eigen handeling (financiering gestopt) bewijst het |
+| Constateringsbrief 10 feb | Non-response Douwine op informatieverzoek = bewijs Art. 2:9 BW schending |
 | Asymmetrie bij faillissement | Douwine verliest ~€612K, Peter verliest twijfelachtige equity |
 
 ---
@@ -277,9 +343,10 @@ Als Marlou iets toezegt namens de AVA:
 ## 8. Checklist voorbereiding
 
 - [x] Brief financiële zorgen verzonden (8 februari 2026)
-- [x] Constatering informatierecht verzonden (10 februari 2026) — indien verstuurd
+- [x] Constatering informatierecht verzonden (10 februari 2026)
 - [ ] Opname-app getest en opgeladen
-- [ ] Juridisch advies Maud ontvangen (idealiter vóór meeting; anders: niets toezeggen)
+- [ ] Juridisch advies Maud ontvangen — **Geen reactie ontvangen. Extra voorzichtigheid: niets toezeggen, alles via adviseur.**
+- [ ] Telefoon + opname-app klaar
 - [ ] Dit document doorgelezen
 - [ ] Worst-case scenarios doorgenomen (`analyse/worst-case-scenarios.md`)
 - [ ] Concept akte analyse doorgenomen (`analyse/concept-akte-teruglevering-analyse.md`)
