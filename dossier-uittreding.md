@@ -1,6 +1,6 @@
 # Dossier Uittreding Dinck B.V.
 
-**Bijgewerkt**: 9 februari 2026
+**Bijgewerkt**: 10 februari 2026
 
 ## 1. Situatieschets
 
@@ -204,12 +204,23 @@ Rabobank weigerde Douwine privé hypotheek vanwege schuldpositie Dinck. Oplossin
 
 **Kritiek**: De afgesproken terugkoop (€1,50 aan Freca) staat niet in de notariële akte. Art. 12 stelt dat "de mondelinge overeenkomst gelijk is aan de uitwerking in deze akte." De terugkoopafspraak is dus een onbewezen mondelinge bijafspraak.
 
-### 3.5 Openstaande Vragen
+### 3.5 Concept Akte Teruglevering (10 februari 2026)
+
+**Volledige analyse**: `analyse/concept-akte-teruglevering-analyse.md`
+
+Op 10 februari ontving Peter via notaris Koops een concept akte voor de teruglevering van 8 aandelen Marlou → Freca voor €1,00 (mondeling afgesproken: €1,50). Freca betaalt alle kosten (€788,59), Marlou ontvangt €1,00. De notaris vereist Peters co-signering als bewijs van afstand van het voorkeursrecht (Art. 3.2) — de november 2025 waiver dekt deze transactie niet.
+
+**€1 waardering bevestigd door conflicted accountant**: Grady Hofstra bevestigde per e-mail aan de notaris dat €1 "een reële prijs" is. De notaris schreef: *"Ik ga er van uit dat Van der Meer heeft geconstateerd dat €1 nog steeds een reële prijs is voor de aandelen en dat Van der Meer partijen op de (fiscale) gevolgen heeft gewezen."* Grady antwoordde: "Dank, ja". Er is geen formeel waarderingsrapport. Peter is niet geïnformeerd over de waardering of fiscale gevolgen. Dit is incident #14 (zie `incident-register.md`). Zie ook `analyse/grady-hofstra-dynamiek.md` sectie 5a.
+
+**Peters handtekening = leverage**: Zonder co-signering treedt de blokkeringsregeling (Art. 6.2 statuten) in werking. Na 1 maart vervalt Peters hoedanigheid als bestuurder Dinck — timing pressure.
+
+### 3.6 Openstaande Vragen
 
 - [ ] Is terugkoop door Freca al uitgevoerd? (KvK toont nog Marlou)
 - [x] ~~Getekende notariële akte opvragen~~ (verkregen 6 feb 2026)
 - [ ] Kan de mondelinge terugkoopafspraak worden bewezen?
 - [ ] Herleeft het voorkeursrecht als Marlou aan een derde overdraagt?
+- [ ] Herleeft de SHA als Freca weer aandeelhouder wordt? (non-concurrentie 3 jaar, boete €100K)
 
 ---
 
@@ -413,7 +424,7 @@ Douwine stopt als directeur VDenD/Freca (schuldeiser) de financiering, terwijl z
 
 - **Timing**: 7 weken voor aflossing 28 maart, 3 weken voor Peters vertrek als bestuurder
 - **Disclaimer verdacht**: "volkomen los van ontwikkelingen bestuur" — timing maakt dit ongeloofwaardig
-- **Meeting bij Grady**: haar adviseur, haar terrein — niet neutraal (herhaling patroon 14 dec 2025)
+- **Meeting bij Grady**: haar adviseur, haar terrein — niet neutraal (herhaling patroon 14 dec 2025). Grady heeft een dubbele pet: formeel Dinck's accountant (samenstelovereenkomst) terwijl hij Douwine adviseert over Peters exit. Zie `analyse/grady-hofstra-dynamiek.md`
 - **Peters veto intact**: Art. 8.6 lid 2 — geen enkel AVA-besluit over samenwerking, verkoop of herstructurering kan zonder Peters stem
 - **Concept brief financiële zorgen**: was al opgesteld vóór deze email — documenteert Peters diligentie als bestuurder
 
