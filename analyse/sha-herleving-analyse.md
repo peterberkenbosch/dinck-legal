@@ -217,15 +217,15 @@ Er is geen Nederlandse jurisprudentie gevonden die specifiek de herleving van ee
 
 ## 3. Risico's voor Peter als SHA herleeft
 
-### 3.1 Art. 7 — Non-concurrentiebeding (HOOG RISICO)
+### 3.1 Art. 7 — Non-concurrentiebeding (MIDDEL RISICO)
 
 > "Gedurende drie jaar na de datum van levering van de aandelen [...] zullen partijen zich onthouden van [...] activiteiten die concurrerend zijn."
 
-**Risico**: Als Peter zijn aandelen overdraagt (bij uittreding), activeert dit een non-concurrentiebeding van 3 jaar. Dit beperkt Peters mogelijkheid om in de kinderopvangsector te werken — precies het domein waar zijn expertise ligt.
+**Risico**: Als Peter zijn aandelen overdraagt (bij uittreding), activeert dit een non-concurrentiebeding van 3 jaar. De kinderopvangsector is Douwine's domein, niet Peters — Peter is software engineer. Het beding zou Peters vrijheid om softwareprojecten aan te nemen in de kinderopvangsector kunnen beperken, maar de praktische impact is beperkt.
 
 **Uitzondering**: "na onderling overleg en akkoord" — vereist Douwine's toestemming.
 
-**Impact**: HOOG. Dit is het gevaarlijkste aspect van SHA-herleving.
+**Impact**: MIDDEL. Het beding is formeel breed, maar raakt Peters werkelijke expertise (software engineering) slechts zijdelings.
 
 ### 3.2 Art. 10 — Boeteclausule (HOOG RISICO)
 
@@ -233,7 +233,7 @@ Er is geen Nederlandse jurisprudentie gevonden die specifiek de herleving van ee
 
 **Risico**: Als de SHA herleeft en Peter een SHA-bepaling schendt, kan Freca een boete vorderen. De boete is cumulatief en kan snel oplopen.
 
-**Impact**: HOOG. De combinatie van non-concurrentie + boeteclausule creëert een financiële bedreiging.
+**Impact**: HOOG. De boeteclausule is cumulatief en kan snel oplopen. Maar: snijdt twee kanten op — Peter kan ook vorderen bij schending door Freca (zie sectie 2.5).
 
 ### 3.3 Art. 3.1.h — Kooprecht bij ontslag bestuurder (MIDDEL RISICO)
 
@@ -312,7 +312,7 @@ Zie `vragen-advocaat-maud.md`, categorie L, vraag L4 — nu verrijkt met specifi
 
 | Aspect | Analyse | Impact |
 |--------|---------|--------|
-| Non-concurrentiebeding Art. 7 | SHA herleeft → actief, maar verdedigbaar via Art. 6:248 lid 2 BW | **HOOG, MITIGEERBAAR** |
+| Non-concurrentiebeding Art. 7 | SHA herleeft → actief, maar beperkte praktische impact (Peter is software engineer, niet kinderopvang) + verdedigbaar via Art. 6:248 lid 2 BW | **MIDDEL, MITIGEERBAAR** |
 | Boeteclausule Art. 10 | Snijdt twee kanten op — Peter heeft tegenvordering via Art. 9 | **HOOG, WEDERKERIG** |
 | Art. 9 derdenbeding | Zelfstandige tekortkoming Freca (7 nov 2025) | **OFFENSIEF INSTRUMENT** |
 | Kooprecht Art. 3.1.h | Beperkt door "eigen verzoek" uitzondering (Art. 4.2 SHA) | MIDDEL |
