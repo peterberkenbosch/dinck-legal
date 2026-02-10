@@ -24,7 +24,7 @@
 
 1. **NERGENS AAN COMMITTEN** — Elk voorstel: "Ik bespreek dit met mijn adviseur en kom schriftelijk terug."
 2. **MARLOU = DOUWINE** — Alles wat Marlou zegt komt van Douwine. Geen onafhankelijke stem.
-3. **GRADY = PARTIJADVISEUR** — Niet neutraal, niet objectief. Zijn cijfers zijn Douwine's cijfers.
+3. **GRADY = DUBBELE PET** — Formeel Dinck's accountant (Peter is ook zijn cliënt), feitelijk Douwine's adviseur. Niet neutraal. Zijn cijfers zijn Douwine's cijfers.
 
 **Jij bent de enige in de kamer die jouw belang dient. Doel = LUISTEREN, niet BESLISSEN.**
 
@@ -138,7 +138,13 @@ Zij kan worden ingezet om voorstellen "zachter" te laten klinken. Behandel alles
 
 > "Grady, je bent Douwine's adviseur. Ik neem je inbreng ter kennisgeving aan, maar voor objectieve waarderingen voorzien de statuten in drie onafhankelijke deskundigen."
 
-Niet in discussie gaan over zijn cijfers. Noteren, meenemen, later laten toetsen.
+**Als Grady presenteert als "Dinck's accountant"** (alsof hij namens de vennootschap spreekt):
+
+> "Grady, als accountant van Dinck ben ik als bestuurder ook jouw cliënt. Spreek je nu als Dinck's accountant of als Douwine's adviseur?"
+
+Dit dwingt het onderscheid. Bewaar deze lijn voor het moment dat hij iets als objectief of namens Dinck presenteert.
+
+Niet in discussie gaan over zijn cijfers. Noteren, meenemen, later laten toetsen. **Let op**: Grady heeft als Dinck's accountant toegang tot alle financiële data — hij kan selectief presenteren.
 
 ---
 

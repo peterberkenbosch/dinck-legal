@@ -9,9 +9,27 @@
 
 ## 0. Voorbereiding
 
-### Let op: Grady Hofstra is NIET neutraal
+### Let op: Grady Hofstra is NIET neutraal — en heeft een dubbele pet
 
-Grady is Douwine's accountant en adviseur. Hij is geen mediator. Behandel alles wat in deze meeting wordt gezegd alsof het in een juridische procedure kan worden gebruikt — want dat kan.
+Grady Hofstra heeft drie rollen die allemaal relevant zijn:
+
+1. **Formeel accountant van Dinck B.V.** (samenstelovereenkomst) — Peter is als bestuurder ook zijn cliënt
+2. **Douwine's persoonlijke adviseur** — adviseert haar bij Peters exit, waarderingskwesties, en het gesprek met de externe partij
+3. **Ex-accountant van PHBX Holding** — Peter is vertrokken naar een andere accountant → verloren omzet, mogelijke wrok
+
+**Het conflict**: Grady stelt Dinck's jaarrekening samen (en heeft daarmee toegang tot alle financiële data van de vennootschap), terwijl hij diezelfde informatie gebruikt om Douwine te adviseren bij de onderhandeling met Peter. Dit is in strijd met de NBA-beroepsregels (objectiviteit, zorgplicht). Grady had waarborgen moeten treffen of zich moeten terugtrekken.
+
+**Tactische lijn** — bewaren voor het moment dat Grady iets presenteert als objectief:
+
+> "Grady, spreek je nu als accountant van Dinck, of als adviseur van Douwine? Want als accountant van Dinck ben ik als bestuurder ook jouw cliënt."
+
+Dit dwingt Grady om te kiezen. Als hij zegt "Dinck's accountant" → hij moet ook Peter dienen. Als hij zegt "Douwine's adviseur" → zijn inbreng is partijdig. Beide antwoorden maken de niet-neutrale dynamiek expliciet.
+
+**Selectief gebruiken**: Niet bij elk punt, maar bewaren voor het moment dat hij een berekening, waardering of voorstel presenteert alsof het objectief is.
+
+**Oppassen**: Grady kan cijfers uit Dinck's boekhouding selectief presenteren. Hij kent de financiën beter dan Peter. Niet reageren op cijfers, niet in discussie gaan — noteren, meenemen, later laten toetsen.
+
+> Uitgebreide analyse: `analyse/grady-hofstra-dynamiek.md`
 
 ### Marlou spreekt met Douwine's stem
 
@@ -20,16 +38,6 @@ Douwine's bevestigingsmail is gericht aan "Marlou en Peter" — Marlou zit er du
 Bij alles wat Marlou zegt, denk: *"Dit is Douwine's boodschap via een andere mond."*
 
 Niet corrigeren, niet confronteren — gewoon weten. Als Marlou iets toezegt of voorstelt, geldt hetzelfde als voor Douwine: niets toezeggen, alles meenemen.
-
-### Grady is Douwine's adviseur — niet neutraal, niet objectief
-
-Grady Hofstra is Douwine's accountant, de meeting is op zijn kantoor, en het gesprek vindt plaats op Douwine's terrein. Dit is geen mediatie. Grady is een partijadviseur — zijn berekeningen, waarderingen en voorstellen dienen Douwine's belang.
-
-Als Grady berekeningen, waarderingen of voorstellen presenteert alsof die objectief zijn:
-
-> "Grady, je bent Douwine's adviseur. Ik neem je inbreng ter kennisgeving aan, maar voor objectieve waarderingen voorzien de statuten in drie onafhankelijke deskundigen."
-
-Niet in discussie gaan over Grady's cijfers. Noteren, meenemen, later laten toetsen door Maud of een eigen adviseur.
 
 ### Opname melden
 
