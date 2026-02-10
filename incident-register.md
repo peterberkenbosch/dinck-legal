@@ -235,6 +235,27 @@ De ernst wordt versterkt doordat Peter na het formele schriftelijke verzoek van 
 
 ---
 
+### 13. Eenzijdige Teruglevering Aandelen Zonder Overleg
+
+| Veld | Waarde |
+|------|--------|
+| Datum | 10 februari 2026 (concept akte ontvangen) |
+| Categorie | Aandeelhouderszaken / Bestuurlijk |
+| Bewijs | Concept akte 10 feb 2026 (Dossier 1078718/gjk), nota Freca (2600339.2), nota Marlou (2600339.3), e-mail notaris Koops |
+
+**Beschrijving**:
+Op 10 februari 2026 ontving Peter via de notaris een concept akte voor de teruglevering van 8 aandelen (66,7%) van Marlou Woltmeijer aan Freca B.V. — de omkering van de overdracht van 7 november 2025. Peter was als mede-bestuurder en mede-aandeelhouder niet vooraf geïnformeerd over het voornemen tot teruglevering, de timing, de koopprijs (€1,00 in plaats van mondeling afgesproken €1,50), of de gevolgen voor de aandeelhoudersverhouding.
+
+De notaris verwacht Peters co-signering als bewijs van afstand van het statutaire voorkeursrecht (Art. 3.2 concept akte). Daarnaast verwacht de notaris dat Peter het aandeelhoudersregister meebrengt voor bijwerking. Peter tekent in de akte in dubbele hoedanigheid: als aandeelhouder (PHBX) en als bestuurder van Dinck B.V.
+
+De nota's zijn al opgesteld: Freca betaalt €788,59 (inclusief koopsom, notariële kosten en BTW), Marlou ontvangt €1,00. Art. 9 van de akte bepaalt dat kosten voor rekening van de verkoper (Marlou) komen — maar de nota gaat naar Freca (koper). Dit bevestigt de stroman-constructie.
+
+**Timing**: Het concept werd ontvangen 1 dag vóór de geplande meeting bij Grady Hofstra (11 feb) en 19 dagen vóór Peters bestuurdersontslag (1 mrt). Na 1 maart kan Peter niet meer tekenen in hoedanigheid (b) als bestuurder van Dinck B.V. Er is dus tijdsdruk om Peter te laten tekenen.
+
+**Analyse**: Dit incident past in het escalerende patroon van eenzijdige besluitvorming. De teruglevering was voorzien in de oorspronkelijke akte (Art. 3.2: "mogelijke teruglevering"), maar Peter werd niet betrokken bij het tijdstip, de voorwaarden of de gevolgen. De afwijking van de mondeling afgesproken prijs (€1,50 → €1,00) bevestigt dat Marlou geen werkelijke onderhandelingspositie heeft — zij accepteert een lagere prijs zonder protest. De constructie Freca → Marlou → Freca is nu volledig circulair: Marlou was ~3 maanden aandeelhouder, heeft €1 betaald en ontvangt €1 terug, en heeft nul kosten gedragen.
+
+---
+
 ## Patroon van Buitensluiting
 
 | Categorie | Voorbeelden |
@@ -245,6 +266,7 @@ De ernst wordt versterkt doordat Peter na het formele schriftelijke verzoek van 
 | Communicatie | Eenzijdige vergaderingen, beschuldigingen |
 | Operationeel | Niet verschijnen overleg, detachering zonder overleg, verhuizing zonder overleg |
 | Bestuurlijk | Adreswijziging zonder overleg, **externe partij gesprekken zonder mede-bestuurder** |
+| Aandeelhouderszaken | Overdracht zonder informatie, **teruglevering zonder overleg** |
 | Tegenstrijdig belang | **Financiering gestopt als schuldeiser, terwijl bestuurder van schuldenaar** |
 
-**Conclusie**: 12 gedocumenteerde incidenten over ~16 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder. De incidenten escaleren in ernst: van informatie-achterstelling (2024-2025) naar eenzijdige financiële beslissingen die het voortbestaan van de vennootschap bedreigen (februari 2026).
+**Conclusie**: 13 gedocumenteerde incidenten over ~16 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder. De incidenten escaleren in ernst: van informatie-achterstelling (2024-2025) naar eenzijdige financiële beslissingen die het voortbestaan van de vennootschap bedreigen en eenzijdige aandelentransacties waarvoor Peters medewerking wordt verwacht zonder voorafgaand overleg (februari 2026).

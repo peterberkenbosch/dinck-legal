@@ -13,7 +13,7 @@ Peter Berkenbosch (PHBX Holding B.V., 33,3% aandeelhouder) treedt per 1 maart 20
 
 **De acute crisis**: Op 6 februari 2026 heeft mede-bestuurder Douwine Koopman de operationele financiering van Dinck per direct stopgezet. Dinck heeft werknemers in dienst maar onvoldoende eigen kasstroom (ARR €6.400/jaar) om salarissen te betalen. Tegelijkertijd voert Douwine gesprekken met een "externe partij" over de toekomst van Dinck — zonder Peter te informeren.
 
-**Peters sterke positie**: Vetorecht op alle AVA-besluiten (unanimiteitsvereiste Art. 8.6 lid 2 statuten), platformafhankelijkheid (alleen Peter kan het onderhouden), 12 gedocumenteerde uitsluitingsincidenten, vrijwaring via managementovereenkomst (niet opgezegd), en verliesasymmetrie bij faillissement (Douwine verliest ~€612K, Peter verliest twijfelachtige equity).
+**Peters sterke positie**: Vetorecht op alle AVA-besluiten (unanimiteitsvereiste Art. 8.6 lid 2 statuten), platformafhankelijkheid (alleen Peter kan het onderhouden), 13 gedocumenteerde uitsluitingsincidenten, vrijwaring via managementovereenkomst (niet opgezegd), en verliesasymmetrie bij faillissement (Douwine verliest ~€612K, Peter verliest twijfelachtige equity).
 
 **Peters kwetsbaarheden**: Art. 7.1.g leningsovereenkomst (staking-trigger), addendum onder druk getekend, geen D&O-verzekering, lopende fulltime MO-verplichting voor €0.
 
@@ -62,7 +62,9 @@ Op 7 november 2025 droeg Freca B.V. 8 aandelen (66,7%) over aan Marlou Woltmeije
 - **Peters voorkeursrecht**: afstand gedaan, maar uitsluitend voor deze levering + mogelijke teruglevering
 - **SHA**: Marlou is geen partij — geen toetredingsovereenkomst getekend
 
-*Volledige analyse: `analyse/notariele-akte-analyse.md`*
+**Update 10 feb 2026**: Op 10 februari ontving Peter een concept akte voor de teruglevering Marlou → Freca (€1,00). De "mogelijke teruglevering" uit Art. 3.2 van de november-akte wordt nu gerealiseerd. De cirkel is rond: Freca → Marlou (€1) → Freca (€1), duur ~3 maanden. Marlou heeft €0 netto betaald, €0 kosten gedragen, en nul betrokkenheid gehad bij Dinck. De notaris eist een nieuwe waiver via Peters co-signering. De koopprijs is €1,00 terwijl mondeling €1,50 was afgesproken — Marlou protesteert niet.
+
+*Volledige analyse: `analyse/notariele-akte-analyse.md` en `analyse/concept-akte-teruglevering-analyse.md`*
 
 ### 2.4 Financiële positie Dinck B.V. (per 31 januari 2026)
 
@@ -144,7 +146,7 @@ Beide managementovereenkomsten (PHBX ↔ Dinck en Freca ↔ Dinck, 28 maart 2024
 
 ## 4. Structurele Buitensluiting — Samenvatting
 
-Twaalf gedocumenteerde incidenten over zestien maanden tonen een escalerend patroon:
+Dertien gedocumenteerde incidenten over zestien maanden tonen een escalerend patroon:
 
 | Fase | Periode | Incidenten | Karakter |
 |------|---------|------------|----------|
@@ -171,6 +173,7 @@ Twaalf gedocumenteerde incidenten over zestien maanden tonen een escalerend patr
 | **9 feb (ma)** | Douwine bevestigt meeting wo 12:30, Venekoterweg 44, Oosterwolde. Geen reactie op brief. |
 | **9 feb** | Peter stuurt update + 6 urgente vragen naar Maud (zaak #547764) |
 | **10 feb (di)** | Gesprek externe partij vindt plaats. Peter heeft nul informatie ontvangen. |
+| **10 feb (di) 11:01** | Notaris Koops stuurt concept akte teruglevering aandelen Marlou → Freca (€1, koopsom mondeling was €1,50). Nieuwe waiver vereist — Peters co-signering = afstand voorkeursrecht. |
 | **11 feb (wo) 12:30** | Meeting bij Grady Hofstra, Van der Meer Accountants, Oosterwolde |
 
 ### 5.2 Wat er op het spel staat
@@ -181,7 +184,7 @@ Twaalf gedocumenteerde incidenten over zestien maanden tonen een escalerend patr
 
 3. **Externe partij**: Onbekend wie, wat besproken, welke toezeggingen. Peters vetorecht (Art. 8.6 lid 2) blokkeert elke deal die AVA-goedkeuring vereist.
 
-4. **Peters bestuurdersaansprakelijkheid**: Beschermd door signaleerplicht (brief 8 feb) en buitensluiting van besluitvorming (12 incidenten). Geldt tot 1 maart.
+4. **Peters bestuurdersaansprakelijkheid**: Beschermd door signaleerplicht (brief 8 feb) en buitensluiting van besluitvorming (13 incidenten). Geldt tot 1 maart.
 
 ### 5.3 Douwine's e-mail 6 februari — analyse
 
@@ -199,35 +202,41 @@ Drie elementen verdienen aandacht:
 
 ## 6. Peters Juridische Positie — Sterktes
 
-### 6.1 Vetorecht
+### 6.1 Voorkeursrecht / Blokkeringsmacht (NIEUW — 10 feb 2026)
+
+De concept akte teruglevering (10 feb 2026) eist Peters co-signering als bewijs van afstand van het statutaire voorkeursrecht. Zonder Peters handtekening kan de teruglevering niet plaatsvinden in de huidige vorm. De notaris zelf heeft geconcludeerd dat de eerdere waiver (nov 2025) niet volstaat. Dit geeft Peter een nieuw, concreet blokkeringsmiddel naast zijn vetorecht.
+
+*Volledige analyse: `analyse/voorkeursrecht-strategische-analyse.md`*
+
+### 6.2 Vetorecht
 
 Art. 8.6 lid 2 statuten: unanimiteit. Geen AVA-besluit zonder Peter. Dit blokkeert: aandelenuitgifte, statutenwijziging, jaarrekening, dividend, bestuurdersbenoeming, investeringen. De externe partij kan niet instappen zonder Peters instemming.
 
-### 6.2 Platformafhankelijkheid
+### 6.3 Platformafhankelijkheid
 
 Peter heeft het SaaS-platform gebouwd en is de enige die het kan onderhouden. Vervangingskosten: €250-350K. Herbouwtijd: maanden. Douwine heeft geen technische kennis. Na 1 maart heeft Peter nul verplichting om werk te verrichten — KTLO alleen tegen faire compensatie (markttarief €125/uur).
 
-### 6.3 Opschortingsrecht (Art. 6:262 BW)
+### 6.4 Opschortingsrecht (Art. 6:262 BW)
 
 PHBX heeft het recht om haar prestatie (fulltime beschikbaarheid) op te schorten omdat Dinck haar tegenprestatie niet nakomt (€0 fee). Dit is een erkend wettelijk recht, geen contractbreuk.
 
-### 6.4 Ongerechtvaardigde verrijking (Art. 6:212 BW)
+### 6.5 Ongerechtvaardigde verrijking (Art. 6:212 BW)
 
 ~1.440 uren onbetaald werk onder fulltime contractuele verplichting (Art. 2.3 MO). Geschatte waarde: €108.000 — €180.000. Het AVA-besluit was expliciet tijdelijk ("indien opbrengsten op voldoende niveau komen") — nooit heroverwogen. Dinck is verrijkt (platform) ten koste van PHBX (gratis werk).
 
-### 6.5 Vrijwaring (Art. 4.2 MO)
+### 6.6 Vrijwaring (Art. 4.2 MO)
 
 De MO is niet opgezegd. Dinck vrijwaart PHBX voor schadeclaims derden. Aansprakelijkheidsbeperking (Art. 4.3): PHBX alleen aansprakelijk bij opzet of grove nalatigheid. Beide blijven actief zolang de MO niet formeel wordt opgezegd.
 
-### 6.6 Tegenstrijdig belang bewezen
+### 6.7 Tegenstrijdig belang bewezen
 
 Douwine erkende het zelf (1 feb 2026: "handel ook vanuit mijn positie als financier") en bewees het door handeling (6 feb 2026: financiering gestopt als schuldeiser, terwijl bestuurder schuldenaar). Art. 2:239 lid 6 BW.
 
-### 6.7 Dossier structurele buitensluiting
+### 6.8 Dossier structurele buitensluiting
 
 12 gedocumenteerde incidenten, escalerend over 16 maanden. Grondslag voor Art. 2:343 BW (uittreding vorderen) en Art. 2:345 BW (enquêteprocedure).
 
-### 6.8 Verliesasymmetrie
+### 6.9 Verliesasymmetrie
 
 Bij faillissement verliest Douwine ~€612K (vorderingen Freca + VDenD worden waardeloos). Peter verliest aandelenbelang dat al twijfelachtig is gegeven de schuldenlast. Peter heeft in elk scenario minder te verliezen.
 
@@ -279,7 +288,7 @@ Rechter verplicht mede-aandeelhouder om aandelen over te nemen tegen door deskun
 |--------|-------------|
 | **Kosten** | €15.000 — €40.000+ |
 | **Doorlooptijd** | 12-24 maanden |
-| **Grondslag** | 12 incidenten, tegenstrijdig belang, informatieweigering |
+| **Grondslag** | 13 incidenten, tegenstrijdig belang, informatieweigering |
 | **Voordeel** | Prijs door onafhankelijke deskundige; niet afhankelijk van Douwine's medewerking |
 | **Nadeel** | Duur, lang, Marlou (niet Douwine) is formeel wederpartij |
 
@@ -320,7 +329,7 @@ Peter stopt alle werkzaamheden per 1 maart. Blijft passief aandeelhouder met vet
 
 ## 9. Openstaande Juridische Vragen
 
-Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (31 vragen, 11 categorieën A-K). Hieronder de meest urgente:
+Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 categorieën A-L). Hieronder de meest urgente:
 
 ### Urgent — vóór meeting 11 feb
 
@@ -375,7 +384,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (31 vragen, 11 cate
 
 | Datum | Gebeurtenis | Actie |
 |-------|-------------|-------|
-| **11 feb 2026** | Meeting 12:30 bij Grady Hofstra, Oosterwolde | Luisteren, niets toezeggen |
+| **11 feb 2026** | Meeting 12:30 bij Grady Hofstra, Oosterwolde | Luisteren, niets toezeggen, niets over akte bespreken |
 | **1 mrt 2026** | Bestuurdersontslag effectief | KvK-uitschrijving indienen |
 | **28 mrt 2026** | Eerste aflossing lening (~€55-75K) | Dinck kan niet betalen → automatisch verzuim |
 | **~1 apr 2026** | Einde onderhandelingsvenster | Formeel Art. 2:217 BW verzoek indien geen voortgang |
@@ -388,6 +397,8 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (31 vragen, 11 cate
 ### 11.1 Vóór meeting (10-11 feb)
 
 - [ ] Constatering informatierecht verzenden (concept gereed: `concepten/constatering-informatierecht-10feb.md`) — Peters keuze
+- [ ] Concept akte analyse doorlezen (`analyse/concept-akte-teruglevering-analyse.md`) — **NIEUW 10 feb**
+- [ ] Email Maud versturen over concept akte (`concepten/email-maud-update-10feb-akte.md`) — **NIEUW 10 feb**
 - [ ] Gespreksleidraad doorlezen (`concepten/gespreksleidraad.md`)
 - [ ] Cheatsheet printen (`concepten/meeting-cheatsheet-11feb.md`)
 - [ ] Opname-app testen
@@ -395,8 +406,10 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (31 vragen, 11 cate
 ### 11.2 Tijdens meeting (11 feb)
 
 - **Gouden regel**: Nergens aan committen. Elk voorstel: "Ik bespreek dit met mijn adviseur en kom schriftelijk terug."
-- **Drie agendapunten**: (1) financiering/werknemers, (2) externe partij/informatierecht, (3) aflossing 28 maart
+- **Vier agendapunten**: (1) financiering/werknemers, (2) externe partij/informatierecht, (3) aflossing 28 maart, (4) concept akte teruglevering — "Ik laat dit beoordelen door mijn adviseur"
 - **Marlou = Douwine's stem**. Grady = Douwine's adviseur. Niet neutraal.
+- **NIET het aandeelhoudersregister meenemen** naar Grady's kantoor
+- **NIETS inhoudelijks over de concept akte bespreken** — alleen: "Ik laat dit beoordelen door mijn adviseur"
 - **Niets ondertekenen. Niets mondeling toezeggen. Alles schriftelijk.**
 
 ### 11.3 Na meeting
@@ -431,13 +444,16 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (31 vragen, 11 cate
 
 | Bestand | Inhoud |
 |---------|--------|
-| `analyse/patronenanalyse-buitensluiting.md` | 12 incidenten in juridisch narratief — **NIEUW** |
+| `analyse/patronenanalyse-buitensluiting.md` | 13 incidenten in juridisch narratief — **NIEUW** |
 | `analyse/correspondentie-analyse.md` | Geverifieerde tijdlijn 19 e-mails (incl. 6 feb email) |
 | `analyse/managementovereenkomst-analyse.md` | MO's + AVA-notulen + Art. 3.1 bevinding |
 | `analyse/bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch BW Boek 2 vs. Boek 6 |
 | `analyse/geldlening-analyse.md` | Leningsovereenkomst + addendum |
 | `analyse/notariele-akte-analyse.md` | Notariële akte aandelenoverdracht |
 | `analyse/worst-case-scenarios.md` | Faillissement, UWV, speltheorie |
+| `analyse/concept-akte-teruglevering-analyse.md` | Concept akte teruglevering Marlou → Freca (10 feb 2026) — **NIEUW** |
+| `analyse/voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht — **NIEUW** |
+| `analyse/sha-herleving-analyse.md` | SHA-herlevingsrisico bij terugkeer Freca als aandeelhouder — **NIEUW** |
 | `analyse/sha-analyse.md` | SHA (niet-werkend) |
 | `analyse/statuten-analyse.md` | Statuten (unanimiteit, vetorecht) |
 
@@ -447,8 +463,8 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (31 vragen, 11 cate
 |---------|--------|
 | `dossier-uittreding.md` | Volledig feitelijk dossier |
 | `juridische-analyse.md` | Juridische positie-analyse |
-| `incident-register.md` | 12 incidenten structurele buitensluiting |
-| `vragen-advocaat-maud.md` | 31 vragen, 11 categorieën |
+| `incident-register.md` | 13 incidenten structurele buitensluiting |
+| `vragen-advocaat-maud.md` | 37 vragen, 12 categorieën |
 | `legal-preparedness-assessment.md` | Strategische paraatheid |
 
 ### Concepten

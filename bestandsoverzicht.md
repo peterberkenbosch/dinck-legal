@@ -12,8 +12,8 @@
 | `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's | Actueel (6 feb) |
 | `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling | Actueel (6 feb) |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
-| `vragen-advocaat-maud.md` | 31 juridische vragen voor Maud (11 categorieën A-K) | Actueel (9 feb) |
-| `incident-register.md` | 12 gedocumenteerde uitsluitingsincidenten (incl. #11 financiering + #12 externe partij, bijgewerkt 10 feb) | Actueel (10 feb) |
+| `vragen-advocaat-maud.md` | 37 juridische vragen voor Maud (12 categorieën A-L, incl. concept akte teruglevering) | Actueel (10 feb) |
+| `incident-register.md` | 13 gedocumenteerde uitsluitingsincidenten (incl. #13 eenzijdige teruglevering aandelen) | Actueel (10 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 
 ---
@@ -33,6 +33,9 @@
 | `patronenanalyse-buitensluiting.md` | Juridisch narratief: 12 incidenten in escalerend patroon, court-ready |
 | `dossiersynthese-uittreding.md` | Volledig overzicht voor advocaat Maud — alles in één document |
 | `worst-case-scenarios.md` | Scenario-analyse: werkstaking, faillissement, UWV, verdeling, speltheorie |
+| `concept-akte-teruglevering-analyse.md` | Concept akte teruglevering Marlou → Freca (artikel-vergelijking, nota-analyse, schijnconstructie) |
+| `voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht (met SHA-herlevingsrisico per optie) |
+| `sha-herleving-analyse.md` | SHA-herlevingsrisico bij terugkeer Freca als aandeelhouder (non-concurrentie, boeteclausule) |
 
 ---
 
@@ -42,10 +45,11 @@
 |---------|--------|--------|
 | `brief-financiele-zorgen.md` | Brief financiële zorgen — signalering risico's en continuïteit | Verzonden 8 feb 2026 |
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
-| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (9 secties) | Actueel (9 feb, definitief) |
-| `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — drie regels, counters, kracht | Actueel (9 feb) |
+| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (incl. sectie 2d concept akte) | Actueel (10 feb) |
+| `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — vier punten, counters, kracht | Actueel (10 feb) |
 | `constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek (extern partij 10 feb) | Concept (10 feb) |
 | `email-maud-update-9feb.md` | Update-email aan Maud van der Zee (Omnius, zaak #547764) | Verzonden 9 feb 2026 |
+| `email-maud-update-10feb-akte.md` | URGENT update: concept akte teruglevering ontvangen | Concept (10 feb) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
 
@@ -77,6 +81,9 @@
 | `getekend-aandeelhoudersovereenkomst.pdf` | SHA tussen PHBX en Freca (niet-werkend) |
 | `Registratie_28_03_2024_Repnr_21003_Koops_Oprichting BV.pdf` | Oprichtingsakte Dinck B.V. (incl. statuten) |
 | `Registratie_07_11_2025_Repnr_24482_Koops_Levering aandelen.pdf` | Notariële akte levering aandelen Freca → Marlou |
+| `10-feb-2026-Concept- levering aandelen.pdf` | Concept akte teruglevering aandelen Marlou → Freca (Dossier 1078718/gjk) |
+| `nota_2600339.2_Koper_1078718_10-02-2026_10-02-2026_10-46-12.pdf` | Nota van afrekening Freca B.V. (koper): €788,59 te betalen |
+| `nota_2600339.3_Verkoper_1078718_10-02-2026_10-02-2026_10-46-27.pdf` | Nota van afrekening M. Gorter-Woltmeijer (verkoper): €1,00 te ontvangen |
 | `01-02-2026_KVK_uittreksel_UBO-93428359.pdf` | KvK-uittreksel (1 feb 2026) |
 
 ### Correspondentie

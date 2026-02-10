@@ -92,6 +92,36 @@ Als de financiering gestopt blijft en er geen alternatieve inkomsten zijn, is fa
 
 **Let op**: Peters vetorecht (Art. 8.6 lid 2) blokkeert elke deal met een externe partij die AVA-goedkeuring vereist. Dat hoeft Peter niet te zeggen — maar het is de realiteit.
 
+### 2d. Concept akte teruglevering aandelen
+
+> "Ik heb de concept akte voor de teruglevering van de aandelen ontvangen. Ik laat die beoordelen door mijn adviseur."
+
+**Niets meer zeggen. Niet inhoudelijk bespreken. Geen mening geven over tekenen of niet tekenen.**
+
+Dit is een APART onderwerp van de externe partij (punt 2b). Niet vermengen.
+
+**Verwachte reacties en counters**:
+
+| Douwine/Grady zegt | Peter antwoordt |
+|-------------|-----------------|
+| "Het is een formaliteit" | "Dan heeft mijn adviseur er snel naar gekeken. Ik kom schriftelijk terug." |
+| "Je hebt in november al afstand gedaan van je voorkeursrecht" | "De concept akte spreekt voor zich. Ik laat het beoordelen door mijn adviseur." |
+| "De notaris wacht / de notaris heeft haast" | "De akte is een concept. Ik neem de tijd die nodig is om het te laten beoordelen." |
+| "Grady heeft vastgesteld dat de prijs €1 is" | "De statuten voorzien in waardering door drie onafhankelijke deskundigen." |
+| "Heb je het aandeelhoudersregister meegenomen?" | "Nee. Het register wordt bijgewerkt als de akte is gepasseerd. We zijn nog niet zover." |
+| "Je moet tekenen als bestuurder van Dinck" | "Ik heb de stukken ontvangen en laat ze beoordelen. Ik reageer schriftelijk." |
+| "Na 1 maart kun je niet meer tekenen als bestuurder" | "Dat klopt. Reden te meer om dit zorgvuldig te beoordelen." |
+
+**NIET bespreken**:
+- Of Peter gaat tekenen of niet
+- De inhoud van de akte
+- De koopprijs (€1 vs. €1,50)
+- Het voorkeursrecht
+- De SHA
+- Wanneer Peter denkt te reageren
+
+---
+
 ### 2c. Aflossing 28 maart 2026
 
 > "Op 28 maart is de eerste aflossing verschuldigd aan Freca. Op basis van het huidige saldo gaat het om €55.000 tot €75.000. Hoe gaat Dinck dit betalen?"
@@ -118,6 +148,9 @@ Peter gaat naar huis met informatie, niet met verplichtingen. Elk voorstel — h
 
 | Absoluut niet | Reden |
 |---------------|-------|
+| Iets inhoudelijks over de concept akte teruglevering | De akte is Peters sterkste nieuwe hefboom — niets onthullen |
+| Of hij gaat tekenen of niet tekenen | Elke uitspraak hierover verzwakt zijn positie |
+| Iets over het voorkeursrecht of de SHA | Niet het woord "aandeelhoudersovereenkomst" uitspreken |
 | Toezegging tot werk na 1 maart (gratis of tegen korting) | Vernietigt alle leverage |
 | Accepteren van aansprakelijkheid | Geen juridische grondslag; buitengesloten van besluitvorming |
 | Concessies over ontslagdatum | Non-negotiable, al gecommuniceerd |
@@ -249,8 +282,10 @@ Als Marlou iets toezegt namens de AVA:
 - [ ] Juridisch advies Maud ontvangen (idealiter vóór meeting; anders: niets toezeggen)
 - [ ] Dit document doorgelezen
 - [ ] Worst-case scenarios doorgenomen (`analyse/worst-case-scenarios.md`)
+- [ ] Concept akte analyse doorgenomen (`analyse/concept-akte-teruglevering-analyse.md`)
 - [ ] Dossier-uittreding.md key facts paraat
 - [ ] Kalm en zakelijk instelling — laat Douwine de emotionele kant doen
+- [ ] **NIET het aandeelhoudersregister meenemen** naar Grady's kantoor
 
 ---
 

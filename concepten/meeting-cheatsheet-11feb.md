@@ -23,7 +23,7 @@ Als bezwaar: "Dan stel ik voor dat we beiden aantekeningen maken en achteraf een
 
 ---
 
-## DRIE PUNTEN DIE PETER AAN DE ORDE STELT
+## VIER PUNTEN DIE PETER AAN DE ORDE STELT
 
 ### 1. Financiering gestopt — werknemers
 
@@ -50,6 +50,21 @@ Als bezwaar: "Dan stel ik voor dat we beiden aantekeningen maken en achteraf een
 - Als "Freca zal niet opeisen": "Graag schriftelijk bevestigen, inclusief uitstelafspraak."
 - Als "bespreken we later": "De termijn is over 6 weken. Automatisch verzuim treedt in zonder ingebrekestelling."
 - Als "jij hebt het addendum ook getekend": "Klopt. Maar Dinck kan het niet betalen. Dat is een feit."
+
+### 4. Concept akte teruglevering aandelen
+
+> "Ik heb de concept akte ontvangen. Ik laat die beoordelen door mijn adviseur."
+
+**STOP. Niets meer zeggen. Dit is een APART onderwerp van de externe partij.**
+
+| Zij zeggen | Jij zegt |
+|-----------|---------|
+| "Het is een formaliteit" | "Dan heeft mijn adviseur er snel naar gekeken." |
+| "Je hebt al afstand gedaan in november" | "Ik laat het beoordelen. Ik kom schriftelijk terug." |
+| "De notaris wacht" | "De akte is een concept. Ik neem de tijd die nodig is." |
+| "Grady heeft de prijs vastgesteld" | "De statuten voorzien in drie onafhankelijke deskundigen." |
+| "Heb je het register mee?" | "Nee." |
+| "Na 1 maart kun je niet meer tekenen" | "Reden te meer om het zorgvuldig te beoordelen." |
 
 ---
 
@@ -97,6 +112,10 @@ Niet in discussie gaan over zijn cijfers. Noteren, meenemen, later laten toetsen
 
 | Niet | Waarom |
 |------|--------|
+| Iets inhoudelijks over de concept akte | Sterkste nieuwe hefboom — niets onthullen |
+| Of je gaat tekenen of niet | Elke uitspraak verzwakt je positie |
+| Iets over het voorkeursrecht of de SHA | Niet het woord "aandeelhoudersovereenkomst" uitspreken |
+| Het aandeelhoudersregister meenemen | Niet. Het register blijft thuis. |
 | Toezeggen tot werk na 1 maart | Leverage weg |
 | Iets over aandelenwaarde zeggen | Statuten: 3 onafhankelijke deskundigen |
 | Ontslagdatum ter discussie stellen | Non-negotiable |
@@ -125,6 +144,7 @@ Niet in discussie gaan over zijn cijfers. Noteren, meenemen, later laten toetsen
 
 ## JOUW KRACHT — waarom je sterk zit (niet uitspreken, wel weten)
 
+- **Voorkeursrecht = blokkeringsmacht**: Zonder jouw handtekening kan de teruglevering niet plaatsvinden
 - **Vetorecht**: Geen AVA-besluit zonder jou — geen deal met externe partij mogelijk
 - **Platform**: Alleen jij kunt het onderhouden — vervangingskosten €250-350K
 - **Dossier**: 12 incidenten, brief verzonden, signaleerplicht vervuld

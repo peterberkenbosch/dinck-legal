@@ -1,7 +1,7 @@
 # Juridische vragen — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 9 februari 2026 (n.a.v. nieuwe ontwikkelingen)
+**Bijgewerkt**: 10 februari 2026 (n.a.v. concept akte teruglevering + categorie L toegevoegd)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 
@@ -141,12 +141,33 @@
 
 ---
 
+## URGENT — N.a.v. Concept Akte Teruglevering (10 feb 2026)
+
+### L. Concept Akte Teruglevering Aandelen
+
+**Context**: Op 10 februari 2026 ontving Peter via notaris Koops een concept akte voor de teruglevering van 8 aandelen (66,7%) van Marlou Woltmeijer aan Freca B.V. — de omkering van de overdracht van 7 november 2025. De koopprijs is €1,00 (mondelinge afspraak was €1,50). De notaris eist Peters co-signering als bewijs van afstand van het statutaire voorkeursrecht (Art. 3.2). Zie `analyse/concept-akte-teruglevering-analyse.md`, `analyse/voorkeursrecht-strategische-analyse.md` en `analyse/sha-herleving-analyse.md`.
+
+**L1.** Kan Peter weigeren de akte te tekenen? Wat zijn de juridische gevolgen van een weigering? Moet de blokkeringsregeling (Art. 6.2 statuten) dan worden gevolgd?
+
+**L2.** De akte van november 2025 (Art. 3.2) bevatte een waiver voor "deze levering en een mogelijke teruglevering door koper aan verkoper." De concept akte van februari 2026 (Art. 3.2) eist een nieuwe, afzonderlijke waiver ("uitsluitend voor deze levering. Dit blijkt uit het mee tekenen door/namens PHBX Holding B.V."). Dekt de eerdere waiver de huidige transactie juridisch, of heeft de notaris gelijk dat een nieuwe afstand nodig is?
+
+**L3.** Als Peter zijn voorkeursrecht uitoefent: tegen welke prijs moet hij de aandelen overnemen? Is dit realistisch gezien de schuldenlast van Dinck (€466K aan Freca, €146K aan VDenD)?
+
+**L4.** Herleeft de aandeelhoudersovereenkomst (SHA) als Freca weer aandeelhouder wordt? Zo ja, wordt het non-concurrentiebeding (Art. 7 SHA: 3 jaar) dan actief? En de boeteclausule (Art. 10 SHA: €100K + €1K/dag)?
+
+**L5.** De mondeling afgesproken terugkoopprijs was €1,50. De concept akte vermeldt €1,00. Is Peter verplicht mee te werken aan een eenzijdig gewijzigde prijs? Heeft de prijsafwijking juridische consequenties?
+
+**L6.** Na 1 maart 2026 is Peter geen bestuurder van Dinck meer. Hoedanigheid (b) in de akte — "als bestuurder van Dinck B.V." — vervalt dan. Wat zijn de gevolgen als Peter niet tekent vóór 1 maart? Kan de akte dan nog worden gepasseerd (met Douwine als enig bestuurder Dinck, terwijl zij ook bestuurder Freca/koper is)?
+
+---
+
 ## Prioritering voor Eerste Gesprek
 
 Gezien de urgentie (meeting woensdag 11 feb, werknemersverplichtingen, vertrek per 1 maart):
 
 | Prioriteit | Vragen | Reden |
 |------------|--------|-------|
+| **0 — MEEST URGENT** | L1-L6 | Concept akte teruglevering, voorkeursrecht, SHA-herleving |
 | **1 — DIRECT** | A1-A6 | Stopzetting financiering, meeting woensdag |
 | **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 beïnvloeden Peters positie in meeting |
 | **3 — VOOR 1 MAART** | D1-D3, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
