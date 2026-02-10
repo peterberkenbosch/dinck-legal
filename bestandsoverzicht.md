@@ -1,6 +1,6 @@
 # Dossier Dinck B.V. — Bestandsoverzicht
 
-**Bijgewerkt**: 9 februari 2026 (avond)
+**Bijgewerkt**: 10 februari 2026
 
 ---
 
@@ -13,7 +13,7 @@
 | `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling | Actueel (6 feb) |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
 | `vragen-advocaat-maud.md` | 31 juridische vragen voor Maud (11 categorieën A-K) | Actueel (9 feb) |
-| `incident-register.md` | 12 gedocumenteerde uitsluitingsincidenten (incl. #11 financiering + #12 externe partij) | Actueel (9 feb) |
+| `incident-register.md` | 12 gedocumenteerde uitsluitingsincidenten (incl. #11 financiering + #12 externe partij, bijgewerkt 10 feb) | Actueel (10 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 
 ---
@@ -30,6 +30,8 @@
 | `sha-analyse.md` | Aandeelhoudersovereenkomst (niet-werkend, Marlou geen partij) |
 | `statuten-analyse.md` | Statuten (unanimiteit Art. 8.6 lid 2, vetorecht, voorkeursrecht) |
 | `strategische-opties.md` | Strategische scenario's en opties |
+| `patronenanalyse-buitensluiting.md` | Juridisch narratief: 12 incidenten in escalerend patroon, court-ready |
+| `dossiersynthese-uittreding.md` | Volledig overzicht voor advocaat Maud — alles in één document |
 | `worst-case-scenarios.md` | Scenario-analyse: werkstaking, faillissement, UWV, verdeling, speltheorie |
 
 ---
@@ -42,6 +44,7 @@
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
 | `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (9 secties) | Actueel (9 feb, definitief) |
 | `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — drie regels, counters, kracht | Actueel (9 feb) |
+| `constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek (extern partij 10 feb) | Concept (10 feb) |
 | `email-maud-update-9feb.md` | Update-email aan Maud van der Zee (Omnius, zaak #547764) | Verzonden 9 feb 2026 |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |

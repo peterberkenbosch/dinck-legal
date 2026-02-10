@@ -37,10 +37,10 @@ Als bezwaar: "Dan stel ik voor dat we beiden aantekeningen maken en achteraf een
 
 ### 2. Externe partij — informatierecht
 
-> "In je mail van 6 februari noemde je een gesprek met een externe partij over mogelijke samenwerking. Dat gesprek was gisteren gepland. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
+> "In je mail van 6 februari noemde je een gesprek met een externe partij over mogelijke samenwerking. Dat gesprek was gisteren. Ik heb daar geen informatie over ontvangen, ook niet na mijn brief van 8 februari. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
 
-- Als "vertrouwelijk": "Als mede-bestuurder heb ik recht op volledige informatie."
-- Als "verkennend": "Ik moet weten of er gesprekken lopen die de vennootschap raken."
+- Als "vertrouwelijk": "Als mede-bestuurder heb ik recht op volledige informatie. Ik heb dat ook schriftelijk vastgesteld."
+- Als "verkennend": "Ik moet weten of er gesprekken lopen die de vennootschap raken. Ik heb daar twee keer om gevraagd — in mijn brief van 8 februari en in mijn constatering van gisteren."
 - Als "gaat jou niet aan": "Zolang ik bestuurder ben, gaat alles wat Dinck raakt mij aan. Dat is een wettelijke verplichting."
 
 ### 3. Aflossing 28 maart

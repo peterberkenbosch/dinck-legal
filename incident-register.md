@@ -209,15 +209,29 @@ Douwine besloot als directeur van VDenD/Freca (schuldeiser) de operationele fina
 |------|--------|
 | Datum | 6 februari 2026 (bekendmaking); gesprekken dinsdag 10 feb 2026 |
 | Categorie | Bestuurlijk / Strategisch |
-| Bewijs | E-mail Douwine 6 feb 2026 18:35 |
+| Bewijs | E-mail Douwine 6 feb 2026 18:35; brief Peter 8 feb 2026 sectie 4; e-mail Douwine 9 feb 2026 (geen inhoudelijke reactie) |
 
 **Beschrijving**:
 In dezelfde e-mail meldde Douwine dat zij gesprekken voert met een "externe partij" over een "mogelijke samenwerking", gepland op dinsdag 10 februari. Peter was als mede-bestuurder niet vooraf geïnformeerd over het bestaan van deze gesprekken, de identiteit van de partij, de aard van de samenwerking, of eventuele voorwaarden. Peter is nog bestuurder tot 1 maart 2026.
 
-**Citaat Douwine**:
+Op 8 februari 2026 heeft Peter per brief formeel verzocht (sectie 4) om geïnformeerd te worden over: de identiteit van de externe partij, de aard en reikwijdte van de beoogde samenwerking, en eventuele voorwaarden of toezeggingen. Douwine's bevestigingsmail van 9 februari bevat **geen enkele inhoudelijke reactie** op de brief en negeert alle in sectie 4 gestelde vragen.
+
+Op dinsdag 10 februari 2026 heeft het gesprek met de externe partij plaatsgevonden. Peter heeft tot op dat moment **nul informatie** ontvangen — niet over de identiteit van de partij, niet over wat is besproken, niet over eventuele toezeggingen.
+
+**Citaat Douwine (6 feb)**:
 > "Afgelopen dinsdag heeft er een eerste gesprek plaatsgevonden met een partij die mogelijk wilt participeren of op een andere manier betrokken wilt worden bij Dinck. Dit zijn verkennende gesprekken en ik zal jullie hier over informeren zodra er meer duidelijkheid is."
 
+**Tijdlijn non-compliance**:
+| Datum | Gebeurtenis |
+|-------|-------------|
+| 6 feb 2026 | Douwine meldt externe partij + gesprek dinsdag — Peter niet geïnformeerd |
+| 8 feb 2026 | Peter verzoekt formeel om informatie (brief sectie 4) |
+| 9 feb 2026 | Douwine bevestigt meeting woensdag — negeert alle inhoudelijke punten brief |
+| 10 feb 2026 | Gesprek externe partij vindt plaats — Peter heeft nul informatie ontvangen |
+
 **Analyse**: Dit illustreert de escalatie van het buitensluitingspatroon: van operationele beslissingen (incidenten 1-10) naar strategische besluitvorming over het voortbestaan en de toekomst van de vennootschap. Peter, als mede-bestuurder én aandeelhouder met vetorecht (Art. 8.6 lid 2 statuten), wordt geconfronteerd met een fait accompli. Elk AVA-besluit over samenwerking, participatie of herstructurering vereist zijn instemming — maar hij wordt niet eens geïnformeerd over de gesprekken.
+
+De ernst wordt versterkt doordat Peter na het formele schriftelijke verzoek van 8 februari nog steeds geen informatie heeft ontvangen. Het gaat niet langer om een omissie of vergissing — het is een bewuste weigering om een mede-bestuurder te informeren over strategische gesprekken die het voortbestaan van de vennootschap raken. Dit is een schending van het collegialiteitsbeginsel (Art. 2:9 BW).
 
 ---
 

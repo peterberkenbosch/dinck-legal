@@ -80,7 +80,7 @@ Als de financiering gestopt blijft en er geen alternatieve inkomsten zijn, is fa
 
 ### 2b. Externe partij — informatierecht mede-bestuurder
 
-> "In je mail van 6 februari noemde je een gesprek met een externe partij over mogelijke samenwerking. Dat gesprek was gisteren gepland. Ik ben daar als mede-bestuurder niet over geïnformeerd. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
+> "In je mail van 6 februari noemde je een gesprek met een externe partij over mogelijke samenwerking. Dat gesprek was gisteren. Ik heb daar als mede-bestuurder geen informatie over ontvangen — ook niet na mijn schriftelijke verzoek van 8 februari. Wie is die partij, wat is er besproken, en zijn er toezeggingen gedaan?"
 
 **Verwachte reacties en counters**:
 
@@ -244,6 +244,7 @@ Als Marlou iets toezegt namens de AVA:
 ## 8. Checklist voorbereiding
 
 - [x] Brief financiële zorgen verzonden (8 februari 2026)
+- [x] Constatering informatierecht verzonden (10 februari 2026) — indien verstuurd
 - [ ] Opname-app getest en opgeladen
 - [ ] Juridisch advies Maud ontvangen (idealiter vóór meeting; anders: niets toezeggen)
 - [ ] Dit document doorgelezen
