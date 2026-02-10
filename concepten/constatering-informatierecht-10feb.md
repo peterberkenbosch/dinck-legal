@@ -1,7 +1,7 @@
 # Constatering — Informatierecht mede-bestuurder
 
-**Status**: CONCEPT — ter beoordeling door Peter
-**Verzenden**: Vandaag (dinsdag 10 februari 2026), indien Peter akkoord
+**Status**: VERZONDEN
+**Verzonden**: Dinsdag 10 februari 2026
 **Aan**: Douwine Koopman, Marlou Woltmeijer (consistent met brief 8 feb — Grady bewust niet in CC)
 
 ---
@@ -43,10 +43,10 @@ Bestuurder Dinck B.V.
 
 | Veld | Waarde |
 |------|--------|
-| Verzonden op | [datum + tijd invullen] |
+| Verzonden op | 10 februari 2026 |
 | Van | peter@phbxholding.com |
-| Aan | douwine@dinck.nl, m.gorter@dagendou.nl |
-| CC | peter@dinck.nl |
+| Aan | douwine@dagendou.nl, m.gorter@dagendou.nl |
+| CC | douwine@dinck.nl, peter@dinck.nl |
 
 ## Onderwerp e-mail
 

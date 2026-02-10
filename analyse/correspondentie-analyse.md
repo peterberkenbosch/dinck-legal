@@ -39,6 +39,14 @@
 | 17 | **8 feb 2026** | **Peter (info@phbxholding.com)** | **Douwine (douwine@dagendou.nl)** | **Grady, Marlou** | — | **Bevestiging meeting woensdag, vraagt tijdstip. "Inhoudelijk reageer ik separaat."** |
 | 18 | **8 feb 2026** | **Peter (peter@phbxholding.com)** | **AVA Dinck B.V. (douwine@dagendou.nl, m.gorter@dagendou.nl)** | **douwine@dinck.nl, peter@dinck.nl** | — | **Brief financiële zorgen — signalering risico's en continuïteit (apart verzonden, nieuwe thread, Grady bewust niet in CC)** |
 | 19 | **9 feb 2026** | **Douwine** | **Marlou, Peter** | — | — | **Bevestiging meeting woensdag 12:30 bij Grady Hofstra. Adres: Venekoterweg 44, 8431 HH Oosterwolde (Van der Meer Accountants & Consultants). Geen inhoudelijke reactie op brief financiële zorgen.** |
+| 20 | **10 feb 2026** | **Peter (peter@phbxholding.com)** | **douwine@dagendou.nl, m.gorter@dagendou.nl** | **douwine@dinck.nl, peter@dinck.nl** | — | **Constatering informatierecht mede-bestuurder: informatieverzoek uit brief 8 feb onbeantwoord, externe-partijgesprek vandaag zonder informatie aan Peter (Art. 2:9 BW collegialiteitsbeginsel)** |
+
+**Observaties bij #20 — Constateringsbrief 10 feb:**
+
+1. **Bewust gericht aan dagendou.nl-adressen** — Consistent met brief #18 (financiële zorgen): primaire communicatie naar persoonlijke/zakelijke adressen, Dinck-adressen in CC.
+2. **Timing**: Verzonden op de dag dat de externe-partijgesprekken plaatsvonden — documenteert dat Peter niet is geïnformeerd vóór die gesprekken.
+3. **Geen dreigement, geen sommatie** — Puur feitelijke constatering: gevraagd → niet ontvangen. De feiten spreken voor zich.
+4. **Versterkt incident #12** — Legt formeel vast dat het informatierecht uit Art. 2:9 BW niet is nageleefd.
 
 **Observaties bij #19 — Douwine's bevestigingsmail 9 feb:**
 

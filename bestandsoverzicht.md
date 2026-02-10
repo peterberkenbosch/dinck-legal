@@ -47,7 +47,7 @@
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
 | `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (incl. sectie 2d concept akte) | Actueel (10 feb) |
 | `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — vier punten, counters, kracht | Actueel (10 feb) |
-| `constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek (extern partij 10 feb) | Concept (10 feb) |
+| `constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek (extern partij 10 feb) | Verzonden 10 feb 2026 |
 | `email-maud-update-9feb.md` | Update-email aan Maud van der Zee (Omnius, zaak #547764) | Verzonden 9 feb 2026 |
 | `email-maud-update-10feb-akte.md` | URGENT update: concept akte teruglevering ontvangen | Concept (10 feb) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
