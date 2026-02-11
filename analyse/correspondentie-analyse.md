@@ -3,8 +3,9 @@
 **Bronnen**:
 - `files/email-Douwine-Dinck.pdf` - E-mail thread "Voorstel overdracht aandelen en samenwerking" (5 dec 2025 - 22 jan 2026)
 - `files/Inbox – Neerlegging functie bestuurder Dinck B.V. per 1 maart 2026.pdf` - E-mail thread "Neerlegging functie bestuurder" (30 jan - 2 feb 2026)
+- `analyse/meeting-11feb-analyse.md` - Gespreksverslag en strategische analyse meeting 11 feb 2026
 
-**Datum analyse**: 6 februari 2026
+**Datum analyse**: 6 februari 2026 (bijgewerkt 11 februari 2026)
 
 ---
 
@@ -41,6 +42,17 @@
 | 19 | **9 feb 2026** | **Douwine** | **Marlou, Peter** | — | — | **Bevestiging meeting woensdag 12:30 bij Grady Hofstra. Adres: Venekoterweg 44, 8431 HH Oosterwolde (Van der Meer Accountants & Consultants). Geen inhoudelijke reactie op brief financiële zorgen.** |
 | 20 | **10 feb 2026** | **Peter (peter@phbxholding.com)** | **douwine@dagendou.nl, m.gorter@dagendou.nl** | **douwine@dinck.nl, peter@dinck.nl** | — | **Constatering informatierecht mede-bestuurder: informatieverzoek uit brief 8 feb onbeantwoord, externe-partijgesprek vandaag zonder informatie aan Peter (Art. 2:9 BW collegialiteitsbeginsel)** |
 | 21 | **11 feb 2026** | **Peter** | **Douwine, Marlou** | **Grady** | — | **Afmelding meeting op advies juridisch adviseur. Geen gesprekken/beslissingen tot juridische positie helder. Open voor schriftelijke plannen en verslagen.** |
+| 22 | **11 feb 2026** | **In persoon — meeting bij Grady Hofstra** | **Aanwezig: Douwine, Marlou, Douwine's vriend, Klaas de Vries (VdM), Grady, Peter** | — | — | **Peter ging alsnog (ondanks afmelding #21). Douwine: €100K lening VDenD, financieringsstop extern opgelegd. Voorstel: alleen KTLO, al het personeel ontslaan, alles opzeggen. Peter: bereid tot KTLO mits hostingkosten betaald + voorwaarden. Aandelen terug Marlou → Freca. Niets getekend, niets schriftelijk vastgelegd.** |
+
+**Observaties bij #22 — Meeting 11 feb (alsnog bijgewoond):**
+
+1. **Peter ging ondanks afmelding** — De afmelding (#21) was verzonden op advies van de jurist. Peter besloot alsnog te gaan. Dit verzwakt het afmeldingssignaal niet: de afmelding documenteert de juridische lijn, de aanwezigheid toont constructieve houding.
+2. **Volledige delegatie** — Bij binnenkomst zat een volle tafel: niet alleen Douwine en Grady, maar ook Marlou, Douwine's vriend, en Klaas de Vries (accountant-assistent). Peter was de enige "tegenpartij" — geen adviseur, geen ondersteuning.
+3. **€100K lening — niet geverifieerd** — Douwine claimt dat een geldverstrekker als voorwaarde heeft gesteld dat er geen geld meer naar Dinck mag. De naam van de geldverstrekker is niet genoemd. De leningsovereenkomst is niet getoond. Het bedrag is toevallig identiek aan de SHA-boete (Art. 10).
+4. **Niets getekend of toegezegd** — Peter heeft alleen bereidheid tot KTLO uitgesproken, met het expliciete voorbehoud dat er voorwaarden gesteld moeten worden. Geen akkoord op specifieke voorwaarden, geen toezegging over de akte teruglevering, geen toezegging over de SHA.
+5. **"Marlou niet belasten"** — De motivering voor de teruglevering van aandelen (Marlou → Freca) bevestigt indirect de stromanconstructie: Marlou had nooit een reëel belang bij de aandelen.
+6. **Externe partij niet besproken** — De "externe partij" uit Douwine's email van 6 feb (#16) is niet ter sprake gekomen. Peter weet nog steeds niet wie dit is of wat er dinsdag is besproken.
+7. **Aflossing 28 maart benoemd** — Peter heeft de aanstaande aflossing ter sprake gebracht. Dit is feitelijk correct maar juridisch onschadelijk: PHBX is geen partij bij de leningsovereenkomst.
 
 **Observaties bij #21 — Afmelding meeting 11 feb:**
 
@@ -48,6 +60,7 @@
 2. **Constructief** — Geen beschuldigingen, geen verwijten. Vraagt om schriftelijke informatie. Laat de deur open.
 3. **Aan Douwine + Marlou, CC Grady** — Alle drie de spelers worden geadresseerd. Marlou kan niet later zeggen dat zij niet op de hoogte was.
 4. **Geen inhoudelijke stellingname** — Peter onthult niets over zijn juridische positie of strategie. Zuiver procedureel.
+5. **Peter ging alsnog** — Ondanks deze afmelding besloot Peter alsnog naar de meeting te gaan (zie #22). De afmelding blijft waardevol als documentatie van de juridische lijn.
 
 **Observaties bij #20 — Constateringsbrief 10 feb:**
 
@@ -146,6 +159,16 @@ Uit haar e-mailhandtekening:
 | "kan en zal ik niet instemmen met uitschrijving" | Bestuurdersontslag is eenzijdige rechtshandeling, instemming niet vereist | **Juridisch irrelevant** |
 | "niet alleen vanuit mijn rol als bestuurder en aandeelhouder, maar nadrukkelijk ook vanuit mijn positie als financier" | Bevestigt expliciet het belangenconflict | **Zelf-incriminerend** |
 
+### Meeting 11 februari 2026 (mondeling, bij Grady Hofstra)
+
+| Claim Douwine | Bron/Realiteit | Beoordeling |
+|--------------|---------------|-------------|
+| €100K lening VDenD met voorwaarde "geen geld naar Dinck" | Naam geldverstrekker niet genoemd, leningsovereenkomst niet getoond, niet verifieerbaar | **Niet geverifieerd**: ongebruikelijke leningsvoorwaarde, bedrag identiek aan SHA-boete Art. 10 |
+| Financieringsstop "extern opgelegd", niet gerelateerd aan Peters vertrek | Douwine kóós deze lening wetend dat Dinck werknemers heeft die afhankelijk zijn van VDenD-financiering | **Framing**: bestuurder kan niet claimen dat een contract met een derde haar ontslaat van bestuursplicht (New Holland Belgium-norm) |
+| Aandelen terug naar Freca omdat "Marlou niet belasten" | Marlou had geen reëel belang — 0,5 aandeel voor €1,50, werkt bij dagendou.nl (Douwine's bedrijf) | **Bevestigt stromanconstructie**: Marlou was nooit een zelfstandige aandeelhouder |
+| Voorstel: alleen KTLO, al het personeel ontslaan, alles opzeggen | KTLO door Peter = onbetaald werk (MO fee is nihil, er is geen KTLO-overeenkomst) | **Onredelijk**: vraagt Peter opnieuw om gratis te werken, nu als leverancier i.p.v. als bestuurder |
+| Implicatie: Peter doet KTLO want "hij heeft altijd gezegd dat hij bereid is de boel draaiend te houden" | Peter heeft bereidheid uitgesproken met voorbehoud ("ik wil voorwaarden stellen"). Niets getekend. | **Verdraaiing**: bereidheid onder voorwaarden ≠ onvoorwaardelijke toezegging |
+
 ---
 
 ## 4. Toon- en Patroonanalyse
@@ -184,6 +207,8 @@ Uit haar e-mailhandtekening:
 | Jan 2026 (eind) | Ontslagbrief na 8 dagen stilte | — |
 | Feb 2026 (begin) | Kort, zakelijk, corrigeert onjuistheden | **Escalatie**: dreigingen, weigering, feitelijke onjuistheden |
 | Feb 2026 (6 feb) | — | **Nucleaire escalatie**: financiering per direct gestopt, externe partij zonder medeweten Peter, meeting opgelegd bij haar adviseur |
+| Feb 2026 (8-10 feb) | Brief financiële zorgen, constatering informatierecht, afmelding meeting op advies jurist | — |
+| Feb 2026 (11 feb) | Gaat alsnog naar meeting. Luistert, stelt voorwaarden, zegt niets toe, tekent niets. | **Positie-consolidatie**: €100K lening als framing, "alles stoppen"-voorstel, vraagt Peter opnieuw gratis te werken (nu als KTLO) |
 
 ---
 
@@ -363,3 +388,8 @@ Zie ook: `analyse/grady-hofstra-dynamiek.md` sectie 5a, `incident-register.md` i
 | **Verdachte timing disclaimer** | "Volkomen los van ontwikkelingen bestuur" — 5 weken na ontslagbrief | Ongeloofwaardig, mogelijk drukmiddel |
 | **Grady bevestigt €1 waardering als Van der Meer (10 feb)** | "Dank, ja" aan notaris — spreekt als Dinck's accountant zonder Peter te consulteren | **Concreet bewijs belangenconflict + NBA-schending** |
 | **Peter meldt zich af voor meeting 11 feb op advies advocaat** | Aan Douwine + Marlou, CC Grady. Geen gesprekken/beslissingen tot juridische positie helder. Open voor schriftelijke informatie. | **Grens getrokken, constructief, gedocumenteerd** |
+| **Peter gaat alsnog naar meeting 11 feb** | Ondanks afmelding. Zit alleen tegenover volledige delegatie (6 personen). Luistert, stelt voorwaarden, tekent niets. | **Constructief maar strategisch: bereidheid getoond zonder binding** |
+| **€100K lening Douwine — niet geverifieerd** | Naam geldverstrekker onbekend, leningsovereenkomst niet getoond, bedrag = SHA-boete Art. 10 | **Framing: financieringsstop wordt gepresenteerd als extern opgelegd i.p.v. eigen keuze** |
+| **"Alles stoppen" voorstel** | Personeel ontslaan, kantoor opzeggen, software opzeggen, alleen KTLO | **Vraagt Peter opnieuw gratis te werken — nu als leverancier i.p.v. bestuurder** |
+| **"Marlou niet belasten"** | Aandelen terug Marlou → Freca. Motivering bevestigt: Marlou had nooit reëel belang | **Bevestigt stromanconstructie** |
+| **Niets getekend of toegezegd** | Geen akkoord op voorwaarden, akte, SHA. Alleen: bereidheid KTLO met voorbehoud | **Juridisch onschadelijk — geen binding** |
