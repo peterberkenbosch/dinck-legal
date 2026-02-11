@@ -258,15 +258,83 @@ Dit is een **intimidatietactiek**, geen juridisch onderbouwde claim. Doel: Peter
 
 ---
 
+## 6a. Bestuurdersaansprakelijkheid — Formeel Juridisch Kader (Memo Jurist 11 feb 2026)
+
+**Bron**: `analyse/memo-jurist-11feb2026.md` (Legal Advice Wanted B.V.)
+
+De jurist heeft de aansprakelijkheidspositie formeel beoordeeld en twee specifieke Hoge Raad-normen geïdentificeerd:
+
+### Beklamel-norm (HR)
+
+**Definitie**: Bestuurder is aansprakelijk als hij namens de vennootschap verplichtingen aangaat terwijl hij weet of redelijkerwijs moet begrijpen dat de vennootschap deze niet zal kunnen nakomen en geen verhaal zal bieden.
+
+**Peters positie**: **VEILIG**. De waarschuwingsbrief van 8 februari 2026 documenteert expliciet dat Peter niet wenst dat de vennootschap nieuwe verplichtingen aangaat die zij niet kan dragen. De jurist: *"Hiermee heeft u vermoedelijk onbewust zeer goed gehandeld."*
+
+### New Holland Belgium-norm (HR)
+
+**Definitie**: Bestuurder is aansprakelijk als hij bewerkstelligt of toelaat dat de vennootschap haar bestaande betalingsverplichtingen niet nakomt, terwijl hij weet dat daaruit schade voor de schuldeiser voortvloeit en er geen verhaal mogelijk is.
+
+**Douwine's positie**: **HOOG RISICO**. De jurist analyseert:
+- Douwine = bestuurder debiteur (Dinck B.V.) én bestuurder financier (Freca/VDenD)
+- Financieringsstop = actief bewerkstelligen van wanbetaling
+- Zij frustreert als bestuurder de betaling aan schuldeisers (personeel) door als financier de geldkraan dicht te draaien
+- Gecombineerd met tegenstrijdig belang (Art. 2:239 lid 6 BW): **reëel risico op persoonlijke aansprakelijkheid**
+
+### Conclusie Jurist
+
+> *"Uw positie [is] vooralsnog overwegend veilig [...] ik zie duidelijke aanknopingspunten om juist mevrouw Koopman aansprakelijk te stellen."*
+
+Het aansprakelijkheidsrisico ligt niet bij Peter maar bij Douwine. Dit bevestigt de eerdere dossier-analyse (sectie 6) en voegt de formele juridische grondslag toe.
+
+---
+
+## 6b. SHA Kettingbeding — €100K Boetevordering (Memo Jurist 11 feb 2026)
+
+**Bron**: `analyse/memo-jurist-11feb2026.md`
+
+### Juridische Grondslag
+
+| Artikel | Bepaling |
+|---------|----------|
+| **Art. 9 SHA** | Kettingbeding: bij overdracht moet koper alle SHA-rechten en -verplichtingen overnemen |
+| **Art. 10 SHA** | Boete: €100.000 per overtreding + €1.000/dag doorlopend |
+
+### Tekortkoming Freca
+
+Freca B.V. heeft op 7 november 2025 haar aandelen overgedragen aan Marlou Woltmeijer **zonder** dat Marlou tot de SHA is toegetreden. Dit is een directe schending van Art. 9. De jurist kwalificeert dit als:
+
+> *"Dit is mijns inziens dan ook uw belangrijkste onderhandelingstroef."*
+
+### Actie: Sommatiebrief
+
+De jurist stelt een formele sommatiebrief op die:
+1. De wanprestatie (Art. 9) vaststelt
+2. De direct opeisbare boete van **€100.000** vordert (Art. 10)
+3. Douwine persoonlijk aansprakelijk stelt voor schade uit de financieringsstop (New Holland Belgium-norm)
+
+### Strategische Inzet
+
+De boetevordering + aansprakelijkstelling wordt ingezet als hefboom:
+- Peter biedt **kwijtschelding boete** + **opheffing blokkade** (vetorecht)
+- In ruil voor overname aandelen tegen door Peter gewenste prijs
+- Peter biedt feitelijk de oplossing voor Douwine's juridische problemen aan
+
+**Zie ook**: `analyse/sha-herleving-analyse.md` sectie 2.5 (Art. 9 tegenvordering — al eerder geïdentificeerd in dossier).
+
+---
+
 ## 7. Strategische Conclusie
 
 ### Jouw Positie is Sterker dan Douwine Doet Voorkomen
 
 ✓ Jij kunt afdwingen dat je exit krijgt (uittreding art. 2:343)
 ✓ Jij kunt onderzoek naar wanbeleid initiëren (enquête)
-✓ Jouw dossier documenteert structurele uitsluiting
+✓ Jouw dossier documenteert structurele uitsluiting (14 incidenten)
 ✓ Jij hebt vetorecht op alle AVA-besluiten
 ✓ Haar dreigingen over "aansprakelijkheid" zijn juridisch leeg (zie sectie 6)
+✓ **Jij hebt een concrete vordering van €100K op Freca** (kettingbeding Art. 9+10 SHA — zie sectie 6b)
+✓ **Jouw bestuurdersaansprakelijkheidsrisico is afgedekt** (Beklamel-norm, brief 8 feb — zie sectie 6a)
+✓ **Jurist bevestigt: offensieve strategie gerechtvaardigd** (memo 11 feb 2026)
 
 ### Haar Positie is Zwakker dan Ze Presenteert
 
@@ -276,10 +344,21 @@ Dit is een **intimidatietactiek**, geen juridisch onderbouwde claim. Doel: Peter
 ✗ Zij is afhankelijk van jou voor KTLO
 ✗ Zij kan geen enkel AVA-besluit nemen zonder jouw instemming
 ✗ Haar aansprakelijkheidsdreiging mist juridische grondslag
+✗ **Freca is €100K boete verschuldigd wegens schending kettingbeding** (Art. 9+10 SHA)
+✗ **Zij loopt persoonlijk aansprakelijkheidsrisico** voor de financieringsstop (New Holland Belgium-norm — zie sectie 6a)
 
-### Advies
+### Advies (bijgewerkt n.a.v. memo jurist 11 feb 2026)
 
-De dreiging van een enquêteprocedure is vaak krachtiger dan het daadwerkelijk starten ervan — maar je moet wel bereid zijn om door te zetten als het nodig is.
+~~De dreiging van een enquêteprocedure is vaak krachtiger dan het daadwerkelijk starten ervan — maar je moet wel bereid zijn om door te zetten als het nodig is.~~
+
+**Gewijzigde strategie**: Niet wachten, maar initiatief nemen via formele sommatiebrief (in voorbereiding door jurist). Combinatie van:
+1. **Boetevordering €100K** op Freca (Art. 9+10 SHA)
+2. **Persoonlijke aansprakelijkstelling** Douwine (New Holland Belgium-norm)
+3. **Vetorecht** als blokkade op elke besluitvorming
+
+Peter hoeft niet als vragende partij aan tafel te zitten. Douwine zit in een kwetsbare positie. De onderhandeling wordt: Peter biedt kwijtschelding + deblokkade, in ruil voor overname aandelen tegen gewenste prijs.
+
+**Zie**: `analyse/memo-jurist-11feb2026.md` voor volledige analyse.
 
 ---
 

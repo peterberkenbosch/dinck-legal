@@ -1,6 +1,6 @@
 # Dinck B.V. - Strategische Paraatheid Beoordeling
 
-**Datum**: 6 februari 2026 (bijgewerkt n.a.v. stopzetting financiering)
+**Datum**: 6 februari 2026 (bijgewerkt 11 februari 2026 n.a.v. memo jurist)
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
 **Doel**: Voorbereiding op consultatie met advocaat
 
@@ -27,13 +27,17 @@
 | **Grondslag ongerechtvaardigde verrijking** | ~1.440 uren onbetaald werk onder fulltime contractuele verplichting (Art. 2.3); geschatte waarde €108-180K |
 | **Lening is wederzijds gegarandeerde vernietiging** | Freca die de lening opeist = Dinck failliet = Douwine's €612K verloren. Beperkt haar daadwerkelijke opties ondanks contractuele bevoegdheid. Zie `analyse/geldlening-analyse.md` |
 | **Douwine's tegenstrijdig belang zelf gedocumenteerd** | Zij schreef: "handel ik niet alleen vanuit mijn rol als bestuurder en aandeelhouder, maar nadrukkelijk ook vanuit mijn positie als financier" |
+| **€100K boetevordering op Freca (Art. 9+10 SHA)** | Kettingbeding geschonden bij overdracht aan Marlou (7 nov 2025). Jurist bevestigt: "belangrijkste onderhandelingstroef." Direct opeisbaar. Sommatiebrief in voorbereiding. Zie `analyse/memo-jurist-11feb2026.md` |
+| **Peter veilig onder Beklamel-norm** | Waarschuwingsbrief 8 feb beschermt tegen aansprakelijkheid voor nieuwe verplichtingen. Jurist: "vermoedelijk onbewust zeer goed gehandeld." |
+| **Douwine risico onder New Holland Belgium-norm** | Financieringsstop = actief bewerkstelligen wanbetaling. Persoonlijke aansprakelijkheid jegens personeel (schuldeisers). Hefboom in sommatiebrief. |
+| **Jurist bevestigt: offensieve strategie gerechtvaardigd** | Niet als vragende partij aan tafel. Peter biedt kwijtschelding + deblokkade in ruil voor uitkoop. |
 
 ### Kwetsbare punten
 
 | Kwetsbaarheid | Risiconiveau | Actie vereist |
 |---------------|-----------|---------------|
 | **Stopzetting financiering — werknemers** | **ACUUT** | Per 6 feb 2026 stopt Douwine alle operationele financiering van Dinck. Salarissen werknemers kunnen niet worden voldaan uit eigen kasstroom (ARR €6.4K). Peter is als mede-bestuurder (tot 1 maart) medeverantwoordelijk. Urgent: juridisch advies vóór 11 feb |
-| **Meeting woensdag 11 feb bij Grady Hofstra** | **ACUUT** | Vergadering bij Douwine's accountant/adviseur. Risico: toezeggingen onder druk. Peter moet weten wat hij wel/niet mag zeggen. Overweeg eigen adviseur meenemen |
+| ~~**Meeting woensdag 11 feb bij Grady Hofstra**~~ | ~~**ACUUT**~~ **AFGEHANDELD** | Afgemeld op advies jurist (11 feb). Mail verzonden aan Douwine + Marlou, CC Grady. Zie `concepten/email-afmelding-meeting-11feb.md` |
 | **Buitensluiting externe partij** | **HOOG** | Douwine spreekt dinsdag met "externe partij" over "mogelijke samenwerking" — Peter als mede-bestuurder niet geïnformeerd of betrokken. Risico: toezeggingen zonder Peters betrokkenheid |
 | **Risico versnelde opeising lening** | **KRITIEK** | Eerste aflossing ~€55-75K verschuldigd op 28 maart 2026; Dinck kan niet betalen; verzuim leidt tot volledige opeising. Nu versterkt: financiering gestopt, dus geen nieuwe inkomsten. Zie `analyse/geldlening-analyse.md` |
 | **Art. 7.1.g staking-trigger** | **HOOG** | Indien Peter al het werk stopt EN platform stilstaat, kan Freca de gehele lening onmiddellijk opeisen (zonder opzegtermijn). Strategische mitigatie: MO niet opzeggen vermindert "staking"-argument |
@@ -51,20 +55,13 @@
 
 ## 2. Kritieke hiaten om te adresseren
 
-### Hiaat 0: MEETING WOENSDAG 11 FEBRUARI (ACUUT)
+### ~~Hiaat 0: MEETING WOENSDAG 11 FEBRUARI~~ (AFGEHANDELD)
 
-Peter heeft woensdag 11 februari een meeting bij Grady Hofstra (Douwine's accountant/adviseur). Dit is de eerste ontmoeting na de stopzetting van de financiering. Dinsdag spreekt Douwine met een onbekende "externe partij" over een "mogelijke samenwerking" — Peter weet hiervan niets.
+~~Peter heeft woensdag 11 februari een meeting bij Grady Hofstra.~~
 
-**Risico's**:
-- Toezeggingen onder druk (bijv. over aansprakelijkheid, KTLO, leveranciersrol)
-- Framing door Douwine vóór het gesprek begint (dinsdag met externe partij zonder Peter)
-- Grady is Douwine's adviseur, niet neutraal
+**Status**: Peter heeft zich afgemeld op advies van de jurist (Legal Advice Wanted B.V.). Afmeldmail verzonden aan Douwine + Marlou, CC Grady. Reden: "Na overleg met mijn juridisch adviseur is mij geadviseerd om op dit moment geen gesprekken te voeren en geen beslissingen te nemen." Open voor schriftelijke informatie. Zie `concepten/email-afmelding-meeting-11feb.md`.
 
-**Actie**:
-- Juridisch advies Maud vóór woensdag 11 feb (urgente vragen A1-A5 in `vragen-advocaat-maud.md`)
-- Conceptbrief financiële zorgen verzenden vóór meeting (maandag/dinsdag) — zie `concepten/brief-financiele-zorgen.md`
-- Overweeg eigen adviseur meenemen
-- Voorbereiding: wat wel/niet zeggen of toezeggen
+**Jurist bevestigt**: *"De heer Hofstra behartigt immers de belangen van mevrouw Koopman en is geen onafhankelijke partij. [...] de feiten rechtvaardigen juist een offensieve strategie."*
 
 ### Hiaat 1: STOP ONBETAALDE FEATURE-ONTWIKKELING (Urgent)
 
@@ -121,15 +118,16 @@ Alle onderhandelingen verlopen met Douwine, die GEEN aandeelhouder is. Marlou (d
 
 Gegeven dat procederen financieel moeilijk is, is de optimale strategie **druk uitoefenen zonder te procederen**:
 
-### Aanbevolen aanpak: "Geloofwaardige dreiging + tijdsdruk"
+### Aanbevolen aanpak: "Offensief via sommatiebrief" (bijgewerkt 11 feb 2026)
 
-1. **Stop feature-ontwikkeling onmiddellijk** - alleen KTLO tot 1 maart
-2. **Treed af + schrijf uit bij KvK op 1 maart** - zoals gepland
-3. **Na 1 maart: stel een venster van 30 dagen** voor Douwine om in gesprek te gaan over uittredingsvoorwaarden
-4. **Geen reactie in april**: Stuur formeel Art. 2:217 BW informatieverzoek (gratis, signaleert escalatie)
-5. **Bij obstructie**: Stuur sommatie (via advocaat) met verwijzing naar Art. 2:343 BW gronden - de 12 gedocumenteerde incidenten maken dit geloofwaardig
-6. **KTLO als drukmiddel**: Na 1 maart heeft Peter NULKOMMANUL verplichting het platform te onderhouden. Het voorwaardelijk stellen van voortgezet KTLO aan zinvolle onderhandeling is legitiem
-7. **Procederen in reserve**: Art. 2:343 als uiterste middel; de geloofwaardige dreiging kan voldoende zijn
+**Gewijzigde strategie n.a.v. memo jurist**: Niet afwachten maar initiatief nemen.
+
+1. **Sommatiebrief** (in voorbereiding door jurist): boetevordering €100K (Art. 9+10 SHA) + aansprakelijkstelling Douwine (New Holland Belgium-norm)
+2. **Stop feature-ontwikkeling onmiddellijk** — alleen KTLO tot 1 maart
+3. **Treed af + schrijf uit bij KvK op 1 maart** — zoals gepland
+4. **Onderhandeling vanuit sterkte**: Peter biedt kwijtschelding boete + opheffing blokkade, in ruil voor overname aandelen tegen gewenste prijs
+5. **KTLO als drukmiddel**: Na 1 maart heeft Peter NULKOMMANUL verplichting het platform te onderhouden
+6. **Procederen in reserve**: Art. 2:343 als uiterste middel; de geloofwaardige dreiging kan voldoende zijn
 
 ### Waarom dit werkt zonder naar de rechter te gaan
 
@@ -172,14 +170,14 @@ Twee recent ontdekte bevindingen versterken Peters positie:
 
 ## 4. Voorbereiding advocaatgesprek
 
-Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 30 vragen in 11 categorieën (A t/m K), geprioriteerd op urgentie:
+Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 41 vragen in 13 categorieën (A t/m M), geprioriteerd op urgentie:
 
 | Prioriteit | Vragen | Reden |
 |------------|--------|-------|
-| **1 — DIRECT** | A1-A5 | Stopzetting financiering, meeting woensdag 11 feb |
-| **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 beïnvloeden Peters positie in meeting |
-| **3 — VOOR 1 MAART** | D1-D3, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
-| **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3 | Uittreding, schijnconstructie, overig |
+| **1 — DIRECT** | A1-A5 | Stopzetting financiering (**deels beantwoord door memo jurist**) |
+| **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 |
+| **3 — VOOR 1 MAART** | D1-D4, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
+| **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3, L1-L5, M1-M4 | Uittreding, schijnconstructie, Grady, overig |
 
 De prioriteit-1 vragen moeten idealiter **vóór woensdag 11 februari** beantwoord zijn.
 
@@ -187,12 +185,12 @@ De prioriteit-1 vragen moeten idealiter **vóór woensdag 11 februari** beantwoo
 
 ## 5. Directe actiepunten
 
-### ACUUT — Vóór meeting woensdag 11 februari
+### AFGEROND — Meeting 11 februari
 
-- [ ] **Juridisch advies Maud** — urgente vragen A1-A5 uit `vragen-advocaat-maud.md` bespreken vóór woensdag
+- [x] **Memo jurist ontvangen** (11 feb 2026) — 3 pijlers, offensieve strategie. Zie `analyse/memo-jurist-11feb2026.md`
+- [x] **Meeting 11 feb afgemeld** op advies jurist — mail aan Douwine + Marlou, CC Grady
 - [x] **Brief financiële zorgen verzonden** (8 feb 2026) — zie `concepten/brief-financiele-zorgen.md`
-- [x] **Meeting woensdag bevestigd** (8 feb 2026) — kort zakelijk, "inhoudelijk reageer ik separaat"
-- [x] **Voorbereiding meeting woensdag** — gespreksleidraad herschreven (`concepten/gespreksleidraad.md`) + worst-case scenarios (`analyse/worst-case-scenarios.md`)
+- [ ] **Sommatiebrief in voorbereiding** door jurist (Legal Advice Wanted B.V.) — boetevordering €100K + aansprakelijkstelling
 
 ### URGENT — Vóór 1 maart 2026
 
@@ -233,6 +231,10 @@ De prioriteit-1 vragen moeten idealiter **vóór woensdag 11 februari** beantwoo
 | Art. 3.1 MO | Gelijke behandeling bestuurders | Formeel niet nageleefd: AVA-besluit wijzigt alleen PHBX's fee |
 | Art. 4.2 MO | Vrijwaring bestuurder | Blijft actief zolang MO niet formeel wordt opgezegd |
 | Art. 5.1 MO | Beëindiging MO: 3 maanden schriftelijk | MO niet automatisch beëindigd door bestuurdersontslag |
+| Art. 9 SHA | Kettingbeding: koper moet SHA overnemen | Freca heeft dit geschonden bij overdracht aan Marlou |
+| Art. 10 SHA | Boeteclausule: €100K per overtreding + €1K/dag | Direct opeisbare vordering op Freca |
+| Beklamel-norm (HR) | Bestuurder aansprakelijk bij aangaan onhaalbare verplichtingen | Peter veilig (brief 8 feb); risico voor Douwine |
+| New Holland Belgium-norm (HR) | Bestuurder aansprakelijk bij bewerkstelligen wanbetaling | Douwine's financieringsstop = reëel risico |
 | Art. 8.6 lid 2 Statuten | Unanimiteitsvereiste | Absoluut vetorecht op alle AVA-besluiten |
 | Art. 6.2 Statuten | Voorkeursrecht + 3-deskundigen-waardering | Voorkomt verwatering; objectief prijsmechanisme |
 
@@ -259,8 +261,10 @@ Deze beoordeling is een synthese van informatie uit het volledige dossier:
 | `analyse/correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (incl. e-mail 6 feb stopzetting financiering) |
 | `analyse/bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch: bestuurdersontslag beëindigt MO niet automatisch |
 | `analyse/worst-case-scenarios.md` | Scenario-analyse: werkstaking, faillissement, UWV, speltheorie |
+| `analyse/memo-jurist-11feb2026.md` | Analyse memo jurist: 3 pijlers, Beklamel/New Holland Belgium, sommatiebrief strategie |
+| `analyse/grady-hofstra-dynamiek.md` | Triple role conflict Grady (accountant Dinck / adviseur Douwine / ex-PHBX) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie |
-| `files/` | Originele juridische documenten (PDF's): notariële akte, SHA, statuten, leningsovereenkomsten, managementovereenkomsten, KvK-uittreksel, e-mails |
+| `files/` | Originele juridische documenten (PDF's): notariële akte, SHA, statuten, leningsovereenkomsten, managementovereenkomsten, KvK-uittreksel, e-mails, memo jurist |
 
 ---
 
