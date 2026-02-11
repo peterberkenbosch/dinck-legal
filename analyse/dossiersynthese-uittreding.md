@@ -1,7 +1,7 @@
 # Dossiersynthese — Uittreding Peter Berkenbosch / PHBX Holding B.V. uit Dinck B.V.
 
-**Datum**: 10 februari 2026
-**Opgesteld voor**: Maud van der Zee, Omnius Advocaten (zaak #547764)
+**Datum**: 11 februari 2026 (bijgewerkt)
+**Opgesteld voor**: Legal Advice Wanted B.V. (J.H.M.E. van der Zee + mr. T.B. Peters) via Omnius (zaak #547764)
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
 **Doel**: Volledig overzicht van de juridische positie, feiten en strategische opties in één document
 
@@ -13,11 +13,11 @@ Peter Berkenbosch (PHBX Holding B.V., 33,3% aandeelhouder) treedt per 1 maart 20
 
 **De acute crisis**: Op 6 februari 2026 heeft mede-bestuurder Douwine Koopman de operationele financiering van Dinck per direct stopgezet. Dinck heeft werknemers in dienst maar onvoldoende eigen kasstroom (ARR €6.400/jaar) om salarissen te betalen. Tegelijkertijd voert Douwine gesprekken met een "externe partij" over de toekomst van Dinck — zonder Peter te informeren.
 
-**Peters sterke positie**: Vetorecht op alle AVA-besluiten (unanimiteitsvereiste Art. 8.6 lid 2 statuten), platformafhankelijkheid (alleen Peter kan het onderhouden), 13 gedocumenteerde uitsluitingsincidenten, vrijwaring via managementovereenkomst (niet opgezegd), en verliesasymmetrie bij faillissement (Douwine verliest ~€612K, Peter verliest twijfelachtige equity).
+**Peters sterke positie**: Vetorecht op alle AVA-besluiten (unanimiteitsvereiste Art. 8.6 lid 2 statuten), platformafhankelijkheid (alleen Peter kan het onderhouden), 14 gedocumenteerde uitsluitingsincidenten, vrijwaring via managementovereenkomst (niet opgezegd), verliesasymmetrie bij faillissement (Douwine verliest ~€612K, Peter verliest twijfelachtige equity), **€100K direct opeisbare boete op Freca** wegens schending kettingbeding Art. 9+10 SHA, en bescherming tegen bestuurdersaansprakelijkheid via Beklamel-norm (brief 8 feb).
 
-**Peters kwetsbaarheden**: Art. 7.1.g leningsovereenkomst (staking-trigger), addendum onder druk getekend, geen D&O-verzekering, lopende fulltime MO-verplichting voor €0.
+**Peters kwetsbaarheden**: Art. 7.1.g leningsovereenkomst (staking-trigger), addendum onder druk getekend, geen D&O-verzekering, lopende fulltime MO-verplichting voor €0. De vage dreigingen van Douwine (1 feb) zijn door de jurist formeel weerlegd — het aansprakelijkheidsrisico ligt bij Douwine, niet bij Peter (New Holland Belgium-norm).
 
-**Morgen (11 feb, 12:30)**: Meeting bij Douwine's accountant (Grady Hofstra) in Oosterwolde. Aanwezig: Peter, Douwine, Marlou Woltmeijer, Grady. Peters strategie: luisteren, niets toezeggen, informatie verzamelen.
+**Juridisch advies (11 feb)**: De jurist concludeert dat Peters positie **"overwegend veilig"** is en adviseert een **offensieve strategie** via een formele sommatiebrief: vordering €100K boete (Art. 10 SHA) + aansprakelijkstelling Douwine (New Holland Belgium-norm). Peter biedt kwijtschelding boete + deblokkade vetorecht in ruil voor aandelenovername tegen gewenste prijs. De meeting bij Grady Hofstra (11 feb) is op advies van de jurist **afgemeld** — Grady behartigt Douwine's belangen en is geen onafhankelijke partij.
 
 ---
 
@@ -146,13 +146,13 @@ Beide managementovereenkomsten (PHBX ↔ Dinck en Freca ↔ Dinck, 28 maart 2024
 
 ## 4. Structurele Buitensluiting — Samenvatting
 
-Dertien gedocumenteerde incidenten over zestien maanden tonen een escalerend patroon:
+Veertien gedocumenteerde incidenten over zestien maanden tonen een escalerend patroon:
 
 | Fase | Periode | Incidenten | Karakter |
 |------|---------|------------|----------|
 | **1** | Okt 2024 — sep 2025 | #1 (aandelenoverdracht), #2 (jaarrekening), #3 (fee-stop) | Informatieachterstelling |
 | **2** | Dec 2025 — jan 2026 | #4 (€190K claim), #5 (eenzijdige vergadering), #6 (chantage-beschuldiging), #7 (personeelsmutatie), #8 (werkoverleg), #9 (detachering BVOK), #10 (verhuizing) | Eenzijdige besluitvorming + intimidatie |
-| **3** | Feb 2026 | #11 (financiering gestopt), #12 (externe partij zonder info) | Existentiële buitensluiting |
+| **3** | Feb 2026 | #11 (financiering gestopt), #12 (externe partij zonder info), #13 (eenzijdige teruglevering), #14 (€1 waardering zonder overleg) | Existentiële buitensluiting |
 
 **Rode draad**: Douwine's tegenstrijdig belang — zelf erkend op 1 februari 2026, bewezen door handeling op 6 februari 2026.
 
@@ -174,7 +174,10 @@ Dertien gedocumenteerde incidenten over zestien maanden tonen een escalerend pat
 | **9 feb** | Peter stuurt update + 6 urgente vragen naar Maud (zaak #547764) |
 | **10 feb (di)** | Gesprek externe partij vindt plaats. Peter heeft nul informatie ontvangen. |
 | **10 feb (di) 11:01** | Notaris Koops stuurt concept akte teruglevering aandelen Marlou → Freca (€1, koopsom mondeling was €1,50). Nieuwe waiver vereist — Peters co-signering = afstand voorkeursrecht. |
-| **11 feb (wo) 12:30** | Meeting bij Grady Hofstra, Van der Meer Accountants, Oosterwolde |
+| **10 feb (di)** | Peter stuurt constatering informatierecht naar Douwine, Marlou, CC Grady |
+| **11 feb (di)** | Peter ontvangt memo jurist (Legal Advice Wanted B.V.): positie "overwegend veilig", offensieve strategie geadviseerd |
+| **11 feb (di)** | Peter meldt zich af voor meeting 12:30 bij Grady — op advies jurist. E-mail aan Douwine, Marlou, CC Grady |
+| **11 feb (di)** | Sommatiebrief in opdracht gegeven aan jurist: vordering €100K boete + aansprakelijkstelling Douwine |
 
 ### 5.2 Wat er op het spel staat
 
@@ -184,7 +187,7 @@ Dertien gedocumenteerde incidenten over zestien maanden tonen een escalerend pat
 
 3. **Externe partij**: Onbekend wie, wat besproken, welke toezeggingen. Peters vetorecht (Art. 8.6 lid 2) blokkeert elke deal die AVA-goedkeuring vereist.
 
-4. **Peters bestuurdersaansprakelijkheid**: Beschermd door signaleerplicht (brief 8 feb) en buitensluiting van besluitvorming (14 incidenten). Geldt tot 1 maart.
+4. **Peters bestuurdersaansprakelijkheid**: Beschermd door Beklamel-norm (brief 8 feb documenteert dat Peter niet wenst dat de vennootschap onverantwoorde verplichtingen aangaat) en buitensluiting van besluitvorming (14 incidenten). Douwine's financieringsstop = risico op persoonlijke aansprakelijkheid onder New Holland Belgium-norm.
 
 ### 5.3 Douwine's e-mail 6 februari — analyse
 
@@ -232,11 +235,27 @@ De MO is niet opgezegd. Dinck vrijwaart PHBX voor schadeclaims derden. Aansprake
 
 Douwine erkende het zelf (1 feb 2026: "handel ook vanuit mijn positie als financier") en bewees het door handeling (6 feb 2026: financiering gestopt als schuldeiser, terwijl bestuurder schuldenaar). Art. 2:239 lid 6 BW.
 
-### 6.8 Dossier structurele buitensluiting
+### 6.8 SHA Kettingbeding — €100K Boetevordering (NIEUW — 11 feb 2026)
 
-12 gedocumenteerde incidenten, escalerend over 16 maanden. Grondslag voor Art. 2:343 BW (uittreding vorderen) en Art. 2:345 BW (enquêteprocedure).
+Freca heeft bij de aandelenoverdracht aan Marlou (7 nov 2025) het kettingbeding (Art. 9 SHA) geschonden: Marlou heeft geen toetredingsovereenkomst tot de SHA ondertekend. Art. 10 SHA: direct opeisbare boete van **€100.000** per overtreding + €1.000/dag doorlopend. De jurist kwalificeert dit als **"de belangrijkste onderhandelingstroef"**. Sommatiebrief is in voorbereiding.
 
-### 6.9 Verliesasymmetrie
+*Volledige analyse: `analyse/memo-jurist-11feb2026.md` sectie 2*
+
+### 6.9 Beklamel-norm — Peter beschermd (NIEUW — 11 feb 2026)
+
+**Definitie (HR)**: Bestuurder is aansprakelijk als hij namens de vennootschap verplichtingen aangaat terwijl hij weet dat de vennootschap deze niet kan nakomen. Peters brief van 8 februari 2026 documenteert expliciet dat hij niet wenst dat nieuwe verplichtingen worden aangegaan. De jurist: *"Hiermee heeft u vermoedelijk onbewust zeer goed gehandeld ten aanzien van een potentiële schending van de Beklamel-norm."*
+
+### 6.10 New Holland Belgium-norm — Douwine's risico (NIEUW — 11 feb 2026)
+
+**Definitie (HR)**: Bestuurder is aansprakelijk als hij bewerkstelligt of toelaat dat de vennootschap bestaande verplichtingen niet nakomt. Douwine heeft als bestuurder van Dinck de operationele financiering stopgezet (6 feb), terwijl zij als bestuurder van VDenD/Freca de geldkraan dichtdraait — wetende dat er bestaande salarisverplichtingen zijn. De jurist kwalificeert dit als **actief bewerkstelligen van wanbetaling**. Gecombineerd met tegenstrijdig belang (Art. 2:239 lid 6 BW) levert dit een reëel risico op persoonlijke aansprakelijkheid voor Douwine op.
+
+*Volledige analyse: `analyse/memo-jurist-11feb2026.md` sectie 4*
+
+### 6.11 Dossier structurele buitensluiting
+
+14 gedocumenteerde incidenten, escalerend over 16 maanden. Grondslag voor Art. 2:343 BW (uittreding vorderen) en Art. 2:345 BW (enquêteprocedure).
+
+### 6.12 Verliesasymmetrie
 
 Bij faillissement verliest Douwine ~€612K (vorderingen Freca + VDenD worden waardeloos). Peter verliest aandelenbelang dat al twijfelachtig is gegeven de schuldenlast. Peter heeft in elk scenario minder te verliezen.
 
@@ -254,7 +273,7 @@ Peter tekende het addendum (verhoging naar €500K) 12 dagen nadat zijn manageme
 
 ### 7.3 Geen D&O-verzekering
 
-Niet geverifieerd of Dinck een bestuurdersaansprakelijkheidsverzekering heeft. Douwine's vage dreigingen over aansprakelijkheid (1 feb 2026) missen juridische grondslag maar zijn niet te negeren.
+Niet geverifieerd of Dinck een bestuurdersaansprakelijkheidsverzekering heeft. Douwine's vage dreigingen over aansprakelijkheid (1 feb 2026) zijn door de jurist formeel weerlegd: het aansprakelijkheidsrisico ligt bij Douwine (New Holland Belgium-norm), niet bij Peter (beschermd door Beklamel-norm + brief 8 feb). D&O-verificatie blijft desondanks prudent.
 
 ### 7.4 Jaarrekening 2024
 
@@ -316,38 +335,54 @@ Peter stopt alle werkzaamheden per 1 maart. Blijft passief aandeelhouder met vet
 | **Risico** | Faillissement → aandelen waardeloos (maar Douwine verliest meer) |
 | **Geschikt als** | Tussenstap; creëert druk zonder procedurekosten |
 
-### 8.5 Aanbevolen volgorde
+### 8.5 Optie E: Offensief via Sommatiebrief (NIEUW — 11 feb 2026)
 
-1. **Nu**: Informatie verzamelen (meeting 11 feb)
-2. **Per 1 maart**: Stop alle werkzaamheden, KvK-uitschrijving
-3. **Maart**: Venster van 30 dagen voor onderhandeling (optie A)
-4. **April**: Geen reactie → formeel Art. 2:217 BW informatieverzoek
-5. **April-mei**: Sommatie via advocaat met verwijzing naar Art. 2:343 BW gronden
-6. **Reserve**: Procedure Art. 2:343 BW of Art. 2:345 BW indien nodig
+Formele sommatiebrief aan Freca B.V. met vordering €100K boete (Art. 10 SHA) + aansprakelijkstelling Douwine (New Holland Belgium-norm). Peter biedt kwijtschelding boete + deblokkade vetorecht in ruil voor aandelenovername tegen gewenste prijs.
+
+| Aspect | Toelichting |
+|--------|-------------|
+| **Kosten** | ~€596-894 excl. BTW (jurist: 4-6 uur × €149/uur) |
+| **Doorlooptijd** | Dagen (brief) + weken (reactie/onderhandeling) |
+| **Hefbomen** | €100K boetevordering + persoonlijke aansprakelijkheid Douwine + vetorecht |
+| **Risico** | Douwine escaleert / weigert; maar juridische positie is sterk |
+| **Geschikt als** | **Primaire strategie** — geadviseerd door jurist |
+
+### 8.6 Aanbevolen volgorde (bijgewerkt 11 feb 2026)
+
+1. **Nu (11 feb)**: ~~Meeting bij Grady~~ → **afgemeld op advies jurist**. Sommatiebrief in voorbereiding.
+2. **Komende dagen**: Sommatiebrief verzenden (optie E) — vordering €100K + aansprakelijkstelling
+3. **Na sommatiebrief**: Onderhandeling vanuit sterkte (optie A) — Peter biedt kwijtschelding + deblokkade in ruil voor uitkoop
+4. **Per 1 maart**: Stop alle werkzaamheden, KvK-uitschrijving
+5. **Maart**: Reactietermijn sommatiebrief + onderhandelingsvenster
+6. **Reserve**: Procedure Art. 2:343 BW of Art. 2:345 BW indien onderhandeling faalt
 
 ---
 
 ## 9. Openstaande Juridische Vragen
 
-Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 categorieën A-L). Hieronder de meest urgente:
+Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (41 vragen, 13 categorieën A-M). De memo van 11 feb beantwoordt 8 vragen volledig en 1 gedeeltelijk.
 
-### Urgent — vóór meeting 11 feb
+### Beantwoord door memo jurist (11 feb 2026)
+
+| # | Vraag | Antwoord jurist |
+|---|-------|-----------------|
+| A1 ✅ | Financieringsstop Douwine → aansprakelijkheidsrisico? | New Holland Belgium-norm: Douwine riskeert persoonlijke aansprakelijkheid |
+| A2 ✅ | Peters verplichtingen als mede-bestuurder? | Beklamel-norm: brief 8 feb beschermt Peter |
+| A4 ✅ | Aandachtspunten meeting? | **Niet gaan** — Grady behartigt Douwine's belangen |
+| D1 ✅ | Bestuurdersaansprakelijkheidsrisico? | "Overwegend veilig" |
+| D3 ✅ | Douwine's vage dreigingen? | Risico ligt bij Douwine, niet bij Peter |
+| E4 ✅ | PHBX als leningpartij? | PHBX is geen partij bij de geldlening |
+| E5 🔶 | Tegenstrijdig belang Douwine? | Bevestigd; nog niet volledig uitgewerkt |
+| L4c ✅ | SHA kettingbeding als hefboom? | "Belangrijkste onderhandelingstroef" — €100K boete |
+
+### Openstaand — vóór 1 maart
 
 | # | Vraag | Context |
 |---|-------|---------|
-| A1 | Kan Douwine eenzijdig de operationele financiering stopzetten terwijl zij bestuurder Dinck is? | Art. 2:9 BW / Art. 2:239 lid 6 BW |
-| A2 | Wat zijn Peters verplichtingen als mede-bestuurder nu salarissen niet betaald kunnen worden? | Bestuurdersaansprakelijkheid |
-| A3 | Kan Peter eisen dat geen toezeggingen worden gedaan aan externe partij zonder hem? | Collegialiteitsbeginsel |
-| A4 | Aandachtspunten meeting bij Grady Hofstra? | Toezeggingen onder druk |
+| A3 | Kan Peter eisen dat geen toezeggingen worden gedaan aan externe partij? | Collegialiteitsbeginsel |
 | B1 | Eindigt de MO automatisch bij bestuurdersontslag? | BW Boek 2 vs. Boek 6 |
 | B2 | MO wel of niet opzeggen? | Vrijwaring vs. juridische helderheid |
-
-### Belangrijk — vóór 1 maart
-
-| # | Vraag | Context |
-|---|-------|---------|
 | C1 | Is het AVA-besluit aantastbaar wegens Art. 3.1 schending? | Ongelijke behandeling fee |
-| D1 | Bestuurdersaansprakelijkheidsrisico bij aftreden? | Art. 2:248 BW |
 | D4 | Is jaarrekening 2024 tijdig gedeponeerd? | Art. 2:248 lid 2 bewijsvermoeden |
 | E3 | Addendum aanvechtbaar wegens misbruik omstandigheden? | Art. 3:44 lid 4 BW |
 | G1 | Ongerechtvaardigde verrijking vordering haalbaar? | Art. 6:212 BW, ~€108-180K |
@@ -379,56 +414,50 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 cate
 | 9 feb 2026 | Douwine: bevestiging meeting wo 12:30 — geen inhoudelijke reactie |
 | 9 feb 2026 | Peter: update + vragen naar Maud |
 | 10 feb 2026 | Gesprek externe partij vindt plaats. Peter niet geïnformeerd. |
+| 10 feb 2026 | Peter verzendt constatering informatierecht (aan Douwine, Marlou, CC Grady) |
+| 11 feb 2026 | Memo jurist ontvangen: positie "overwegend veilig", offensieve strategie geadviseerd |
+| 11 feb 2026 | Peter meldt zich af voor meeting bij Grady (op advies jurist) |
+| 11 feb 2026 | Sommatiebrief in opdracht gegeven (vordering €100K + aansprakelijkstelling) |
 
 ### Komend
 
 | Datum | Gebeurtenis | Actie |
 |-------|-------------|-------|
-| **11 feb 2026** | Meeting 12:30 bij Grady Hofstra, Oosterwolde | Luisteren, niets toezeggen, niets over akte bespreken |
+| **~12-14 feb 2026** | Sommatiebrief gereed | Verzenden aan Freca B.V. / mw. Koopman |
+| **Na sommatiebrief** | Reactietermijn + onderhandeling | Peter biedt kwijtschelding + deblokkade in ruil voor uitkoop |
 | **1 mrt 2026** | Bestuurdersontslag effectief | KvK-uitschrijving indienen |
 | **28 mrt 2026** | Eerste aflossing lening (~€55-75K) | Dinck kan niet betalen → automatisch verzuim |
-| **~1 apr 2026** | Einde onderhandelingsvenster | Formeel Art. 2:217 BW verzoek indien geen voortgang |
-| **~Apr-mei 2026** | Escalatie indien nodig | Sommatie via advocaat |
+| **Reserve** | Procedure Art. 2:343 of 2:345 BW | Indien onderhandeling faalt |
 
 ---
 
 ## 11. Aanbevelingen
 
-### 11.1 Vóór meeting (10-11 feb)
+### 11.1 Afgehandeld (10-11 feb)
 
-- [ ] Constatering informatierecht verzenden (concept gereed: `concepten/constatering-informatierecht-10feb.md`) — Peters keuze
-- [ ] Concept akte analyse doorlezen (`analyse/concept-akte-teruglevering-analyse.md`) — **NIEUW 10 feb**
-- [ ] Email Maud versturen over concept akte (`concepten/email-maud-update-10feb-akte.md`) — **NIEUW 10 feb**
-- [ ] Gespreksleidraad doorlezen (`concepten/gespreksleidraad.md`)
-- [ ] Cheatsheet printen (`concepten/meeting-cheatsheet-11feb.md`)
-- [ ] Opname-app testen
+- [x] Constatering informatierecht verzonden (10 feb)
+- [x] Concept akte analyse doorgelezen (`analyse/concept-akte-teruglevering-analyse.md`)
+- [x] Meeting 11 feb **afgemeld** op advies jurist (`concepten/email-afmelding-meeting-11feb.md`)
+- [x] Memo jurist ontvangen en geanalyseerd (`analyse/memo-jurist-11feb2026.md`)
+- [x] Sommatiebrief in opdracht gegeven
 
-### 11.2 Tijdens meeting (11 feb)
+### 11.2 Lopend — sommatiebrief en offensieve strategie
 
-- **Gouden regel**: Nergens aan committen. Elk voorstel: "Ik bespreek dit met mijn adviseur en kom schriftelijk terug."
-- **Vier agendapunten**: (1) financiering/werknemers, (2) externe partij/informatierecht, (3) aflossing 28 maart, (4) concept akte teruglevering — "Ik laat dit beoordelen door mijn adviseur"
-- **Marlou = Douwine's stem**. Grady = Douwine's adviseur. Niet neutraal.
-- **NIET het aandeelhoudersregister meenemen** naar Grady's kantoor
-- **NIETS inhoudelijks over de concept akte bespreken** — alleen: "Ik laat dit beoordelen door mijn adviseur"
-- **Niets ondertekenen. Niets mondeling toezeggen. Alles schriftelijk.**
+- [ ] Sommatiebrief ontvangen en reviewen (jurist is bezig met opstellen)
+- [ ] Sommatiebrief verzenden aan Freca B.V. / mw. Koopman
+- [ ] Reactie op sommatiebrief afwachten → onderhandelingsfase
+- [ ] Concept akte teruglevering: geen medewerking verlenen zonder tegenprestatie (Peter's co-signering = hefboom)
 
-### 11.3 Na meeting
+### 11.3 Vóór 1 maart
 
-- [ ] Gespreksverslag opstellen (op basis van opname)
-- [ ] Gespreksverslag delen met Douwine/Grady
-- [ ] Bijzonderheden melden aan Maud
-- [ ] Dossier bijwerken
-
-### 11.4 Vóór 1 maart
-
-- [ ] Juridisch advies Maud ontvangen
+- [ ] Openstaande juridische vragen afstemmen met jurist (Legal Advice Wanted B.V.)
 - [ ] D&O-verzekering controleren
 - [ ] Jaarrekening 2024 deponering verifiëren
 - [ ] Onbetaalde werkuren documenteren (retroactief logboek)
 - [ ] MO-keuze afstemmen met advocaat (wel/niet opzeggen)
 - [ ] KvK-uitschrijving voorbereiden
 
-### 11.5 Na 1 maart
+### 11.4 Na 1 maart
 
 - [ ] KvK-uitschrijving indienen
 - [ ] Alle werkzaamheden staken (geen KTLO zonder overeenkomst)
@@ -444,16 +473,18 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 cate
 
 | Bestand | Inhoud |
 |---------|--------|
-| `analyse/patronenanalyse-buitensluiting.md` | 14 incidenten in juridisch narratief — **NIEUW** |
-| `analyse/correspondentie-analyse.md` | Geverifieerde tijdlijn 19 e-mails (incl. 6 feb email) |
+| `analyse/patronenanalyse-buitensluiting.md` | 14 incidenten in juridisch narratief |
+| `analyse/memo-jurist-11feb2026.md` | Analyse memo jurist: 3 pijlers, offensieve strategie — **NIEUW 11 feb** |
+| `analyse/correspondentie-analyse.md` | Geverifieerde tijdlijn 21 e-mails (incl. 6 feb email + afmelding 11 feb) |
 | `analyse/managementovereenkomst-analyse.md` | MO's + AVA-notulen + Art. 3.1 bevinding |
 | `analyse/bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch BW Boek 2 vs. Boek 6 |
 | `analyse/geldlening-analyse.md` | Leningsovereenkomst + addendum |
 | `analyse/notariele-akte-analyse.md` | Notariële akte aandelenoverdracht |
 | `analyse/worst-case-scenarios.md` | Faillissement, UWV, speltheorie |
-| `analyse/concept-akte-teruglevering-analyse.md` | Concept akte teruglevering Marlou → Freca (10 feb 2026) — **NIEUW** |
-| `analyse/voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht — **NIEUW** |
-| `analyse/sha-herleving-analyse.md` | SHA-herlevingsrisico bij terugkeer Freca als aandeelhouder — **NIEUW** |
+| `analyse/concept-akte-teruglevering-analyse.md` | Concept akte teruglevering Marlou → Freca (10 feb 2026) |
+| `analyse/voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht |
+| `analyse/sha-herleving-analyse.md` | SHA-herlevingsrisico bij terugkeer Freca als aandeelhouder |
+| `analyse/grady-hofstra-dynamiek.md` | Grady's triple role: accountant Dinck + adviseur Douwine + ex-PHBX |
 | `analyse/sha-analyse.md` | SHA (niet-werkend) |
 | `analyse/statuten-analyse.md` | Statuten (unanimiteit, vetorecht) |
 
@@ -464,7 +495,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 cate
 | `dossier-uittreding.md` | Volledig feitelijk dossier |
 | `juridische-analyse.md` | Juridische positie-analyse |
 | `incident-register.md` | 14 incidenten structurele buitensluiting |
-| `vragen-advocaat-maud.md` | 37 vragen, 12 categorieën |
+| `vragen-advocaat-maud.md` | 41 vragen, 13 categorieën (8 beantwoord door memo 11 feb) |
 | `legal-preparedness-assessment.md` | Strategische paraatheid |
 
 ### Concepten
@@ -472,9 +503,10 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 cate
 | Bestand | Inhoud | Status |
 |---------|--------|--------|
 | `concepten/brief-financiele-zorgen.md` | Signalering financiële risico's | Verzonden 8 feb |
-| `concepten/constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek | **CONCEPT — NIEUW** |
-| `concepten/gespreksleidraad.md` | Volledig draaiboek meeting 11 feb | Actueel |
-| `concepten/meeting-cheatsheet-11feb.md` | Compact 2-pager meeting | Actueel |
+| `concepten/constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek | Verzonden 10 feb |
+| `concepten/email-afmelding-meeting-11feb.md` | Afmelding meeting op advies jurist — **NIEUW 11 feb** | Verzonden 11 feb |
+| `concepten/gespreksleidraad.md` | Volledig draaiboek meeting 11 feb | Achterhaald (meeting afgemeld) |
+| `concepten/meeting-cheatsheet-11feb.md` | Compact 2-pager meeting | Achterhaald (meeting afgemeld) |
 
 ### Brondocumenten
 
