@@ -1,7 +1,7 @@
 # Overzicht Juridisch Consult - Uittreding Dinck B.V.
 
 **Opgesteld voor**: Juridisch consult
-**Datum**: 4 februari 2026
+**Datum**: 4 februari 2026 (bijgewerkt 11 feb)
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
 
 ---
@@ -55,7 +55,14 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | 02-02-2026 | Peter verduidelijkt: ontslag is eenzijdig, ingangsdatum 1 maart | Reactie |
 | 02-02-2026 | Peter voegt Marlou toe aan CC (daadwerkelijke aandeelhouder) | Reactie |
 | 06-02-2026 | Juridisch consult (intake) via Omnius met Maud van der Zee; memo volgt | Juridisch advies |
-| **07-02-2026** | **Douwine stopt financiering Dinck per direct; externe partij zonder Peters medeweten** | **Incident #11 + #12** |
+| **06-02-2026** | **Douwine stopt financiering Dinck per direct; externe partij zonder Peters medeweten** | **Incident #11 + #12** |
+| 08-02-2026 | Peter verzendt brief financiële zorgen + bevestigt meeting | Correspondentie |
+| 09-02-2026 | Douwine bevestigt meeting wo 12:30 — geen reactie op brief | Correspondentie |
+| 10-02-2026 | Concept akte teruglevering Marlou → Freca ontvangen (notaris Koops) | Incident #13 |
+| 10-02-2026 | Grady bevestigt €1 waardering aan notaris zonder Peter te consulteren | Incident #14 |
+| 10-02-2026 | Peter verzendt constatering informatierecht | Correspondentie |
+| **11-02-2026** | **Memo jurist ontvangen: offensieve strategie, €100K boetevordering** | **Juridisch advies** |
+| **11-02-2026** | **Meeting afgemeld op advies jurist; sommatiebrief in opdracht** | **Uittreding** |
 | **01-03-2026** | **Ingangsdatum ontslag als bestuurder** | In afwachting |
 
 ---
@@ -74,9 +81,9 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 
 ---
 
-## D. Huidige Status (bijgewerkt 6 februari 2026)
+## D. Huidige Status (bijgewerkt 11 februari 2026)
 
-**Geconsolideerde vragenlijst voor advocaat**: `vragen-advocaat-maud.md`
+**Geconsolideerde vragenlijst voor advocaat**: `vragen-advocaat-maud.md` (41 vragen, 13 categorieën A-M; 8 beantwoord door memo 11 feb)
 
 ### NIEUWE ONTWIKKELING (6 feb 2026)
 
@@ -163,13 +170,17 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 |-------|-----------|------------------|
 | 01-02-2026 | Douwine → Peter (CC: Grady, Marlou) | Wijst datum af, aansprakelijkheidsdreigingen, onjuiste claims |
 | 02-02-2026 | Peter → Douwine (CC: Marlou) | Verduidelijkt eenzijdig karakter, corrigeert onjuiste claims |
-| **07-02-2026** | **Douwine → Peter (CC: Grady, Marlou)** | **Financiering per direct gestopt; externe partij dinsdag; meeting woensdag bij Grady** |
-| **08-02-2026** | **Peter → Douwine (CC: Grady, Marlou)** | **Bevestiging meeting woensdag, "inhoudelijk reageer ik separaat"** |
-| **08-02-2026** | **Peter → AVA Dinck B.V.** | **Brief financiële zorgen — signalering risico's en continuïteit (separate mail)** |
+| **06-02-2026** | **Douwine → Peter (CC: Grady, Marlou)** | **Financiering per direct gestopt; externe partij dinsdag; meeting woensdag bij Grady** |
+| 08-02-2026 | Peter → Douwine (CC: Grady, Marlou) | Bevestiging meeting woensdag, "inhoudelijk reageer ik separaat" |
+| 08-02-2026 | Peter → AVA Dinck B.V. | Brief financiële zorgen — signalering risico's en continuïteit |
+| 09-02-2026 | Douwine → Marlou, Peter | Bevestiging meeting wo 12:30, Venekoterweg 44, Oosterwolde. Geen reactie op brief. |
+| 09-02-2026 | Peter → Maud (Omnius) | Update + 6 urgente vragen, bijlagen (zaak #547764) |
+| 10-02-2026 | Peter → Douwine, Marlou (CC: Grady) | Constatering informatierecht — formeel verzoek ex Art. 2:217 BW |
+| **11-02-2026** | **Peter → Douwine, Marlou (CC: Grady)** | **Afmelding meeting op advies jurist — geen gesprekken tot juridische positie helder** |
 
 ---
 
-## F. Tien Gedocumenteerde Incidenten
+## F. Veertien Gedocumenteerde Incidenten
 
 | # | Datum | Categorie | Omschrijving |
 |---|-------|-----------|--------------|
@@ -183,8 +194,10 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 | 8 | 20-01-2026 | Operationeel | Niet-verschijnen bij gepland werkoverleg |
 | 9 | 2025 (lopend) | Operationeel / Financieel | Detachering Yanna Talma aan BVOK zonder overleg; Douwine is zelf BVOK-bestuurslid |
 | 10 | 2025 | Operationeel / Bestuurlijk | Verhuizing Dinck naar pand van Douwine's eigen vennootschap zonder bestuurlijk overleg |
-| 11 | 07-02-2026 | Financieel / Bestuurlijk | Eenzijdig stopzetten operationele financiering Dinck als bestuurder VDenD/Freca, met directe gevolgen voor werknemers; tegenstrijdig belang |
-| 12 | 07-02-2026 | Bestuurlijk | Gesprekken met externe partij over toekomst Dinck gepland zonder mede-bestuurder Peter te informeren of betrekken |
+| 11 | 06-02-2026 | Financieel / Bestuurlijk | Eenzijdig stopzetten operationele financiering Dinck als bestuurder VDenD/Freca, met directe gevolgen voor werknemers; tegenstrijdig belang |
+| 12 | 06-02-2026 | Bestuurlijk | Gesprekken met externe partij over toekomst Dinck gepland zonder mede-bestuurder Peter te informeren of betrekken |
+| 13 | 10-02-2026 | Aandeelhouderszaken | Eenzijdige teruglevering aandelen geïnitieerd (concept akte Marlou → Freca) zonder overleg met Peter |
+| 14 | 10-02-2026 | Financieel / Bestuurlijk | Grady Hofstra bevestigt €1 waardering aan notaris als "Van der Meer" zonder Peter te consulteren |
 
 ---
 
@@ -206,14 +219,16 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 
 ## H. Vervolgstappen
 
-### URGENT — Vóór meeting 11 februari
-- [ ] Geconsolideerde vragen aan Maud voorleggen — zie `vragen-advocaat-maud.md`
-- [ ] Beslissen over verzending brief financiële zorgen — zie `concepten/brief-financiele-zorgen.md`
-- [ ] Strategie meeting woensdag bepalen (eigen adviseur? wat wel/niet toezeggen?)
-- [ ] Reactie op Douwine's email 6 feb — na afstemming met Maud
+### Afgehandeld (6-11 feb)
+- [x] Geconsolideerde vragen aan jurist voorgelegd — zie `vragen-advocaat-maud.md` (41 vragen, 13 categorieën)
+- [x] Brief financiële zorgen verzonden (8 feb) — zie `concepten/brief-financiele-zorgen.md`
+- [x] Constatering informatierecht verzonden (10 feb) — zie `concepten/constatering-informatierecht-10feb.md`
+- [x] Memo jurist ontvangen (11 feb) — offensieve strategie, zie `analyse/memo-jurist-11feb2026.md`
+- [x] Meeting 11 feb afgemeld op advies jurist — zie `concepten/email-afmelding-meeting-11feb.md`
+- [ ] Sommatiebrief in voorbereiding door jurist (vordering €100K + aansprakelijkstelling)
 
 ### Voor 1 maart 2026
-- [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
+- [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee / Legal Advice Wanted B.V.) — memo ontvangen 11 feb, zie `analyse/memo-jurist-11feb2026.md`
 - [x] KvK-uittreksel bewaard (1 feb 2026)
 - [ ] Uitschrijving bij KvK voorbereiden (formulier 17a)
 - [ ] KTLO-scope documenteren indien nodig

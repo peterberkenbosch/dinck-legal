@@ -175,9 +175,9 @@ Veertien gedocumenteerde incidenten over zestien maanden tonen een escalerend pa
 | **10 feb (di)** | Gesprek externe partij vindt plaats. Peter heeft nul informatie ontvangen. |
 | **10 feb (di) 11:01** | Notaris Koops stuurt concept akte teruglevering aandelen Marlou → Freca (€1, koopsom mondeling was €1,50). Nieuwe waiver vereist — Peters co-signering = afstand voorkeursrecht. |
 | **10 feb (di)** | Peter stuurt constatering informatierecht naar Douwine, Marlou, CC Grady |
-| **11 feb (di)** | Peter ontvangt memo jurist (Legal Advice Wanted B.V.): positie "overwegend veilig", offensieve strategie geadviseerd |
-| **11 feb (di)** | Peter meldt zich af voor meeting 12:30 bij Grady — op advies jurist. E-mail aan Douwine, Marlou, CC Grady |
-| **11 feb (di)** | Sommatiebrief in opdracht gegeven aan jurist: vordering €100K boete + aansprakelijkstelling Douwine |
+| **11 feb (wo)** | Peter ontvangt memo jurist (Legal Advice Wanted B.V.): positie "overwegend veilig", offensieve strategie geadviseerd |
+| **11 feb (wo)** | Peter meldt zich af voor meeting 12:30 bij Grady — op advies jurist. E-mail aan Douwine, Marlou, CC Grady |
+| **11 feb (wo)** | Sommatiebrief in opdracht gegeven aan jurist: vordering €100K boete + aansprakelijkstelling Douwine |
 
 ### 5.2 Wat er op het spel staat
 
