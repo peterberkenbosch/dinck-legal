@@ -199,7 +199,7 @@ De prioriteit-1 vragen moeten idealiter **vóór woensdag 11 februari** beantwoo
 - [ ] **Documenteer onbetaalde werkuren** — maak retroactief logboek van al het werk sinds jan 2025
 - [x] ~~**Verkrijg kopie notariële akte**~~ (verkregen 6 feb 2026 - zie `analyse/notariele-akte-analyse.md`)
 - [ ] **Bewaar huidig KvK-uittreksel** als bewijs van aandeelhouderstatus
-- [ ] **Stel chronologische incidententijdlijn op** voor advocaat (de 12 incidenten + correspondentiesamenvatting)
+- [ ] **Stel chronologische incidententijdlijn op** voor advocaat (de 14 incidenten + correspondentiesamenvatting)
 - [ ] **Bereken totale waarde onbetaalde arbeid** — uren x markttarief (€75-125/uur)
 - [ ] **MO-keuze afstemmen met advocaat** — wel of niet opzeggen vóór 1 maart (vragen B1-B3)
 
@@ -224,7 +224,7 @@ De prioriteit-1 vragen moeten idealiter **vóór woensdag 11 februari** beantwoo
 | Art. 2:217 BW | Informatierechten aandeelhouder | Financiële gegevens opvragen na aftreden |
 | Art. 2:239 lid 6 BW | Tegenstrijdig belang bestuurder | Douwine: bestuurder Dinck én bestuurder schuldeiser Freca/VDenD. Bewezen door stopzetting financiering |
 | Art. 2:248 BW | Bestuurdersaansprakelijkheid faillissement | Risico: maar verweer via signaleerplicht (conceptbrief) en uitsluiting van besluitvorming |
-| Art. 2:343 BW | Gedwongen uitkoop (uittreding) | Primair uittredingsmiddel indien onderhandeling faalt; 12 incidenten |
+| Art. 2:343 BW | Gedwongen uitkoop (uittreding) | Primair uittredingsmiddel indien onderhandeling faalt; 14 incidenten |
 | Art. 2:345 BW | Enquêteprocedure | Nucleaire optie (duur maar krachtig) |
 | Art. 3:44 lid 4 BW | Misbruik van omstandigheden | Addendum €500K getekend 12 dagen na fee-stopzetting (19 dec → 31 dec 2024) |
 | Art. 6:212 BW | Ongerechtvaardigde verrijking | Mogelijke vordering voor 13+ maanden onbetaald werk (~€108-180K) |
@@ -247,10 +247,10 @@ Deze beoordeling is een synthese van informatie uit het volledige dossier:
 | Document | Inhoud |
 |----------|-----------------|
 | `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, tegenargumenten |
-| `incident-register.md` | 12 gedocumenteerde incidenten van structurele uitsluiting |
+| `incident-register.md` | 14 gedocumenteerde incidenten van structurele uitsluiting |
 | `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie |
-| `vragen-advocaat-maud.md` | **GECONSOLIDEERD** — 30 vragen in 11 categorieën, geprioriteerd op urgentie |
+| `vragen-advocaat-maud.md` | **GECONSOLIDEERD** — 41 vragen in 13 categorieën (8 beantwoord door memo 11 feb) |
 | `concepten/brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit (verzenden vóór 11 feb) |
 | `analyse/sha-analyse.md` | SHA-analyse (niet-werkende status) |
 | `analyse/statuten-analyse.md` | Statutenanalyse (unanimiteit, vetorecht) |

@@ -112,7 +112,7 @@ Voor een faillissementsaanvraag (stap 3) is nodig:
 |-----------|---------------------|----------------|
 | Administratie (Art. 2:10 BW) | Is de boekhouding op orde? | **Laag risico** — Peter was niet betrokken bij de financiële administratie |
 | Jaarrekening deponering | Op tijd gedeponeerd? | **Te verifiëren** — als niet tijdig gedeponeerd, geldt een bewijsvermoeden van onbehoorlijk bestuur (Art. 2:248 lid 2 BW). Peter moet checken of dit is gedaan. |
-| Onbehoorlijk bestuur (Art. 2:248 BW) | Hebben bestuurders het faillissement veroorzaakt? | **Peters verweer is sterk**: structureel buitengesloten (12 incidenten), risico's gesignaleerd (brief), proactief afgetreden |
+| Onbehoorlijk bestuur (Art. 2:248 BW) | Hebben bestuurders het faillissement veroorzaakt? | **Peters verweer is sterk**: structureel buitengesloten (14 incidenten), risico's gesignaleerd (brief), proactief afgetreden |
 | Paulianeuze handelingen (Art. 42-47 Fw) | Verdachte transacties vóór faillissement? | **Relevant voor Douwine**: VDenD → Dinck bankrekening → Freca RC boekingsroute is verdacht. De curator zou dit kunnen onderzoeken. |
 | Tegenstrijdig belang | Douwine's dubbele rol | **Zeer relevant**: Douwine is bestuurder schuldenaar (Dinck) én bestuurder schuldeiser (Freca/VDenD). Curator kan Douwine persoonlijk aanspreken. |
 
@@ -223,7 +223,7 @@ Douwine/Marlou proberen Peter gedwongen zijn aandelen te laten verkopen.
 | Vereiste | Toetsing |
 |----------|----------|
 | Peters gedrag schaadt de vennootschap | Niet aantoonbaar — Peter was professioneel, signaleerde risico's, werd structureel buitengesloten |
-| 12 incidenten van buitensluiting | Pleiten juist voor Peters uittreding (Art. 2:343), niet voor uitstoting |
+| 14 incidenten van buitensluiting | Pleiten juist voor Peters uittreding (Art. 2:343), niet voor uitstoting |
 | Peters signaleerplicht | Vervuld via brief financiële zorgen |
 
 **Beoordeling**: Vrijwel kansloos. Peters dossier is sterker voor een tegenvordering (Art. 2:343 uittreding) dan Douwine's dossier voor uitstoting.
@@ -248,7 +248,7 @@ Freca eist de volledige lening op (~€466K+ rente), hetzij via Art. 7.1 (direct
 
 | Risico | Niveau | Toelichting |
 |--------|--------|-------------|
-| Bestuurdersaansprakelijkheid (Art. 2:248 BW) | **LAAG** | 12 incidenten van buitensluiting, signaleerplicht vervuld via brief, proactief afgetreden |
+| Bestuurdersaansprakelijkheid (Art. 2:248 BW) | **LAAG** | 14 incidenten van buitensluiting, signaleerplicht vervuld via brief, proactief afgetreden |
 | Persoonlijke aansprakelijkheid voor lonen | **GEEN** na 1 maart | BV-aansprakelijkheid, niet persoonlijk |
 | Persoonlijke aansprakelijkheid Freca-lening | **GEEN** | PHBX is geen partij bij de leningsovereenkomst |
 | Verlies aandelenbelang bij faillissement | **JA** maar beperkt | Equity feitelijk al twijfelachtig gegeven schuldenlast €612K |

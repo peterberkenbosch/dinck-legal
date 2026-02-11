@@ -144,7 +144,7 @@ Het bestuurdersontslag beëindigt de managementovereenkomst NIET automatisch. Bi
 | Wat | Rechter dwingt overname aandelen af |
 | Kosten | €15.000 - €40.000+ |
 | Duur | 12-24 maanden |
-| Grond | Structurele buitensluiting (10 incidenten) |
+| Grond | Structurele buitensluiting (14 incidenten) |
 
 ### Art. 2:345 BW - Enquêteprocedure
 
@@ -171,7 +171,7 @@ Maar: Je moet bereid zijn om door te zetten als ze bluffen.
 | Technische onmisbaarheid | Enige die platform kan onderhouden |
 | Vervangingskosten | €250K-350K om te herbouwen |
 | Vetorecht | Unanimiteit op alle AVA-besluiten |
-| Dossier | 10 incidenten structurele buitensluiting |
+| Dossier | 14 incidenten structurele buitensluiting |
 | Tijd | Kan wachten, zij hebben platform nodig |
 
 ### Douwine's Zwakke Punten

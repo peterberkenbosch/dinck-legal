@@ -9,7 +9,7 @@
 
 ## 1. Inleiding
 
-Dit document analyseert twaalf gedocumenteerde incidenten van structurele buitensluiting van Peter Berkenbosch (namens PHBX Holding B.V.) als mede-bestuurder en aandeelhouder van Dinck B.V. De incidenten beslaan de periode oktober 2024 tot en met februari 2026 en tonen een escalerend patroon: van informatieachterstelling naar eenzijdige besluitvorming naar existentiële buitensluiting bij beslissingen die het voortbestaan van de vennootschap raken.
+Dit document analyseert veertien gedocumenteerde incidenten van structurele buitensluiting van Peter Berkenbosch (namens PHBX Holding B.V.) als mede-bestuurder en aandeelhouder van Dinck B.V. De incidenten beslaan de periode oktober 2024 tot en met februari 2026 en tonen een escalerend patroon: van informatieachterstelling naar eenzijdige besluitvorming naar existentiële buitensluiting bij beslissingen die het voortbestaan van de vennootschap raken.
 
 De analyse is opgesteld op basis van verifieerbare bronnen: e-mailcorrespondentie, notariële akten, AVA-notulen, WhatsApp-berichten en formele brieven.
 
@@ -59,7 +59,7 @@ Artikel 8.6 lid 2 statuten: *"Alle besluiten worden unaniem genomen."* PHBX Hold
 
 ## 4. Vier Categorieën Buitensluiting
 
-De twaalf incidenten laten zich indelen in vier categorieën, die tezamen het beeld vormen van een systematische marginalisering van een mede-bestuurder en aandeelhouder.
+De veertien incidenten laten zich indelen in vier categorieën, die tezamen het beeld vormen van een systematische marginalisering van een mede-bestuurder en aandeelhouder.
 
 ### 4.1 Financiële buitensluiting
 
@@ -320,7 +320,7 @@ Dit professionele handelen is relevant als tegenbewijs: Peter is niet de oorzaak
 
 ### 10.1 Het patroon
 
-De twaalf gedocumenteerde incidenten over een periode van zestien maanden vormen een consistent en escalerend patroon van structurele buitensluiting:
+De veertien gedocumenteerde incidenten over een periode van zestien maanden vormen een consistent en escalerend patroon van structurele buitensluiting:
 
 | Fase | Periode | Karakter | Incidenten |
 |------|---------|----------|------------|
