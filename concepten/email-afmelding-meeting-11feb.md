@@ -1,5 +1,6 @@
-# Concept E-mail: Afmelding Meeting 11 februari 2026
+# E-mail: Afmelding Meeting 11 februari 2026
 
+**Status**: VERZONDEN (11 februari 2026)
 **Aan**: Douwine Koopman, Marlou Woltmeijer
 **CC**: Grady Hofstra (Van der Meer Accountants)
 **Datum**: 11 februari 2026
@@ -7,7 +8,7 @@
 
 ---
 
-Hoi Douwine, Marlou,
+Beste Douwine, Marlou,
 
 Ik laat jullie weten dat ik vandaag niet bij de afspraak aanwezig zal zijn.
 
@@ -17,5 +18,6 @@ Ik sta er wel voor open om schriftelijk geinformeerd te worden. Als er gisteren 
 
 Ik hoop op jullie begrip.
 
-Met vriendelijke groet,
-Peter
+Peter Berkenbosch
+
+PHBX Holding B.V.

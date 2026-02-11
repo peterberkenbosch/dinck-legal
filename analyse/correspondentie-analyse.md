@@ -40,6 +40,14 @@
 | 18 | **8 feb 2026** | **Peter (peter@phbxholding.com)** | **AVA Dinck B.V. (douwine@dagendou.nl, m.gorter@dagendou.nl)** | **douwine@dinck.nl, peter@dinck.nl** | — | **Brief financiële zorgen — signalering risico's en continuïteit (apart verzonden, nieuwe thread, Grady bewust niet in CC)** |
 | 19 | **9 feb 2026** | **Douwine** | **Marlou, Peter** | — | — | **Bevestiging meeting woensdag 12:30 bij Grady Hofstra. Adres: Venekoterweg 44, 8431 HH Oosterwolde (Van der Meer Accountants & Consultants). Geen inhoudelijke reactie op brief financiële zorgen.** |
 | 20 | **10 feb 2026** | **Peter (peter@phbxholding.com)** | **douwine@dagendou.nl, m.gorter@dagendou.nl** | **douwine@dinck.nl, peter@dinck.nl** | — | **Constatering informatierecht mede-bestuurder: informatieverzoek uit brief 8 feb onbeantwoord, externe-partijgesprek vandaag zonder informatie aan Peter (Art. 2:9 BW collegialiteitsbeginsel)** |
+| 21 | **11 feb 2026** | **Peter** | **Douwine, Marlou** | **Grady** | — | **Afmelding meeting op advies juridisch adviseur. Geen gesprekken/beslissingen tot juridische positie helder. Open voor schriftelijke plannen en verslagen.** |
+
+**Observaties bij #21 — Afmelding meeting 11 feb:**
+
+1. **Op advies advocaat** — Peter verwijst expliciet naar juridisch adviseur. Eerste keer in de correspondentie dat Peter een advocaat noemt. Signaal dat de zaak een juridische fase ingaat.
+2. **Constructief** — Geen beschuldigingen, geen verwijten. Vraagt om schriftelijke informatie. Laat de deur open.
+3. **Aan Douwine + Marlou, CC Grady** — Alle drie de spelers worden geadresseerd. Marlou kan niet later zeggen dat zij niet op de hoogte was.
+4. **Geen inhoudelijke stellingname** — Peter onthult niets over zijn juridische positie of strategie. Zuiver procedureel.
 
 **Observaties bij #20 — Constateringsbrief 10 feb:**
 
@@ -354,3 +362,4 @@ Zie ook: `analyse/grady-hofstra-dynamiek.md` sectie 5a, `incident-register.md` i
 | **Externe partij zonder medeweten Peter** | Gesprekken gepland zonder Peter te informeren of betrekken | **Nieuw incident structurele buitensluiting mede-bestuurder** |
 | **Verdachte timing disclaimer** | "Volkomen los van ontwikkelingen bestuur" — 5 weken na ontslagbrief | Ongeloofwaardig, mogelijk drukmiddel |
 | **Grady bevestigt €1 waardering als Van der Meer (10 feb)** | "Dank, ja" aan notaris — spreekt als Dinck's accountant zonder Peter te consulteren | **Concreet bewijs belangenconflict + NBA-schending** |
+| **Peter meldt zich af voor meeting 11 feb op advies advocaat** | Aan Douwine + Marlou, CC Grady. Geen gesprekken/beslissingen tot juridische positie helder. Open voor schriftelijke informatie. | **Grens getrokken, constructief, gedocumenteerd** |
