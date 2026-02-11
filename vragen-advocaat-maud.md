@@ -1,27 +1,31 @@
 # Juridische vragen — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 10 februari 2026 (n.a.v. concept akte teruglevering + categorie L + Grady triple role analyse + categorie M toegevoegd)
+**Bijgewerkt**: 11 februari 2026 (memo jurist ontvangen — vragen gemarkeerd die beantwoord/deels beantwoord zijn)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 
 ---
 
-## URGENT — Vóór Meeting Woensdag 11 Februari
+## ~~URGENT — Vóór Meeting Woensdag 11 Februari~~ (meeting afgemeld 11 feb)
 
 ### A. Stopzetting Financiering (6 feb 2026)
 
 **Context**: Douwine heeft per e-mail van 6 feb 2026 aangekondigd de financiering van Dinck per direct te beëindigen wegens "tegenslag in eigen onderneming." Dinck heeft werknemers in dienst en onvoldoende eigen kasstroom voor salarisverplichtingen. Zie `analyse/correspondentie-analyse.md`.
 
-**A1.** Kan Douwine als bestuurder van VDenD/Freca eenzijdig de operationele financiering van Dinck stopzetten, terwijl zij tegelijk bestuurder van Dinck is? Hoe verhoudt dit zich tot haar bestuurdersplicht jegens Dinck (Art. 2:9 BW) en het tegenstrijdig belang (Art. 2:239 lid 6 BW)?
+**A1.** ✅ **BEANTWOORD (memo 11 feb)**: Kan Douwine als bestuurder van VDenD/Freca eenzijdig de operationele financiering van Dinck stopzetten, terwijl zij tegelijk bestuurder van Dinck is? Hoe verhoudt dit zich tot haar bestuurdersplicht jegens Dinck (Art. 2:9 BW) en het tegenstrijdig belang (Art. 2:239 lid 6 BW)?
+> **Antwoord jurist**: Ja, dit levert een reëel risico op persoonlijke aansprakelijkheid op voor Douwine onder de **New Holland Belgium-norm** (HR). Zij bewerkstelligt als bestuurder de wanbetaling van bestaande salarisverplichtingen door als financier de geldkraan dicht te draaien. Gecombineerd met tegenstrijdig belang (Art. 2:239 lid 6 BW). Wordt opgenomen in sommatiebrief.
 
-**A2.** Wat zijn Peters verplichtingen als mede-bestuurder (tot 1 maart) nu de salarisverplichtingen aan werknemers mogelijk niet kunnen worden voldaan? Loopt Peter risico op bestuurdersaansprakelijkheid als salarissen niet worden betaald?
+**A2.** ✅ **BEANTWOORD (memo 11 feb)**: Wat zijn Peters verplichtingen als mede-bestuurder (tot 1 maart) nu de salarisverplichtingen aan werknemers mogelijk niet kunnen worden voldaan? Loopt Peter risico op bestuurdersaansprakelijkheid als salarissen niet worden betaald?
+> **Antwoord jurist**: Peter is veilig. De waarschuwingsbrief van 8 februari beschermt hem onder de **Beklamel-norm** (HR): hij heeft vastgelegd dat hij niet wenst dat de vennootschap nieuwe verplichtingen aangaat die zij niet kan dragen. Het risico verschuift naar Douwine. Jurist: *"vermoedelijk onbewust zeer goed gehandeld."*
 
 **A3.** Douwine meldt gesprekken met een "externe partij" komende dinsdag over een "mogelijke samenwerking." Peter is niet geïnformeerd of betrokken. Wat zijn Peters rechten als mede-bestuurder? Kan hij eisen dat er geen toezeggingen worden gedaan zonder zijn betrokkenheid?
 
-**A4.** De meeting woensdag is bij Grady Hofstra (Van der Meer Accountants & Consultants). Grady heeft een dubbele pet: hij is formeel de accountant van Dinck B.V. (samenstelovereenkomst) — waardoor Peter als bestuurder ook zijn cliënt is — terwijl hij tegelijk Douwine persoonlijk adviseert over Peters exit. Bovendien was Peter vroeger zelf cliënt bij Van der Meer (PHBX Holding) en is daar vertrokken. Grady heeft op 10 feb per e-mail de €1 waardering bevestigd aan de notaris in zijn hoedanigheid als Van der Meer, zonder Peter te consulteren (zie M1-M4). Zijn er aandachtspunten of risico's voor Peter? Moet hij eigen adviseur meenemen? Wat moet Peter wel/niet zeggen of toezeggen? Zie `analyse/grady-hofstra-dynamiek.md`.
+**A4.** ✅ **BEANTWOORD (memo 11 feb)**: De meeting woensdag is bij Grady Hofstra (Van der Meer Accountants & Consultants). Grady heeft een dubbele pet: hij is formeel de accountant van Dinck B.V. (samenstelovereenkomst) — waardoor Peter als bestuurder ook zijn cliënt is — terwijl hij tegelijk Douwine persoonlijk adviseert over Peters exit. Bovendien was Peter vroeger zelf cliënt bij Van der Meer (PHBX Holding) en is daar vertrokken. Grady heeft op 10 feb per e-mail de €1 waardering bevestigd aan de notaris in zijn hoedanigheid als Van der Meer, zonder Peter te consulteren (zie M1-M4). Zijn er aandachtspunten of risico's voor Peter? Moet hij eigen adviseur meenemen? Wat moet Peter wel/niet zeggen of toezeggen? Zie `analyse/grady-hofstra-dynamiek.md`.
+> **Antwoord jurist**: Meeting afgeraden en afgemeld. *"De heer Hofstra behartigt immers de belangen van mevrouw Koopman en is geen onafhankelijke partij. [...] de feiten rechtvaardigen juist een offensieve strategie."* Geen gesprekken/beslissingen zonder juridische positionering.
 
-**A5.** De conceptbrief financiële zorgen (`concepten/brief-financiele-zorgen.md`) was al opgesteld vóór Douwine's email. Is het raadzaam deze alsnog te verzenden vóór de meeting van woensdag? Of wachten?
+**A5.** ✅ **ACHTERHAALD**: De conceptbrief financiële zorgen (`concepten/brief-financiele-zorgen.md`) was al opgesteld vóór Douwine's email. Is het raadzaam deze alsnog te verzenden vóór de meeting van woensdag? Of wachten?
+> **Status**: Brief is verzonden op 8 februari 2026. Meeting is afgemeld op 11 feb. Vraag is niet meer relevant.
 
 **A6.** Heeft Peter als mede-bestuurder een informatieplicht jegens de werknemers van Dinck B.V. nu de operationele financiering is stopgezet en salarisbetaling onzeker is? Zo ja, wanneer moet hij hen informeren — vóór de meeting van woensdag 11 feb, of pas als na de meeting blijkt dat er geen oplossing komt? Wat zijn de risico's van te vroeg vs. te laat informeren (paniek vs. bestuurdersaansprakelijkheid)?
 
@@ -53,11 +57,13 @@
 
 ### D. Bestuurdersaansprakelijkheid
 
-**D1.** Peter treedt af als bestuurder per 1 maart 2026. Dinck's schuldpositie is €612K, ARR is €6.4K, aflossing 28 maart is onmogelijk. Loopt Peter risico op bestuurdersaansprakelijkheid (Art. 2:248 BW) voor de periode vóór zijn vertrek?
+**D1.** ✅ **BEANTWOORD (memo 11 feb)**: Peter treedt af als bestuurder per 1 maart 2026. Dinck's schuldpositie is €612K, ARR is €6.4K, aflossing 28 maart is onmogelijk. Loopt Peter risico op bestuurdersaansprakelijkheid (Art. 2:248 BW) voor de periode vóór zijn vertrek?
+> **Antwoord jurist**: Positie "overwegend veilig." Tijdige ontslagname + waarschuwingsbrief 8 feb = concrete stappen om interne aansprakelijkheid af te wenden. Beklamel-norm afgedekt. Risico verschuift naar Douwine (New Holland Belgium-norm).
 
 **D2.** Peter was structureel buitengesloten van besluitvorming (14 gedocumenteerde incidenten, zie `incident-register.md`). Is dit een verweer tegen bestuurdersaansprakelijkheid?
 
-**D3.** Douwine's vage aansprakelijkheidsdreiging (e-mail 1 feb 2026: "verantwoordelijkheden of aansprakelijkheden verdwijnen niet") — is hier een reële grondslag voor? Zie `juridische-analyse.md` sectie 6.
+**D3.** ✅ **BEANTWOORD (memo 11 feb)**: Douwine's vage aansprakelijkheidsdreiging (e-mail 1 feb 2026: "verantwoordelijkheden of aansprakelijkheden verdwijnen niet") — is hier een reële grondslag voor? Zie `juridische-analyse.md` sectie 6.
+> **Antwoord jurist**: Nee. Het is juist Douwine die aansprakelijkheidsrisico loopt (New Holland Belgium-norm). Peters positie is "overwegend veilig." Sommatiebrief zal Douwine aansprakelijk stellen.
 
 **D4.** Is de jaarrekening 2024 van Dinck B.V. tijdig gedeponeerd? Art. 2:248 lid 2 BW bevat een bewijsvermoeden: als de jaarrekening niet tijdig is gedeponeerd, wordt vermoed dat er sprake is van onbehoorlijk bestuur. Peter was structureel buitengesloten van de financiële administratie — is dit een verweer? Zie `analyse/worst-case-scenarios.md` sectie 6.
 
@@ -71,9 +77,11 @@
 
 **E3.** Peter tekende het addendum (verhoging naar €500K) 12 dagen nadat zijn management fee was stopgezet (19 dec 2024 → 31 dec 2024). Is er grond voor vernietiging wegens misbruik van omstandigheden (Art. 3:44 lid 4 BW)?
 
-**E4.** PHBX Holding is geen partij bij de leningsovereenkomst. Kan Freca toch verhaal halen op PHBX (bijv. via bestuurdersaansprakelijkheid)?
+**E4.** ✅ **BEANTWOORD (memo 11 feb)**: PHBX Holding is geen partij bij de leningsovereenkomst. Kan Freca toch verhaal halen op PHBX (bijv. via bestuurdersaansprakelijkheid)?
+> **Antwoord jurist**: Nee. PHBX is geen partij. Peters bestuurdersaansprakelijkheidsrisico is afgedekt door de waarschuwingsbrief (Beklamel-norm). De memo behandelt de lening niet als risico voor Peter maar als risico voor Douwine.
 
-**E5.** Douwine is bestuurder van zowel Dinck (schuldenaar) als Freca (schuldeiser). Hoe werkt het tegenstrijdig belang (Art. 2:239 lid 6 BW) bij het opeisen of niet-opeisen van de lening?
+**E5.** 🔶 **DEELS BEANTWOORD (memo 11 feb)**: Douwine is bestuurder van zowel Dinck (schuldenaar) als Freca (schuldeiser). Hoe werkt het tegenstrijdig belang (Art. 2:239 lid 6 BW) bij het opeisen of niet-opeisen van de lening?
+> **Memo jurist**: Bevestigt tegenstrijdig belang als grond voor persoonlijke aansprakelijkheid (New Holland Belgium-norm). Specifieke werking bij opeising lening niet uitgewerkt — kan in vervolgadvies aan bod komen.
 
 **E6.** Is het ontslag van Peter als bestuurder op zichzelf een "staking of beëindiging van de bedrijfsuitoefening" in de zin van Art. 7.1.g? Of is dat pas het geval als Dinck feitelijk stopt met opereren?
 
@@ -157,7 +165,8 @@
 
 - **(a)** Wordt het non-concurrentiebeding (Art. 7 SHA: 3 jaar na levering aandelen) actief als Freca weer aandeelhouder wordt?
 - **(b)** Kan Peter zich verdedigen via **Art. 6:248 lid 2 BW** (beperkende werking redelijkheid en billijkheid) — selectieve handhaving door Freca die zelf structureel de SHA heeft geschonden (Art. 9 derdenbeding, Art. 3.1 gelijke behandeling, 14 uitsluitingsincidenten)?
-- **(c)** Freca heeft bij de overdracht aan Marlou (7 nov 2025) haar **Art. 9 SHA-verplichting** (derdenbeding) niet nagekomen: geen toetredingsovereenkomst voor Marlou, geen contractsoverneming conform **Art. 6:159 BW** (vereist medewerking Peter, nooit gevraagd). Activeert dit de boeteclausule Art. 10 SHA (€100K + €1K/dag) als zelfstandige tegenvordering, onafhankelijk van de herlevingsvraag?
+- **(c)** ✅ **BEANTWOORD (memo 11 feb)**: Freca heeft bij de overdracht aan Marlou (7 nov 2025) haar **Art. 9 SHA-verplichting** (derdenbeding) niet nagekomen: geen toetredingsovereenkomst voor Marlou, geen contractsoverneming conform **Art. 6:159 BW** (vereist medewerking Peter, nooit gevraagd). Activeert dit de boeteclausule Art. 10 SHA (€100K + €1K/dag) als zelfstandige tegenvordering, onafhankelijk van de herlevingsvraag?
+  > **Antwoord jurist**: Ja. Dit is de **"belangrijkste onderhandelingstroef."** Direct opeisbare boete van €100.000. Wordt actief gevorderd via sommatiebrief (in voorbereiding).
 - **(d)** Kan Peter vooraf uitsluiting van SHA-herleving bedingen als voorwaarde voor het tekenen van de akte? Zo ja, welke formulering?
 
 **L5.** De mondeling afgesproken terugkoopprijs was €1,50. De concept akte vermeldt €1,00. Is Peter verplicht mee te werken aan een eenzijdig gewijzigde prijs? Heeft de prijsafwijking juridische consequenties?
@@ -178,17 +187,17 @@
 
 ---
 
-## Prioritering voor Eerste Gesprek
+## Prioritering (bijgewerkt 11 feb n.a.v. memo jurist)
 
-Gezien de urgentie (meeting woensdag 11 feb, werknemersverplichtingen, vertrek per 1 maart):
+**Status**: Memo jurist ontvangen 11 feb 2026. Meeting afgemeld. Sommatiebrief in voorbereiding. Meerdere urgente vragen zijn beantwoord.
 
-| Prioriteit | Vragen | Reden |
-|------------|--------|-------|
-| **0 — MEEST URGENT** | L1-L6 | Concept akte teruglevering, voorkeursrecht, SHA-herleving |
-| **1 — DIRECT** | A1-A6 | Stopzetting financiering, meeting woensdag |
-| **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 beïnvloeden Peters positie in meeting |
-| **3 — VOOR 1 MAART** | D1-D3, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
-| **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3, M1-M4 | Uittreding, schijnconstructie, Grady NBA, overig |
+| Prioriteit | Vragen | Status |
+|------------|--------|--------|
+| **0 — MEEST URGENT** | L1-L6 | Open — concept akte teruglevering, voorkeursrecht, SHA-herleving |
+| ~~**1 — DIRECT**~~ | ~~A1-A6~~ | **Grotendeels beantwoord** — A1, A2, A4, A5 afgehandeld. A3, A6 open. |
+| **2 — DEZE WEEK** | B1-B3, C1-C3 | Open — MO-keuze en Art. 3.1 |
+| **3 — VOOR 1 MAART** | D1-D4, E1-E7, F1-F3, G1-G3 | **Deels beantwoord** — D1, D3, E4 afgehandeld. E5 deels. Rest open. |
+| **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3, M1-M4 | Open — L4c (kettingbeding) beantwoord |
 
 ---
 
@@ -208,3 +217,4 @@ Gezien de urgentie (meeting woensdag 11 feb, werknemersverplichtingen, vertrek p
 | Concept akte teruglevering | `analyse/concept-akte-teruglevering-analyse.md` |
 | Voorkeursrecht strategisch | `analyse/voorkeursrecht-strategische-analyse.md` |
 | Grady Hofstra triple role | `analyse/grady-hofstra-dynamiek.md` |
+| Memo jurist 11 feb 2026 | `analyse/memo-jurist-11feb2026.md` |
