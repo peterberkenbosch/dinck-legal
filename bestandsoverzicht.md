@@ -1,6 +1,6 @@
 # Dossier Dinck B.V. — Bestandsoverzicht
 
-**Bijgewerkt**: 10 februari 2026
+**Bijgewerkt**: 11 februari 2026
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Bestand | Inhoud | Status |
 |---------|--------|--------|
-| `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, ontwikkelingen | Actueel (9 feb) |
-| `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's | Actueel (6 feb) |
-| `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling | Actueel (6 feb) |
+| `dossier-uittreding.md` | Volledig feitelijk dossier, financiële gegevens, ontwikkelingen (incl. offensieve strategie §6.4) | Actueel (11 feb) |
+| `juridische-analyse.md` | Analyse juridische positie (incl. Beklamel/New Holland Belgium §6a-6b, kettingbeding §6b) | Actueel (11 feb) |
+| `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling (offensief via sommatiebrief) | Actueel (11 feb) |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
-| `vragen-advocaat-maud.md` | 37 juridische vragen voor Maud (12 categorieën A-L, L4 verrijkt met BW-refs Art. 6:248/6:159/6:22) | Actueel (10 feb) |
-| `incident-register.md` | 13 gedocumenteerde uitsluitingsincidenten (incl. #13 eenzijdige teruglevering aandelen) | Actueel (10 feb) |
+| `vragen-advocaat-maud.md` | 41 juridische vragen (13 categorieën A-M; 8 beantwoord door memo 11 feb) | Actueel (11 feb) |
+| `incident-register.md` | 14 gedocumenteerde uitsluitingsincidenten (incl. #14 €1 waardering zonder overleg) | Actueel (11 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 
 ---
@@ -23,15 +23,17 @@
 | Bestand | Inhoud |
 |---------|--------|
 | `bestuurdersontslag-vs-managementovereenkomst.md` | Juridische mismatch: bestuurdersontslag beëindigt MO niet automatisch |
-| `correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (19 entries t/m 9 feb, incl. observaties) |
+| `correspondentie-analyse.md` | Geverifieerde tijdlijn uit bronemails (21 entries t/m 11 feb, incl. observaties) |
 | `geldlening-analyse.md` | Leningsovereenkomst + addendum (opeisbaarheid, €500K limiet, aflossing) |
 | `managementovereenkomst-analyse.md` | Managementovereenkomsten + AVA-notulen (incl. Art. 3.1 bevinding) |
 | `notariele-akte-analyse.md` | Notariële akte aandelenoverdracht Freca → Marlou |
 | `sha-analyse.md` | Aandeelhoudersovereenkomst (niet-werkend, Marlou geen partij; cross-ref naar herleving-analyse) |
 | `statuten-analyse.md` | Statuten (unanimiteit Art. 8.6 lid 2, vetorecht, voorkeursrecht) |
 | `strategische-opties.md` | Strategische scenario's en opties |
-| `patronenanalyse-buitensluiting.md` | Juridisch narratief: 12 incidenten in escalerend patroon, court-ready |
-| `dossiersynthese-uittreding.md` | Volledig overzicht voor advocaat Maud — alles in één document |
+| `patronenanalyse-buitensluiting.md` | Juridisch narratief: 14 incidenten in escalerend patroon, court-ready |
+| `dossiersynthese-uittreding.md` | Volledig overzicht voor jurist — alles in één document (incl. memo-bevindingen 11 feb) |
+| `grady-hofstra-dynamiek.md` | Triple role Grady: accountant Dinck + adviseur Douwine + ex-PHBX, NBA-conflicten |
+| `memo-jurist-11feb2026.md` | Analyse memo jurist: 3 pijlers (kettingbeding, vetorecht, bestuurdersaansprakelijkheid), offensieve strategie |
 | `worst-case-scenarios.md` | Scenario-analyse: werkstaking, faillissement, UWV, verdeling, speltheorie |
 | `concept-akte-teruglevering-analyse.md` | Concept akte teruglevering Marlou → Freca (artikel-vergelijking, nota-analyse, schijnconstructie) |
 | `voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht (met SHA-herlevingsrisico per optie) |
@@ -45,11 +47,13 @@
 |---------|--------|--------|
 | `brief-financiele-zorgen.md` | Brief financiële zorgen — signalering risico's en continuïteit | Verzonden 8 feb 2026 |
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
-| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (incl. sectie 2d concept akte) | Actueel (10 feb) |
-| `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — vier punten, counters, kracht | Actueel (10 feb) |
+| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (incl. sectie 2d concept akte) | Achterhaald (meeting afgemeld) |
+| `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — vier punten, counters, kracht | Achterhaald (meeting afgemeld) |
 | `constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek (extern partij 10 feb) | Verzonden 10 feb 2026 |
 | `email-maud-update-9feb.md` | Update-email aan Maud van der Zee (Omnius, zaak #547764) | Verzonden 9 feb 2026 |
 | `email-maud-update-10feb-akte.md` | URGENT update: concept akte teruglevering ontvangen | Concept (10 feb) |
+| `email-afmelding-meeting-11feb.md` | Afmelding meeting 11 feb — op advies jurist (aan Douwine, Marlou, CC Grady) | Verzonden 11 feb 2026 |
+| `presentatie-advies-11feb.md` | Non-verbale presentatie-adviezen meeting 11 feb | Achterhaald (meeting afgemeld) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
 
@@ -86,12 +90,21 @@
 | `nota_2600339.3_Verkoper_1078718_10-02-2026_10-02-2026_10-46-27.pdf` | Nota van afrekening M. Gorter-Woltmeijer (verkoper): €1,00 te ontvangen |
 | `01-02-2026_KVK_uittreksel_UBO-93428359.pdf` | KvK-uittreksel (1 feb 2026) |
 
-### Correspondentie
+### Correspondentie & Financieel
 
 | Bestand | Inhoud |
 |---------|--------|
 | `email-Douwine-Dinck.pdf` | E-mailcorrespondentie Douwine ↔ Peter |
 | `Inbox – Neerlegging functie bestuurder Dinck B.V. per 1 maart 2026.pdf` | Ontslagbrief Peter (30 jan 2026) |
+| `inbox-16-12-2024-Dinck-tussenstand.pdf` | E-mail 16 dec 2024: Evelien/Fince stuurt periodebalans |
+| `Periodebalans 2024 Dinck.pdf` | Periodebalans Dinck B.V. 2024 (bijlage bij 16 dec email) |
+| `inbox-19-12-2024-gemaakte-afspraken.pdf` | E-mail 19 dec 2024: bevestiging gemaakte afspraken fee-stopzetting |
+
+### Juridisch advies
+
+| Bestand | Inhoud |
+|---------|--------|
+| `Memo P. Berkenbosch .pdf` | Memo jurist 11 feb 2026 (Legal Advice Wanted B.V.): 3 pijlers, offensieve strategie |
 
 ---
 
@@ -111,7 +124,11 @@ Eerder gegenereerde .docx versies van conceptdocumenten. Gegenereerd via `genera
 | `legal-consult-overview.docx` | `legal-consult-overview.md` |
 | `Brief_Financiele_Zorgen_Dinck_BV.docx` | `concepten/brief-financiele-zorgen.md` |
 | `Brief_Financiele_Zorgen_Dinck_BV.pdf` | PDF-versie van bovenstaande |
+| `Constatering_Informatierecht_10Feb.docx` | `concepten/constatering-informatierecht-10feb.md` |
+| `Meeting_Cheatsheet_11Feb.docx` | `concepten/meeting-cheatsheet-11feb.md` |
 | `Meeting_Cheatsheet_11Feb.pdf` | PDF 2-pager meeting cheatsheet (compact, printbaar) |
+| `Gespreksleidraad_11Feb.docx` | `concepten/gespreksleidraad.md` |
 | `Gespreksleidraad_11Feb.pdf` | PDF gespreksleidraad (4 pagina's, volledig draaiboek) |
+| `Presentatie_Advies_11Feb.docx` | `concepten/presentatie-advies-11feb.md` |
 | `Vragen_Maud_van_der_Zee.docx` | `vragen-advocaat-maud.md` |
 | `legal-consult-questions.docx` | Verouderd — vervangen door `Vragen_Maud_van_der_Zee.docx` |
