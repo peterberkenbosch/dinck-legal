@@ -171,12 +171,13 @@ Twee recent ontdekte bevindingen versterken Peters positie:
 
 ## 4. Voorbereiding advocaatgesprek
 
-Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 48 vragen in 14 categorieën (A t/m N), geprioriteerd op urgentie:
+Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 14 kernvragen in 3 categorieën, 34 beantwoorde/achterhaalde vragen in archief:
 
-| Prioriteit | Vragen | Reden |
-|------------|--------|-------|
-| **0 — MEEST URGENT** | N1-N7, L1-L6 | KTLO-structurering, akte teruglevering, SHA-herleving |
-| **1 — GROTENDEELS BEANTWOORD** | A1-A6 | Stopzetting financiering (A1, A2, A4, A5 beantwoord; A3, A6 open) |
+| Categorie | Vragen | Onderwerp |
+|-----------|--------|-----------|
+| **1. MO-strategie** | 1.1–1.5 | MO beëindigen vs. laten bestaan, vrijwaring, KTLO-overeenkomst |
+| **2. SHA en akte** | 2.1–2.6 | SHA-herleving, co-signering, waiver, package deal |
+| **3. Strategie** | 3.1–3.3 | Sommatiebrief, Art. 3.1 schending, aflossing 28 maart |
 | **2 — DEZE WEEK** | B1-B3, C1-C3 | MO-keuze en Art. 3.1 (N1 overlapt met B1-B3) |
 | **3 — VOOR 1 MAART** | D1-D4, E1-E7, F1-F3, G1-G3 | Bestuurdersaansprakelijkheid en leningsrisico's |
 | **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3, M1-M4 | Uittreding, schijnconstructie, Grady, overig |
@@ -252,7 +253,7 @@ Deze beoordeling is een synthese van informatie uit het volledige dossier:
 | `incident-register.md` | 14 gedocumenteerde incidenten van structurele uitsluiting |
 | `juridische-analyse.md` | Analyse juridische positie, worst-case scenario's |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie |
-| `vragen-advocaat-maud.md` | **GECONSOLIDEERD** — 48 vragen in 14 categorieën (8 beantwoord door memo 11 feb) |
+| `vragen-advocaat-maud.md` | **GECONSOLIDEERD** — 14 kernvragen in 3 categorieën (34 in archief) |
 | `concepten/brief-financiele-zorgen.md` | Conceptbrief v2 — signalering financiële risico's en continuïteit (verzenden vóór 11 feb) |
 | `analyse/sha-analyse.md` | SHA-analyse (niet-werkende status) |
 | `analyse/statuten-analyse.md` | Statutenanalyse (unanimiteit, vetorecht) |

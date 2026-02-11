@@ -12,7 +12,7 @@
 | `juridische-analyse.md` | Analyse juridische positie (incl. Beklamel/New Holland Belgium §6a-6b, kettingbeding §6b) | Actueel (11 feb) |
 | `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling (offensief via sommatiebrief) | Actueel (11 feb) |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
-| `vragen-advocaat-maud.md` | 48 juridische vragen (14 categorieën A-N; 8 beantwoord door memo 11 feb) | Actueel (11 feb) |
+| `vragen-advocaat-maud.md` | 14 juridische kernvragen (3 categorieën); 34 beantwoorde/achterhaalde vragen in archief | Actueel (11 feb) |
 | `incident-register.md` | 14 gedocumenteerde uitsluitingsincidenten (incl. #14 €1 waardering zonder overleg) | Actueel (11 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 

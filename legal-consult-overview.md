@@ -83,7 +83,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 
 ## D. Huidige Status (bijgewerkt 11 februari 2026)
 
-**Geconsolideerde vragenlijst voor advocaat**: `vragen-advocaat-maud.md` (48 vragen, 14 categorieën A-N; 8 beantwoord door memo 11 feb, categorie N na meeting 11 feb)
+**Geconsolideerde vragenlijst voor advocaat**: `vragen-advocaat-maud.md` (14 kernvragen in 3 categorieën; 34 beantwoorde/achterhaalde vragen in archief)
 
 ### NIEUWE ONTWIKKELING (6 feb 2026)
 
@@ -220,7 +220,7 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 ## H. Vervolgstappen
 
 ### Afgehandeld (6-11 feb)
-- [x] Geconsolideerde vragen aan jurist voorgelegd — zie `vragen-advocaat-maud.md` (48 vragen, 14 categorieën)
+- [x] Geconsolideerde vragen aan jurist voorgelegd — zie `vragen-advocaat-maud.md` (14 kernvragen, 3 categorieën)
 - [x] Brief financiële zorgen verzonden (8 feb) — zie `concepten/brief-financiele-zorgen.md`
 - [x] Constatering informatierecht verzonden (10 feb) — zie `concepten/constatering-informatierecht-10feb.md`
 - [x] Memo jurist ontvangen (11 feb) — offensieve strategie, zie `analyse/memo-jurist-11feb2026.md`

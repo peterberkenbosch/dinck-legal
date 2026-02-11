@@ -3,7 +3,7 @@
 **Aan**: Maud van der Zee, Legal Advice Wanted B.V.
 **Zaak**: #547764
 **Betreft**: Update — meeting 11 feb alsnog bijgewoond, KTLO-voorstel, niets getekend
-**Bijlagen**: (1) Analyse meeting 11 feb (PDF), (2) Bijgewerkt vragenbestand (48 vragen, 14 categorieën)
+**Bijlagen**: (1) Analyse meeting 11 feb (PDF), (2) Bijgewerkt vragenbestand (14 kernvragen, 3 categorieën; 34 in archief)
 
 ---
 
@@ -80,7 +80,7 @@ De meeting levert zeven nieuwe vragen op die ik heb toegevoegd aan het vragenbes
 - **N5**: Is het strategisch raadzaam om de sommatiebrief nu te versturen, of achter de hand te houden als drukmiddel voor de onderhandeling?
 - **N6**: Kan ik mijn medewerking aan de akte koppelen aan voorwaarden (package deal)?
 
-Het volledige vragenbestand met alle 48 vragen in 14 categorieën zit in de bijlage.
+Het bijgewerkte vragenbestand (14 kernvragen in 3 categorieën, 34 beantwoorde/achterhaalde vragen in archief) zit in de bijlage.
 
 ### Verzoek
 

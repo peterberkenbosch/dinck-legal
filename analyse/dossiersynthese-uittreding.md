@@ -363,7 +363,7 @@ Formele sommatiebrief aan Freca B.V. met vordering €100K boete (Art. 10 SHA) +
 
 ## 9. Openstaande Juridische Vragen
 
-Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (48 vragen, 14 categorieën A-N). De memo van 11 feb beantwoordt 8 vragen volledig en 1 gedeeltelijk. Categorie N (7 vragen) is na de meeting van 11 feb toegevoegd — KTLO-structurering en post-meeting strategie.
+Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3 categorieën; 34 beantwoorde/achterhaalde vragen in archief). De memo van 11 feb beantwoordt 8 van de oorspronkelijke 48 vragen. Na opschoning zijn de open vragen geherstructureerd naar MO-strategie, SHA/akte, en onderhandelingsstrategie.
 
 ### Beantwoord door memo jurist (11 feb 2026)
 
@@ -506,7 +506,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (48 vragen, 14 cate
 | `dossier-uittreding.md` | Volledig feitelijk dossier |
 | `juridische-analyse.md` | Juridische positie-analyse |
 | `incident-register.md` | 14 incidenten structurele buitensluiting |
-| `vragen-advocaat-maud.md` | 48 vragen, 14 categorieën (8 beantwoord door memo 11 feb) |
+| `vragen-advocaat-maud.md` | 14 kernvragen, 3 categorieën (34 in archief) |
 | `legal-preparedness-assessment.md` | Strategische paraatheid |
 
 ### Concepten
