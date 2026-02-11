@@ -34,8 +34,20 @@ Peter ging alsnog naar de meeting (ondanks eerdere afmelding op advies jurist). 
 
 - Plan: aandelen gaan terug van **Marlou naar Douwine/Freca**
 - Motivering: "Marlou niet belasten met dit alles"
+- Douwine noemde dat zij had nagedacht over het **geven van aandelen aan Jeffrey** (sales) om hem binnenboord te houden
+- Peter reageerde direct: hij heeft Jeffrey zijn aandelen ter aankoop aangeboden en Jeffrey had daar **absoluut geen behoefte aan**
 
-### 1.5 Wat Peter NIET heeft toegezegd
+### 1.5 Externe partij: Jaamo
+
+- De "externe partij" uit Douwine's e-mail van 6 februari bleek **Jaamo** — een softwarebedrijf in de kinderopvangsector
+- Douwine is **klant bij Jaamo** en heeft daar een goed contact
+- Zij gaf aan dat zij bij Jaamo **advies zocht over hoe om te gaan met software** in de kinderopvang
+- Jaamo is **geen concurrent** van Dinck's software
+- **Rushmir**, mede-eigenaar van Jaamo, is degene aan wie Peter eerder zijn aandelen heeft aangeboden. Rushmir heeft aangegeven dat overname of aandelenkoop niet aan de orde is — Jaamo groeit hard en wil 100% focus op eigen software
+- Bij Jaamo hoorde Douwine dat Peter zijn aandelen aan Rushmir had aangeboden. Zij maakte tussendoor de opmerking dat ze dit niet wist. Rushmir had Peter vooraf laten weten dat hij dit zou noemen als hij Douwine zou spreken
+- Er is vanuit Peter ook een fijn collegiaal contact met Jaamo
+
+### 1.6 Wat Peter NIET heeft toegezegd
 
 - Niets getekend, niets schriftelijk vastgelegd
 - Geen akkoord op specifieke voorwaarden
@@ -337,7 +349,8 @@ De meeting genereert een nieuwe urgente categorie vragen (N) die aan de jurist m
 | Werknemers | Salarissen onzeker | Ontslag gepland |
 | Operatie Dinck | Onzeker | Alleen KTLO |
 | Aandelen | Concept akte (10 feb) | Peter weet van plan, geen toezegging |
-| Externe partij | Meeting di (6 feb email) | Niet besproken in meeting — onduidelijk |
+| Externe partij | Meeting di (6 feb email) | Jaamo — kinderopvangsoftware, adviesgesprek, geen concurrent, geen potentiële koper |
+| Aandelen aan Jeffrey | — | Douwine overweegt aandelen voor Jeffrey; Jeffrey heeft Peters aanbod al afgeslagen |
 
 ### 9.3 Onderhandelingsstrategie
 
@@ -372,3 +385,5 @@ De meeting verandert de **machtsverhoudingen niet** — Peter heeft nog steeds a
 | **MO vs. KTLO** | Mismatch. MO moet worden aangepast of beëindigd. | **Hoog** — vraag voor jurist |
 | **Werknemers ontslaan** | Bestuursbesluit Douwine na 1 maart. Peter kan niet blokkeren. UWV vangt op. | Medium — geen actie Peter vereist |
 | **Sommatiebrief** | On hold. Kan als Plan B dienen bij afwijzing package deal. | Hoog — strategische reserve |
+| **Externe partij: Jaamo** | Kinderopvangsoftware, adviesgesprek, Douwine is klant. Geen concurrent, geen potentiële koper. Rushmir (mede-eigenaar) had Peter al laten weten dat overname niet aan de orde is. | Laag — geen strategische dreiging |
+| **Aandelen aan Jeffrey** | Douwine overweegt aandelen te geven aan Jeffrey (sales). Jeffrey heeft Peters aandelen-aanbod al afgeslagen. | Laag — bevestigt dat insiders aandelen als waardeloos beschouwen |

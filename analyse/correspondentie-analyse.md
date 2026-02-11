@@ -42,7 +42,7 @@
 | 19 | **9 feb 2026** | **Douwine** | **Marlou, Peter** | — | — | **Bevestiging meeting woensdag 12:30 bij Grady Hofstra. Adres: Venekoterweg 44, 8431 HH Oosterwolde (Van der Meer Accountants & Consultants). Geen inhoudelijke reactie op brief financiële zorgen.** |
 | 20 | **10 feb 2026** | **Peter (peter@phbxholding.com)** | **douwine@dagendou.nl, m.gorter@dagendou.nl** | **douwine@dinck.nl, peter@dinck.nl** | — | **Constatering informatierecht mede-bestuurder: informatieverzoek uit brief 8 feb onbeantwoord, externe-partijgesprek vandaag zonder informatie aan Peter (Art. 2:9 BW collegialiteitsbeginsel)** |
 | 21 | **11 feb 2026** | **Peter** | **Douwine, Marlou** | **Grady** | — | **Afmelding meeting op advies juridisch adviseur. Geen gesprekken/beslissingen tot juridische positie helder. Open voor schriftelijke plannen en verslagen.** |
-| 22 | **11 feb 2026** | **In persoon — meeting bij Grady Hofstra** | **Aanwezig: Douwine, Marlou, Douwine's vriend, Klaas de Vries (VdM), Grady, Peter** | — | — | **Peter ging alsnog (ondanks afmelding #21). Douwine: €100K lening VDenD, financieringsstop extern opgelegd. Voorstel: alleen KTLO, al het personeel ontslaan, alles opzeggen. Peter: bereid tot KTLO mits hostingkosten betaald + voorwaarden. Aandelen terug Marlou → Freca. Niets getekend, niets schriftelijk vastgelegd.** |
+| 22 | **11 feb 2026** | **In persoon — meeting bij Grady Hofstra** | **Aanwezig: Douwine, Marlou, Douwine's vriend, Klaas de Vries (VdM), Grady, Peter** | — | — | **Peter ging alsnog (ondanks afmelding #21). Douwine: €100K lening VDenD, financieringsstop extern opgelegd. Voorstel: alleen KTLO, al het personeel ontslaan, alles opzeggen. Peter: bereid tot KTLO mits hostingkosten betaald + voorwaarden. Aandelen terug Marlou → Freca. Externe partij = Jaamo (kinderopvangsoftware, adviesgesprek, geen concurrent). Douwine overweegt aandelen aan Jeffrey (sales); Peter: Jeffrey heeft aanbod al afgeslagen. Niets getekend, niets schriftelijk vastgelegd.** |
 
 **Observaties bij #22 — Meeting 11 feb (alsnog bijgewoond):**
 
@@ -51,8 +51,9 @@
 3. **€100K lening — niet geverifieerd** — Douwine claimt dat een geldverstrekker als voorwaarde heeft gesteld dat er geen geld meer naar Dinck mag. De naam van de geldverstrekker is niet genoemd. De leningsovereenkomst is niet getoond. Het bedrag is toevallig identiek aan de SHA-boete (Art. 10).
 4. **Niets getekend of toegezegd** — Peter heeft alleen bereidheid tot KTLO uitgesproken, met het expliciete voorbehoud dat er voorwaarden gesteld moeten worden. Geen akkoord op specifieke voorwaarden, geen toezegging over de akte teruglevering, geen toezegging over de SHA.
 5. **"Marlou niet belasten"** — De motivering voor de teruglevering van aandelen (Marlou → Freca) bevestigt indirect de stromanconstructie: Marlou had nooit een reëel belang bij de aandelen.
-6. **Externe partij niet besproken** — De "externe partij" uit Douwine's email van 6 feb (#16) is niet ter sprake gekomen. Peter weet nog steeds niet wie dit is of wat er dinsdag is besproken.
-7. **Aflossing 28 maart benoemd** — Peter heeft de aanstaande aflossing ter sprake gebracht. Dit is feitelijk correct maar juridisch onschadelijk: PHBX is geen partij bij de leningsovereenkomst.
+6. **Externe partij: Jaamo** — De "externe partij" bleek Jaamo, een softwarebedrijf in de kinderopvangsector. Douwine is klant en zocht advies over software. Jaamo is geen concurrent van Dinck. Rushmir (mede-eigenaar Jaamo) is degene aan wie Peter zijn aandelen heeft aangeboden. Rushmir had Peter vooraf laten weten dat hij dit zou noemen — Douwine's reactie ("dit wist ik niet") was dus voorzien. Geen potentiële koper: Jaamo focust op eigen groei.
+7. **Aandelen aan Jeffrey** — Douwine opperde aandelen te geven aan Jeffrey (sales) om hem te behouden. Peter reageerde direct: hij heeft Jeffrey zijn aandelen ter aankoop aangeboden en Jeffrey had daar absoluut geen behoefte aan. Bevestigt dat insiders de aandelen als waardeloos beschouwen.
+8. **Aflossing 28 maart benoemd** — Peter heeft de aanstaande aflossing ter sprake gebracht. Dit is feitelijk correct maar juridisch onschadelijk: PHBX is geen partij bij de leningsovereenkomst.
 
 **Observaties bij #21 — Afmelding meeting 11 feb:**
 
@@ -392,4 +393,6 @@ Zie ook: `analyse/grady-hofstra-dynamiek.md` sectie 5a, `incident-register.md` i
 | **€100K lening Douwine — niet geverifieerd** | Naam geldverstrekker onbekend, leningsovereenkomst niet getoond, bedrag = SHA-boete Art. 10 | **Framing: financieringsstop wordt gepresenteerd als extern opgelegd i.p.v. eigen keuze** |
 | **"Alles stoppen" voorstel** | Personeel ontslaan, kantoor opzeggen, software opzeggen, alleen KTLO | **Vraagt Peter opnieuw gratis te werken — nu als leverancier i.p.v. bestuurder** |
 | **"Marlou niet belasten"** | Aandelen terug Marlou → Freca. Motivering bevestigt: Marlou had nooit reëel belang | **Bevestigt stromanconstructie** |
+| **Externe partij: Jaamo** | Kinderopvangsoftware, adviesgesprek, Douwine is klant. Geen concurrent, geen potentiële koper. Rushmir (mede-eigenaar) had Peter al laten weten dat overname niet aan de orde is. | **Geen strategische dreiging** |
+| **Aandelen aan Jeffrey** | Douwine overweegt aandelen voor Jeffrey (sales); Jeffrey heeft Peters aanbod al afgeslagen | **Bevestigt dat insiders aandelen als waardeloos beschouwen** |
 | **Niets getekend of toegezegd** | Geen akkoord op voorwaarden, akte, SHA. Alleen: bereidheid KTLO met voorbehoud | **Juridisch onschadelijk — geen binding** |
