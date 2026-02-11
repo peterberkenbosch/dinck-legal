@@ -53,6 +53,7 @@
 | `constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek (extern partij 10 feb) | Verzonden 10 feb 2026 |
 | `email-maud-update-9feb.md` | Update-email aan Maud van der Zee (Omnius, zaak #547764) | Verzonden 9 feb 2026 |
 | `email-maud-update-10feb-akte.md` | URGENT update: concept akte teruglevering ontvangen | Concept (10 feb) |
+| `email-maud-update-11feb-meeting.md` | Update aan Maud: meeting alsnog bijgewoond, KTLO-voorstel, Jaamo, waiver, niets getekend | Concept (11 feb) |
 | `email-afmelding-meeting-11feb.md` | Afmelding meeting 11 feb — op advies jurist (aan Douwine, Marlou, CC Grady) | Verzonden 11 feb 2026 |
 | `presentatie-advies-11feb.md` | Non-verbale presentatie-adviezen meeting 11 feb | Achterhaald (meeting heeft plaatsgevonden) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
