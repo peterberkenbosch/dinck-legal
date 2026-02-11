@@ -56,6 +56,12 @@ Kort gezegd: geen verrassing, geen concurrentiekwestie, en geen potentiële kope
 
 Douwine noemde verder dat ze had nagedacht over het geven van aandelen aan Jeffrey (sales) om hem binnenboord te houden. Ik heb direct aangegeven dat ik Jeffrey mijn aandelen ter aankoop heb aangeboden en dat hij daar absoluut geen behoefte aan had. Dit bevestigt dat insiders de aandelen als waardeloos beschouwen.
 
+### Akte teruglevering — waiver ter sprake gekomen
+
+Douwine uitte verbazing dat de notaris vereist dat ik ook moet tekenen en dat er een nieuwe waiver wordt gevraagd. Ik heb toen — achteraf gezien onhandig — aangegeven dat mij dat ook opviel, omdat ik dacht bij de eerste akte (november 2025) al een waiver te hebben gegeven die ook de terugkoop dekte.
+
+Hiermee heb ik laten merken dat ik de concept akte al had gezien en dat ik me bewust was van het waiver-vereiste. Ik denk dat dit in het grotere plaatje geen groot probleem is: de notaris heeft zelfstandig geconcludeerd dat een nieuwe waiver nodig is (Art. 3.2 concept akte), en mijn handtekening blijft vereist. Maar ik wil dat je dit weet.
+
 ### Aflossing 28 maart
 
 Ik heb de aanstaande aflossing onder het addendum benoemd als aandachtspunt. Mijn aanname: aangezien ik per 1 maart geen bestuurder meer ben en PHBX geen partij is bij de leningsovereenkomst, is dit na mijn aftreden geen bestuurdersaansprakelijkheidsrisico meer. Graag jouw bevestiging hiervan.

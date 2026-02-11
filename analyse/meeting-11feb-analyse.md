@@ -37,7 +37,14 @@ Peter ging alsnog naar de meeting (ondanks eerdere afmelding op advies jurist). 
 - Douwine noemde dat zij had nagedacht over het **geven van aandelen aan Jeffrey** (sales) om hem binnenboord te houden
 - Peter reageerde direct: hij heeft Jeffrey zijn aandelen ter aankoop aangeboden en Jeffrey had daar **absoluut geen behoefte aan**
 
-### 1.5 Externe partij: Jaamo
+### 1.5 Akte teruglevering en waiver
+
+- Douwine uitte **verbazing** dat de notaris vereist dat Peter ook moet komen tekenen, en dat er een nieuwe waiver wordt gevraagd
+- Peter gaf aan dat hem dit ook was opgevallen — hij dacht dat hij bij de eerste akte (november 2025) al een waiver had gegeven die ook de terugkoop dekte
+- **Kanttekening**: dit was achteraf gezien onhandig — Peter onthulde hiermee dat hij de akte al had gezien en dat hij zich bewust was van het waiver-vereiste. Dit verzwakt de "ik laat het beoordelen door mijn adviseur"-strategie enigszins
+- **Beperkte impact**: de notaris heeft zelfstandig geconcludeerd dat een nieuwe waiver nodig is (Art. 3.2 concept akte). Dit professionele oordeel staat los van wat Peter in de meeting heeft gezegd. De feitelijke situatie — Peters handtekening is vereist — verandert niet
+
+### 1.6 Externe partij: Jaamo
 
 - De "externe partij" uit Douwine's e-mail van 6 februari bleek **Jaamo** — een softwarebedrijf in de kinderopvangsector
 - Douwine is **klant bij Jaamo** en heeft daar een goed contact
@@ -47,7 +54,7 @@ Peter ging alsnog naar de meeting (ondanks eerdere afmelding op advies jurist). 
 - Bij Jaamo hoorde Douwine dat Peter zijn aandelen aan Rushmir had aangeboden. Zij maakte tussendoor de opmerking dat ze dit niet wist. Rushmir had Peter vooraf laten weten dat hij dit zou noemen als hij Douwine zou spreken
 - Er is vanuit Peter ook een fijn collegiaal contact met Jaamo
 
-### 1.6 Wat Peter NIET heeft toegezegd
+### 1.8 Wat Peter NIET heeft toegezegd
 
 - Niets getekend, niets schriftelijk vastgelegd
 - Geen akkoord op specifieke voorwaarden

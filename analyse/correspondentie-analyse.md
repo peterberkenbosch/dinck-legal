@@ -53,7 +53,8 @@
 5. **"Marlou niet belasten"** — De motivering voor de teruglevering van aandelen (Marlou → Freca) bevestigt indirect de stromanconstructie: Marlou had nooit een reëel belang bij de aandelen.
 6. **Externe partij: Jaamo** — De "externe partij" bleek Jaamo, een softwarebedrijf in de kinderopvangsector. Douwine is klant en zocht advies over software. Jaamo is geen concurrent van Dinck. Rushmir (mede-eigenaar Jaamo) is degene aan wie Peter zijn aandelen heeft aangeboden. Rushmir had Peter vooraf laten weten dat hij dit zou noemen — Douwine's reactie ("dit wist ik niet") was dus voorzien. Geen potentiële koper: Jaamo focust op eigen groei.
 7. **Aandelen aan Jeffrey** — Douwine opperde aandelen te geven aan Jeffrey (sales) om hem te behouden. Peter reageerde direct: hij heeft Jeffrey zijn aandelen ter aankoop aangeboden en Jeffrey had daar absoluut geen behoefte aan. Bevestigt dat insiders de aandelen als waardeloos beschouwen.
-8. **Aflossing 28 maart benoemd** — Peter heeft de aanstaande aflossing ter sprake gebracht. Dit is feitelijk correct maar juridisch onschadelijk: PHBX is geen partij bij de leningsovereenkomst.
+8. **Waiver en akte besproken** — Douwine uitte verbazing dat de notaris vereist dat Peter moet tekenen en dat er een nieuwe waiver wordt gevraagd. Peter gaf (achteraf onhandig) aan dat hem dit ook opviel, omdat hij dacht bij de eerste akte al een waiver te hebben gegeven voor de terugkoop. Dit onthulde dat Peter de akte al kende en zich bewust was van het waiver-vereiste. Impact is beperkt: de notaris heeft zelfstandig geconcludeerd dat een nieuwe waiver nodig is (Art. 3.2) — Peters handtekening blijft vereist ongeacht deze opmerking.
+9. **Aflossing 28 maart benoemd** — Peter heeft de aanstaande aflossing ter sprake gebracht. Dit is feitelijk correct maar juridisch onschadelijk: PHBX is geen partij bij de leningsovereenkomst.
 
 **Observaties bij #21 — Afmelding meeting 11 feb:**
 
