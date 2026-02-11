@@ -57,7 +57,7 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 |-------|-------------|
 | 28-03-2024 | Oprichting Dinck B.V., SHA getekend, leningsovereenkomst (max €120K), managementovereenkomsten |
 | 30-11-2024 | AVA: Management fee PHBX op nihil gesteld (tijdelijk) |
-| 17-12-2024 | Eenzijdige stopzetting management fee door Douwine |
+| 19-12-2024 | Stopzetting management fee na meeting |
 | 31-12-2024 | Addendum leningsovereenkomst: maximum verhoogd naar €500K (saldo €388.605) |
 | 07-11-2025 | Aandelen Freca → Marlou Woltmeijer (stromanconstructie) |
 | 05-12-2025 | Eerste voorstel Peter: €40K uitkoop |

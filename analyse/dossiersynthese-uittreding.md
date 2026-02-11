@@ -138,7 +138,7 @@ Beide managementovereenkomsten (PHBX ↔ Dinck en Freca ↔ Dinck, 28 maart 2024
 
 **MAD-dynamiek**: Freca die opeist = Dinck failliet = Douwine's €612K verloren. Opeising is zelfvernietigend. Maar de dreiging is reëel.
 
-**Timing addendum**: Peter tekende 14 dagen nadat zijn management fee was stopgezet. Mogelijk misbruik van omstandigheden (Art. 3:44 lid 4 BW).
+**Timing addendum**: Peter tekende 12 dagen nadat zijn management fee was stopgezet (19 dec → 31 dec 2024). Mogelijk misbruik van omstandigheden (Art. 3:44 lid 4 BW).
 
 *Volledige analyse: `analyse/geldlening-analyse.md`*
 
@@ -250,7 +250,7 @@ Als Peter stopt met alle werkzaamheden en het platform stilvalt, kan Freca de vo
 
 ### 7.2 Addendum onder druk getekend
 
-Peter tekende het addendum (verhoging naar €500K) 14 dagen nadat zijn management fee was stopgezet. Mogelijke grond voor vernietiging wegens misbruik van omstandigheden (Art. 3:44 lid 4 BW), maar juridisch onzeker.
+Peter tekende het addendum (verhoging naar €500K) 12 dagen nadat zijn management fee was stopgezet (19 dec → 31 dec 2024). Mogelijke grond voor vernietiging wegens misbruik van omstandigheden (Art. 3:44 lid 4 BW), maar juridisch onzeker.
 
 ### 7.3 Geen D&O-verzekering
 
@@ -364,7 +364,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (37 vragen, 12 cate
 |-------|-------------|
 | 28 mrt 2024 | Oprichting Dinck B.V.; SHA, MO's en leningsovereenkomst getekend |
 | 30 nov 2024 | AVA-besluit: fee PHBX op nihil (tijdelijk; Freca niet gewijzigd) |
-| 17 dec 2024 | Feitelijke stopzetting management fee PHBX |
+| 19 dec 2024 | Feitelijke stopzetting management fee PHBX (meeting + bevestigingsmail) |
 | 31 dec 2024 | Addendum leningsovereenkomst: max €500K, eerste aflossing 28 mrt 2026 |
 | 7 nov 2025 | Aandelenoverdracht Freca → Marlou (€1, mondeling, teruglevering voorzien) |
 | 5 dec 2025 | Peter stuurt uitreikend voorstel (€40K + contractor €62,50/uur) |

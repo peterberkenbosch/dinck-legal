@@ -158,10 +158,10 @@ Het addendum bepaalt: lineaire aflossing, startend 28 maart 2026, eerste aflossi
 | Datum | Gebeurtenis |
 |-------|-----------|
 | 30-11-2024 | AVA: Management fee PHBX op nihil (met herlevingsclausule) |
-| 17-12-2024 | Douwine stopt feitelijk Peters management fee |
+| 19-12-2024 | Meeting: Douwine stopt feitelijk Peters management fee |
 | **31-12-2024** | **Addendum getekend: limiet verhoogd naar €500K** |
 
-Peter tekende het addendum **14 dagen** nadat zijn inkomen was stopgezet. Zijn onderhandelingspositie was verzwakt:
+Peter tekende het addendum **12 dagen** nadat zijn inkomen was stopgezet. Zijn onderhandelingspositie was verzwakt:
 - Geen inkomen meer uit Dinck
 - Nog steeds fulltime beschikbaarheidsverplichting (Art. 2.3 managementovereenkomst)
 - Psychologisch: net geconfronteerd met eenzijdige inkomensbeeindiging
@@ -211,7 +211,7 @@ De leningsconstructie creëert een patstelling:
 
 ### Over het addendum
 
-4. **Misbruik van omstandigheden**: Peter tekende het addendum (verhoging naar €500K) 14 dagen nadat zijn management fee eenzijdig was stopgezet. Is er grond voor vernietiging op basis van Art. 3:44 lid 4 BW?
+4. **Misbruik van omstandigheden**: Peter tekende het addendum (verhoging naar €500K) 12 dagen nadat zijn management fee was stopgezet (19 dec → 31 dec 2024). Is er grond voor vernietiging op basis van Art. 3:44 lid 4 BW?
 
 5. **Eerste aflossing**: Dinck kan de aflossing van ~€65-75K op 28 maart 2026 niet betalen. Wat zijn de juridische gevolgen als Freca dit niet onmiddellijk opeist? Verzuim door schuldeiser?
 
@@ -236,5 +236,5 @@ De leningsconstructie creëert een patstelling:
 | Zekerheidsclausule | Art. 6: op eerste verzoek | Freca kan op elk moment zekerheid eisen |
 | Ontbinding uitgesloten | Art. 11.3 | Beperkt juridische opties Dinck |
 | Automatisch verzuim | Art. 11.2 | Geen ingebrekestelling nodig |
-| Timing addendum | 14 dagen na stopzetting management fee | Mogelijk misbruik van omstandigheden |
+| Timing addendum | 12 dagen na stopzetting management fee (19 dec → 31 dec) | Mogelijk misbruik van omstandigheden |
 | Belangenconflict | Douwine is bestuurder schuldeiser EN schuldenaar | Tegenstrijdig belang bij opeising |

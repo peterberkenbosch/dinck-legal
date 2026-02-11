@@ -304,7 +304,7 @@ De dreiging van een enquêteprocedure is vaak krachtiger dan het daadwerkelijk s
 | PHBX niet partij bij lening | Alleen Dinck is schuldenaar, PHBX niet hoofdelijk aansprakelijk |
 | Mutual Assured Destruction | Opeisen = Dinck failliet = Douwine's €500K+ kwijt |
 | Belangenconflict Douwine | Art. 2:239 lid 6 BW: zij is bestuurder schuldeiser EN schuldenaar |
-| Timing addendum | Getekend 14 dagen na stopzetting management fee → misbruik omstandigheden? |
+| Timing addendum | Getekend 12 dagen na stopzetting management fee (19 dec → 31 dec 2024) → misbruik omstandigheden? |
 | Art. 11.3 mogelijk niet houdbaar | Uitsluiting ontbinding kan in strijd zijn met redelijkheid en billijkheid |
 
 ### Strategische Dynamiek

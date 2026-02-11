@@ -60,7 +60,7 @@
 
 **Eerste aflossing 28 maart 2026**: ~€65-75K. Dinck kan dit niet betalen (ARR €6.4K). Default leidt tot opeisbaarheid volledige lening.
 
-**Timing addendum**: Peter tekende 14 dagen nadat zijn management fee eenzijdig was stopgezet (17 dec 2024). Verzwakte onderhandelingspositie.
+**Timing addendum**: Peter tekende 12 dagen nadat zijn management fee was stopgezet (19 dec 2024). Verzwakte onderhandelingspositie.
 
 ### 1.7 Managementovereenkomsten
 
@@ -509,7 +509,7 @@ Douwine stopt als directeur VDenD/Freca (schuldeiser) de financiering, terwijl z
 **Counter**:
 - AVA 30 nov 2024: "tijdelijke maatregel tot voldoende omzet"
 - Accountant bevestigt: kosten geactiveerd als platformwaarde
-- Management fee eenzijdig stopgezet op 17 dec 2024, zonder overleg
+- Management fee stopgezet op 19 dec 2024, na meeting diezelfde dag
 
 ---
 

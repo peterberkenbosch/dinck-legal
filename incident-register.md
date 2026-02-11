@@ -62,12 +62,12 @@ Jaarrekening 2024 en prognoses 2025-2028 werden opgesteld zonder Peters betrokke
 
 | Veld | Waarde |
 |------|--------|
-| Datum | 17 december 2024 |
+| Datum | 19 december 2024 |
 | Categorie | Financiële beslissingen |
-| Bewijs | AVA notulen 30 nov 2024 |
+| Bewijs | E-mail Douwine 16 dec 2024 (FW: Dinck tussenstand), e-mail Douwine 19 dec 2024 15:00 (Bevestiging gemaakte afspraken), AVA notulen 30 nov 2024, Periodebalans 2024 |
 
 **Beschrijving**:
-Management fee eenzijdig stopgezet door Douwine, zonder voorafgaand overleg of waarschuwing. Douwine wist dat Dinck op dat moment Peter's enige bron van inkomsten was. Dit dwong Peter om ander werk te zoeken (vandaar parttime sinds januari 2025).
+Op 16 december 2024 stuurde Douwine de periodebalans door (opgesteld door boekhouder Evelien Wagenaar/Fince!) met de opmerking dat de schuld "ruimschoots" het leningsmaximum overschreed, en stelde een meeting voor op donderdag 19 december. In die meeting werd besloten dat de management fee voor PHBX niet langer betaald kon worden vanuit VDenD. Douwine bevestigde dit per e-mail diezelfde middag (15:00): "Er is geen mogelijkheid om de management fee voor PHBX te blijven betalen vanuit Voor dag en Dou." De bevestigingsmail bevatte ook de toezegging dat betalingen zouden herstarten "zodra daar vanuit Dinck ruimte voor is" — dit is nooit gebeurd. Douwine kondigde tegelijk aan bij VDM (= Grady/Van der Meer) een addendum op te stellen voor de leningsovereenkomst — dit addendum werd 12 dagen later getekend (31 dec 2024, verhoging naar €500K). Peter's enige bron van inkomsten was daarmee weg, wat hem dwong ander werk te zoeken (parttime sinds januari 2025).
 
 **Formeel besluit AVA 30 november 2024**:
 > "De opbrengsten van de vennootschap zijn onvoldoende om een managementvergoeding aan PHBX Holding bv uit te keren. Het voorstel is om de managementvergoeding vanaf 1 december 2024 op nihil te stellen. Indien de opbrengsten van de vennootschap in de toekomst op een voldoende niveau komen zullen de aandeelhouders met elkaar in overleg gaan voor het laten herleven van de onderhavige managementovereenkomst ofwel het vaststellen van een andere managementfee aan PHBX Holding bv."

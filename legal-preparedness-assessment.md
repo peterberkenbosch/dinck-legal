@@ -40,7 +40,7 @@
 | **Art. 7.2 opeising zonder reden** | **HOOG** | Freca kan de volledige lening (~€500K) op ELK moment opeisen met slechts 3 maanden opzegtermijn, zonder reden |
 | **Geen D&O-verzekering** | HOOG | Direct controleren of Dinck een polis heeft; zo niet, overweeg persoonlijke dekking vóór 1 maart |
 | **Werkt nog steeds onbetaald incl. feature-ontwikkeling** | HOOG | Wekt de indruk van berusting; doorlopende feature-ontwikkeling verzwakt onderhandelingspositie |
-| **Addendum onder druk getekend** | GEMIDDELD | Peter tekende het €500K addendum 14 dagen nadat zijn inkomsten stopgezet werden; mogelijk misbruik van omstandigheden maar behoeft juridische beoordeling |
+| **Addendum onder druk getekend** | GEMIDDELD | Peter tekende het €500K addendum 12 dagen nadat zijn inkomsten stopgezet werden (19 dec → 31 dec 2024); mogelijk misbruik van omstandigheden maar behoeft juridische beoordeling |
 | **Geen schriftelijke KTLO/werkafspraak** | GEMIDDELD | Al het huidige werk is goodwill zonder contractuele bescherming |
 | **Beperkt procesbudget** | GEMIDDELD | Beïnvloedt strategie: onderhandeling/druk heeft de voorkeur boven gerechtelijke procedures |
 | **Informatie-asymmetrie** | GEMIDDELD | Geen formele informatieafspraak; alleen wettelijke Art. 2:217 BW rechten na aftreden |
@@ -228,7 +228,7 @@ De prioriteit-1 vragen moeten idealiter **vóór woensdag 11 februari** beantwoo
 | Art. 2:248 BW | Bestuurdersaansprakelijkheid faillissement | Risico: maar verweer via signaleerplicht (conceptbrief) en uitsluiting van besluitvorming |
 | Art. 2:343 BW | Gedwongen uitkoop (uittreding) | Primair uittredingsmiddel indien onderhandeling faalt; 12 incidenten |
 | Art. 2:345 BW | Enquêteprocedure | Nucleaire optie (duur maar krachtig) |
-| Art. 3:44 lid 4 BW | Misbruik van omstandigheden | Addendum €500K getekend 14 dagen na fee-stopzetting |
+| Art. 3:44 lid 4 BW | Misbruik van omstandigheden | Addendum €500K getekend 12 dagen na fee-stopzetting (19 dec → 31 dec 2024) |
 | Art. 6:212 BW | Ongerechtvaardigde verrijking | Mogelijke vordering voor 13+ maanden onbetaald werk (~€108-180K) |
 | Art. 3.1 MO | Gelijke behandeling bestuurders | Formeel niet nageleefd: AVA-besluit wijzigt alleen PHBX's fee |
 | Art. 4.2 MO | Vrijwaring bestuurder | Blijft actief zolang MO niet formeel wordt opgezegd |

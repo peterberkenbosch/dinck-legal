@@ -18,8 +18,8 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 |-------|-------------|-----------|
 | 28-03-2024 | Dinck B.V. opgericht; SHA getekend tussen PHBX Holding en Freca B.V. | Oprichting |
 | apr-dec 2024 | Peter: ~1.440 uur fulltime platformontwikkeling | Werkzaamheden |
-| 30-11-2024 | AVA: Managementvergoeding op nihil gesteld (expliciet als tijdelijke maatregel) - met terugwerkende kracht opgesteld document, opgesteld na aankondiging van 17 december | Financieel |
-| 17-12-2024 | Douwine stopt betaling; behandelt tijdelijke maatregel als definitief | Incident #3 |
+| 30-11-2024 | AVA: Managementvergoeding op nihil gesteld (expliciet als tijdelijke maatregel) - met terugwerkende kracht opgesteld document, opgesteld na aankondiging van 19 december | Financieel |
+| 19-12-2024 | Meeting: Douwine stopt management fee PHBX; bevestigingsmail 15:00 | Incident #3 |
 | jan-dec 2025 | Peter: ~1.200 uur parttime (~20-30 uur/week) ontwikkeling | Werkzaamheden |
 | jan-feb 2026 | Peter: ~160 uur meer dan parttime (~30-35 uur/week), incl. iOS app | Werkzaamheden |
 | sep 2025 | Jaarrekening en prognoses opgesteld zonder betrokkenheid van Peter | Incident #2 |
@@ -175,7 +175,7 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 |---|-------|-----------|--------------|
 | 1 | okt-nov 2025 | Aandeelhouderszaken | Geheime aandelenoverdracht geregeld; Peter pas geinformeerd na tussenkomst notaris |
 | 2 | sep 2025 | Financiele besluitvorming | Jaarrekening en prognoses opgesteld zonder Peter; ontvangen van accountant, niet van Douwine |
-| 3 | 17-12-2024 | Financiele beslissingen | Managementvergoeding eenzijdig stopgezet; AVA-besluit was uitdrukkelijk tijdelijk |
+| 3 | 19-12-2024 | Financiele beslissingen | Managementvergoeding stopgezet na meeting; AVA-besluit was uitdrukkelijk tijdelijk |
 | 4 | 14-12-2025 | Financiele claims | Onjuiste claim: PHBX is €190K verschuldigd (1/3 van BV-schuld); juridisch ongegrond |
 | 5 | 14-12-2025 | Communicatie | Eenzijdig geplande vergadering met niet-neutrale "mediator" |
 | 6 | 14-12-2025 | Communicatie | Beschuldiging van "chantage" vanwege het stellen van grenzen |

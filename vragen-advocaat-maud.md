@@ -69,7 +69,7 @@
 
 **E2.** Leidt rente-accumulatie die het saldo boven €500K brengt tot een overtreding onder Art. 7.1.f (overtreding bepaling)?
 
-**E3.** Peter tekende het addendum (verhoging naar €500K) 14 dagen nadat zijn management fee eenzijdig was stopgezet. Is er grond voor vernietiging wegens misbruik van omstandigheden (Art. 3:44 lid 4 BW)?
+**E3.** Peter tekende het addendum (verhoging naar €500K) 12 dagen nadat zijn management fee was stopgezet (19 dec 2024 → 31 dec 2024). Is er grond voor vernietiging wegens misbruik van omstandigheden (Art. 3:44 lid 4 BW)?
 
 **E4.** PHBX Holding is geen partij bij de leningsovereenkomst. Kan Freca toch verhaal halen op PHBX (bijv. via bestuurdersaansprakelijkheid)?
 
