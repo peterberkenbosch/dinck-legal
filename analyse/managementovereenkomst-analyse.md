@@ -4,8 +4,11 @@
 - `files/getekend-managementovereenkomst-phbx.pdf` (28 maart 2024)
 - `files/getekend-managementovereenkomst-freca.pdf` (28 maart 2024)
 - `files/Getekende notulen wijzigen managementovereenkomst.pdf` (30 november 2024)
+- `files/inbox-16-12-2024-Dinck-tussenstand.pdf` (16 december 2024 — Douwine forwardt periodebalans Evelien/Fince!)
+- `files/Periodebalans 2023 Dinck.pdf` (bijlage — periodebalans opgesteld door Evelien Wagenaar / Fince!)
+- `files/inbox-19-12-2024-gemaakte-afspraken.pdf` (19 december 2024 — bevestiging gemaakte afspraken na meeting)
 
-**Datum analyse**: 6 februari 2026
+**Datum analyse**: 6 februari 2026 (bijgewerkt 10 februari 2026)
 
 ---
 
@@ -155,7 +158,55 @@ c. Stemming en sluiting
 
 4. **Geen definitie "voldoende niveau"**: Er is geen drempel vastgesteld voor wanneer de fee zou herleven. Dit laat ruimte voor discussie.
 
-5. **Unaniem aangenomen**: Peter heeft zelf ingestemd met dit besluit. Dit verzwakt enigszins het argument dat het eenzijdig was opgelegd. De tijdelijke aard van het besluit (herlevingsclausule) is echter nooit formeel getoetst.
+5. **Unaniem aangenomen**: Peter heeft zelf ingestemd met dit besluit. Dit verzwakt enigszins het argument dat het eenzijdig was opgelegd. De tijdelijke aard van het besluit (herlevingsclausule) is echter nooit formeel getoetst. De bevestigingsmail van 19 december 2024 bevat de toezegging *"zodra daar vanuit Dinck ruimte voor is"* zullen betalingen hervat worden — deze toezegging is nooit nagekomen.
+
+---
+
+## 3a. Feitelijke Timeline Fee-Stopzetting (december 2024)
+
+Het AVA-besluit van 30 november 2024 stelde PHBX's fee op nihil, maar de **feitelijke** stopzetting speelde zich af via een emailketen en een meeting in december 2024. Deze chronologie onthult de coördinatie tussen de fee-stopzetting en het addendum op de geldlening.
+
+### Chronologie
+
+| Datum | Gebeurtenis | Bron |
+|-------|-------------|------|
+| 15 dec 2024 (20:37) | **Evelien Wagenaar** (Fince!) stuurt periodebalans Dinck B.V. aan Douwine | inbox-16-12-2024 |
+| 16 dec 2024 (10:00) | Douwine forwardt periodebalans aan Peter: *"Ik wil graag een afspraak maken om hierover te praten"* | inbox-16-12-2024 |
+| 16 dec 2024 (10:28) | Peter reageert: *"Donderdag na Daan is prima"* | inbox-16-12-2024 |
+| 16 dec 2024 (12:18) | Douwine: *"Top! Staat genoteerd"* | inbox-16-12-2024 |
+| **19 dec 2024** | **Meeting**: Douwine deelt mee dat PHBX's management fee wordt stopgezet | — |
+| 19 dec 2024 (15:00) | **Bevestigingsmail Douwine** — formaliseert gemaakte afspraken (zie hieronder) | inbox-19-12-2024 |
+| **31 dec 2024** | **Addendum geldlening getekend** — limiet verhoogd naar €500K | getekend addendum |
+
+### Bevestigingsmail 19 december 2024 — Kernpassages
+
+Douwine stuurt om 15:00 een bevestigingsmail na de meeting. Drie cruciale passages:
+
+**1. Framing als noodzaak (niet als keuze):**
+> *"Er is geen mogelijkheid om de management fee voor PHBX te blijven betalen vanuit Voor dag en Dou."*
+
+**Analyse**: De fee-stopzetting wordt gepresenteerd als een externe omstandigheid (VDenD kan niet meer), niet als een AVA-besluit dat al drie weken eerder was genomen (30 november). Dit versterkt het beeld dat het AVA-besluit pro forma was.
+
+**2. Toezegging herleving (nooit nagekomen):**
+> *"Zodra daar vanuit Dinck ruimte voor is"* zullen betalingen hervat worden.
+
+**Analyse**: Deze toezegging is nooit nagekomen. Er is geen moment geweest waarop de herlevingsclausule formeel is getoetst.
+
+**3. Directe koppeling met addendum geldlening:**
+> *"Ik ga bij VDM checken in welke vorm een addendum bij de onderhavige leningovereenkomst kan worden opgesteld."*
+
+**Analyse**: In dezelfde bevestigingsmail waarin Peter's fee wordt stopgezet, kondigt Douwine het addendum op de geldlening aan. Grady Hofstra (Van der Meer) stelt dit addendum op. **12 dagen later** (31 december 2024) tekent Peter het addendum dat de leningslimiet verruimt naar €500.000.
+
+### Strategische Betekenis
+
+De emailketen onthult een **gecoördineerd patroon**:
+
+1. **Trigger**: Periodebalans van Evelien (Fince!), NIET van Grady/Van der Meer — de boekhouder van Dinck was niet de aanleiding
+2. **Fee-stop**: Douwine presenteert dit als noodmaatregel, terwijl het AVA-besluit al 3 weken oud was
+3. **Addendum**: In dezelfde mail wordt het addendum aangekondigd — Grady/VDM stelt het op
+4. **Timing**: Peter tekent het addendum 12 dagen na de fee-stopzetting, in een verzwakte onderhandelingspositie (geen inkomen, wel fulltime verplichting)
+
+Dit versterkt het argument voor **misbruik van omstandigheden** (Art. 3:44 lid 4 BW) bij het addendum.
 
 ---
 
@@ -163,10 +214,12 @@ c. Stemming en sluiting
 
 ### De Feiten
 
-Het AVA-besluit van 30 november 2024 noemde alleen PHBX. Feitelijk (boekhoudkundig) zijn beide fees per 1 december 2024 gestopt:
+Het AVA-besluit van 30 november 2024 noemde alleen PHBX. Feitelijk (boekhoudkundig) zijn beide fees per 1 december 2024 gestopt. De feitelijke uitvoering vond echter pas plaats op **19 december 2024**, toen Douwine in een meeting de stopzetting aan Peter meedeelde en dit per bevestigingsmail om 15:00 formaliseerde (zie sectie 3a).
 
-- **PHBX**: fee apr-nov 2024 (€64.000) was reeds uitbetaald. Vanaf 1 dec 2024: nihil (per AVA-besluit).
+- **PHBX**: fee apr-nov 2024 (€64.000) was reeds uitbetaald. Vanaf 1 dec 2024: nihil (per AVA-besluit, feitelijk meegedeeld 19 dec).
 - **Freca**: fee apr-nov 2024 (€64.000) was **niet** uitbetaald en staat als vordering op de balans. Vanaf 1 dec 2024: feitelijk ook nihil, maar **zonder formeel wijzigingsbesluit**.
+
+**Opvallend**: De periodebalans die als aanleiding voor de meeting diende, kwam van **Evelien Wagenaar (Fince!)** — niet van Grady Hofstra (Van der Meer, Dinck's formele accountant). Toch werd het addendum door Van der Meer (Grady) opgesteld. Dit wijst op gescheiden informatiestromen: Fince! voor de dagelijkse boekhouding, Van der Meer/Grady voor de strategische stukken.
 
 ### Juridische Complicatie
 
@@ -290,6 +343,9 @@ Als Freca's managementovereenkomst nog loopt:
 |--------|-----------|--------|
 | Overeenkomsten identiek | Zelfde voorwaarden PHBX en Freca | Fees feitelijk beide gestopt, maar **formeel alleen PHBX** per AVA-besluit |
 | AVA-besluit expliciet tijdelijk | Herlevingsclausule in notulen | Nooit getoetst → argument dat tijdelijkheid is geschonden |
+| Fee-stop gecoördineerd met addendum | 19 dec meeting → bevestigingsmail → 12 dagen later addendum €500K | Versterkt misbruik van omstandigheden (Art. 3:44 lid 4 BW) |
+| Trigger was Fince!, niet Van der Meer | Periodebalans Evelien, addendum door Grady | Gescheiden informatiestromen, Grady voor strategie |
+| Toezegging herleving nooit nagekomen | *"zodra vanuit Dinck ruimte voor is"* (19 dec 2024) | Versterkt argument schending tijdelijkheid |
 | Fulltime verplichting bleef bestaan | Art. 2.3 niet gewijzigd | ~1.440 uur onbetaald werk |
 | Overeenkomst niet opgezegd | Alleen fee gewijzigd | Alle rechten en plichten lopen door |
 | Vrijwaring nog actief | Art. 4.2 beschermt PHBX | Belangrijke bescherming tot formele beeindiging |
