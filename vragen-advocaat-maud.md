@@ -1,7 +1,7 @@
 # Juridische vragen — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 11 februari 2026 (memo jurist ontvangen — vragen gemarkeerd die beantwoord/deels beantwoord zijn)
+**Bijgewerkt**: 11 februari 2026 (memo jurist + meeting 11 feb analyse — nieuwe categorie N toegevoegd)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 
@@ -185,17 +185,35 @@
 
 **M4.** Grady stelt als Dinck's accountant de jaarrekening 2024 samen. Keuzes daarin (waardering platform, classificatie Freca's €64K, continuïteitsveronderstelling) beïnvloeden de aandelenwaardering bij Peters uittreding. Kan Peter eisen dat de jaarrekening wordt beoordeeld door een onafhankelijke accountant, gezien Grady's belangenconflict?
 
+### N. KTLO-Structurering en Post-Meeting Strategie (11 feb 2026)
+
+**Context**: Peter ging alsnog naar de meeting bij Grady (11 feb). Douwine's voorstel: alleen KTLO, alles stoppen (personeel, kantoor, software). Peter bereid tot KTLO met voorwaarden. Niets getekend of gecommitteerd. Aandelen terug van Marlou naar Freca. Zie `analyse/meeting-11feb-analyse.md`.
+
+**N1.** De managementovereenkomst PHBX ↔ Dinck is niet opgezegd. Peter gaat KTLO doen in plaats van fulltime management. Moet de MO worden opgezegd/beëindigd tegelijk met het sluiten van een KTLO-leveranciersovereenkomst? Kan de vrijwaring (Art. 4.2 MO) worden overgenomen in het nieuwe contract? Drie opties uitgewerkt in `analyse/meeting-11feb-analyse.md` sectie 3.4.
+
+**N2.** Wat moet er in een KTLO-leveranciersovereenkomst staan? Specifiek: vergoeding (vast of uurtarief?), hostingkosten (vooruit of declaratie?), aansprakelijkheidsbeperking, opzegtermijn, en wat als Dinck de KTLO-vergoeding niet betaalt — mag Peter direct stoppen (opschortingsrecht)?
+
+**N3.** Peter heeft in de meeting mondeling aangegeven bereid te zijn tot KTLO met voorwaarden. Niets getekend, niets schriftelijk. Is dit juridisch bindend? Kan Douwine stellen dat Peter zich hiermee heeft gecommitteerd?
+
+**N4.** Peter heeft in de meeting de aflossing van 28 maart benoemd. Kan Douwine/Freca dit gebruiken als erkenning van de lening door Peter persoonlijk (i.p.v. door Dinck als schuldenaar)?
+
+**N5.** De sommatiebrief (€100K boete kettingbeding) was in voorbereiding. Nu Peter bereid is tot KTLO met voorwaarden: is het strategisch raadzaam om de sommatiebrief nog te versturen? Of achter de hand houden als drukmiddel voor de onderhandeling over KTLO-voorwaarden en co-signering akte?
+
+**N6.** Douwine bevestigt dat de aandelen terug moeten van Marlou naar Freca. Peters co-signering is vereist (Art. 3.2 concept akte). Kan Peter zijn medewerking aan de akte koppelen aan voorwaarden (bv. gelijktijdige aandelenoverdracht Peters aandelen, SHA-kwijting, KTLO-overeenkomst)?
+
+**N7.** Peter is na 1 maart geen bestuurder meer. Douwine wil alle werknemers ontslaan. Heeft Peter als aandeelhouder (33,3%) zeggenschap over het ontslaan van werknemers via vetorecht (Art. 8.6 lid 2), of is dit uitsluitend een bestuursbesluit?
+
 ---
 
-## Prioritering (bijgewerkt 11 feb n.a.v. memo jurist)
+## Prioritering (bijgewerkt 11 feb n.a.v. memo jurist + meeting)
 
-**Status**: Memo jurist ontvangen 11 feb 2026. Meeting afgemeld. Sommatiebrief in voorbereiding. Meerdere urgente vragen zijn beantwoord.
+**Status**: Memo jurist ontvangen 11 feb. Peter ging alsnog naar meeting. Sommatiebrief on hold — eerst nieuwe situatie analyseren. 48 vragen in 14 categorieën (A-N).
 
 | Prioriteit | Vragen | Status |
 |------------|--------|--------|
-| **0 — MEEST URGENT** | L1-L6 | Open — concept akte teruglevering, voorkeursrecht, SHA-herleving |
+| **0 — MEEST URGENT** | N1-N7, L1-L6 | Open — KTLO-structurering, akte teruglevering, SHA-herleving |
 | ~~**1 — DIRECT**~~ | ~~A1-A6~~ | **Grotendeels beantwoord** — A1, A2, A4, A5 afgehandeld. A3, A6 open. |
-| **2 — DEZE WEEK** | B1-B3, C1-C3 | Open — MO-keuze en Art. 3.1 |
+| **2 — DEZE WEEK** | B1-B3, C1-C3 | Open — MO-keuze en Art. 3.1. N1 overlapt met B1-B3. |
 | **3 — VOOR 1 MAART** | D1-D4, E1-E7, F1-F3, G1-G3 | **Deels beantwoord** — D1, D3, E4 afgehandeld. E5 deels. Rest open. |
 | **4 — STRATEGISCH** | H1-H5, I1-I4, J1-J2, K1-K3, M1-M4 | Open — L4c (kettingbeding) beantwoord |
 
@@ -218,3 +236,4 @@
 | Voorkeursrecht strategisch | `analyse/voorkeursrecht-strategische-analyse.md` |
 | Grady Hofstra triple role | `analyse/grady-hofstra-dynamiek.md` |
 | Memo jurist 11 feb 2026 | `analyse/memo-jurist-11feb2026.md` |
+| **Meeting 11 feb + KTLO** | **`analyse/meeting-11feb-analyse.md`** |

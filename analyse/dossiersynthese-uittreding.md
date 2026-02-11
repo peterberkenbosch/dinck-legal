@@ -17,7 +17,9 @@ Peter Berkenbosch (PHBX Holding B.V., 33,3% aandeelhouder) treedt per 1 maart 20
 
 **Peters kwetsbaarheden**: Art. 7.1.g leningsovereenkomst (staking-trigger), addendum onder druk getekend, geen D&O-verzekering, lopende fulltime MO-verplichting voor €0. De vage dreigingen van Douwine (1 feb) zijn door de jurist formeel weerlegd — het aansprakelijkheidsrisico ligt bij Douwine, niet bij Peter (New Holland Belgium-norm).
 
-**Juridisch advies (11 feb)**: De jurist concludeert dat Peters positie **"overwegend veilig"** is en adviseert een **offensieve strategie** via een formele sommatiebrief: vordering €100K boete (Art. 10 SHA) + aansprakelijkstelling Douwine (New Holland Belgium-norm). Peter biedt kwijtschelding boete + deblokkade vetorecht in ruil voor aandelenovername tegen gewenste prijs. De meeting bij Grady Hofstra (11 feb) is op advies van de jurist **afgemeld** — Grady behartigt Douwine's belangen en is geen onafhankelijke partij.
+**Juridisch advies (11 feb)**: De jurist concludeert dat Peters positie **"overwegend veilig"** is en adviseert een **offensieve strategie** via een formele sommatiebrief: vordering €100K boete (Art. 10 SHA) + aansprakelijkstelling Douwine (New Holland Belgium-norm). Peter biedt kwijtschelding boete + deblokkade vetorecht in ruil voor aandelenovername tegen gewenste prijs.
+
+**Meeting 11 feb**: Peter ging alsnog naar de meeting bij Grady (ondanks eerdere afmelding op advies jurist). Douwine's verhaal: €100K lening voor VDenD, voorwaarde geldverstrekker = geen geld meer naar Dinck. Voorstel: alleen KTLO, al het personeel ontslaan, alle software en kantoor opzeggen. Peter bereid tot KTLO mits hostingkosten worden voldaan en voorwaarden worden gesteld. **Niets getekend of gecommitteerd.** Sommatiebrief on hold — eerst nieuwe situatie analyseren. Aandelen terug van Marlou naar Freca is bevestigd. Zie `analyse/meeting-11feb-analyse.md`.
 
 ---
 
@@ -360,7 +362,7 @@ Formele sommatiebrief aan Freca B.V. met vordering €100K boete (Art. 10 SHA) +
 
 ## 9. Openstaande Juridische Vragen
 
-Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (41 vragen, 13 categorieën A-M). De memo van 11 feb beantwoordt 8 vragen volledig en 1 gedeeltelijk.
+Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (48 vragen, 14 categorieën A-N). De memo van 11 feb beantwoordt 8 vragen volledig en 1 gedeeltelijk. Categorie N (7 vragen) is na de meeting van 11 feb toegevoegd — KTLO-structurering en post-meeting strategie.
 
 ### Beantwoord door memo jurist (11 feb 2026)
 
@@ -415,18 +417,23 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (41 vragen, 13 cate
 | 9 feb 2026 | Peter: update + vragen naar Maud |
 | 10 feb 2026 | Gesprek externe partij vindt plaats. Peter niet geïnformeerd. |
 | 10 feb 2026 | Peter verzendt constatering informatierecht (aan Douwine, Marlou, CC Grady) |
-| 11 feb 2026 | Memo jurist ontvangen: positie "overwegend veilig", offensieve strategie geadviseerd |
-| 11 feb 2026 | Peter meldt zich af voor meeting bij Grady (op advies jurist) |
-| 11 feb 2026 | Sommatiebrief in opdracht gegeven (vordering €100K + aansprakelijkstelling) |
+| 11 feb 2026 (wo) | Memo jurist ontvangen: positie "overwegend veilig", offensieve strategie geadviseerd |
+| 11 feb 2026 (wo) | Peter meldt zich af voor meeting bij Grady (op advies jurist) |
+| 11 feb 2026 (wo) | Sommatiebrief in opdracht gegeven (vordering €100K + aansprakelijkstelling) |
+| 11 feb 2026 (wo) | Peter gaat alsnog naar meeting bij Grady — volledige delegatie aan tafel |
+| 11 feb 2026 (wo) | Douwine: €100K lening VDenD, voorwaarde = geen geld naar Dinck. Voorstel: alleen KTLO. |
+| 11 feb 2026 (wo) | Peter: bereid tot KTLO mits voorwaarden. Niets getekend. Sommatiebrief on hold. |
 
 ### Komend
 
 | Datum | Gebeurtenis | Actie |
 |-------|-------------|-------|
-| **~12-14 feb 2026** | Sommatiebrief gereed | Verzenden aan Freca B.V. / mw. Koopman |
-| **Na sommatiebrief** | Reactietermijn + onderhandeling | Peter biedt kwijtschelding + deblokkade in ruil voor uitkoop |
+| **ASAP** | Jurist consulteren met vragen N1-N7 | Meeting-analyse doorsturen |
+| **~week 12-14 feb** | KTLO-voorwaarden opstellen | Met juridische begeleiding |
+| **Nader te bepalen** | Sommatiebrief | On hold — als drukmiddel achter de hand bij afwijzing package deal |
+| **Onderhandeling** | Package deal: co-signering + KTLO + aandelen + kwijting | In ruil voor SHA-uitsluiting + faire prijs + afstand non-concurrentie |
 | **1 mrt 2026** | Bestuurdersontslag effectief | KvK-uitschrijving indienen |
-| **28 mrt 2026** | Eerste aflossing lening (~€55-75K) | Dinck kan niet betalen → automatisch verzuim |
+| **28 mrt 2026** | Eerste aflossing lening (~€55-75K) | Dinck kan niet betalen → automatisch verzuim. Na 1 maart: niet Peters bestuurdersaansprakelijkheid. |
 | **Reserve** | Procedure Art. 2:343 of 2:345 BW | Indien onderhandeling faalt |
 
 ---
@@ -437,16 +444,19 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (41 vragen, 13 cate
 
 - [x] Constatering informatierecht verzonden (10 feb)
 - [x] Concept akte analyse doorgelezen (`analyse/concept-akte-teruglevering-analyse.md`)
-- [x] Meeting 11 feb **afgemeld** op advies jurist (`concepten/email-afmelding-meeting-11feb.md`)
+- [x] Meeting 11 feb afgemeld op advies jurist; alsnog bijgewoond
 - [x] Memo jurist ontvangen en geanalyseerd (`analyse/memo-jurist-11feb2026.md`)
-- [x] Sommatiebrief in opdracht gegeven
+- [x] Sommatiebrief in opdracht gegeven (on hold na meeting)
+- [x] Meeting 11 feb bijgewoond en geanalyseerd (`analyse/meeting-11feb-analyse.md`)
 
-### 11.2 Lopend — sommatiebrief en offensieve strategie
+### 11.2 Lopend — KTLO-structurering en onderhandeling
 
-- [ ] Sommatiebrief ontvangen en reviewen (jurist is bezig met opstellen)
-- [ ] Sommatiebrief verzenden aan Freca B.V. / mw. Koopman
-- [ ] Reactie op sommatiebrief afwachten → onderhandelingsfase
-- [ ] Concept akte teruglevering: geen medewerking verlenen zonder tegenprestatie (Peter's co-signering = hefboom)
+- [ ] **Jurist consulteren** met vragen N1-N7 (meeting-analyse doorsturen)
+- [ ] **KTLO-voorwaarden opstellen** met juridische begeleiding (leveranciersovereenkomst)
+- [ ] **MO-keuze** afstemmen: opzeggen, amenderen of laten bestaan? (N1, overlapt met B1-B3)
+- [ ] **Package deal** formuleren: co-signering akte + KTLO + aandelen + kwijting
+- [ ] Sommatiebrief **achter de hand** als Plan B bij afwijzing package deal
+- [ ] Concept akte teruglevering: geen medewerking zonder tegenprestatie (co-signering = hefboom)
 
 ### 11.3 Vóór 1 maart
 
@@ -454,13 +464,12 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (41 vragen, 13 cate
 - [ ] D&O-verzekering controleren
 - [ ] Jaarrekening 2024 deponering verifiëren
 - [ ] Onbetaalde werkuren documenteren (retroactief logboek)
-- [ ] MO-keuze afstemmen met advocaat (wel/niet opzeggen)
 - [ ] KvK-uitschrijving voorbereiden
 
 ### 11.4 Na 1 maart
 
 - [ ] KvK-uitschrijving indienen
-- [ ] Alle werkzaamheden staken (geen KTLO zonder overeenkomst)
+- [ ] **Geen KTLO zonder schriftelijke overeenkomst** — anders werkt Peter opnieuw gratis
 - [ ] Formele bevestiging aandeelhouderstatus aan Marlou
 - [ ] Art. 2:217 BW informatieverzoek (indien geen voortgang)
 - [ ] Infrastructuurkosten factureren aan Dinck
@@ -485,6 +494,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (41 vragen, 13 cate
 | `analyse/voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht |
 | `analyse/sha-herleving-analyse.md` | SHA-herlevingsrisico bij terugkeer Freca als aandeelhouder |
 | `analyse/grady-hofstra-dynamiek.md` | Grady's triple role: accountant Dinck + adviseur Douwine + ex-PHBX |
+| `analyse/meeting-11feb-analyse.md` | **Meeting 11 feb: KTLO-voorstel, €100K lening, SHA-impact, aflossing, strategie — NIEUW 11 feb** |
 | `analyse/sha-analyse.md` | SHA (niet-werkend) |
 | `analyse/statuten-analyse.md` | Statuten (unanimiteit, vetorecht) |
 
@@ -495,7 +505,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (41 vragen, 13 cate
 | `dossier-uittreding.md` | Volledig feitelijk dossier |
 | `juridische-analyse.md` | Juridische positie-analyse |
 | `incident-register.md` | 14 incidenten structurele buitensluiting |
-| `vragen-advocaat-maud.md` | 41 vragen, 13 categorieën (8 beantwoord door memo 11 feb) |
+| `vragen-advocaat-maud.md` | 48 vragen, 14 categorieën (8 beantwoord door memo 11 feb) |
 | `legal-preparedness-assessment.md` | Strategische paraatheid |
 
 ### Concepten
