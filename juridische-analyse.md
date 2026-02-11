@@ -72,7 +72,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 **Grond**: "Gedragingen van mede-aandeelhouders zodanig dat in redelijkheid niet kan worden gevergd dat je aandeelhouder blijft."
 
 **Jouw dossier ondersteunt dit**:
-- 10 gedocumenteerde incidenten van uitsluiting
+- 14 gedocumenteerde incidenten van uitsluiting
 - Heimelijke aandelenoverdracht zonder informatie
 - Eenzijdig stopzetten management fee
 - Structurele uitsluiting van besluitvorming
@@ -193,13 +193,14 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 
 ### Scenario E: Bestuurdersaansprakelijkheidsclaim tegen jou
 
-**Analyse**:
-- Vage dreiging zonder concrete gronden
-- Bestuurdersaansprakelijkheid vereist persoonlijk ernstig verwijt
-- Jouw verweer: structureel buitengesloten, geen feitelijke controle
-- 10 incidenten documenteren dit
+**Analyse** (bijgewerkt n.a.v. memo jurist 11 feb 2026):
+- Douwine's dreiging (1 feb 2026) is **door de jurist formeel weerlegd**
+- Beklamel-norm: Peter is beschermd door waarschuwingsbrief 8 feb 2026
+- New Holland Belgium-norm: het aansprakelijkheidsrisico ligt bij **Douwine**, niet bij Peter
+- Verweer: structureel buitengesloten, geen feitelijke controle (14 incidenten)
+- Jurist: *"Uw positie [is] vooralsnog overwegend veilig"*
 
-**Actie**: Niet reageren op vage dreigingen. Houdt dossier actueel.
+**Actie**: Offensieve strategie — Douwine persoonlijk aansprakelijk stellen via sommatiebrief (in voorbereiding). Zie sectie 6a.
 
 ### Scenario F: Marlou weigert terugkoop door Freca
 
@@ -240,7 +241,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 
 5. **Ontslag is geen wanbeleid** - Een bestuurder mag opstappen. Dat is een recht, geen plichtsverzuim.
 
-6. **Zij had feitelijke controle** - 10 gedocumenteerde incidenten tonen aan dat Peter structureel werd buitengesloten van besluitvorming
+6. **Zij had feitelijke controle** - 14 gedocumenteerde incidenten tonen aan dat Peter structureel werd buitengesloten van besluitvorming
 
 ### Haar Impliciete Dreigingen
 
