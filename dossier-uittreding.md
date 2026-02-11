@@ -549,7 +549,7 @@ De jurist adviseert een offensieve strategie in plaats van afwachten:
 - [x] KvK uittreksel bewaard (1 feb 2026) - zie `files/01-02-2026_KVK_uittreksel_UBO-93428359.pdf`
 - [ ] KvK-uitschrijving voorbereiden (formulier 17a)
 - [ ] KTLO-scope document delen indien nodig
-- [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee) - memo in afwachting
+- [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee / Legal Advice Wanted B.V.) — memo ontvangen 11 feb, zie `analyse/memo-jurist-11feb2026.md`
 - [x] Brief financiële zorgen verzonden (8 feb 2026) - zie `concepten/brief-financiele-zorgen.md`
 - [x] Meeting woensdag 11 feb bevestigd per email (8 feb 2026)
 - [x] Reactie op Douwine's email 6 feb — kort bevestigd, inhoudelijke reactie via brief
