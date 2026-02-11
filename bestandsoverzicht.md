@@ -12,7 +12,7 @@
 | `juridische-analyse.md` | Analyse juridische positie (incl. Beklamel/New Holland Belgium §6a-6b, kettingbeding §6b) | Actueel (11 feb) |
 | `legal-preparedness-assessment.md` | Strategische paraatheid beoordeling (offensief via sommatiebrief) | Actueel (11 feb) |
 | `legal-consult-overview.md` | Uitgebreide tijdlijn, partijverwijzing, correspondentie | Actueel (6 feb) |
-| `vragen-advocaat-maud.md` | 41 juridische vragen (13 categorieën A-M; 8 beantwoord door memo 11 feb) | Actueel (11 feb) |
+| `vragen-advocaat-maud.md` | 48 juridische vragen (14 categorieën A-N; 8 beantwoord door memo 11 feb) | Actueel (11 feb) |
 | `incident-register.md` | 14 gedocumenteerde uitsluitingsincidenten (incl. #14 €1 waardering zonder overleg) | Actueel (11 feb) |
 | `correspondentie/overzicht.md` | Overzicht e-mailcorrespondentie | |
 
@@ -38,6 +38,7 @@
 | `concept-akte-teruglevering-analyse.md` | Concept akte teruglevering Marlou → Freca (artikel-vergelijking, nota-analyse, schijnconstructie) |
 | `voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht (met SHA-herlevingsrisico per optie) |
 | `sha-herleving-analyse.md` | SHA-herleving verdiept: beëindigingsanalyse (7 routes), Art. 9 tegenvordering, Art. 6:248 verdediging, schijnconstructie-analyse |
+| `meeting-11feb-analyse.md` | Meeting 11 feb: gespreksverslag, KTLO-structurering, SHA-impact, aflossing, package deal strategie |
 
 ---
 
@@ -47,13 +48,13 @@
 |---------|--------|--------|
 | `brief-financiele-zorgen.md` | Brief financiële zorgen — signalering risico's en continuïteit | Verzonden 8 feb 2026 |
 | `ontslagbrief-bestuurder.md` | Ontslagbrief bestuurder Dinck B.V. | Verzonden 30 jan 2026 |
-| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (incl. sectie 2d concept akte) | Achterhaald (meeting afgemeld) |
-| `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — vier punten, counters, kracht | Achterhaald (meeting afgemeld) |
+| `gespreksleidraad.md` | Gespreksleidraad meeting wo 11 feb — volledig draaiboek (incl. sectie 2d concept akte) | Achterhaald (meeting heeft plaatsgevonden) |
+| `meeting-cheatsheet-11feb.md` | Compact 2-pager voor tijdens de meeting — vier punten, counters, kracht | Achterhaald (meeting heeft plaatsgevonden) |
 | `constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek (extern partij 10 feb) | Verzonden 10 feb 2026 |
 | `email-maud-update-9feb.md` | Update-email aan Maud van der Zee (Omnius, zaak #547764) | Verzonden 9 feb 2026 |
 | `email-maud-update-10feb-akte.md` | URGENT update: concept akte teruglevering ontvangen | Concept (10 feb) |
 | `email-afmelding-meeting-11feb.md` | Afmelding meeting 11 feb — op advies jurist (aan Douwine, Marlou, CC Grady) | Verzonden 11 feb 2026 |
-| `presentatie-advies-11feb.md` | Non-verbale presentatie-adviezen meeting 11 feb | Achterhaald (meeting afgemeld) |
+| `presentatie-advies-11feb.md` | Non-verbale presentatie-adviezen meeting 11 feb | Achterhaald (meeting heeft plaatsgevonden) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
 

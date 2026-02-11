@@ -467,7 +467,7 @@ Douwine stopt als directeur VDenD/Freca (schuldeiser) de financiering, terwijl z
 
 | Optie | Beschrijving | Kosten | Duur |
 |-------|--------------|--------|------|
-| **Sommatiebrief** (IN VOORBEREIDING) | Boetevordering €100K + aansprakelijkstelling Douwine | **€596-894** | **Direct** |
+| **Sommatiebrief** (ON HOLD — Plan B) | Boetevordering €100K + aansprakelijkstelling Douwine | **€596-894** | **Nader te bepalen** |
 | Art. 2:343 BW | Uittreding vorderen bij rechter | €15K-40K | 12-24 mnd |
 | Art. 2:345 BW | Enquêteprocedure (nucleair) | €25K-75K | 6-18 mnd |
 | Formele positie | Eis toetredingsovereenkomst Marlou | Minimaal | Kort |
@@ -478,18 +478,25 @@ Douwine stopt als directeur VDenD/Freca (schuldeiser) de financiering, terwijl z
 
 De jurist adviseert een offensieve strategie in plaats van afwachten:
 
-**Stap 1: Sommatiebrief** (in voorbereiding door jurist)
+**Stap 1: KTLO-voorwaarden opstellen** (n.a.v. meeting 11 feb)
+- Leveranciersovereenkomst: scope, tarief, hostingkosten, aansprakelijkheid, opzegging
+- MO-keuze: opzeggen, amenderen of laten bestaan (vraag voor jurist)
+- Geen KTLO zonder schriftelijke overeenkomst
+
+**Stap 2: Package deal onderhandelen**
+- Co-signering akte teruglevering + KTLO-overeenkomst + overdracht Peters aandelen + kwijting
+- In ruil voor SHA-uitsluiting + faire prijs + afstand non-concurrentie
+- Peter biedt feitelijk de oplossing voor Douwine's meerdere problemen tegelijk
+
+**Stap 3 (Plan B): Sommatiebrief** (on hold maar gereed)
 - Wanprestatie Art. 9 SHA vaststellen (kettingbeding niet nagekomen)
 - Direct opeisbare boete €100.000 vorderen (Art. 10 SHA)
-- Douwine persoonlijk aansprakelijk stellen voor schade uit financieringsstop (New Holland Belgium-norm)
-
-**Stap 2: Onderhandeling vanuit sterkte**
-- Peter biedt **kwijtschelding boete** + **opheffing blokkade** (vetorecht)
-- In ruil voor overname aandelen tegen door Peter gewenste prijs
-- Peter biedt feitelijk de oplossing voor Douwine's juridische problemen
+- Douwine persoonlijk aansprakelijk stellen (New Holland Belgium-norm)
+- Inzetten als Douwine package deal afwijst
 
 **Waarom dit werkt**:
-- Concrete vordering van €100K = druk die niet weggepraat kan worden
+- Douwine heeft Peters medewerking nodig voor drie dingen (co-signering, KTLO, geen AVA-blokkade)
+- Sommatiebrief (€100K) als stok achter de deur
 - Persoonlijke aansprakelijkheid Douwine = motivatie om te schikken
 - Vetorecht = Douwine kan niets doen zonder Peters medewerking
 - Peter hoeft niet als vragende partij aan tafel
@@ -556,8 +563,10 @@ De jurist adviseert een offensieve strategie in plaats van afwachten:
 - [x] Update-email aan Maud van der Zee (Omnius, zaak #547764) met 6 urgente vragen + bijlagen (9 feb 2026)
 - [x] Douwine's bevestiging ontvangen: meeting wo 11 feb 12:30, Venekoterweg 44, Oosterwolde (9 feb 2026)
 - [x] **Memo jurist ontvangen** (11 feb 2026) — Legal Advice Wanted B.V., 3 pijlers: kettingbeding €100K boete, vetorecht, bestuurdersaansprakelijkheid. Conclusie: Peters positie overwegend veilig, offensieve strategie gerechtvaardigd. Zie `analyse/memo-jurist-11feb2026.md`
-- [x] **Meeting 11 feb afgemeld** op advies jurist — afmeldmail verzonden aan Douwine + Marlou, CC Grady. Zie `concepten/email-afmelding-meeting-11feb.md`
-- [ ] **Sommatiebrief in voorbereiding** door jurist — boetevordering €100K (Art. 9+10 SHA) + aansprakelijkstelling Douwine (New Holland Belgium-norm)
+- [x] **Meeting 11 feb**: afgemeld op advies jurist, maar alsnog bijgewoond. KTLO-voorstel. Peter bereid met voorwaarden. Niets getekend. Zie `analyse/meeting-11feb-analyse.md`
+- [ ] **Sommatiebrief on hold** — achter de hand als Plan B bij afwijzing package deal
+- [ ] **KTLO-voorwaarden opstellen** met juridische begeleiding (leveranciersovereenkomst)
+- [ ] **Package deal onderhandelen**: co-signering akte + KTLO + aandelen overdracht + kwijting
 
 ### Na 1 maart 2026
 

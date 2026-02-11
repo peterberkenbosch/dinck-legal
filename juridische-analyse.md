@@ -200,7 +200,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 - Verweer: structureel buitengesloten, geen feitelijke controle (14 incidenten)
 - Jurist: *"Uw positie [is] vooralsnog overwegend veilig"*
 
-**Actie**: Offensieve strategie — Douwine persoonlijk aansprakelijk stellen via sommatiebrief (in voorbereiding). Zie sectie 6a.
+**Actie**: Offensieve strategie — Douwine persoonlijk aansprakelijk stellen via sommatiebrief (on hold — als Plan B achter de hand). Zie sectie 6a.
 
 ### Scenario F: Marlou weigert terugkoop door Freca
 
@@ -352,7 +352,7 @@ De boetevordering + aansprakelijkstelling wordt ingezet als hefboom:
 
 ~~De dreiging van een enquêteprocedure is vaak krachtiger dan het daadwerkelijk starten ervan — maar je moet wel bereid zijn om door te zetten als het nodig is.~~
 
-**Gewijzigde strategie**: Niet wachten, maar initiatief nemen via formele sommatiebrief (in voorbereiding door jurist). Combinatie van:
+**Gewijzigde strategie (bijgewerkt n.a.v. meeting 11 feb)**: Sommatiebrief on hold — eerst KTLO-voorwaarden en package deal. Sommatiebrief als Plan B bij afwijzing. Combinatie van hefbomen:
 1. **Boetevordering €100K** op Freca (Art. 9+10 SHA)
 2. **Persoonlijke aansprakelijkstelling** Douwine (New Holland Belgium-norm)
 3. **Vetorecht** als blokkade op elke besluitvorming

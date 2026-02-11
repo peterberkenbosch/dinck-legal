@@ -239,7 +239,7 @@ Douwine erkende het zelf (1 feb 2026: "handel ook vanuit mijn positie als financ
 
 ### 6.8 SHA Kettingbeding — €100K Boetevordering (NIEUW — 11 feb 2026)
 
-Freca heeft bij de aandelenoverdracht aan Marlou (7 nov 2025) het kettingbeding (Art. 9 SHA) geschonden: Marlou heeft geen toetredingsovereenkomst tot de SHA ondertekend. Art. 10 SHA: direct opeisbare boete van **€100.000** per overtreding + €1.000/dag doorlopend. De jurist kwalificeert dit als **"de belangrijkste onderhandelingstroef"**. Sommatiebrief is in voorbereiding.
+Freca heeft bij de aandelenoverdracht aan Marlou (7 nov 2025) het kettingbeding (Art. 9 SHA) geschonden: Marlou heeft geen toetredingsovereenkomst tot de SHA ondertekend. Art. 10 SHA: direct opeisbare boete van **€100.000** per overtreding + €1.000/dag doorlopend. De jurist kwalificeert dit als **"de belangrijkste onderhandelingstroef"**. Sommatiebrief on hold — als Plan B achter de hand.
 
 *Volledige analyse: `analyse/memo-jurist-11feb2026.md` sectie 2*
 
@@ -351,12 +351,13 @@ Formele sommatiebrief aan Freca B.V. met vordering €100K boete (Art. 10 SHA) +
 
 ### 8.6 Aanbevolen volgorde (bijgewerkt 11 feb 2026)
 
-1. **Nu (11 feb)**: ~~Meeting bij Grady~~ → **afgemeld op advies jurist**. Sommatiebrief in voorbereiding.
-2. **Komende dagen**: Sommatiebrief verzenden (optie E) — vordering €100K + aansprakelijkstelling
-3. **Na sommatiebrief**: Onderhandeling vanuit sterkte (optie A) — Peter biedt kwijtschelding + deblokkade in ruil voor uitkoop
-4. **Per 1 maart**: Stop alle werkzaamheden, KvK-uitschrijving
-5. **Maart**: Reactietermijn sommatiebrief + onderhandelingsvenster
-6. **Reserve**: Procedure Art. 2:343 BW of Art. 2:345 BW indien onderhandeling faalt
+1. **Nu (11 feb)**: Meeting bij Grady bijgewoond. Peter bereid tot KTLO met voorwaarden. Niets getekend.
+2. **ASAP**: Jurist consulteren met vragen N1-N7 (meeting-analyse doorsturen)
+3. **Komende dagen**: KTLO-voorwaarden opstellen met juridische begeleiding (leveranciersovereenkomst)
+4. **Onderhandeling**: Package deal — co-signering akte + KTLO + aandelen overdracht + kwijting
+5. **Per 1 maart**: Bestuurdersontslag effectief. Geen KTLO zonder schriftelijke overeenkomst.
+6. **Reserve (Plan B)**: Sommatiebrief (€100K boete + aansprakelijkstelling) als Douwine package deal afwijst
+7. **Reserve (Plan C)**: Procedure Art. 2:343 BW of Art. 2:345 BW indien onderhandeling faalt
 
 ---
 
@@ -515,8 +516,8 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (48 vragen, 14 cate
 | `concepten/brief-financiele-zorgen.md` | Signalering financiële risico's | Verzonden 8 feb |
 | `concepten/constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek | Verzonden 10 feb |
 | `concepten/email-afmelding-meeting-11feb.md` | Afmelding meeting op advies jurist — **NIEUW 11 feb** | Verzonden 11 feb |
-| `concepten/gespreksleidraad.md` | Volledig draaiboek meeting 11 feb | Achterhaald (meeting afgemeld) |
-| `concepten/meeting-cheatsheet-11feb.md` | Compact 2-pager meeting | Achterhaald (meeting afgemeld) |
+| `concepten/gespreksleidraad.md` | Volledig draaiboek meeting 11 feb | Achterhaald (meeting heeft plaatsgevonden) |
+| `concepten/meeting-cheatsheet-11feb.md` | Compact 2-pager meeting | Achterhaald (meeting heeft plaatsgevonden) |
 
 ### Brondocumenten
 

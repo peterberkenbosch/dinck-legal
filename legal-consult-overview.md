@@ -62,7 +62,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 | 10-02-2026 | Grady bevestigt €1 waardering aan notaris zonder Peter te consulteren | Incident #14 |
 | 10-02-2026 | Peter verzendt constatering informatierecht | Correspondentie |
 | **11-02-2026** | **Memo jurist ontvangen: offensieve strategie, €100K boetevordering** | **Juridisch advies** |
-| **11-02-2026** | **Meeting afgemeld op advies jurist; sommatiebrief in opdracht** | **Uittreding** |
+| **11-02-2026** | **Memo jurist ontvangen; meeting afgemeld maar alsnog bijgewoond; KTLO-voorstel; sommatiebrief on hold** | **Uittreding** |
 | **01-03-2026** | **Ingangsdatum ontslag als bestuurder** | In afwachting |
 
 ---
@@ -83,7 +83,7 @@ Peter Berkenbosch is via PHBX Holding B.V. 33,3% aandeelhouder en medeoprichter 
 
 ## D. Huidige Status (bijgewerkt 11 februari 2026)
 
-**Geconsolideerde vragenlijst voor advocaat**: `vragen-advocaat-maud.md` (41 vragen, 13 categorieën A-M; 8 beantwoord door memo 11 feb)
+**Geconsolideerde vragenlijst voor advocaat**: `vragen-advocaat-maud.md` (48 vragen, 14 categorieën A-N; 8 beantwoord door memo 11 feb, categorie N na meeting 11 feb)
 
 ### NIEUWE ONTWIKKELING (6 feb 2026)
 
@@ -220,12 +220,14 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 ## H. Vervolgstappen
 
 ### Afgehandeld (6-11 feb)
-- [x] Geconsolideerde vragen aan jurist voorgelegd — zie `vragen-advocaat-maud.md` (41 vragen, 13 categorieën)
+- [x] Geconsolideerde vragen aan jurist voorgelegd — zie `vragen-advocaat-maud.md` (48 vragen, 14 categorieën)
 - [x] Brief financiële zorgen verzonden (8 feb) — zie `concepten/brief-financiele-zorgen.md`
 - [x] Constatering informatierecht verzonden (10 feb) — zie `concepten/constatering-informatierecht-10feb.md`
 - [x] Memo jurist ontvangen (11 feb) — offensieve strategie, zie `analyse/memo-jurist-11feb2026.md`
-- [x] Meeting 11 feb afgemeld op advies jurist — zie `concepten/email-afmelding-meeting-11feb.md`
-- [ ] Sommatiebrief in voorbereiding door jurist (vordering €100K + aansprakelijkstelling)
+- [x] Meeting 11 feb: afgemeld op advies jurist, maar alsnog bijgewoond. Douwine stelt KTLO voor. Peter bereid met voorwaarden. Niets getekend. Zie `analyse/meeting-11feb-analyse.md`
+- [ ] Sommatiebrief on hold — achter de hand als Plan B bij afwijzing package deal
+- [ ] KTLO-voorwaarden opstellen met juridische begeleiding
+- [ ] Package deal: co-signering akte + KTLO + aandelen overdracht + kwijting
 
 ### Voor 1 maart 2026
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee / Legal Advice Wanted B.V.) — memo ontvangen 11 feb, zie `analyse/memo-jurist-11feb2026.md`
