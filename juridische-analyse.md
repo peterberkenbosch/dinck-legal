@@ -65,27 +65,39 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 
 ## 4. Juridische Mogelijkheden
 
-### A. Uittreding Vorderen (art. 2:343 BW)
+### A. Uittreding Vorderen (art. 2:343 BW) — Versterkt door Wagevoe-reform (per 1 jan 2025)
 
-**Wat**: Rechter dwingt mede-aandeelhouder om jouw aandelen over te nemen tegen door deskundige vastgestelde prijs.
+**Wat**: Rechter dwingt mede-aandeelhouder om jouw aandelen over te nemen tegen door deskundige vastgestelde prijs — met mogelijkheid van **billijke verhoging** als de waardevermindering is veroorzaakt door de gedaagde.
 
 **Grond**: "Gedragingen van mede-aandeelhouders zodanig dat in redelijkheid niet kan worden gevergd dat je aandeelhouder blijft."
+
+**Wagevoe-hervorming (1 januari 2025)**: De procedure is fundamenteel gewijzigd:
+- **Ondernemingskamer** (Gerechtshof Amsterdam) is nu exclusief bevoegd — gespecialiseerde rechters
+- **Billijke verhoging** (Art. 2:343 lid 3/4 nieuw): als gedragingen van de wederpartij de aandelenwaarde hebben verminderd, kan de OK de prijs opwaarts bijstellen
+- **Precedent**: €656K billijke verhoging in familieconflict ondanks nihilwaarde aandelen
+- **Leidraad voor deskundigen** (feb 2025): transparant waarderingskader
 
 **Jouw dossier ondersteunt dit**:
 - 14 gedocumenteerde incidenten van uitsluiting
 - Heimelijke aandelenoverdracht zonder informatie
 - Eenzijdig stopzetten management fee
 - Structurele uitsluiting van besluitvorming
+- **Stopzetting financiering** (6 feb 2026) — waardevermindering door bestuurder
+- **~1.440 uur onbetaald werk** — verrijking van de vennootschap zonder compensatie
 
-**Voordeel**:
-- Prijs bepaald door onafhankelijke deskundige
+**Voordeel** (bijgewerkt post-Wagevoe):
+- Prijs bepaald door onafhankelijke deskundige + billijke verhoging door OK
 - Niet afhankelijk van Douwine's medewerking
 - Jouw documentatie is sterk
+- **Sneller**: 6-12 maanden (was 12-24 maanden)
+- **Goedkoper**: €15-25K (was €15-40K+)
+- **Hogere verwachte opbrengst**: billijke verhoging kan €30-100K+ opleveren
 
 **Nadeel**:
-- Procedure duurt 12-24 maanden
-- Kosten €15.000-40.000+
-- Marlou (niet Douwine) is formeel de wederpartij
+- Kosten €15-25K (significant maar beheersbaar)
+- Marlou of Freca (na teruglevering) is formeel de wederpartij
+
+**Zie**: `analyse/wagevoe-art343-analyse.md` voor de volledige analyse.
 
 ### B. Enquêteprocedure (art. 2:345 BW, Ondernemingskamer)
 
@@ -271,6 +283,8 @@ De jurist heeft de aansprakelijkheidspositie formeel beoordeeld en twee specifie
 
 **Peters positie**: **VEILIG**. De waarschuwingsbrief van 8 februari 2026 documenteert expliciet dat Peter niet wenst dat de vennootschap nieuwe verplichtingen aangaat die zij niet kan dragen. De jurist: *"Hiermee heeft u vermoedelijk onbewust zeer goed gehandeld."*
 
+**Mededelingsplicht-angle**: De kern van de Beklamel-norm is niet alleen het aangaan van verplichtingen, maar ook de **plicht om te waarschuwen** als de vennootschap niet kan nakomen. Peter heeft deze plicht vervuld via de brief financiële zorgen (8 feb 2026). Douwine heeft dit juist NIET gedaan — zij heeft de financiering gestopt zonder de werknemers of Peter tijdig te waarschuwen over de consequenties. Dit versterkt het aansprakelijkheidsargument tegen Douwine.
+
 ### New Holland Belgium-norm (HR)
 
 **Definitie**: Bestuurder is aansprakelijk als hij bewerkstelligt of toelaat dat de vennootschap haar bestaande betalingsverplichtingen niet nakomt, terwijl hij weet dat daaruit schade voor de schuldeiser voortvloeit en er geen verhaal mogelijk is.
@@ -313,12 +327,29 @@ De jurist stelt een formele sommatiebrief op die:
 2. De direct opeisbare boete van **€100.000** vordert (Art. 10)
 3. Douwine persoonlijk aansprakelijk stelt voor schade uit de financieringsstop (New Holland Belgium-norm)
 
+### Matigingsrisico (Art. 6:94 BW)
+
+De boeteclausule is niet onkwetsbaar. Art. 6:94 BW staat de rechter toe de boete te matigen als de billijkheid dit "klaarblijkelijk eist":
+
+| Rechtspraak | Uitkomst | Relevantie |
+|-------------|----------|------------|
+| Rb Rotterdam 2016 (SHA-context) | €250K → €100K gematigd | SHA-boete verlaagd |
+| ECLI:NL:RBAMS:2012:BY7240 | €5K/dag + €1M gehandhaafd | Kettingbeding-boete NIET gematigd |
+| HR Intrahof/Bart Smit | Terughoudende maatstaf | Alleen bij "buitensporige wanverhouding" |
+
+**Inschatting**: 50-60% kans op matiging. Verwacht: basisboete €100K blijft intact, dagcomponent (~€97K per 12 feb) mogelijk gematigd. **Netto na matiging: ~€50-100K** — nog steeds substantiële hefboom.
+
+**Counters tegen matiging**: Freca tekende bewust de boeteclausule; ernstige tekortkoming (stroman-constructie); reële schade (Peter vast als minority zonder bescherming); boeteclausules in SHA's zijn bedoeld als afschrikmiddel.
+
+**Zie**: `analyse/tegenargumenten-douwine.md` §3 voor de volledige matigingsanalyse.
+
 ### Strategische Inzet
 
 De boetevordering + aansprakelijkstelling wordt ingezet als hefboom:
 - Peter biedt **kwijtschelding boete** + **opheffing blokkade** (vetorecht)
 - In ruil voor overname aandelen tegen door Peter gewenste prijs
 - Peter biedt feitelijk de oplossing voor Douwine's juridische problemen aan
+- **Settlement range**: anker €150K, target €75-100K, walk-away €30K (zie `analyse/settlement-range-analyse.md`)
 
 **Zie ook**: `analyse/sha-herleving-analyse.md` sectie 2.5 (Art. 9 tegenvordering — al eerder geïdentificeerd in dossier).
 

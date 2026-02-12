@@ -209,9 +209,11 @@ Bij een schijnhandeling-oordeel:
 
 De netto balans is **licht voordelig voor Peter**, omdat Freca's structurele SHA-schendingen (gelijke behandeling, uitsluiting, tegenstrijdig belang) zwaarder wegen dan het verlies van de Art. 9-tegenvordering. Bovendien staat het Art. 6:248 lid 2-verweer (sectie 2.6) in beide scenario's overeind.
 
-#### Geen direct precedent
+#### Geen direct precedent — Juridische onzekerheid
 
 Er is geen Nederlandse jurisprudentie gevonden die specifiek de herleving van een SHA na een tijdelijke stroman-overdracht behandelt. Dit maakt het een kwestie van interpretatie onder algemeen contractenrecht — wat de partij met het sterkere feitencomplex en de betere documentatie bevoordeelt. Dat is Peter.
+
+**Caveat (12 feb 2026)**: Er bestaat **geen duidelijke Nederlandse doctrine** over SHA-herleving na terugkoop van een niet-partij. De juridische literatuur behandelt het beëindigen van SHA's bij aandelenoverdracht wel, maar niet het "herleven" bij terugkeer. Beide posities (herleving vs. geen herleving) zijn verdedigbaar. Dit moet expliciet met de jurist worden besproken (vraag 2.1) — de huidige herlevingsassessment is **verdedigbaar maar niet zeker**. De strategische aanbeveling (SHA-kwijting als voorwaarde voor co-signering) geldt ongeacht de uitkomst van het herlevingsdebat.
 
 ---
 

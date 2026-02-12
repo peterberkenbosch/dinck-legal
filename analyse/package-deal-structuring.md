@@ -161,10 +161,13 @@ Peter en Douwine spreken een bedrag af. Dit wordt vastgelegd in de vaststellings
 | Anker | Bedrag | Basis |
 |-------|--------|-------|
 | Oorspronkelijk voorstel Peter (Scenario A) | €40.000 | Eerder afgewezen door Douwine |
-| Kwijtschelding SHA-boete alleen | ~€197K | Direct opeisbaar, geen discussie over "waarde" |
-| Ongerechtvaardigde verrijking-vordering | €108-180K | ~1.440 uur × €75-125/uur |
+| Kwijtschelding SHA-boete alleen | ~€197K | Direct opeisbaar, maar **matigingsrisico**: Art. 6:94 BW — rechter kan boete matigen als billijkheid dit eist. Schatting na matiging: ~€50-100K. Zie `analyse/tegenargumenten-douwine.md` §3. |
+| Ongerechtvaardigde verrijking-vordering | €108-180K | ~1.440 uur × €75-125/uur. **Let op**: risico van "vrijwillige instemming"-verweer (Peter tekende AVA-besluit + addendum). Counters: tijdelijk karakter, economische dwang, HR juni 2024. Zie `analyse/tegenargumenten-douwine.md` §2. |
 | Vervangingswaarde platform | €250-350K | Extern herbouwen |
+| Billijke verhoging Art. 2:343 (Wagevoe) | €30-100K+ | Fallback als package deal mislukt. Zie `analyse/wagevoe-art343-analyse.md`. |
 | **Netto**: verrekening met "negatieve waarde" | — | Douwine zal aanvoeren: aandelen belast met €612K schuld |
+
+**Settlement range**: Zie `analyse/settlement-range-analyse.md` voor de volledige BATNA-analyse en verdedigbare bandbreedte (anker €150K, target €75-100K, walk-away €30K).
 
 **Vraag voor jurist (PD-1)**: Wat is een verdedigbare "gewenste prijs" gegeven de combinatie van kwijtschelding boete, verrijkingsvordering en strategische waarde? Kan de prijs worden geframed als verrekening (boete + verrijking − billijke bijdrage aan schulden)?
 
@@ -187,6 +190,23 @@ Partijen komen een vaste prijs overeen die wordt vastgelegd in de vaststellingso
 - Niet aantastbaar op grond van "de aandelen zijn minder waard"
 
 **Aanbeveling**: Route 3 (vaste prijs in vaststellingsovereenkomst), met Route 2 (statutaire route) als drukmiddel als Douwine weigert serieus te onderhandelen.
+
+### 4.4a Route 4: Wagevoe / Billijke Verhoging (Art. 2:343 BW nieuw — geloofwaardige fallback)
+
+De Wagevoe-hervorming (per 1 jan 2025) transformeert Art. 2:343 BW van een kostbaar laatste redmiddel naar een **geloofwaardig alternatief**:
+
+| Aspect | Voor Wagevoe | Na Wagevoe |
+|--------|-------------|------------|
+| Bevoegde rechter | Rechtbank | **Ondernemingskamer** (gespecialiseerd) |
+| Doorlooptijd | 12-24 maanden | **6-12 maanden** |
+| Kosten | €15-40K+ | **€15-25K** |
+| Billijke verhoging | Beperkt, zelden | **Expliciet in wet, actief toegepast** |
+
+**Precedent**: OK kende €656K billijke verhoging toe in familieconflict ondanks nihilwaarde aandelen.
+
+**Impact op package deal**: Douwine kan Art. 2:343 niet meer afdoen als "te duur en te langzaam." Het bestaan van Route 4 maakt Routes 1-3 sterker — elke route die Douwine goedkoper is dan €15-25K kosten + €30-100K+ billijke verhoging, is rationeel.
+
+**Zie**: `analyse/wagevoe-art343-analyse.md` voor de volledige analyse.
 
 ### 4.4 Verrekening als alternatief voor "aandelenprijs"
 

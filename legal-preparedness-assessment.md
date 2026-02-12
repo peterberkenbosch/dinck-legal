@@ -31,6 +31,7 @@
 | **Peter veilig onder Beklamel-norm** | Waarschuwingsbrief 8 feb beschermt tegen aansprakelijkheid voor nieuwe verplichtingen. Jurist: "vermoedelijk onbewust zeer goed gehandeld." |
 | **Douwine risico onder New Holland Belgium-norm** | Financieringsstop = actief bewerkstelligen wanbetaling. Persoonlijke aansprakelijkheid jegens personeel (schuldeisers). Hefboom in sommatiebrief. |
 | **Jurist bevestigt: offensieve strategie gerechtvaardigd** | Niet als vragende partij aan tafel. Peter biedt kwijtschelding + deblokkade in ruil voor uitkoop. |
+| **Wagevoe-reform versterkt Art. 2:343 BW fallback** | Sinds 1 jan 2025: Ondernemingskamer exclusief bevoegd, billijke verhoging expliciet in wet, 6-12 maanden doorlooptijd (was 12-24), €15-25K kosten (was €15-40K+). Precedent: €656K billijke verhoging bij nihilwaarde. Plan C is nu een geloofwaardig alternatief, niet alleen een dreigement. Zie `analyse/wagevoe-art343-analyse.md` |
 
 ### Kwetsbare punten
 
@@ -50,6 +51,9 @@
 | **Informatie-asymmetrie** | GEMIDDELD | Geen formele informatieafspraak; alleen wettelijke Art. 2:217 BW rechten na aftreden |
 | **KvK toont Peter nog als bestuurder** | LAAG-GEM | Aansprakelijk als schijnbaar bestuurder totdat uitgeschreven; geplande uitschrijving per 1 maart is in orde |
 | **Douwine's stilzwijgen** | LAAG | Raadpleegt mogelijk eigen advocaat; stilzwijgen op zichzelf is niet problematisch |
+| **MO auto-terminatie risico (Rb Rotterdam aug 2024)** | GEMIDDELD | ECLI:NL:RBROT:2024:9160 oordeelde dat bestuurdersontslag MO automatisch beëindigde. Als dit geldt voor Peters MO: vrijwaring Art. 4.2 vervalt per 1 maart, verrijkingsvordering bevriest. Counter: Peters MO heeft expliciete Art. 5.1/5.2; HR onderscheidt BW Boek 2 vs Boek 6. Vraag 1.8 aan jurist. Zie `analyse/tegenargumenten-douwine.md` §1 |
+| **Ongerechtvaardigde verrijking — vrijwillige instemming** | GEMIDDELD | Peter tekende AVA-besluit 30 nov 2024 + addendum 31 dec 2024 = argument "vrijwillig geaccepteerd." Counter: expliciet tijdelijk ("indien opbrengsten op voldoende niveau"), getekend 12 dagen na fee-stop (economische dwang), gewijzigde omstandigheden, HR juni 2024. Zie `analyse/tegenargumenten-douwine.md` §2 |
+| **Matiging €100K SHA-boete (Art. 6:94 BW)** | GEMIDDELD | 50-60% kans op matiging. Netto na matiging: ~€50-100K. Rb Rotterdam 2016: €250K→€100K. Counter: zelfs na matiging substantieel; kettingbeding-boetes worden routinematig hoog gehandhaafd. Vraag 3.8 aan jurist. Zie `analyse/tegenargumenten-douwine.md` §3 |
 
 ---
 
@@ -194,6 +198,11 @@ Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 14 kernvrag
 - [ ] **Sommatiebrief on hold** — achter de hand als Plan B bij afwijzing package deal
 - [ ] **KTLO-voorwaarden opstellen** met juridische begeleiding (leveranciersovereenkomst)
 - [ ] **Package deal onderhandelen**: co-signering akte + KTLO + aandelen overdracht + kwijting
+
+### URGENT — Nieuwe actiepunten (12 feb 2026)
+
+- [ ] **Verifieer Douwine's €100K lening-claim** — zij stelt dat VDenD €100K heeft geleend met als voorwaarde geen geld naar Dinck. Vraag schriftelijke bevestiging/leningsovereenkomst op. Dit is relevant voor het aansprakelijkheidsargument (Is de financieringsstop daadwerkelijk extern opgelegd, of een keuze?)
+- [ ] **Vraag Jaamo schriftelijke voorwaarden op** — bij de meeting 11 feb werd een externe partij (Jaamo: Rushmir, Jeffrey) genoemd. Zijn er schriftelijke afspraken? Toezeggingen? Dit is relevant voor het vetorecht en het aandeelhoudersbelang.
 
 ### URGENT — Vóór 1 maart 2026
 

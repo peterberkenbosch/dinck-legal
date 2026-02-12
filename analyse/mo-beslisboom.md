@@ -262,7 +262,46 @@ Op basis van deze analyse moeten de volgende vragen worden geadresseerd (ter ver
 
 ---
 
-## 8. Samenvatting
+## 8. Risico: Rb Rotterdam Aug 2024 — Auto-Terminatie MO bij Bestuurdersontslag
+
+### 8.1 De uitspraak
+
+**Rb Rotterdam aug 2024 (ECLI:NL:RBROT:2024:9160)**: De rechtbank oordeelde dat het bestuurdersontslag de managementovereenkomst automatisch beëindigde. De redenering: de MO was onlosmakelijk verbonden met het bestuurdersschap — zonder bestuurdersmandaat was de MO "uitgewerkt."
+
+### 8.2 Toepassing op Peters MO
+
+| Factor | Rotterdam-zaak | Peters MO |
+|--------|---------------|-----------|
+| **Expliciete opzeggingsbepalingen** | Onduidelijk / afwezig | **Art. 5.1 + Art. 5.2 aanwezig** |
+| **Partijbedoeling** | MO onlosmakelijk met bestuurderschap | Art. 5.1/5.2 tonen dat partijen zelfstandige beëindiging bedoelden |
+| **HR-rechtspraak** | Niet specifiek besproken | **HR 15-april-2005: BW Boek 2 ≠ BW Boek 6** |
+| **AVA-notulen** | n/a | Spreken van "herleven" MO — MO als bestaand beschouwd |
+
+### 8.3 Beoordeling
+
+De Rotterdam-uitspraak is **lagere rechtspraak** (eerste aanleg) die afwijkt van de gangbare HR-lijn. Peters MO onderscheidt zich door:
+1. **Expliciete beëindigingsbepalingen** (Art. 5.1: 3 maanden schriftelijk; Art. 5.2: bilaterale verklaring)
+2. **AVA-notulen** die de MO als voortbestaand behandelen ("herleven")
+3. **Consistente HR-rechtspraak** die de vennootschapsrechtelijke en contractuele verhouding onderscheidt
+
+### 8.4 Impact als Rotterdam-lijn wél van toepassing is
+
+| Gevolg | Ernst |
+|--------|-------|
+| Vrijwaring Art. 4.2 vervalt per 1 maart | **HOOG** |
+| Verrijkingsvordering bevriest per 1 maart | **HOOG** |
+| Geen opschortingsrecht meer (MO bestaat niet meer) | **MEDIUM** |
+| Art. 7.1.g staking-trigger vervalt (MO al beëindigd) | **VOORDELIG** (!) |
+
+### 8.5 Aanbeveling
+
+- **Vraag 1.8**: Specifiek aan jurist voorleggen met verwijzing naar ECLI:NL:RBROT:2024:9160
+- **Strategisch**: MO NIET opzeggen — als de Rotterdam-lijn niet geldt, behouden we de vrijwaring; als hij wél geldt, maakt opzegging geen verschil meer
+- **Zie ook**: `analyse/tegenargumenten-douwine.md` §1 voor de volledige red team-analyse
+
+---
+
+## 9. Samenvatting
 
 | Branch | Vrijwaring | Verrijking | Staking-risico | KTLO-billing | Douwine nodig | Geschikt voor package deal |
 |--------|-----------|------------|----------------|--------------|---------------|---------------------------|

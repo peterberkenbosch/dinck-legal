@@ -259,7 +259,49 @@ De verrijkingsvordering bevriest als de MO wordt beëindigd. Als de MO doorloopt
 
 ---
 
-## 7. Informatierecht na 1 Maart — Art. 2:217 BW
+## 7. Tegenstrijdig Belang Besluitvorming na 1 Maart (Art. 2:239 lid 6 BW)
+
+### 7.1 Het probleem
+
+Na 1 maart is Douwine **enig bestuurder** van Dinck B.V. Bij de passering van de akte teruglevering (Marlou → Freca) zijn er drie rollen:
+
+| Rol | Persoon | Hoedanigheid |
+|-----|---------|-------------|
+| **Verkoper** | Marlou Woltmeijer | Op persoonlijke titel |
+| **Koper** | Freca B.V. | Bestuurder: Douwine |
+| **Vennootschap (erkenning)** | Dinck B.V. | Bestuurder: Douwine |
+
+Douwine is dus **tegelijk bestuurder van de koper (Freca) en bestuurder van de vennootschap die de overdracht erkent (Dinck)**. Dit is een klassiek tegenstrijdig belang (Art. 2:239 lid 6 BW).
+
+### 7.2 Juridische consequenties
+
+**Art. 2:239 lid 6 BW**: Een bestuurder neemt niet deel aan de beraadslaging en besluitvorming indien hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van de vennootschap.
+
+**Probleem**: Als Douwine niet mag deelnemen aan de besluitvorming, wie vertegenwoordigt Dinck dan?
+
+| Optie | Mechanisme | Haalbaar? |
+|-------|-----------|-----------|
+| **AVA wijst vertegenwoordiger aan** | Art. 2:239 lid 6 BW laatste zin | Maar: Peter heeft vetorecht (Art. 8.6 lid 2). Hij kan blokkeren. |
+| **Rechter benoemt bijzonder vertegenwoordiger** | Art. 2:210 lid 4 BW (analogie) | Mogelijk, maar kost tijd en geld |
+| **Peter stemt in via AVA** | Peter als enige aandeelhouder zonder tegenstrijdig belang | Alleen als Peter akkoord gaat = leverage |
+
+### 7.3 Impact op Peters positie
+
+Dit is een **additioneel blokkeringsmiddel**:
+
+1. Peter weigert co-signering (hoedanigheid a) → geen akte
+2. Douwine heeft tegenstrijdig belang (hoedanigheid b/c) → notaris kan niet passeren zonder oplossing
+3. Peter blokkeert via vetorecht de aanwijzing van een vertegenwoordiger → deadlock
+
+**Elke beslissing die Douwine na 1 maart neemt als enig bestuurder van Dinck, terwijl zij tegelijk bestuurder van Freca is, is potentieel vernietigbaar** (Art. 2:15 lid 1 sub a BW: besluit in strijd met de wet of statuten).
+
+### 7.4 Vraag voor jurist
+
+Nieuw → vraag 2.7: Wie vertegenwoordigt Dinck bij de passering als Douwine tegenstrijdig belang heeft? Is dit een additioneel blokkeringsmiddel of lost Douwine dit eenvoudig op?
+
+---
+
+## 8. Informatierecht na 1 Maart — Art. 2:217 BW
 
 ### 7.1 Wat Peter als aandeelhouder kan opvragen
 
@@ -279,7 +321,7 @@ Direct na 1 maart een schriftelijk Art. 2:217 informatieverzoek sturen. Dit dien
 
 ---
 
-## 8. Bestuurdersaansprakelijkheid — Nasleep na 1 Maart
+## 9. Bestuurdersaansprakelijkheid — Nasleep na 1 Maart
 
 ### 8.1 Peters bescherming
 
@@ -300,7 +342,7 @@ Direct na 1 maart een schriftelijk Art. 2:217 informatieverzoek sturen. Dit dien
 
 ---
 
-## 9. KTLO-Scenario's na 1 Maart
+## 10. KTLO-Scenario's na 1 Maart
 
 ### 9.1 Scenario A: KTLO-contract is getekend vóór 1 maart
 
@@ -330,7 +372,7 @@ Direct na 1 maart een schriftelijk Art. 2:217 informatieverzoek sturen. Dit dien
 
 ---
 
-## 10. Samenvatting
+## 11. Samenvatting
 
 | Aspect | Bevinding |
 |--------|-----------|

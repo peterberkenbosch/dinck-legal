@@ -331,7 +331,45 @@ De volgende vragen zijn direct relevant voor de worst-case analyse en zouden vó
 
 ---
 
-## 10. Samenvatting
+## 10. Art. 2:343 Post-Wagevoe bij Ondernemingskamer (Nieuw Scenario)
+
+### Scenario F: Peter vordert uittreding via Art. 2:343 BW (Wagevoe-reform)
+
+Sinds 1 januari 2025 (Wagevoe) wordt Art. 2:343 BW exclusief behandeld door de Ondernemingskamer. De procedure is sneller, goedkoper en biedt expliciet de mogelijkheid van **billijke verhoging** — zelfs als de aandelen op papier niets waard zijn.
+
+| Aspect | Vóór Wagevoe | Na Wagevoe (Peters situatie) |
+|--------|-------------|------------------------------|
+| Bevoegde rechter | Rechtbank | **Ondernemingskamer** (gespecialiseerd) |
+| Doorlooptijd | 12-24 maanden | **6-12 maanden** |
+| Kosten | €15-40K+ | **€15-25K** |
+| Billijke verhoging | Beperkt | **Expliciet in wet; precedent €656K bij nihilwaarde** |
+
+**Verwachte uitkomst voor Peter**:
+
+| Element | Schatting |
+|---------|-----------|
+| Boekwaarde aandelen | ~€0 (negatief door €612K schuld) |
+| Billijke verhoging (14 incidenten, financieringsstop, onbetaald werk) | €30-100K+ |
+| Kosten procedure | €15-25K |
+| **Netto verwacht** | **€5-75K+** |
+
+### Kostenvergelijkingstabel: Alle Routes
+
+| Route | Verwachte opbrengst | Kosten | Doorlooptijd | Risico | Afhankelijk van Douwine? |
+|-------|---------------------|--------|-------------|--------|--------------------------|
+| **Package deal (Plan A)** | €75-150K (onderhandelbaar) | €5-10K | 1-3 maanden | Laag-Medium | **JA** |
+| **Sommatiebrief + settlement (Plan B)** | €50-75K (na matiging) | €2-4K | 2-6 maanden | Medium | Deels |
+| **Art. 2:343 post-Wagevoe (Plan C)** | €30-100K+ | €15-25K | 6-12 maanden | Medium | **NEE** (rechterlijk) |
+| **Sommatiebrief + incasso** | €50-100K (als niet betaald) | €5-15K | 3-12 maanden | Medium-Hoog | Deels |
+| **Enquêteprocedure (nucleair)** | Onbepaald | €25-75K+ | 6-18 maanden | Hoog | **NEE** (rechterlijk) |
+| **Stilzitten (status quo)** | €0 + boete stijgt | €0 | Onbepaald | Hoog | Nee |
+| **Faillissement Dinck** | ~€0 (concurrent crediteur) | €0-2K | 2-6 maanden | Hoog | Nee |
+
+**Conclusie**: Art. 2:343 post-Wagevoe is nu een **serieus en betaalbaar alternatief** als Plan C. De kosten (€15-25K) zijn beheersbaar en de verwachte opbrengst (€30-100K+) rechtvaardigt de investering. Zie `analyse/wagevoe-art343-analyse.md` voor de volledige analyse.
+
+---
+
+## 11. Samenvatting
 
 | Aspect | Bevinding |
 |--------|-----------|

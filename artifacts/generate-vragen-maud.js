@@ -133,7 +133,7 @@ const doc = new Document({
       ]),
       p([
         new TextRun({ text: "Bijgewerkt: ", bold: true, size: 20, font: "Arial" }),
-        new TextRun({ text: "12 februari 2026 (19 vragen in 3 categorieën; verdiept met inzichten uit 4 nieuwe analyses)", size: 20, font: "Arial" })
+        new TextRun({ text: "12 februari 2026 (24 vragen in 3 categorieën; verdiept met Wagevoe-reform, tegenargumenten red team, settlement range)", size: 20, font: "Arial" })
       ]),
       p([
         new TextRun({ text: "Context: ", bold: true, size: 20, font: "Arial" }),
@@ -150,7 +150,7 @@ const doc = new Document({
       // ═══════════════════════════════════════════
       // SECTIE 1: MO-STRATEGIE
       // ═══════════════════════════════════════════
-      heading("1. MO-strategie (7 vragen)", HeadingLevel.HEADING_1),
+      heading("1. MO-strategie (8 vragen)", HeadingLevel.HEADING_1),
 
       context("Het bestuurdersontslag per 1 maart beëindigt de MO niet automatisch. De MO is nooit formeel opgezegd — alleen de fee is op nihil gesteld. Peter gaat KTLO doen. Vier branches uitgewerkt in MO-beslisboom analyse; Art. 5.2 als package deal instrument."),
 
@@ -172,12 +172,14 @@ const doc = new Document({
 
       question("1.7", "(Nieuw) Art. 3.1.i SHA stelt dat \"het beëindigen van de managementovereenkomst\" het kooprecht triggert. Betekent dit dat eenzijdige MO-opzegging (Branch A) het kooprecht van Freca activeert? Geldt dit ook bij bilaterale beëindiging (Branch A2) als onderdeel van een package deal waarin het kooprecht tegelijk wordt afgekocht via SHA-kwijting?"),
 
+      question("1.8", "(Nieuw — MO auto-terminatie risico) Rb Rotterdam aug 2024 (ECLI:NL:RBROT:2024:9160) oordeelde dat bestuurdersontslag de MO automatisch beëindigde. Ons verweer: Peters MO heeft expliciete beëindigingsbepalingen (Art. 5.1: 3 maanden schriftelijk; Art. 5.2: bilaterale verklaring). De HR 15-april-2005 arresten onderscheiden de vennootschapsrechtelijke van de contractuele verhouding. Is de Rotterdam-uitspraak van toepassing op Peters MO gezien Art. 5.1/5.2? Impact is hoog: als MO automatisch eindigt per 1 maart, vervalt vrijwaring Art. 4.2 en bevriest de verrijkingsvordering."),
+
       hr(),
 
       // ═══════════════════════════════════════════
       // SECTIE 2: SHA EN AKTE TERUGLEVERING
       // ═══════════════════════════════════════════
-      heading("2. SHA en akte teruglevering (6 vragen)", HeadingLevel.HEADING_1),
+      heading("2. SHA en akte teruglevering (7 vragen)", HeadingLevel.HEADING_1),
 
       context("Op 10 feb 2026 ontving Peter via notaris Koops een concept akte voor teruglevering van 8 aandelen (66,7%) van Marlou aan Freca voor €1,00. De notaris eist Peters co-signering als bewijs van afstand voorkeursrecht (Art. 3.2). De co-signering is Peters sterkste eenmalige hefboom."),
 
@@ -200,12 +202,14 @@ const doc = new Document({
       subpoint("Kan de notaris de akte teruglevering in escrow houden totdat Peters aandelenoverdracht is afgerond?"),
       subpoint("Kan betaling in termijnen worden geregeld met zekerheid (pandrecht, bankgarantie) als Dinck/Freca onvoldoende middelen heeft?"),
 
+      question("2.7", "(Nieuw — tegenstrijdig belang post-1-maart) Na 1 maart is Douwine enig bestuurder Dinck. Bij passering akte teruglevering is Douwine tegelijk bestuurder Dinck (vennootschap die overdracht erkent) én bestuurder Freca (koper). Art. 2:239 lid 6 BW: bestuurder met tegenstrijdig belang neemt niet deel aan besluitvorming. Wie vertegenwoordigt Dinck dan bij de passering? Is dit een additioneel blokkeringsmiddel voor Peter (via vetorecht op aanwijzing vertegenwoordiger), of lost Douwine dit eenvoudig op?"),
+
       hr(),
 
       // ═══════════════════════════════════════════
       // SECTIE 3: STRATEGIE
       // ═══════════════════════════════════════════
-      heading("3. Strategie (6 vragen)", HeadingLevel.HEADING_1),
+      heading("3. Strategie (9 vragen)", HeadingLevel.HEADING_1),
 
       context("Sommatiebrief (€100K boete kettingbeding) in voorbereiding maar on hold na meeting 11 feb. Peter bereid tot onderhandeling. Aanbevolen strategie: vaststellingsvoorstel als Plan A, sommatiebrief als Plan B."),
 
@@ -220,6 +224,12 @@ const doc = new Document({
       question("3.5", "(Nieuw — vaststellingsvoorstel) Kan de jurist het vaststellingsvoorstel opstellen? Gewenste elementen: package deal (4 documenten simultaan), redelijke reactietermijn (2-3 weken), constructieve maar zakelijke toon. Kosten en doorlooptijd?"),
 
       question("3.6", "(Nieuw — Art. 2:343 timing) Als de package deal mislukt: wanneer is het strategisch optimaal om Art. 2:343 BW (uittreding vorderen) in te dienen? Vóór of na de aflossingsdefault van 28 maart? Vóór of na het versturen van de sommatiebrief? Het dossier (14 uitsluitingsincidenten, financieringsstop, structurele buitensluiting) is sterk — maar timing bepaalt het effect."),
+
+      question("3.7", "(Nieuw — Wagevoe reform) De Wagevoe-hervorming (per 1 jan 2025) verplaatst Art. 2:343 BW naar de Ondernemingskamer en verduidelijkt de billijke verhoging (Art. 2:343 lid 3/4 nieuw). Precedent: OK kende €656K billijke verhoging toe in familieconflict ondanks nihilwaarde. Wat is uw inschatting van de kansen, realistische billijke verhoging gegeven Peters dossier, verwachte doorlooptijd (6-12 maanden?) en kosten (€15-25K?)? Kan de Wagevoe-dreiging al worden opgenomen in het vaststellingsvoorstel?"),
+
+      question("3.8", "(Nieuw — matiging boete) Art. 6:94 BW staat matiging toe als de billijkheid dit \"klaarblijkelijk eist.\" Rb Rotterdam 2016 matigde SHA-boete van €250K→€100K. Anderzijds: ECLI:NL:RBAMS:2012:BY7240 handhaafde €5K/dag + €1M bij kettingbeding. Wat is uw inschatting van het matigingsrisico voor de €100K basisboete + dagcomponent (~€97K per 12 feb)? Moeten we rekening houden met matiging naar ~€50-75K in de onderhandelingsstrategie?"),
+
+      question("3.9", "(Nieuw — settlement range) Wij schatten de verdedigbare bandbreedte voor Peters totale exit-vergoeding op €75-100K (target), met anker €150K en walk-away €30K. Gebaseerd op: kwijtschelding boete (na matiging ~€50-75K) + verrijkingscomponent (€25-75K) + verrekening met negatieve waarde aandelen. Is deze bandbreedte verdedigbaar? Is het verrekening-frame juridisch houdbaar? Kan de verrijkingsvordering standhouden ondanks Peters instemming met het AVA-besluit? Is betaling in termijnen met pandrecht werkbaar?"),
 
       hr(),
 
@@ -248,6 +258,9 @@ const doc = new Document({
           new TableRow({ children: [cell("Akte tekenvoorwaarden + waiver-risico §1.2", 4000), cell("akte-tekenvoorwaarden.md", 5360)] }),
           new TableRow({ children: [cell("Package deal structurering", 4000), cell("package-deal-structuring.md", 5360)] }),
           new TableRow({ children: [cell("Post-1-maart positionering", 4000), cell("post-1-maart-positionering.md", 5360)] }),
+          new TableRow({ children: [cell("Wagevoe reform / billijke verhoging", 4000), cell("wagevoe-art343-analyse.md", 5360)] }),
+          new TableRow({ children: [cell("Tegenargumenten Douwine (red team)", 4000), cell("tegenargumenten-douwine.md", 5360)] }),
+          new TableRow({ children: [cell("Settlement range / BATNA", 4000), cell("settlement-range-analyse.md", 5360)] }),
         ]
       }),
 
