@@ -1,7 +1,7 @@
 # Juridische vragen — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 12 februari 2026 (14 → 19 vragen; verdiept met inzichten uit mo-beslisboom, akte-tekenvoorwaarden, package-deal-structuring en post-1-maart-positionering)
+**Bijgewerkt**: 12 februari 2026 (14 → 19 vragen; verdiept met inzichten uit mo-beslisboom, akte-tekenvoorwaarden, package-deal-structuring en post-1-maart-positionering; vraag 2.4 aangescherpt met letterlijke waiver-vergelijking + Douwine's tegenargument)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 
@@ -43,7 +43,11 @@
 
 **2.3** Kan Peter weigeren te tekenen? Wat zijn de juridische gevolgen? Moet de blokkeringsregeling (Art. 6.2 statuten) dan worden gevolgd? Verwachting: weigering is Peters goed recht en er is geen verplichting tot medewerking.
 
-**2.4** Dekt de waiver uit november 2025 (Art. 3.2: "deze levering en een mogelijke teruglevering door koper aan verkoper") de huidige transactie juridisch, of heeft de notaris gelijk dat een nieuwe afstand nodig is?
+**2.4** ⚠️ **HIGH PRIORITY** — Douwine heeft dit argument actief ingebracht (12 feb 2026). De letterlijke tekst vergelijking:
+- **November 2025 (getekend)** Art. 3.2: "doch uitsluitend voor **deze levering en een mogelijke teruglevering door koper aan verkoper**. Dit blijkt uit het mee tekenen door/namens PHBX Holding B.V. van deze akte."
+- **Februari 2026 (concept)** Art. 3.2: "doch uitsluitend voor **deze levering**. Dit blijkt uit het mee tekenen door/namens PHBX Holding B.V. van deze akte."
+
+Douwine beweert dat de november-waiver de teruglevering al dekt en Peters handtekening op de nieuwe akte niet nodig is. De notaris (Koops) heeft BEIDE aktes opgesteld, kent de november-tekst, en eist desondanks een nieuwe co-signering in de concept akte. **Dekt de november-waiver juridisch de huidige teruglevering, of heeft de notaris gelijk dat een nieuwe afstand nodig is?** Dit antwoord bepaalt of de co-signering daadwerkelijk Peters sterkste hefboom is. Zie `analyse/akte-tekenvoorwaarden.md` §1.2 voor de volledige analyse.
 
 **2.5** Na 1 maart is Peter geen bestuurder van Dinck meer — hoedanigheid (b) in de akte vervalt. Kan de akte dan nog worden gepasseerd met Douwine als enig bestuurder Dinck terwijl zij ook bestuurder Freca/koper is? Art. 2:239 lid 6 BW tegenstrijdig belang — hoe beoordeelt de notaris dit?
 
@@ -86,7 +90,7 @@
 | Meeting 11 feb + KTLO | `analyse/meeting-11feb-analyse.md` |
 | Grady Hofstra triple role | `analyse/grady-hofstra-dynamiek.md` |
 | **MO beslisboom (4 branches)** | **`analyse/mo-beslisboom.md`** |
-| **Akte tekenvoorwaarden (non-negotiables)** | **`analyse/akte-tekenvoorwaarden.md`** |
+| **Akte tekenvoorwaarden (non-negotiables + waiver-risico §1.2)** | **`analyse/akte-tekenvoorwaarden.md`** |
 | **Package deal structurering** | **`analyse/package-deal-structuring.md`** |
 | **Post-1-maart positionering** | **`analyse/post-1-maart-positionering.md`** |
 

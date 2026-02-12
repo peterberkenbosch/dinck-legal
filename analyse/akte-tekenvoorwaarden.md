@@ -16,20 +16,55 @@ De concept akte teruglevering (10 feb 2026) eist in Art. 3.2:
 
 **Zonder Peters handtekening**: geen waiver → blokkeringsregeling Art. 6.2 statuten → Marlou moet aandelen eerst aanbieden aan PHBX → Freca wordt niet aandeelhouder.
 
-### 1.2 Waarom dit een one-shot hefboom is
+### 1.2 Risico: Dekt de November 2025 Waiver de Teruglevering?
+
+**Douwine heeft dit argument actief ingebracht (12 feb 2026, na meeting 11 feb).**
+
+De getekende akte van 7 november 2025 bevat in Art. 3.2 een bredere waiver dan de concept akte van februari 2026:
+
+| Akte | Art. 3.2 — Letterlijke tekst |
+|------|------------------------------|
+| **November 2025 (getekend)** | "doch uitsluitend voor **deze levering en een mogelijke teruglevering door koper aan verkoper**. Dit blijkt uit het mee tekenen door/namens PHBX Holding B.V. van deze akte." |
+| **Februari 2026 (concept)** | "doch uitsluitend voor **deze levering**. Dit blijkt uit het mee tekenen door/namens PHBX Holding B.V. van deze akte." |
+
+**Douwine's argument**: De november-waiver dekt al expliciet "een mogelijke teruglevering door koper aan verkoper" — koper = Marlou, verkoper = Freca. De huidige transactie (Marlou → Freca) is precies die teruglevering. Dus Peters handtekening op de nieuwe akte is niet nodig.
+
+**Tegenargumenten (in Peters voordeel)**:
+
+| # | Argument | Kracht |
+|---|----------|--------|
+| 1 | **De notaris (Koops) zelf eist een nieuwe co-signering** — hij heeft BEIDE aktes opgesteld, kent de november-tekst, en oordeelt desondanks dat een nieuwe handtekening nodig is. Zijn professioneel oordeel prevaleert. | **STERK** |
+| 2 | **De concept akte is een zelfstandig rechtshandeling** — Art. 3.2 in de februari-akte verwijst niet naar de november-waiver maar formuleert een eigen vereiste ("Dit blijkt uit het mee tekenen [...] van **deze** akte"). | **STERK** |
+| 3 | **De notaris versmalde bewust de scope** — van "deze levering en een mogelijke teruglevering" naar "deze levering." Dit is een bewuste aanpassing, geen vergissing. De notaris achtte de oude waiver kennelijk niet afdoende. | **STERK** |
+| 4 | **Statuten Art. 6.2 (blokkeringsregeling)**: elke aandelenoverdracht is een afzonderlijke rechtshandeling die eigen medewerking vereist. Een waiver in akte A geldt niet automatisch voor akte B. | **MEDIUM** |
+| 5 | **"Mogelijke" ≠ "onvoorwaardelijke"**: de term "een mogelijke teruglevering" is voorwaardelijk — het beschrijft een scenario, geen bindende afstand van recht. | **MEDIUM** |
+
+**Maar ook risico's**:
+
+| # | Risico | Kans |
+|---|--------|------|
+| 1 | Douwine overtuigt de notaris om zonder Peters handtekening te passeren, verwijzend naar de november-tekst | **LAAG** — notaris is onafhankelijk en heeft zelf de nieuwe akte opgesteld met co-signeringsvereiste |
+| 2 | Douwine schakelt een andere notaris in die de november-waiver als afdoende beschouwt | **LAAG-MEDIUM** — mogelijk maar kostbaar en tijdrovend |
+| 3 | In een rechtszaak oordeelt een rechter dat de november-waiver de teruglevering dekt | **MEDIUM** — afhankelijk van uitleg; "uitsluitend voor deze levering en een mogelijke teruglevering" is grammaticaal helder |
+
+**PRIORITEIT**: Dit is een **HIGH PRIORITY**-vraag voor de jurist. Het antwoord bepaalt of de co-signering daadwerkelijk Peters sterkste hefboom is of dat deze kan worden omzeild.
+
+**Tactisch advies**: Peter mag dit argument NIET zelf inbrengen. Douwine heeft het al gedaan — dat is Douwine's kaart om te spelen. Peters positie: de notaris eist mijn handtekening, ik volg het oordeel van de notaris.
+
+### 1.3 Waarom dit een one-shot hefboom is
 
 | Eigenschap | Toelichting |
 |-----------|-------------|
 | **Eenmalig** | Zodra Peter tekent, is de leverage weg. De waiver kan niet worden teruggedraaid. |
-| **Exclusief** | De notaris zelf concludeert dat Peters handtekening nodig is. Dit is geen interpretatiekwestie. |
+| **Exclusief** | De notaris zelf concludeert dat Peters handtekening nodig is — óók terwijl hij de november-waiver kent. ⚠️ Maar: Douwine betwist dit actief (zie §1.2). Juridische beoordeling noodzakelijk. |
 | **Tijdsgebonden** | Na 1 maart vervalt hoedanigheid (b) als bestuurder Dinck. De akte moet dan worden aangepast. |
-| **Onvervangbaar** | Geen alternatief mechanisme beschikbaar voor Douwine om de teruglevering te forceren. |
+| **Onvervangbaar** | Geen alternatief mechanisme beschikbaar voor Douwine om de teruglevering te forceren. ⚠️ Tenzij november-waiver juridisch afdoende is — dan kan de notaris mogelijk ook zonder Peters handtekening op de nieuwe akte passeren. |
 
-### 1.3 Verschil met andere hefbomen
+### 1.4 Verschil met andere hefbomen
 
 | Hefboom | Herbruikbaar? | Kan worden omzeild? |
 |---------|--------------|---------------------|
-| Co-signering akte | **Nee** — eenmalig | Nee (notaris eist het) |
+| Co-signering akte | **Nee** — eenmalig | ⚠️ Mogelijk — als november-waiver juridisch afdoende is (zie §1.2) |
 | Vetorecht Art. 8.6 | Ja — bij elk AVA-besluit | Nee (statutair) |
 | €100K boete SHA | Ja — vordering blijft staan | Mogelijk (beperkende werking r&b) |
 | Platformafhankelijkheid | Ja — doorlopend | Ja (externe developer inhuren, maar duur) |
@@ -302,7 +337,7 @@ Peter's positie als Douwine weigert:
 
 | Aspect | Bevinding |
 |--------|-----------|
-| **Co-signering = one-shot lever** | Eenmalig, exclusief, onvervangbaar. Alleen inzetten als volledige tegenprestatie geregeld is. |
+| **Co-signering = one-shot lever** | Eenmalig, exclusief, onvervangbaar. Alleen inzetten als volledige tegenprestatie geregeld is. ⚠️ **Douwine betwist exclusiviteit** — beweert november-waiver dekt teruglevering (zie §1.2). Juridische beoordeling noodzakelijk. |
 | **Vier non-negotiables** | SHA-kwijting, simultane aandelenoverdracht, KTLO-contract, wederzijdse kwijting |
 | **MO-beëindiging via Art. 5.2** | Bilateraal, geen opzegtermijn, voorwaarden koppelbaar (nawerking vrijwaring, finale afrekening) |
 | **Art. 3.1.i SHA — nieuwe ontdekking** | MO-beëindiging triggert kooprecht. Versterk: MO niet eenzijdig opzeggen. |

@@ -187,7 +187,11 @@ const doc = new Document({
 
       question("2.3", "Kan Peter weigeren te tekenen? Wat zijn de juridische gevolgen? Moet de blokkeringsregeling (Art. 6.2 statuten) dan worden gevolgd? Verwachting: weigering is Peters goed recht en er is geen verplichting tot medewerking."),
 
-      question("2.4", "Dekt de waiver uit november 2025 (Art. 3.2: \"deze levering en een mogelijke teruglevering door koper aan verkoper\") de huidige transactie juridisch, of heeft de notaris gelijk dat een nieuwe afstand nodig is?"),
+      p("⚠ HIGH PRIORITY — Douwine heeft dit argument actief ingebracht (12 feb 2026).", { bold: true, color: "CC0000", spaceBefore: 200 }),
+      question("2.4", "De letterlijke tekst vergelijking van Art. 3.2 in beide aktes:"),
+      subpoint("November 2025 (getekend): \"doch uitsluitend voor deze levering en een mogelijke teruglevering door koper aan verkoper. Dit blijkt uit het mee tekenen door/namens PHBX Holding B.V. van deze akte.\""),
+      subpoint("Februari 2026 (concept): \"doch uitsluitend voor deze levering. Dit blijkt uit het mee tekenen door/namens PHBX Holding B.V. van deze akte.\""),
+      p("Douwine beweert dat de november-waiver de teruglevering al dekt en Peters handtekening op de nieuwe akte niet nodig is. De notaris (Koops) heeft BEIDE aktes opgesteld, kent de november-tekst, en eist desondanks een nieuwe co-signering. Dekt de november-waiver juridisch de huidige teruglevering, of heeft de notaris gelijk dat een nieuwe afstand nodig is? Dit antwoord bepaalt of de co-signering daadwerkelijk Peters sterkste hefboom is. Zie akte-tekenvoorwaarden analyse §1.2 voor de volledige analyse.", { spaceBefore: 80 }),
 
       question("2.5", "Na 1 maart is Peter geen bestuurder van Dinck meer — hoedanigheid (b) in de akte vervalt. Kan de akte dan nog worden gepasseerd met Douwine als enig bestuurder Dinck terwijl zij ook bestuurder Freca/koper is? Art. 2:239 lid 6 BW tegenstrijdig belang — hoe beoordeelt de notaris dit?"),
 
@@ -241,7 +245,7 @@ const doc = new Document({
           new TableRow({ children: [cell("Meeting 11 feb + KTLO", 4000), cell("meeting-11feb-analyse.md", 5360)] }),
           new TableRow({ children: [cell("Grady Hofstra triple role", 4000), cell("grady-hofstra-dynamiek.md", 5360)] }),
           new TableRow({ children: [cell("MO beslisboom (4 branches)", 4000), cell("mo-beslisboom.md", 5360)] }),
-          new TableRow({ children: [cell("Akte tekenvoorwaarden", 4000), cell("akte-tekenvoorwaarden.md", 5360)] }),
+          new TableRow({ children: [cell("Akte tekenvoorwaarden + waiver-risico §1.2", 4000), cell("akte-tekenvoorwaarden.md", 5360)] }),
           new TableRow({ children: [cell("Package deal structurering", 4000), cell("package-deal-structuring.md", 5360)] }),
           new TableRow({ children: [cell("Post-1-maart positionering", 4000), cell("post-1-maart-positionering.md", 5360)] }),
         ]
