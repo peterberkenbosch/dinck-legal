@@ -1,7 +1,7 @@
 # Juridische vragen — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 11 februari 2026 (opgeschoond: 48 → 14 vragen; beantwoorde en achterhaalde vragen naar archief)
+**Bijgewerkt**: 12 februari 2026 (14 → 19 vragen; verdiept met inzichten uit mo-beslisboom, akte-tekenvoorwaarden, package-deal-structuring en post-1-maart-positionering)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 
@@ -9,49 +9,66 @@
 
 ---
 
-## 1. MO-strategie (5 vragen)
+## 1. MO-strategie (7 vragen) {#mo}
 
-**Context**: Het bestuurdersontslag per 1 maart beëindigt de MO niet automatisch. De MO is nooit formeel opgezegd — alleen de fee is op nihil gesteld. Peter gaat KTLO doen. Zie `analyse/bestuurdersontslag-vs-managementovereenkomst.md` en `analyse/meeting-11feb-analyse.md`.
+**Context**: Het bestuurdersontslag per 1 maart beëindigt de MO niet automatisch. De MO is nooit formeel opgezegd — alleen de fee is op nihil gesteld. Peter gaat KTLO doen. Vier branches uitgewerkt in `analyse/mo-beslisboom.md`; interactiematrix in §3; Art. 5.2 als package deal instrument in §5.
 
-**1.1** Moet de managementovereenkomst PHBX ↔ Dinck worden beëindigd, of juist laten bestaan? Wat zijn de gevolgen voor de vrijwaring (Art. 4.2 MO)? Drie opties uitgewerkt in `analyse/meeting-11feb-analyse.md` sectie 3.4.
+**1.1** De MO-beslisboom (`analyse/mo-beslisboom.md`) identificeert vier opties: A (eenzijdig opzeggen), A2 (bilateraal beëindigen via Art. 5.2 als onderdeel package deal), B (laten bestaan + apart KTLO), C (amenderen). Wij adviseren Branch A2 (primair) of Branch B (tussenoplossing). Specifiek:
+- Is het opschortingsrecht Art. 6:262 BW voldoende om bij Branch B het argument te pareren dat KTLO-werk al onder de MO valt (fulltime verplichting Art. 2.3)?
+- Is bilaterale beëindiging via Art. 5.2 ("door een door beide vennootschappen ondertekende verklaring") zonder opzegtermijn juridisch correct?
 
-**1.2** Kan de vrijwaring (Art. 4.2 MO) worden overgenomen in een KTLO-leveranciersovereenkomst als de MO wél wordt beëindigd?
+**1.2** Heeft de vrijwaring Art. 4.2 MO **nawerking** na beëindiging? De MO bevat geen expliciete nawerkingsclausule. Art. 4.2 spreekt van "werkzaamheden **voor deze overeenkomst** verrichte" — is dit temporeel (looptijd) of functioneel (scope)? Kan nawerking worden bedongen in een Art. 5.2-verklaring? Zie `analyse/mo-beslisboom.md` §4.
 
-**1.3** Wat is het effect van de MO-keuze op de ongerechtvaardigde verrijking-vordering (Art. 6:212 BW)? Schatting: ~1.440 uur onbetaald werk (€108-180K). Verzwakt of versterkt opzegging deze vordering?
+**1.3** Wat is het effect van de MO-keuze op de ongerechtvaardigde verrijking-vordering (Art. 6:212 BW)? Schatting: ~1.440 uur onbetaald werk (€108-180K). Per branch:
+- Branch A/A2 (beëindigen): vordering bevriest. Verzwakt eigen opzegging het argument? Kan een voorbehoud dit voorkomen? Concept: "Dit laat onverlet de vordering van PHBX uit hoofde van Art. 6:212 BW over de periode 1 december 2024 tot heden."
+- Branch B (laten bestaan): vordering groeit doorlopend.
 
 **1.4** Peter heeft in de meeting van 11 feb mondeling aangegeven bereid te zijn tot KTLO met voorwaarden. Niets getekend, niets schriftelijk. Is dit juridisch bindend? Kan Douwine stellen dat Peter zich hiermee heeft gecommitteerd?
 
-**1.5** Wat moet er in een KTLO-leveranciersovereenkomst staan? Specifiek: vergoeding (vast of uurtarief?), hostingkosten (vooruit of declaratie?), aansprakelijkheidsbeperking, opzegtermijn, en opschortingsrecht bij niet-betaling.
+**1.5** Wat moet er in een KTLO-leveranciersovereenkomst staan? Minimale elementen opgesomd in `analyse/akte-tekenvoorwaarden.md` §2.3. Specifiek: vergoeding (vast of uurtarief?), hostingkosten (vooruit of declaratie?), aansprakelijkheidsbeperking, opzegtermijn, en opschortingsrecht bij niet-betaling. Moet dit contract getekend zijn vóór Peters eerste KTLO-werkzaamheid?
+
+**1.6** *(Nieuw)* Kan de vrijwaring Art. 4.2 worden "overgedragen" naar een nieuw KTLO-contract? Of is een vrijwaringsbepaling in het KTLO-contract juridisch een nieuwe, aparte vrijwaring (die alleen toekomstig werk dekt)?
+
+**1.7** *(Nieuw)* Art. 3.1.i SHA stelt dat "het beëindigen van de managementovereenkomst" het kooprecht triggert. Betekent dit dat eenzijdige MO-opzegging (Branch A) het kooprecht van Freca activeert? Geldt dit ook bij bilaterale beëindiging (Branch A2) als onderdeel van een package deal waarin het kooprecht tegelijk wordt afgekocht via SHA-kwijting?
 
 ---
 
 ## 2. SHA en akte teruglevering (6 vragen)
 
-**Context**: Op 10 feb 2026 ontving Peter via notaris Koops een concept akte voor teruglevering van 8 aandelen (66,7%) van Marlou aan Freca voor €1,00. De notaris eist Peters co-signering als bewijs van afstand voorkeursrecht (Art. 3.2). Zie `analyse/concept-akte-teruglevering-analyse.md`, `analyse/sha-herleving-analyse.md` en `analyse/voorkeursrecht-strategische-analyse.md`.
+**Context**: Op 10 feb 2026 ontving Peter via notaris Koops een concept akte voor teruglevering van 8 aandelen (66,7%) van Marlou aan Freca voor €1,00. De notaris eist Peters co-signering als bewijs van afstand voorkeursrecht (Art. 3.2). De co-signering is Peters sterkste eenmalige hefboom — zie `analyse/akte-tekenvoorwaarden.md` voor de volledige voorwaardenanalyse en `analyse/sha-herleving-analyse.md` voor herlevingsrisico's.
 
-**2.1** Herleeft de SHA als Freca weer aandeelhouder wordt? Zo ja: wordt het non-concurrentiebeding (Art. 7: 3 jaar na levering) actief? En de boeteclausule (Art. 10: €100K + €1K/dag)?
+**2.1** Herleeft de SHA als Freca weer aandeelhouder wordt? Zo ja: wordt het non-concurrentiebeding (Art. 7: 3 jaar na levering) actief? En de boeteclausule (Art. 10: wederkerig — Freca's schending ~€197K per 12 feb 2026)? Bovendien: Art. 2.3.c SHA vereist dat de kopende partij "nog steeds bestuurder van de vennootschap" is — Freca is geen bestuurder van Dinck. Is dit een verweer tegen kooprecht-uitoefening?
 
-**2.2** Kan Peter SHA-uitsluiting bedingen als voorwaarde voor het co-signeren van de akte? Zo ja, welke formulering?
+**2.2** Kan Peter SHA-uitsluiting bedingen als voorwaarde voor het co-signeren van de akte? Zo ja, welke formulering? Concept in `analyse/akte-tekenvoorwaarden.md` §2.1: "Freca B.V. en PHBX Holding B.V. verlenen elkaar over en weer volledige en finale kwijting terzake van alle rechten en verplichtingen uit de aandeelhoudersovereenkomst d.d. 28 maart 2024 [...]." Alternatief: formele beëindiging SHA per Art. 1.2 (schriftelijke overeenstemming). Welk instrument is juridisch sterker?
 
-**2.3** Kan Peter weigeren te tekenen? Wat zijn de juridische gevolgen? Moet de blokkeringsregeling (Art. 6.2 statuten) dan worden gevolgd?
+**2.3** Kan Peter weigeren te tekenen? Wat zijn de juridische gevolgen? Moet de blokkeringsregeling (Art. 6.2 statuten) dan worden gevolgd? Verwachting: weigering is Peters goed recht en er is geen verplichting tot medewerking.
 
 **2.4** Dekt de waiver uit november 2025 (Art. 3.2: "deze levering en een mogelijke teruglevering door koper aan verkoper") de huidige transactie juridisch, of heeft de notaris gelijk dat een nieuwe afstand nodig is?
 
-**2.5** Na 1 maart is Peter geen bestuurder van Dinck meer — hoedanigheid (b) in de akte vervalt. Kan de akte dan nog worden gepasseerd met Douwine als enig bestuurder Dinck terwijl zij ook bestuurder Freca/koper is?
+**2.5** Na 1 maart is Peter geen bestuurder van Dinck meer — hoedanigheid (b) in de akte vervalt. Kan de akte dan nog worden gepasseerd met Douwine als enig bestuurder Dinck terwijl zij ook bestuurder Freca/koper is? Art. 2:239 lid 6 BW tegenstrijdig belang — hoe beoordeelt de notaris dit?
 
-**2.6** Package deal: kan Peter co-signering koppelen aan gelijktijdige aandelenoverdracht Peters aandelen + SHA-kwijting + KTLO-overeenkomst + wederzijdse kwijting?
+**2.6** Package deal: de volledige structuur is uitgewerkt in `analyse/package-deal-structuring.md`. Vier documenten simultaan: vaststellingsovereenkomst (Art. 7:900 BW) + KTLO-leveranciersovereenkomst + akte teruglevering + akte overdracht Peters aandelen. Specifieke vragen:
+- Kan de vaststellingsovereenkomst een opschortende voorwaarde bevatten (Art. 6:21 BW) dat afspraken pas definitief worden na passering van beide notariële aktes?
+- Kan de notaris de akte teruglevering in escrow houden totdat Peters aandelenoverdracht is afgerond?
+- Kan betaling in termijnen worden geregeld met zekerheid (pandrecht, bankgarantie) als Dinck/Freca onvoldoende middelen heeft?
 
 ---
 
-## 3. Strategie (3 vragen)
+## 3. Strategie (6 vragen)
 
-**Context**: Sommatiebrief (€100K boete kettingbeding) in voorbereiding maar on hold na meeting 11 feb. Peter bereid tot onderhandeling. Zie `analyse/memo-jurist-11feb2026.md` en `analyse/meeting-11feb-analyse.md`.
+**Context**: Sommatiebrief (€100K boete kettingbeding) in voorbereiding maar on hold na meeting 11 feb. Peter bereid tot onderhandeling. Aanbevolen strategie: vaststellingsvoorstel als Plan A, sommatiebrief als Plan B. Timing en escalatiepad uitgewerkt in `analyse/package-deal-structuring.md` §6 en `analyse/post-1-maart-positionering.md` §6.
 
-**3.1** Sommatiebrief (€100K boete kettingbeding Art. 9+10 SHA): nu versturen, of achter de hand houden als drukmiddel voor de onderhandeling over KTLO-voorwaarden en co-signering akte?
+**3.1** Sommatiebrief vs. vaststellingsvoorstel: wij adviseren om **eerst** een vaststellingsvoorstel (package deal) te sturen, en de sommatiebrief achter de hand te houden als Plan B. Is dit strategisch correct? Of is het effectiever om de sommatiebrief gelijktijdig te versturen als drukverhoging? Zie escalatieladder in `analyse/package-deal-structuring.md` §5.4.
 
 **3.2** Art. 3.1 MO schending (ongelijke behandeling fees — alleen PHBX's fee formeel gewijzigd, niet Freca's): bruikbaar als onderhandelingsargument? Loopt Freca's fee van €8.000/maand juridisch nog steeds door?
 
-**3.3** Aflossing 28 maart (~€55-75K): Dinck kan niet betalen, wat leidt tot automatisch verzuim (Art. 11.2 leningsovereenkomst). Wat zijn de gevolgen als Freca niet onmiddellijk opeist — stilzwijgende acceptatie? Peter is na 1 maart geen bestuurder meer.
+**3.3** Aflossing 28 maart (~€55-75K): Dinck kan niet betalen → automatisch verzuim (Art. 11.2). Peter is na 1 maart geen bestuurder meer — geen aansprakelijkheidsrisico. Maar: wat zijn de gevolgen als Freca niet onmiddellijk opeist? Is dit stilzwijgende acceptatie? Kan Douwine het verzuim later selectief inroepen (bijv. als drukmiddel)? Art. 6:248 lid 2 BW (redelijkheid en billijkheid) als verweer?
+
+**3.4** *(Nieuw — aandelenprijs)* Wat is een verdedigbare "gewenste prijs" voor Peters 33,3% aandelen? De nominale boekwaarde is negatief (schulden >€612K), maar Peter levert strategische waarde in: kwijtschelding ~€197K SHA-boete, deblokkade vetorecht, co-signering akte, KTLO-bereidheid. Kan de prijs worden geframed als **verrekening** (Peters vorderingen minus billijke bijdrage aan schulden) in plaats van als aandelenprijs? Zie `analyse/package-deal-structuring.md` §4.
+
+**3.5** *(Nieuw — vaststellingsvoorstel)* Kan de jurist het vaststellingsvoorstel opstellen? Gewenste elementen: package deal (4 documenten simultaan, zie `analyse/package-deal-structuring.md` §3), redelijke reactietermijn (2-3 weken), constructieve maar zakelijke toon. Kosten en doorlooptijd?
+
+**3.6** *(Nieuw — Art. 2:343 timing)* Als de package deal mislukt: wanneer is het strategisch optimaal om Art. 2:343 BW (uittreding vorderen) in te dienen? Vóór of na de aflossingsdefault van 28 maart? Vóór of na het versturen van de sommatiebrief? Het dossier (14 uitsluitingsincidenten, financieringsstop, structurele buitensluiting) is sterk — maar timing bepaalt het effect.
 
 ---
 
@@ -68,6 +85,10 @@
 | Memo jurist 11 feb 2026 | `analyse/memo-jurist-11feb2026.md` |
 | Meeting 11 feb + KTLO | `analyse/meeting-11feb-analyse.md` |
 | Grady Hofstra triple role | `analyse/grady-hofstra-dynamiek.md` |
+| **MO beslisboom (4 branches)** | **`analyse/mo-beslisboom.md`** |
+| **Akte tekenvoorwaarden (non-negotiables)** | **`analyse/akte-tekenvoorwaarden.md`** |
+| **Package deal structurering** | **`analyse/package-deal-structuring.md`** |
+| **Post-1-maart positionering** | **`analyse/post-1-maart-positionering.md`** |
 
 ---
 
