@@ -58,6 +58,17 @@ function question(num, text) {
   });
 }
 
+function subpoint(text) {
+  return new Paragraph({
+    spacing: { before: 40, after: 40 },
+    indent: { left: 720 },
+    children: [
+      new TextRun({ text: "– ", size: 22, font: "Arial" }),
+      new TextRun({ text, size: 22, font: "Arial" })
+    ]
+  });
+}
+
 function context(text) {
   return new Paragraph({
     spacing: { before: 80, after: 120 },
@@ -122,7 +133,7 @@ const doc = new Document({
       ]),
       p([
         new TextRun({ text: "Bijgewerkt: ", bold: true, size: 20, font: "Arial" }),
-        new TextRun({ text: "11 februari 2026 (opgeschoond: 48 → 14 vragen)", size: 20, font: "Arial" })
+        new TextRun({ text: "12 februari 2026 (19 vragen in 3 categorieën; verdiept met inzichten uit 4 nieuwe analyses)", size: 20, font: "Arial" })
       ]),
       p([
         new TextRun({ text: "Context: ", bold: true, size: 20, font: "Arial" }),
@@ -139,19 +150,27 @@ const doc = new Document({
       // ═══════════════════════════════════════════
       // SECTIE 1: MO-STRATEGIE
       // ═══════════════════════════════════════════
-      heading("1. MO-strategie (5 vragen)", HeadingLevel.HEADING_1),
+      heading("1. MO-strategie (7 vragen)", HeadingLevel.HEADING_1),
 
-      context("Het bestuurdersontslag per 1 maart beëindigt de MO niet automatisch. De MO is nooit formeel opgezegd — alleen de fee is op nihil gesteld. Peter gaat KTLO doen."),
+      context("Het bestuurdersontslag per 1 maart beëindigt de MO niet automatisch. De MO is nooit formeel opgezegd — alleen de fee is op nihil gesteld. Peter gaat KTLO doen. Vier branches uitgewerkt in MO-beslisboom analyse; Art. 5.2 als package deal instrument."),
 
-      question("1.1", "Moet de managementovereenkomst PHBX ↔ Dinck worden beëindigd, of juist laten bestaan? Wat zijn de gevolgen voor de vrijwaring (Art. 4.2 MO)? Drie opties uitgewerkt in analyse meeting 11 feb sectie 3.4."),
+      question("1.1", "De MO-beslisboom identificeert vier opties: A (eenzijdig opzeggen), A2 (bilateraal beëindigen via Art. 5.2 als onderdeel package deal), B (laten bestaan + apart KTLO), C (amenderen). Wij adviseren Branch A2 (primair) of Branch B (tussenoplossing). Specifiek:"),
+      subpoint("Is het opschortingsrecht Art. 6:262 BW voldoende om bij Branch B het argument te pareren dat KTLO-werk al onder de MO valt (fulltime verplichting Art. 2.3)?"),
+      subpoint("Is bilaterale beëindiging via Art. 5.2 (\"door een door beide vennootschappen ondertekende verklaring\") zonder opzegtermijn juridisch correct?"),
 
-      question("1.2", "Kan de vrijwaring (Art. 4.2 MO) worden overgenomen in een KTLO-leveranciersovereenkomst als de MO wél wordt beëindigd?"),
+      question("1.2", "Heeft de vrijwaring Art. 4.2 MO nawerking na beëindiging? De MO bevat geen expliciete nawerkingsclausule. Art. 4.2 spreekt van \"werkzaamheden voor deze overeenkomst verrichte\" — is dit temporeel (looptijd) of functioneel (scope)? Kan nawerking worden bedongen in een Art. 5.2-verklaring?"),
 
-      question("1.3", "Wat is het effect van de MO-keuze op de ongerechtvaardigde verrijking-vordering (Art. 6:212 BW)? Schatting: ~1.440 uur onbetaald werk (€108-180K). Verzwakt of versterkt opzegging deze vordering?"),
+      question("1.3", "Wat is het effect van de MO-keuze op de ongerechtvaardigde verrijking-vordering (Art. 6:212 BW)? Schatting: ~1.440 uur onbetaald werk (€108-180K). Per branch:"),
+      subpoint("Branch A/A2 (beëindigen): vordering bevriest. Verzwakt eigen opzegging het argument? Kan een voorbehoud dit voorkomen?"),
+      subpoint("Branch B (laten bestaan): vordering groeit doorlopend."),
 
       question("1.4", "Peter heeft in de meeting van 11 feb mondeling aangegeven bereid te zijn tot KTLO met voorwaarden. Niets getekend, niets schriftelijk. Is dit juridisch bindend? Kan Douwine stellen dat Peter zich hiermee heeft gecommitteerd?"),
 
-      question("1.5", "Wat moet er in een KTLO-leveranciersovereenkomst staan? Specifiek: vergoeding (vast of uurtarief?), hostingkosten (vooruit of declaratie?), aansprakelijkheidsbeperking, opzegtermijn, en opschortingsrecht bij niet-betaling."),
+      question("1.5", "Wat moet er in een KTLO-leveranciersovereenkomst staan? Specifiek: vergoeding (vast of uurtarief?), hostingkosten (vooruit of declaratie?), aansprakelijkheidsbeperking, opzegtermijn, en opschortingsrecht bij niet-betaling. Moet dit contract getekend zijn vóór Peters eerste KTLO-werkzaamheid?"),
+
+      question("1.6", "(Nieuw) Kan de vrijwaring Art. 4.2 worden \"overgedragen\" naar een nieuw KTLO-contract? Of is een vrijwaringsbepaling in het KTLO-contract juridisch een nieuwe, aparte vrijwaring (die alleen toekomstig werk dekt)?"),
+
+      question("1.7", "(Nieuw) Art. 3.1.i SHA stelt dat \"het beëindigen van de managementovereenkomst\" het kooprecht triggert. Betekent dit dat eenzijdige MO-opzegging (Branch A) het kooprecht van Freca activeert? Geldt dit ook bij bilaterale beëindiging (Branch A2) als onderdeel van een package deal waarin het kooprecht tegelijk wordt afgekocht via SHA-kwijting?"),
 
       hr(),
 
@@ -160,34 +179,43 @@ const doc = new Document({
       // ═══════════════════════════════════════════
       heading("2. SHA en akte teruglevering (6 vragen)", HeadingLevel.HEADING_1),
 
-      context("Op 10 feb 2026 ontving Peter via notaris Koops een concept akte voor teruglevering van 8 aandelen (66,7%) van Marlou aan Freca voor €1,00. De notaris eist Peters co-signering als bewijs van afstand voorkeursrecht (Art. 3.2)."),
+      context("Op 10 feb 2026 ontving Peter via notaris Koops een concept akte voor teruglevering van 8 aandelen (66,7%) van Marlou aan Freca voor €1,00. De notaris eist Peters co-signering als bewijs van afstand voorkeursrecht (Art. 3.2). De co-signering is Peters sterkste eenmalige hefboom."),
 
-      question("2.1", "Herleeft de SHA als Freca weer aandeelhouder wordt? Zo ja: wordt het non-concurrentiebeding (Art. 7: 3 jaar na levering) actief? En de boeteclausule (Art. 10: €100K + €1K/dag)?"),
+      question("2.1", "Herleeft de SHA als Freca weer aandeelhouder wordt? Zo ja: wordt het non-concurrentiebeding (Art. 7: 3 jaar na levering) actief? En de boeteclausule (Art. 10: wederkerig — Freca's schending ~€197K per 12 feb 2026)? Bovendien: Art. 2.3.c SHA vereist dat de kopende partij \"nog steeds bestuurder van de vennootschap\" is — Freca is geen bestuurder van Dinck. Is dit een verweer tegen kooprecht-uitoefening?"),
 
-      question("2.2", "Kan Peter SHA-uitsluiting bedingen als voorwaarde voor het co-signeren van de akte? Zo ja, welke formulering?"),
+      question("2.2", "Kan Peter SHA-uitsluiting bedingen als voorwaarde voor het co-signeren van de akte? Zo ja, welke formulering? Concept: \"Freca B.V. en PHBX Holding B.V. verlenen elkaar over en weer volledige en finale kwijting terzake van alle rechten en verplichtingen uit de aandeelhoudersovereenkomst d.d. 28 maart 2024.\" Alternatief: formele beëindiging SHA per Art. 1.2 (schriftelijke overeenstemming). Welk instrument is juridisch sterker?"),
 
-      question("2.3", "Kan Peter weigeren te tekenen? Wat zijn de juridische gevolgen? Moet de blokkeringsregeling (Art. 6.2 statuten) dan worden gevolgd?"),
+      question("2.3", "Kan Peter weigeren te tekenen? Wat zijn de juridische gevolgen? Moet de blokkeringsregeling (Art. 6.2 statuten) dan worden gevolgd? Verwachting: weigering is Peters goed recht en er is geen verplichting tot medewerking."),
 
       question("2.4", "Dekt de waiver uit november 2025 (Art. 3.2: \"deze levering en een mogelijke teruglevering door koper aan verkoper\") de huidige transactie juridisch, of heeft de notaris gelijk dat een nieuwe afstand nodig is?"),
 
-      question("2.5", "Na 1 maart is Peter geen bestuurder van Dinck meer — hoedanigheid (b) in de akte vervalt. Kan de akte dan nog worden gepasseerd met Douwine als enig bestuurder Dinck terwijl zij ook bestuurder Freca/koper is?"),
+      question("2.5", "Na 1 maart is Peter geen bestuurder van Dinck meer — hoedanigheid (b) in de akte vervalt. Kan de akte dan nog worden gepasseerd met Douwine als enig bestuurder Dinck terwijl zij ook bestuurder Freca/koper is? Art. 2:239 lid 6 BW tegenstrijdig belang — hoe beoordeelt de notaris dit?"),
 
-      question("2.6", "Package deal: kan Peter co-signering koppelen aan gelijktijdige aandelenoverdracht Peters aandelen + SHA-kwijting + KTLO-overeenkomst + wederzijdse kwijting?"),
+      question("2.6", "Package deal: vier documenten simultaan — vaststellingsovereenkomst (Art. 7:900 BW) + KTLO-leveranciersovereenkomst + akte teruglevering + akte overdracht Peters aandelen. Specifieke vragen:"),
+      subpoint("Kan de vaststellingsovereenkomst een opschortende voorwaarde bevatten (Art. 6:21 BW) dat afspraken pas definitief worden na passering van beide notariële aktes?"),
+      subpoint("Kan de notaris de akte teruglevering in escrow houden totdat Peters aandelenoverdracht is afgerond?"),
+      subpoint("Kan betaling in termijnen worden geregeld met zekerheid (pandrecht, bankgarantie) als Dinck/Freca onvoldoende middelen heeft?"),
 
       hr(),
 
       // ═══════════════════════════════════════════
       // SECTIE 3: STRATEGIE
       // ═══════════════════════════════════════════
-      heading("3. Strategie (3 vragen)", HeadingLevel.HEADING_1),
+      heading("3. Strategie (6 vragen)", HeadingLevel.HEADING_1),
 
-      context("Sommatiebrief (€100K boete kettingbeding) in voorbereiding maar on hold na meeting 11 feb. Peter bereid tot onderhandeling."),
+      context("Sommatiebrief (€100K boete kettingbeding) in voorbereiding maar on hold na meeting 11 feb. Peter bereid tot onderhandeling. Aanbevolen strategie: vaststellingsvoorstel als Plan A, sommatiebrief als Plan B."),
 
-      question("3.1", "Sommatiebrief (€100K boete kettingbeding Art. 9+10 SHA): nu versturen, of achter de hand houden als drukmiddel voor de onderhandeling over KTLO-voorwaarden en co-signering akte?"),
+      question("3.1", "Sommatiebrief vs. vaststellingsvoorstel: wij adviseren om eerst een vaststellingsvoorstel (package deal) te sturen, en de sommatiebrief achter de hand te houden als Plan B. Is dit strategisch correct? Of is het effectiever om de sommatiebrief gelijktijdig te versturen als drukverhoging?"),
 
       question("3.2", "Art. 3.1 MO schending (ongelijke behandeling fees — alleen PHBX's fee formeel gewijzigd, niet Freca's): bruikbaar als onderhandelingsargument? Loopt Freca's fee van €8.000/maand juridisch nog steeds door?"),
 
-      question("3.3", "Aflossing 28 maart (~€55-75K): Dinck kan niet betalen, wat leidt tot automatisch verzuim (Art. 11.2 leningsovereenkomst). Wat zijn de gevolgen als Freca niet onmiddellijk opeist — stilzwijgende acceptatie? Peter is na 1 maart geen bestuurder meer."),
+      question("3.3", "Aflossing 28 maart (~€55-75K): Dinck kan niet betalen → automatisch verzuim (Art. 11.2). Peter is na 1 maart geen bestuurder meer — geen aansprakelijkheidsrisico. Maar: wat zijn de gevolgen als Freca niet onmiddellijk opeist? Is dit stilzwijgende acceptatie? Kan Douwine het verzuim later selectief inroepen? Art. 6:248 lid 2 BW als verweer?"),
+
+      question("3.4", "(Nieuw — aandelenprijs) Wat is een verdedigbare \"gewenste prijs\" voor Peters 33,3% aandelen? De nominale boekwaarde is negatief (schulden >€612K), maar Peter levert strategische waarde in: kwijtschelding ~€197K SHA-boete, deblokkade vetorecht, co-signering akte, KTLO-bereidheid. Kan de prijs worden geframed als verrekening (Peters vorderingen minus billijke bijdrage aan schulden) in plaats van als aandelenprijs?"),
+
+      question("3.5", "(Nieuw — vaststellingsvoorstel) Kan de jurist het vaststellingsvoorstel opstellen? Gewenste elementen: package deal (4 documenten simultaan), redelijke reactietermijn (2-3 weken), constructieve maar zakelijke toon. Kosten en doorlooptijd?"),
+
+      question("3.6", "(Nieuw — Art. 2:343 timing) Als de package deal mislukt: wanneer is het strategisch optimaal om Art. 2:343 BW (uittreding vorderen) in te dienen? Vóór of na de aflossingsdefault van 28 maart? Vóór of na het versturen van de sommatiebrief? Het dossier (14 uitsluitingsincidenten, financieringsstop, structurele buitensluiting) is sterk — maar timing bepaalt het effect."),
 
       hr(),
 
@@ -212,6 +240,10 @@ const doc = new Document({
           new TableRow({ children: [cell("Memo jurist 11 feb 2026", 4000), cell("memo-jurist-11feb2026.md", 5360)] }),
           new TableRow({ children: [cell("Meeting 11 feb + KTLO", 4000), cell("meeting-11feb-analyse.md", 5360)] }),
           new TableRow({ children: [cell("Grady Hofstra triple role", 4000), cell("grady-hofstra-dynamiek.md", 5360)] }),
+          new TableRow({ children: [cell("MO beslisboom (4 branches)", 4000), cell("mo-beslisboom.md", 5360)] }),
+          new TableRow({ children: [cell("Akte tekenvoorwaarden", 4000), cell("akte-tekenvoorwaarden.md", 5360)] }),
+          new TableRow({ children: [cell("Package deal structurering", 4000), cell("package-deal-structuring.md", 5360)] }),
+          new TableRow({ children: [cell("Post-1-maart positionering", 4000), cell("post-1-maart-positionering.md", 5360)] }),
         ]
       }),
 
