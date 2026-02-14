@@ -151,6 +151,22 @@ Zelfs als de boete wordt gematigd naar ~€50-75K, is dit nog steeds een **subst
 | **Verschillende rechtshandelingen** | November: Freca → Marlou. Februari: Marlou → Freca. Dit zijn verschillende leveringen met verschillende partijconstellaties | **STERK** |
 | **Functioneel argument** | Het voorkeursrecht (Art. 3.2 statuten) beschermt de aandeelhouder bij ELKE overdracht. Elke levering vereist een afzonderlijke afstand. | **STERK** |
 
+### Impact-beperking: Wat als dit verweer slaagt?
+
+Zelfs als Douwine's waiver-argument juridisch standhoudt (20-30% kans), is de **feitelijke impact beperkt**: de co-signering is slechts één van vijf onafhankelijke hefbomen. De overige vier worden niet geraakt:
+
+| Hefboom | Geraakt door waiver? | Grondslag |
+|---------|---------------------|-----------|
+| Co-signering akte | ❌ Ja — vervalt | Notarieel/statutair |
+| Vetorecht Art. 8.6 lid 2 | ✅ Nee — intact | Statutair (unanimiteit) |
+| €100K boete SHA Art. 10 | ✅ Nee — intact | Contractueel (kettingbeding) |
+| Platformafhankelijkheid / KTLO | ✅ Nee — intact | Feitelijk |
+| Ongerechtvaardigde verrijking | ✅ Nee — intact | Wettelijk (Art. 6:212 BW) |
+
+**Strategische implicatie**: Het voeren van de waiver-discussie levert Douwine, zelfs bij winst, minimaal strategisch voordeel op. Het vetorecht alleen al blokkeert elke eenzijdige actie. Dit verzwakt Douwine's incentive om op dit punt door te vechten — en versterkt Peters positie in de onderhandeling, ongeacht de juridische uitkomst op de waiver.
+
+Zie `analyse/akte-tekenvoorwaarden.md` §1.5 voor de volledige onafhankelijkheidsanalyse.
+
 ### Volledige analyse
 
 Zie `analyse/akte-tekenvoorwaarden.md` §1.2 voor de uitgebreide waiver-vergelijking.

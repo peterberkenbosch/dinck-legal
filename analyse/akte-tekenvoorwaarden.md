@@ -72,6 +72,29 @@ De getekende akte van 7 november 2025 bevat in Art. 3.2 een bredere waiver dan d
 
 **Conclusie**: De co-signering is de enige hefboom die bij gebruik verdwijnt. Dit maakt het de meest waardevolle onderhandlingsmunt — alleen inzetten als de volledige tegenprestatie geregeld is.
 
+### 1.5 Onafhankelijkheid Hefbomen: Wat Als de Waiver Slaagt?
+
+**Kernvraag**: Als Douwine's november-waiver argument juridisch slaagt (§1.2, kans 20-30%) en de co-signering als hefboom wegvalt — hoe sterk is Peters positie dan nog?
+
+**Antwoord**: De co-signering is slechts **één van vijf hefbomen**. De overige vier zijn volledig onafhankelijk van de waiver-kwestie:
+
+| # | Hefboom | Afhankelijk van waiver? | Status als waiver slaagt | Grondslag |
+|---|---------|------------------------|--------------------------|-----------|
+| 1 | **Co-signering akte** | **JA** | ❌ Vervalt | Art. 3.2 statuten / notarieel |
+| 2 | **Vetorecht Art. 8.6 lid 2** | **NEE** | ✅ Volledig intact | Statutair — kan niet worden omzeild |
+| 3 | **€100K boete SHA (Art. 10)** | **NEE** | ✅ Volledig intact | Contractueel (SHA) — los van elke akte |
+| 4 | **Platformafhankelijkheid / KTLO** | **NEE** | ✅ Volledig intact | Feitelijk — Peter is de enige die het platform kan onderhouden |
+| 5 | **Ongerechtvaardigde verrijking** | **NEE** | ✅ Volledig intact | Wettelijk (Art. 6:212 BW) — groeit in de tijd |
+
+**Waarom dit belangrijk is**:
+
+- Het vetorecht (Art. 8.6 lid 2) is **statutair verankerd** en overleeft elke waiver-discussie. Douwine kan geen enkel AVA-besluit nemen zonder Peters instemming — ongeacht of de akte teruglevering wel of niet wordt gepasseerd.
+- De €100K boete (Art. 10 SHA) berust op Freca's schending van het kettingbeding (Art. 9) bij de overdracht aan Marlou in november 2025. Dit staat volledig los van de vraag of Peter nu wel of niet hoeft mee te tekenen.
+- De platformafhankelijkheid is een feitelijke realiteit: zonder Peters KTLO degradeert het platform. Geen juridisch argument van Douwine verandert dit.
+- De verrijkingsvordering groeit elke maand dat Peter voor €0 werkt. De waiver-uitkomst heeft hierop nul effect.
+
+**Conclusie**: Het verlies van de co-signering hefboom (worst case §1.2) elimineert slechts **één van vijf hefbomen**. Peters onderhandelingspositie blijft overwegend sterk. Dit verzwakt ook Douwine's incentive om de waiver-discussie te voeren — zelfs als zij die wint, verandert de fundamentele onderhandelingsdynamiek niet.
+
 ---
 
 ## 2. Niet-Onderhandelbare Voorwaarden (Non-Negotiables)
@@ -337,7 +360,7 @@ Peter's positie als Douwine weigert:
 
 | Aspect | Bevinding |
 |--------|-----------|
-| **Co-signering = one-shot lever** | Eenmalig, exclusief, onvervangbaar. Alleen inzetten als volledige tegenprestatie geregeld is. ⚠️ **Douwine betwist exclusiviteit** — beweert november-waiver dekt teruglevering (zie §1.2). Juridische beoordeling noodzakelijk. |
+| **Co-signering = one-shot lever** | Eenmalig, exclusief, onvervangbaar. Alleen inzetten als volledige tegenprestatie geregeld is. ⚠️ **Douwine betwist exclusiviteit** — beweert november-waiver dekt teruglevering (zie §1.2). Juridische beoordeling noodzakelijk. **Maar zelfs als waiver slaagt**: slechts één van vijf hefbomen verloren — vier onafhankelijke hefbomen blijven intact (zie §1.5). |
 | **Vier non-negotiables** | SHA-kwijting, simultane aandelenoverdracht, KTLO-contract, wederzijdse kwijting |
 | **MO-beëindiging via Art. 5.2** | Bilateraal, geen opzegtermijn, voorwaarden koppelbaar (nawerking vrijwaring, finale afrekening) |
 | **Art. 3.1.i SHA — nieuwe ontdekking** | MO-beëindiging triggert kooprecht. Versterk: MO niet eenzijdig opzeggen. |
