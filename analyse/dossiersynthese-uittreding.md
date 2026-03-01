@@ -1,6 +1,6 @@
 # Dossiersynthese — Uittreding Peter Berkenbosch / PHBX Holding B.V. uit Dinck B.V.
 
-**Datum**: 11 februari 2026 (bijgewerkt)
+**Datum**: 11 februari 2026 (bijgewerkt 1 maart 2026 — bestuurdersontslag geëffectueerd)
 **Opgesteld voor**: Legal Advice Wanted B.V. (J.H.M.E. van der Zee + mr. T.B. Peters) via Omnius (zaak #547764)
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
 **Doel**: Volledig overzicht van de juridische positie, feiten en strategische opties in één document
@@ -30,7 +30,7 @@ Peter Berkenbosch (PHBX Holding B.V., 33,3% aandeelhouder) treedt per 1 maart 20
 ```
 Peter Berkenbosch (persoonlijk)
     └─ PHBX Holding B.V. (KvK 75861097, Oosterwolde)
-         └─ 33,3% aandeelhouder + bestuurder Dinck B.V. (tot 1 mrt 2026)
+         └─ 33,3% aandeelhouder Dinck B.V. (bestuurder afgetreden per 1 mrt 2026; KvK-uitschrijving ingediend)
 
 Douwine Koopman (persoonlijk)
     ├─ Freca B.V. (voormalig aandeelhouder; schuldeiser €466K via RC + MO)
@@ -52,7 +52,7 @@ Marlou Woltmeijer (persoonlijk)
 | Activiteit | SaaS-platform kinderopvangsector |
 | ARR | €6.396,60 (december 2025) |
 | Werknemers | Ja (salarissen gefinancierd via VDenD) |
-| Bestuurders | PHBX Holding B.V. (tot 1 mrt 2026) + Douwine Koopman |
+| Bestuurders | ~~PHBX Holding B.V.~~ (afgetreden per 1 mrt 2026) + Douwine Koopman (enig bestuurder) |
 
 ### 2.3 De schijnconstructie (aandelenoverdracht Freca → Marlou)
 
@@ -433,7 +433,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 | **~week 12-14 feb** | KTLO-voorwaarden opstellen | Met juridische begeleiding |
 | **Nader te bepalen** | Sommatiebrief | On hold — als drukmiddel achter de hand bij afwijzing package deal |
 | **Onderhandeling** | Package deal: co-signering + KTLO + aandelen + kwijting | In ruil voor SHA-uitsluiting + faire prijs + afstand non-concurrentie |
-| **1 mrt 2026** | Bestuurdersontslag effectief | KvK-uitschrijving indienen |
+| **1 mrt 2026** | ✅ Bestuurdersontslag effectief — KvK-uitschrijving ingediend (ref. 93428359-20260301-O001, DigiD 09:12 CET) | Bevestigingsmail aan Douwine/Marlou |
 | **28 mrt 2026** | Eerste aflossing lening (~€55-75K) | Dinck kan niet betalen → automatisch verzuim. Na 1 maart: niet Peters bestuurdersaansprakelijkheid. |
 | **Reserve** | Procedure Art. 2:343 of 2:345 BW | Indien onderhandeling faalt |
 
@@ -459,17 +459,17 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 - [ ] Sommatiebrief **achter de hand** als Plan B bij afwijzing package deal
 - [ ] Concept akte teruglevering: geen medewerking zonder tegenprestatie (co-signering = hefboom)
 
-### 11.3 Vóór 1 maart
+### 11.3 Vóór 1 maart (deadline verstreken)
 
 - [ ] Openstaande juridische vragen afstemmen met jurist (Legal Advice Wanted B.V.)
 - [ ] D&O-verzekering controleren
 - [ ] Jaarrekening 2024 deponering verifiëren
 - [ ] Onbetaalde werkuren documenteren (retroactief logboek)
-- [ ] KvK-uitschrijving voorbereiden
+- [x] KvK-uitschrijving ingediend (1 mrt 2026, ref. 93428359-20260301-O001) - zie `files/Opgave-93428359-20260301-O001.pdf`
 
-### 11.4 Na 1 maart
+### 11.4 Na 1 maart — NU ACTIEF
 
-- [ ] KvK-uitschrijving indienen
+- [x] KvK-uitschrijving ingediend (1 maart 2026)
 - [ ] **Geen KTLO zonder schriftelijke overeenkomst** — anders werkt Peter opnieuw gratis
 - [ ] Formele bevestiging aandeelhouderstatus aan Marlou
 - [ ] Art. 2:217 BW informatieverzoek (indien geen voortgang)

@@ -1,6 +1,6 @@
 # Dinck B.V. - Strategische Paraatheid Beoordeling
 
-**Datum**: 6 februari 2026 (bijgewerkt 11 februari 2026 n.a.v. memo jurist)
+**Datum**: 6 februari 2026 (bijgewerkt 1 maart 2026 — bestuurdersontslag geëffectueerd)
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
 **Doel**: Voorbereiding op consultatie met advocaat
 
@@ -49,7 +49,7 @@
 | **Geen schriftelijke KTLO/werkafspraak** | GEMIDDELD | Al het huidige werk is goodwill zonder contractuele bescherming |
 | **Beperkt procesbudget** | GEMIDDELD | Beïnvloedt strategie: onderhandeling/druk heeft de voorkeur boven gerechtelijke procedures |
 | **Informatie-asymmetrie** | GEMIDDELD | Geen formele informatieafspraak; alleen wettelijke Art. 2:217 BW rechten na aftreden |
-| **KvK toont Peter nog als bestuurder** | LAAG-GEM | Aansprakelijk als schijnbaar bestuurder totdat uitgeschreven; geplande uitschrijving per 1 maart is in orde |
+| ~~**KvK toont Peter nog als bestuurder**~~ | ~~LAAG-GEM~~ ✅ OPGELOST | KvK-uitschrijving ingediend 1 mrt 2026 (ref. 93428359-20260301-O001, DigiD). Zie `files/Opgave-93428359-20260301-O001.pdf` |
 | **Douwine's stilzwijgen** | LAAG | Raadpleegt mogelijk eigen advocaat; stilzwijgen op zichzelf is niet problematisch |
 | **MO auto-terminatie risico (Rb Rotterdam aug 2024)** | GEMIDDELD | ECLI:NL:RBROT:2024:9160 oordeelde dat bestuurdersontslag MO automatisch beëindigde. Als dit geldt voor Peters MO: vrijwaring Art. 4.2 vervalt per 1 maart, verrijkingsvordering bevriest. Counter: Peters MO heeft expliciete Art. 5.1/5.2; HR onderscheidt BW Boek 2 vs Boek 6. Vraag 1.8 aan jurist. Zie `analyse/tegenargumenten-douwine.md` §1 |
 | **Ongerechtvaardigde verrijking — vrijwillige instemming** | GEMIDDELD | Peter tekende AVA-besluit 30 nov 2024 + addendum 31 dec 2024 = argument "vrijwillig geaccepteerd." Counter: expliciet tijdelijk ("indien opbrengsten op voldoende niveau"), getekend 12 dagen na fee-stop (economische dwang), gewijzigde omstandigheden, HR juni 2024. Zie `analyse/tegenargumenten-douwine.md` §2 |
@@ -217,9 +217,9 @@ Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 14 kernvrag
 
 ---
 
-## 6. Checklist na 1 maart
+## 6. Checklist na 1 maart — NU ACTIEF
 
-- [ ] Uitschrijven als bestuurder bij KvK (kan zelf via formulier 13)
+- [x] Uitschrijven als bestuurder bij KvK — ingediend 1 mrt 2026 (wijzigingsformulier ref. 93428359-20260301-O001, DigiD 09:12 CET). Zie `files/Opgave-93428359-20260301-O001.pdf`
 - [ ] Formele kennisgeving aan Marlou met bevestiging aandeelhouderstatus en informatierechten
 - [ ] Alle werkzaamheden staken tenzij contractuele afspraak bereikt
 - [ ] Eerste Art. 2:217 BW informatieverzoek versturen (kwartaalcijfers, klantgegevens, schuldpositie)

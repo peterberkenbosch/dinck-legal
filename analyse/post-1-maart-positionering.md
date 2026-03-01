@@ -1,8 +1,9 @@
 # Post-1-Maart Positionering — Tijdlijn en Actiematrix
 
-**Datum analyse**: 12 februari 2026
+**Datum analyse**: 12 februari 2026 (bijgewerkt 1 maart 2026 — bestuurdersontslag nu geëffectueerd)
 **Bouwt voort op**: `analyse/package-deal-structuring.md`, `analyse/mo-beslisboom.md`, `analyse/akte-tekenvoorwaarden.md`, `analyse/worst-case-scenarios.md`, `analyse/memo-jurist-11feb2026.md`
 **Kalenderverificatie**: 1 maart 2026 = zondag, 28 maart 2026 = zaterdag
+**Status**: ✅ **BESTUURDERSONTSLAG GEËFFECTUEERD** — KvK-uitschrijving ingediend en digitaal ondertekend op 1 maart 2026 (ref. 93428359-20260301-O001). Zie `files/Opgave-93428359-20260301-O001.pdf`
 
 ---
 
@@ -23,7 +24,7 @@
 | **Vrijwaring Art. 4.2 MO** | Ja | **Ja** — zolang MO niet opgezegd | MO |
 | **Hoedanigheid (b) akte** | Ja — kan tekenen als bestuurder Dinck | **Nee** — kan niet meer tekenen als bestuurder Dinck | Concept akte Art. 7 |
 | **Hoedanigheid (a) akte** | Ja — waiver als aandeelhouder | **Ja** — ongewijzigd | Concept akte Art. 3.2 |
-| **KvK-inschrijving** | Bestuurder | Moet worden uitgeschreven | KvK |
+| **KvK-inschrijving** | Bestuurder | ✅ **Uitgeschreven** (1 mrt 2026, ref. 93428359-20260301-O001) | KvK |
 | **Tekenbevoegdheid Dinck** | Ja | **Nee** — geen vertegenwoordiging meer | BW Boek 2 |
 | **Toegang bankrekening Dinck** | Via tekenbevoegdheid | **Vervalt** | Praktisch |
 | **Co-signering akte (leverage)** | ✅ Actief | ✅ **Actief** — notaris heeft Peters handtekening nodig | Akte Art. 3.2 |
@@ -54,7 +55,7 @@
 | 4 | **Alle bestanden/documenten veiligstellen** — eigen kopie van alles waar Peter toegang toe heeft | 28 feb | Te doen | HOOG |
 | 5 | **D&O-verzekering checken** — heeft Dinck een bestuurders­aansprakelijkheids­verzekering? | 28 feb | Te doen | MEDIUM |
 | 6 | **Jaarrekening 2024 deponering verifiëren** — Art. 2:248 lid 2 bewijsvermoeden als niet tijdig | 28 feb | Te doen | MEDIUM |
-| 7 | **KvK-uitschrijving voorbereiden** — formulier klaarleggen voor 2 maart (maandag) | 28 feb | Te doen | MEDIUM |
+| 7 | **KvK-uitschrijving** — ingediend en ondertekend via DigiD op 1 maart 2026 | 1 mrt | ✅ AFGEROND | MEDIUM |
 | 8 | **Niet tekenen** — geen akte, geen KTLO, geen enkel document zonder juridisch advies | Doorlopend | Actief | **KRITIEK** |
 | 9 | **Niet beginnen met KTLO** — geen enkel werk zonder schriftelijk contract | Doorlopend | Actief | **KRITIEK** |
 | 10 | **Geen schriftelijke toezeggingen** — niet per e-mail, niet per app | Doorlopend | Actief | **KRITIEK** |
@@ -71,14 +72,14 @@
 
 ## 3. Week-voor-Week Actieplan (1 Maart — 30 April 2026)
 
-### Week 0: 1-2 maart (zondag-maandag)
+### Week 0: 1-2 maart (zondag-maandag) — NU ACTIEF
 
-| Actie | Toelichting |
-|-------|-------------|
-| **Bevestigingsmail aan Douwine/Marlou** | "Per vandaag, 1 maart 2026, ben ik geen bestuurder meer van Dinck B.V. Ik verwijs naar mijn ontslagbrief d.d. 30 januari 2026." |
-| **KvK-uitschrijving indienen** | Maandag 2 maart. Zelf doen als Douwine dit niet doet — Peter kan eigen uitschrijving als bestuurder regelen. |
-| **STOP alle werkzaamheden** | Tenzij KTLO-overeenkomst is getekend (onwaarschijnlijk per 1 maart). Geen hosting-monitoring, geen bugfixes, niets. |
-| **Geen toegang meer** | Bankrekening, eventuele Dinck-e-mail, inloggegevens — niet meer gebruiken. |
+| Actie | Toelichting | Status |
+|-------|-------------|--------|
+| **KvK-uitschrijving ingediend** | 1 maart 2026, digitaal ondertekend via DigiD om 09:12 CET (ref. 93428359-20260301-O001) | ✅ AFGEROND |
+| **Bevestigingsmail aan Douwine/Marlou** | "Per vandaag, 1 maart 2026, ben ik geen bestuurder meer van Dinck B.V. Ik verwijs naar mijn ontslagbrief d.d. 30 januari 2026." | TE DOEN |
+| **STOP alle werkzaamheden** | Tenzij KTLO-overeenkomst is getekend (onwaarschijnlijk per 1 maart). Geen hosting-monitoring, geen bugfixes, niets. | ACTIEF |
+| **Geen toegang meer** | Bankrekening, eventuele Dinck-e-mail, inloggegevens — niet meer gebruiken. | ACTIEF |
 
 ### Week 1: 2-7 maart
 

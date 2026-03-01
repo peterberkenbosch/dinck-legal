@@ -1,6 +1,6 @@
 # Dossier Dinck B.V. — Bestandsoverzicht
 
-**Bijgewerkt**: 11 februari 2026
+**Bijgewerkt**: 1 maart 2026
 
 ---
 
@@ -91,6 +91,7 @@
 | `nota_2600339.2_Koper_1078718_10-02-2026_10-02-2026_10-46-12.pdf` | Nota van afrekening Freca B.V. (koper): €788,59 te betalen |
 | `nota_2600339.3_Verkoper_1078718_10-02-2026_10-02-2026_10-46-27.pdf` | Nota van afrekening M. Gorter-Woltmeijer (verkoper): €1,00 te ontvangen |
 | `01-02-2026_KVK_uittreksel_UBO-93428359.pdf` | KvK-uittreksel (1 feb 2026) |
+| `Opgave-93428359-20260301-O001.pdf` | KvK-wijzigingsformulier: uitschrijving PHBX Holding als bestuurder Dinck B.V. per 1 mrt 2026 (DigiD ondertekend) |
 
 ### Correspondentie & Financieel
 

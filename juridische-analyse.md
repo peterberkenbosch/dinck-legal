@@ -166,7 +166,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 ### Scenario A: Douwine laat Dinck failliet gaan
 
 **Risico**:
-- Jij bent bestuurder tot 1 maart — mogelijk aansprakelijk voor periode tot dan
+- ~~Jij bent bestuurder tot 1 maart~~ — Per 1 maart 2026 afgetreden (KvK-uitschrijving ingediend). Mogelijk aansprakelijk voor handelingen tijdens bestuursperiode.
 - Na 1 maart: alleen aandelenwaarde kwijt
 
 **Mitigatie**:

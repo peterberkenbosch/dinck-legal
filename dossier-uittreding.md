@@ -1,6 +1,6 @@
 # Dossier Uittreding Dinck B.V.
 
-**Bijgewerkt**: 11 februari 2026
+**Bijgewerkt**: 1 maart 2026
 
 ## 1. Situatieschets
 
@@ -9,7 +9,7 @@
 | Partij | KvK | Rol | Aandelen |
 |--------|-----|-----|----------|
 | Dinck B.V. | [invullen] | De vennootschap | n.v.t. |
-| PHBX Holding B.V. | 75861097 | Aandeelhouder + bestuurder (tot 1 mrt 2026) | 4 (33,3%) |
+| PHBX Holding B.V. | 75861097 | Aandeelhouder ~~+ bestuurder~~ (afgetreden per 1 mrt 2026; KvK-uitschrijving ingediend) | 4 (33,3%) |
 | Marlou Woltmeijer | n.v.t. (privé) | Aandeelhouder sinds 7 nov 2025 | 8 (66,7%) |
 | Freca B.V. | [invullen] | Holding Douwine, voormalig aandeelhouder | 0 |
 | Voor Dag en Dou B.V. | [invullen] | Kinderopvang Douwine, financier Dinck | n.v.t. |
@@ -259,7 +259,7 @@ Op 10 februari ontving Peter via notaris Koops een concept akte voor de teruglev
 
 ### 5.1 Peters Standpunten
 
-1. **Ontslag bestuurder** - Non-negotiable, per 1 maart 2026
+1. **Ontslag bestuurder** - ✅ Geëffectueerd per 1 maart 2026 (KvK-uitschrijving ingediend en ondertekend via DigiD)
 2. **Volledige exit** - Doel is volledig vertrek uit Dinck (aandelenoverdracht of uittreding via rechter)
 3. **Geen leveranciersrol** - Geen korting, geen gratis KTLO. Indien werk: vol markttarief (€125/uur)
 4. **Infrastructuurkosten** doorbelasten aan Dinck
@@ -554,7 +554,7 @@ De jurist adviseert een offensieve strategie in plaats van afwachten:
 
 - [x] Getekende notariële akte verkregen (6 feb 2026) - zie `analyse/notariele-akte-analyse.md`
 - [x] KvK uittreksel bewaard (1 feb 2026) - zie `files/01-02-2026_KVK_uittreksel_UBO-93428359.pdf`
-- [ ] KvK-uitschrijving voorbereiden (formulier 17a)
+- [x] KvK-uitschrijving ingediend (1 maart 2026, wijzigingsformulier ref. 93428359-20260301-O001, digitaal ondertekend via DigiD 09:12 CET) - zie `files/Opgave-93428359-20260301-O001.pdf`
 - [ ] KTLO-scope document delen indien nodig
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee / Legal Advice Wanted B.V.) — memo ontvangen 11 feb, zie `analyse/memo-jurist-11feb2026.md`
 - [x] Brief financiële zorgen verzonden (8 feb 2026) - zie `concepten/brief-financiele-zorgen.md`
@@ -570,7 +570,7 @@ De jurist adviseert een offensieve strategie in plaats van afwachten:
 
 ### Na 1 maart 2026
 
-- [ ] KvK-uitschrijving indienen
-- [ ] Bevestigen geen bestuurder meer
+- [x] KvK-uitschrijving ingediend (1 maart 2026) - zie `files/Opgave-93428359-20260301-O001.pdf`
+- [ ] Bevestigingsmail aan Douwine/Marlou: "Per 1 maart 2026 ben ik geen bestuurder meer"
 - [ ] Informatierechten art. 2:217 BW uitoefenen
 - [ ] Infrastructuurkosten factureren aan Dinck
