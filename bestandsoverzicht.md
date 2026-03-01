@@ -39,6 +39,14 @@
 | `voorkeursrecht-strategische-analyse.md` | Beslisboom: 5 opties voor Peters voorkeursrecht (met SHA-herlevingsrisico per optie) |
 | `sha-herleving-analyse.md` | SHA-herleving verdiept: beëindigingsanalyse (7 routes), Art. 9 tegenvordering, Art. 6:248 verdediging, schijnconstructie-analyse |
 | `meeting-11feb-analyse.md` | Meeting 11 feb: gespreksverslag, KTLO-structurering, SHA-impact, aflossing, package deal strategie |
+| `mo-beslisboom.md` | Beslisboom managementovereenkomst: opzeggen vs laten doorlopen |
+| `post-1-maart-positionering.md` | Post-1 maart actieplan: week-voor-week positionering als aandeelhouder |
+| `akte-tekenvoorwaarden.md` | Voorwaarden voor ondertekening akte teruglevering aandelen |
+| `package-deal-structuring.md` | Package deal structurering: co-signering + KTLO + aandelen + kwijting |
+| `settlement-range-analyse.md` | Settlement range: onderhandelingsruimte aandelenwaardering |
+| `tegenargumenten-douwine.md` | Red team: verwachte tegenargumenten Douwine en counters |
+| `wagevoe-art343-analyse.md` | Wagevoe-hervorming Art. 2:343 BW: uittreding geschillenregeling |
+| `doorstart-via-faillissement-analyse.md` | Doorstart via faillissement: scenario-analyse bankruptcy restart |
 
 ---
 
@@ -58,6 +66,8 @@
 | `presentatie-advies-11feb.md` | Non-verbale presentatie-adviezen meeting 11 feb | Achterhaald (meeting heeft plaatsgevonden) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
+| `bevestigingsmail-1maart.md` | Bevestigingsmail aftreden bestuurder per 1 maart 2026 | Concept (1 mrt 2026) |
+| `informatieverzoek-art217-1maart.md` | Informatieverzoek Art. 2:217 BW — 6 categorieën, deadline 15 maart | Concept (1 mrt 2026) |
 
 ---
 
@@ -135,3 +145,5 @@ Eerder gegenereerde .docx versies van conceptdocumenten. Gegenereerd via `genera
 | `Presentatie_Advies_11Feb.docx` | `concepten/presentatie-advies-11feb.md` |
 | `Vragen_Maud_van_der_Zee.docx` | `vragen-advocaat-maud.md` |
 | `legal-consult-questions.docx` | Verouderd — vervangen door `Vragen_Maud_van_der_Zee.docx` |
+| `Bevestiging_Aftreden_Bestuurder_1Maart2026.docx` | `concepten/bevestigingsmail-1maart.md` |
+| `Informatieverzoek_Art217_1Maart2026.docx` | `concepten/informatieverzoek-art217-1maart.md` |
