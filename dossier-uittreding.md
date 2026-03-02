@@ -556,6 +556,7 @@ De jurist adviseert een offensieve strategie in plaats van afwachten:
 - [x] KvK uittreksel bewaard (1 feb 2026) - zie `files/01-02-2026_KVK_uittreksel_UBO-93428359.pdf`
 - [x] KvK-uitschrijving ingediend (1 maart 2026, wijzigingsformulier ref. 93428359-20260301-O001, digitaal ondertekend via DigiD 09:12 CET) - zie `files/Opgave-93428359-20260301-O001.pdf`
 - [ ] KTLO-scope document delen indien nodig
+- [x] KTLO-overeenkomst concept opgesteld (2 maart 2026) — Consultancy B.V. ↔ Dinck B.V., zie `concepten/ktlo-overeenkomst.md`
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee / Legal Advice Wanted B.V.) — memo ontvangen 11 feb, zie `analyse/memo-jurist-11feb2026.md`
 - [x] Brief financiële zorgen verzonden (8 feb 2026) - zie `concepten/brief-financiele-zorgen.md`
 - [x] Meeting woensdag 11 feb bevestigd per email (8 feb 2026)
@@ -565,7 +566,7 @@ De jurist adviseert een offensieve strategie in plaats van afwachten:
 - [x] **Memo jurist ontvangen** (11 feb 2026) — Legal Advice Wanted B.V., 3 pijlers: kettingbeding €100K boete, vetorecht, bestuurdersaansprakelijkheid. Conclusie: Peters positie overwegend veilig, offensieve strategie gerechtvaardigd. Zie `analyse/memo-jurist-11feb2026.md`
 - [x] **Meeting 11 feb**: afgemeld op advies jurist, maar alsnog bijgewoond. KTLO-voorstel. Peter bereid met voorwaarden. Niets getekend. Zie `analyse/meeting-11feb-analyse.md`
 - [ ] **Sommatiebrief on hold** — achter de hand als Plan B bij afwijzing package deal
-- [ ] **KTLO-voorwaarden opstellen** met juridische begeleiding (leveranciersovereenkomst)
+- [x] **KTLO-voorwaarden opstellen** — concept overeenkomst gereed (`concepten/ktlo-overeenkomst.md`), juridische review nog nodig
 - [ ] **Package deal onderhandelen**: co-signering akte + KTLO + aandelen overdracht + kwijting
 
 ### Na 1 maart 2026

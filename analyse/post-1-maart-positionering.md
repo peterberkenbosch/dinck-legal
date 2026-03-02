@@ -85,6 +85,7 @@
 
 | Actie | Toelichting |
 |-------|-------------|
+| **KTLO-overeenkomst concept gereed** | ✅ Concept Overeenkomst van Dienstverlening opgesteld. Peter Berkenbosch Consultancy B.V. als opdrachtnemer, 12 artikelen, scope/hosting/opschorting geregeld. Zie `concepten/ktlo-overeenkomst.md`. Nog niet gedeeld — eerst juridisch laten beoordelen. |
 | **Schriftelijke bevestiging hosting** | Als Peter hostingkosten vooruit heeft betaald: schriftelijke sommatie aan Dinck voor terugbetaling. Als hosting op Peters naam draait: formele melding dat hosting per [datum] wordt stopgezet tenzij Dinck overname regelt. |
 | **Formeel Art. 2:217 BW informatieverzoek** | ✅ VERZONDEN 2 maart 2026. 6 categorieën: jaarrekening 2025, tussentijdse cijfers, schuldpositie, liquiditeit, salarisverplichtingen, aflossing 28 maart. Deadline 16 maart. |
 | **Afwachten** | Eerste reacties Douwine op Peters vertrek. Geen initiatief nemen richting haar — laat haar komen. |

@@ -65,7 +65,8 @@
 | `email-afmelding-meeting-11feb.md` | Afmelding meeting 11 feb — op advies jurist (aan Douwine, Marlou, CC Grady) | Verzonden 11 feb 2026 |
 | `presentatie-advies-11feb.md` | Non-verbale presentatie-adviezen meeting 11 feb | Achterhaald (meeting heeft plaatsgevonden) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
-| `ktlo-scope.md` | KTLO scope definitie | |
+| `ktlo-scope.md` | KTLO scope definitie | Bijgewerkt 2 mrt 2026 |
+| `ktlo-overeenkomst.md` | Overeenkomst van Dienstverlening KTLO — Peter Berkenbosch Consultancy B.V. ↔ Dinck B.V. | Concept |
 | `bevestigingsmail-2maart.md` | Bevestigingsmail aftreden bestuurder per 1 maart 2026 | Verzonden 2 mrt 2026 |
 | `informatieverzoek-art217-2maart.md` | Informatieverzoek Art. 2:217 BW — 6 categorieën, deadline 16 maart | Verzonden 2 mrt 2026 |
 
@@ -147,3 +148,4 @@ Eerder gegenereerde .docx versies van conceptdocumenten. Gegenereerd via `genera
 | `legal-consult-questions.docx` | Verouderd — vervangen door `Vragen_Maud_van_der_Zee.docx` |
 | `Bevestiging_Aftreden_Bestuurder_2Maart2026.docx` | `concepten/bevestigingsmail-2maart.md` |
 | `Informatieverzoek_Art217_2Maart2026.docx` | `concepten/informatieverzoek-art217-2maart.md` |
+| `KTLO_Overeenkomst_Dienstverlening.docx` | `concepten/ktlo-overeenkomst.md` |

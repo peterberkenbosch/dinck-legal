@@ -1,14 +1,16 @@
 # KTLO Scope Definitie - Dinck B.V.
 
-**Keep The Lights On** — Wat Peter wél en niet doet als aandeelhouder na uittreden als bestuurder.
+**Keep The Lights On** — Scope definitie voor technische onderhoudsdiensten door Peter Berkenbosch Consultancy B.V.
+
+**Geformaliseerd in**: `concepten/ktlo-overeenkomst.md`
 
 ---
 
 ## 1. Context
 
-Na terugtreden als bestuurder per 1 maart 2026 blijft PHBX Holding B.V. aandeelhouder (33,3%) van Dinck B.V. In het belang van de waarde van het aandeelhouderschap is Peter bereid om de software operationeel te houden.
+Na terugtreden als bestuurder van Dinck B.V. per 1 maart 2026 is Peter bereid om via Peter Berkenbosch Consultancy B.V. technische onderhoudsdiensten te verrichten om het platform app.dinck.nl operationeel te houden. PHBX Holding B.V. blijft aandeelhouder (33,3%) van Dinck B.V.
 
-Dit document definieert de scope van deze inzet.
+Dit document definieert de scope van deze dienstverlening. De formele voorwaarden zijn vastgelegd in de Overeenkomst van Dienstverlening (`concepten/ktlo-overeenkomst.md`).
 
 ---
 
@@ -113,33 +115,34 @@ Bugs die **niet** kritiek zijn:
 ## 5. Vergoeding
 
 ### KTLO (Gratis)
-Als aandeelhouder heeft Peter belang bij het operationeel houden van het platform. KTLO wordt daarom niet gefactureerd.
+Via Peter Berkenbosch Consultancy B.V. worden KTLO-diensten kosteloos verricht, in het belang van het aandeelhouderschap van PHBX Holding B.V. Zie Artikel 5 van de Overeenkomst van Dienstverlening.
 
 ### Buiten Scope (Betaald)
-Alle werkzaamheden buiten KTLO scope vereisen een separate leveranciersovereenkomst met:
-- Uurtarief: €125 (regulier tarief)
-- Retainer: vooraf te voldoen
+Alle werkzaamheden buiten KTLO scope vereisen voorafgaande schriftelijke offerte en goedkeuring:
+- Uurtarief: €125 excl. BTW
+- Facturering: maandelijks achteraf
 - Scope: per project te definiëren
+- Zie Artikel 3 van de Overeenkomst van Dienstverlening
 
 ---
 
 ## 6. Duur
 
-Deze KTLO-definitie geldt zolang PHBX Holding B.V. aandeelhouder is van Dinck B.V.
+De dienstverlening door Peter Berkenbosch Consultancy B.V. is gekoppeld aan het aandeelhouderschap van PHBX Holding B.V. in Dinck B.V. Bij overdracht van de aandelen eindigt de overeenkomst van rechtswege.
 
-Bij verkoop van aandelen vervalt deze inzet.
+Opzegtermijn: 1 kalendermaand. Zie Artikel 6 van de Overeenkomst van Dienstverlening.
 
 ---
 
 ## 7. Infrastructuurkosten
 
-Peter betaalt momenteel ~€150/maand aan infrastructuurkosten:
+Peter Berkenbosch Consultancy B.V. betaalt momenteel ~€150/maand aan infrastructuurkosten:
 - Hosting (servers, databases)
 - Monitoring tools
 - GitHub (versiebeheer)
 - SSL certificaten
 
-**Voorstel**: Deze kosten worden maandelijks doorbelast aan Dinck B.V., of de accounts worden overgedragen naar Dinck B.V.
+Deze kosten worden maandelijks tegen kostprijs doorbelast aan Dinck B.V. (betalingstermijn: 14 dagen). Zie Artikel 4 van de Overeenkomst van Dienstverlening.
 
 ---
 
@@ -160,8 +163,10 @@ De volgende trajecten worden **niet** voortgezet zonder leveranciersovereenkomst
 
 ### Meldingen KTLO-issues
 - Via Basecamp (async)
-- E-mail peter@phbxholding.com
+- E-mail info@peterberkenbosch.nl
 - Geen telefonische bereikbaarheid voor KTLO
 
 ### Escalatie
 Bij uitblijven reactie binnen SLA: e-mail met onderwerp "URGENT: [omschrijving]"
+
+Zie Artikel 10 van de Overeenkomst van Dienstverlening voor het volledige communicatieprotocol.
