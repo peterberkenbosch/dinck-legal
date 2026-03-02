@@ -49,12 +49,12 @@
 
 | # | Actie | Deadline | Status | Prioriteit |
 |---|-------|----------|--------|------------|
-| 1 | **Jurist consulteren** met alle analyses + verfijnde vragen | 14 feb | Te doen | **KRITIEK** |
-| 2 | **Werkuren retroactief documenteren** — logboek onbetaald werk dec 2024 - heden | 28 feb | Te doen | HOOG |
-| 3 | **Lopende hosting/infra inventariseren** met exacte maandelijkse kosten | 28 feb | Te doen | HOOG |
-| 4 | **Alle bestanden/documenten veiligstellen** — eigen kopie van alles waar Peter toegang toe heeft | 28 feb | Te doen | HOOG |
-| 5 | **D&O-verzekering checken** — heeft Dinck een bestuurders­aansprakelijkheids­verzekering? | 28 feb | Te doen | MEDIUM |
-| 6 | **Jaarrekening 2024 deponering verifiëren** — Art. 2:248 lid 2 bewijsvermoeden als niet tijdig | 28 feb | Te doen | MEDIUM |
+| 1 | **Jurist consulteren** met alle analyses + verfijnde vragen | 14 feb | ✅ AFGEROND (memo 11 feb 2026) | **KRITIEK** |
+| 2 | **Werkuren retroactief documenteren** — logboek onbetaald werk dec 2024 - heden | 28 feb | ⚠️ NOG NIET GEDAAN — verplaatst naar post-1-maart acties | HOOG |
+| 3 | **Lopende hosting/infra inventariseren** met exacte maandelijkse kosten | 28 feb | ✅ AFGEROND | HOOG |
+| 4 | **Alle bestanden/documenten veiligstellen** — eigen kopie van alles waar Peter toegang toe heeft | 28 feb | ✅ AFGEROND | HOOG |
+| 5 | **D&O-verzekering checken** — heeft Dinck een bestuurders­aansprakelijkheids­verzekering? | 28 feb | ✅ AFGEROND | MEDIUM |
+| 6 | **Jaarrekening 2024 deponering verifiëren** — Art. 2:248 lid 2 bewijsvermoeden als niet tijdig | 28 feb | ❌ Onbekend — opgenomen in Art. 2:217 informatieverzoek | MEDIUM |
 | 7 | **KvK-uitschrijving** — ingediend en ondertekend via DigiD op 1 maart 2026 | 1 mrt | ✅ AFGEROND | MEDIUM |
 | 8 | **Niet tekenen** — geen akte, geen KTLO, geen enkel document zonder juridisch advies | Doorlopend | Actief | **KRITIEK** |
 | 9 | **Niet beginnen met KTLO** — geen enkel werk zonder schriftelijk contract | Doorlopend | Actief | **KRITIEK** |
@@ -77,7 +77,7 @@
 | Actie | Toelichting | Status |
 |-------|-------------|--------|
 | **KvK-uitschrijving ingediend** | 1 maart 2026, digitaal ondertekend via DigiD om 09:12 CET (ref. 93428359-20260301-O001) | ✅ AFGEROND |
-| **Bevestigingsmail aan Douwine/Marlou** | "Per vandaag, 1 maart 2026, ben ik geen bestuurder meer van Dinck B.V. Ik verwijs naar mijn ontslagbrief d.d. 30 januari 2026." | TE DOEN |
+| **Bevestigingsmail aan AVA** | Bevestiging aftreden, KvK ingediend, aandeelhouder ongewijzigd. Aan Douwine + Marlou. | ✅ CONCEPT GEREED (`concepten/bevestigingsmail-1maart.md`) — te verzenden |
 | **STOP alle werkzaamheden** | Tenzij KTLO-overeenkomst is getekend (onwaarschijnlijk per 1 maart). Geen hosting-monitoring, geen bugfixes, niets. | ACTIEF |
 | **Geen toegang meer** | Bankrekening, eventuele Dinck-e-mail, inloggegevens — niet meer gebruiken. | ACTIEF |
 
@@ -86,7 +86,7 @@
 | Actie | Toelichting |
 |-------|-------------|
 | **Schriftelijke bevestiging hosting** | Als Peter hostingkosten vooruit heeft betaald: schriftelijke sommatie aan Dinck voor terugbetaling. Als hosting op Peters naam draait: formele melding dat hosting per [datum] wordt stopgezet tenzij Dinck overname regelt. |
-| **Formeel Art. 2:217 BW informatieverzoek** | Schriftelijk aan bestuur Dinck (Douwine): verzoek om inzage jaarrekening, tussentijdse cijfers, saldo lopende verplichtingen. Dit documenteert dat Peter zijn aandeelhoudersrechten actief uitoefent. |
+| **Formeel Art. 2:217 BW informatieverzoek** | ✅ CONCEPT GEREED (`concepten/informatieverzoek-art217-1maart.md`). 6 categorieën: jaarrekening 2025, tussentijdse cijfers, schuldpositie, liquiditeit, salarisverplichtingen, aflossing 28 maart. Deadline 15 maart. Te verzenden. |
 | **Afwachten** | Eerste reacties Douwine op Peters vertrek. Geen initiatief nemen richting haar — laat haar komen. |
 
 ### Week 2: 8-14 maart
@@ -308,7 +308,7 @@ Nieuw → vraag 2.7: Wie vertegenwoordigt Dinck bij de passering als Douwine teg
 
 | Recht | Basis | Praktisch |
 |-------|-------|-----------|
-| **Jaarrekening** | Art. 2:210 + 2:394 BW | Verplicht ter inzage, max 5 maanden na boekjaar (= 31 mei 2026 voor 2025) |
+| **Jaarrekening 2025** | Art. 2:210 + 2:394 BW | Verplicht ter inzage, max 5 maanden na boekjaar (= 31 mei 2026). Status opgenomen in Art. 2:217 informatieverzoek. |
 | **Inlichtingen bestuur** | Art. 2:217 lid 2 BW | "Het bestuur verstrekt de algemene vergadering alle verlangde inlichtingen, tenzij een zwaarwichtig belang van de vennootschap zich daartegen verzet" |
 | **Tussentijdse cijfers** | Niet wettelijk verplicht, maar via Art. 2:217 lid 2 opvraagbaar | Redelijkheid: aandeelhouder met 33,3% mag vragen naar liquiditeit en salarisbetaling |
 | **AVA bijeenroepen** | Art. 2:220 BW: agenderingsrecht | Peter kan AVA bijeenroepen als hij 1% van het geplaatste kapitaal vertegenwoordigt (hij heeft 33,3%) |
@@ -337,7 +337,7 @@ Direct na 1 maart een schriftelijk Art. 2:217 informatieverzoek sturen. Dit dien
 
 | Risico | Ernst | Mitigatie |
 |--------|-------|-----------|
-| **Jaarrekening 2024 niet tijdig gedeponeerd** | Medium (bewijsvermoeden Art. 2:248 lid 2) | Verifiëren vóór 1 maart. Als niet gedeponeerd: documenteren dat Peter geen toegang had tot financiële administratie |
+| **Jaarrekening 2024 niet tijdig gedeponeerd** | Medium (bewijsvermoeden Art. 2:248 lid 2) | Status onbekend — opgenomen in Art. 2:217 informatieverzoek. Peter had geen toegang tot financiële administratie (structurele buitensluiting). |
 | **Claims uit bestuursperiode** | Laag | Vrijwaring Art. 4.2 MO actief zolang MO niet opgezegd |
 | **D&O-verzekering ontbreekt** | Medium | Checken vóór 1 maart. Als ontbreekt: extra reden om MO niet op te zeggen (vrijwaring is enige bescherming) |
 
@@ -382,6 +382,6 @@ Direct na 1 maart een schriftelijk Art. 2:217 informatieverzoek sturen. Dit dien
 | **Enig "verlies": hoedanigheid (b) akte** | Douwine's probleem (tegenstrijdig belang), niet Peters |
 | **Geen haast voor Peter** | Alle tijdsdruk ligt bij Douwine (akte, aflossing, platform, lopende boete) |
 | **Kernregel na 1 maart** | Geen werk zonder contract. Geen toezeggingen. Alles via jurist. |
-| **Kritiek vóór 1 maart** | Jurist consulteren, werkuren documenteren, bestanden veiligstellen, hosting inventariseren |
+| **Vóór 1 maart (grotendeels afgerond)** | Jurist ✅, hosting ✅, bestanden ✅, D&O ✅, KvK ✅. Openstaand: werkuren documenteren. |
 | **Escalatiepad helder** | Vaststellingsvoorstel → sommatiebrief → Art. 2:343. Elke stap verhoogt de druk. |
 | **Peters positie verbetert met de tijd** | Boete stijgt, platform degradeert, aflossing in default — Douwine's kosten lopen op |
