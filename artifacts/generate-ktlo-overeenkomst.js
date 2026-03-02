@@ -269,7 +269,7 @@ const doc = new Document({
       p("Werktijden: maandag t/m vrijdag, 9:00-17:00 CET. Meldingen buiten werktijden worden geacht te zijn ontvangen bij aanvang van de eerstvolgende werkdag."),
 
       sub("2.3 Maximale inzet"),
-      p("De Diensten bedragen maximaal 4 uur per week gemiddeld over een kalendermaand. Opdrachtnemer is niet verplicht meer uren te besteden. Indien de Diensten structureel meer dan 4 uur per week vergen, is Artikel 5.3 van toepassing."),
+      p("De Diensten bedragen maximaal 1 uur per week gemiddeld over een kalendermaand. Opdrachtnemer is niet verplicht meer uren te besteden. Indien de Diensten structureel meer dan 1 uur per week vergen, is Artikel 5.3 van toepassing."),
 
       sub("2.4 Uitsluitingen"),
       p("De volgende werkzaamheden vallen uitdrukkelijk niet onder de Diensten:"),
@@ -280,7 +280,7 @@ const doc = new Document({
       bullet("Mobile applicaties (inclusief maar niet beperkt tot Dinckly iOS)"),
       bullet("UI/UX verbeteringen of design updates"),
       bullet("Performance optimalisatie (tenzij sprake van een Kritieke Bug)"),
-      bullet("Refactoring, architectuurverbeteringen of technische schuld"),
+      bullet("Refactoring of architectuurverbeteringen"),
       bullet("Niet-kritieke bugs (cosmetische issues, minor usability problemen, edge cases)"),
       bullet("Documentatie updates"),
       bullet("Database optimalisatie (niet-kritiek)"),
@@ -361,7 +361,7 @@ const doc = new Document({
       bullet("(b) vergoedingen voor Werkzaamheden Buiten Scope op grond van Artikel 3."),
 
       sub("5.3 Herzieningsrecht"),
-      p("Indien de Diensten gedurende drie opeenvolgende maanden structureel meer dan 4 uur per week vergen, heeft Opdrachtnemer het recht een redelijke vergoeding voor te stellen voor het meerdere. Partijen treden in dat geval in overleg. Komen Partijen niet tot overeenstemming binnen 30 dagen, dan is Opdrachtnemer gerechtigd de maximale inzet terug te brengen tot 4 uur per week of de overeenkomst op te zeggen met inachtneming van de opzegtermijn in Artikel 6.3."),
+      p("Indien de Diensten gedurende drie opeenvolgende maanden structureel meer dan 1 uur per week vergen, heeft Opdrachtnemer het recht een redelijke vergoeding voor te stellen voor het meerdere. Partijen treden in dat geval in overleg. Komen Partijen niet tot overeenstemming binnen 30 dagen, dan is Opdrachtnemer gerechtigd de maximale inzet terug te brengen tot 1 uur per week of de overeenkomst op te zeggen met inachtneming van de opzegtermijn in Artikel 6.3."),
 
       // Artikel 6 — Duur en Beeindiging
       articleHeading(6, "Duur en Beeindiging"),
