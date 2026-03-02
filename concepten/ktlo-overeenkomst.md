@@ -45,9 +45,11 @@ C. PHBX Holding B.V. is aandeelhouder van Opdrachtgever en houdt 33,3% van de aa
 
 D. Peter Berkenbosch is per 1 maart 2026 afgetreden als bestuurder van Opdrachtgever.
 
-E. Partijen wensen de voorwaarden vast te leggen waaronder Opdrachtnemer technische onderhoudsdiensten verricht om het Platform operationeel te houden (**Keep The Lights On** / **KTLO**).
+E. Tijdens de bijeenkomst van 11 februari 2026 ten kantore van Van der Meer Accountants & Consultants te Oosterwolde, in aanwezigheid van onder meer Douwine Koopman, Marlou Woltmeijer, Grady Hofstra en Klaas de Vries, zijn Partijen overeengekomen dat Peter Berkenbosch uitsluitend KTLO-werkzaamheden zal verrichten voor het Platform.
 
-F. Deze overeenkomst betreft een zuivere commerciële dienstverlening en staat los van de aandeelhoudersrelatie tussen PHBX Holding B.V. en Opdrachtgever.
+F. Partijen wensen de voorwaarden van deze KTLO-dienstverlening schriftelijk vast te leggen (**Keep The Lights On** / **KTLO**).
+
+G. Deze overeenkomst betreft een zuivere commerciële dienstverlening en staat los van de aandeelhoudersrelatie tussen PHBX Holding B.V. en Opdrachtgever.
 
 ---
 
