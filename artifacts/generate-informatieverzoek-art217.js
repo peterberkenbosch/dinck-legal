@@ -65,7 +65,7 @@ const doc = new Document({
       p("peter@phbxholding.com", { size: 20 }),
       p("KvK: 75861097", { size: 20 }),
       p(""),
-      p("Oosterwolde, 1 maart 2026"),
+      p("Oosterwolde, 2 maart 2026"),
       p(""),
 
       // Geadresseerde
@@ -90,7 +90,7 @@ const doc = new Document({
       p(""),
 
       // Intro
-      p("PHBX Holding B.V. houdt 33,3% van de aandelen in het kapitaal van Dinck B.V. Per heden, 1 maart 2026, is PHBX Holding B.V. afgetreden als bestuurder van de vennootschap. Mijn positie als aandeelhouder blijft ongewijzigd."),
+      p("PHBX Holding B.V. houdt 33,3% van de aandelen in het kapitaal van Dinck B.V. Per 1 maart 2026 is PHBX Holding B.V. afgetreden als bestuurder van de vennootschap. Mijn positie als aandeelhouder blijft ongewijzigd."),
       p(""),
       p("Op grond van artikel 2:217 lid 2 BW verzoek ik het bestuur van Dinck B.V. mij de volgende inlichtingen te verstrekken:"),
 
@@ -130,7 +130,7 @@ const doc = new Document({
 
       // Termijn
       p(""),
-      p("Ik verzoek u bovenstaande informatie schriftelijk te verstrekken binnen veertien dagen na dagtekening van deze brief, derhalve uiterlijk op 15 maart 2026."),
+      p("Ik verzoek u bovenstaande informatie schriftelijk te verstrekken binnen veertien dagen na dagtekening van deze brief, derhalve uiterlijk op 16 maart 2026."),
       p(""),
       p("Ik wijs u erop dat artikel 2:217 lid 2 BW het bestuur verplicht de verlangde inlichtingen te verstrekken, tenzij een zwaarwichtig belang van de vennootschap zich daartegen verzet. In dat geval verzoek ik u een eventuele weigering schriftelijk en gemotiveerd kenbaar te maken."),
       p(""),
@@ -147,7 +147,7 @@ const doc = new Document({
 
 async function main() {
   const buffer = await Packer.toBuffer(doc);
-  const outPath = "/home/peter/dinck-legal/artifacts/Informatieverzoek_Art217_1Maart2026.docx";
+  const outPath = "/home/peter/dinck-legal/artifacts/Informatieverzoek_Art217_2Maart2026.docx";
   fs.writeFileSync(outPath, buffer);
   console.log("Generated: " + outPath);
 }

@@ -86,7 +86,7 @@
 | Actie | Toelichting |
 |-------|-------------|
 | **Schriftelijke bevestiging hosting** | Als Peter hostingkosten vooruit heeft betaald: schriftelijke sommatie aan Dinck voor terugbetaling. Als hosting op Peters naam draait: formele melding dat hosting per [datum] wordt stopgezet tenzij Dinck overname regelt. |
-| **Formeel Art. 2:217 BW informatieverzoek** | ✅ CONCEPT GEREED (`concepten/informatieverzoek-art217-1maart.md`). 6 categorieën: jaarrekening 2025, tussentijdse cijfers, schuldpositie, liquiditeit, salarisverplichtingen, aflossing 28 maart. Deadline 15 maart. Te verzenden. |
+| **Formeel Art. 2:217 BW informatieverzoek** | ✅ VERZONDEN 2 maart 2026. 6 categorieën: jaarrekening 2025, tussentijdse cijfers, schuldpositie, liquiditeit, salarisverplichtingen, aflossing 28 maart. Deadline 16 maart. |
 | **Afwachten** | Eerste reacties Douwine op Peters vertrek. Geen initiatief nemen richting haar — laat haar komen. |
 
 ### Week 2: 8-14 maart

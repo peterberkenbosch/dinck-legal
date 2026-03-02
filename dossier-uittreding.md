@@ -572,5 +572,5 @@ De jurist adviseert een offensieve strategie in plaats van afwachten:
 
 - [x] KvK-uitschrijving ingediend (1 maart 2026) - zie `files/Opgave-93428359-20260301-O001.pdf`
 - [x] Bevestigingsmail aan Douwine/Marlou: "Per 1 maart 2026 ben ik geen bestuurder meer" — verzonden 2 maart 2026
-- [ ] Informatierechten art. 2:217 BW uitoefenen
+- [x] Informatierechten art. 2:217 BW uitoefenen — verzonden 2 maart 2026, deadline 16 maart
 - [ ] Infrastructuurkosten factureren aan Dinck

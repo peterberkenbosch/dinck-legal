@@ -67,7 +67,7 @@
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
 | `bevestigingsmail-2maart.md` | Bevestigingsmail aftreden bestuurder per 1 maart 2026 | Verzonden 2 mrt 2026 |
-| `informatieverzoek-art217-1maart.md` | Informatieverzoek Art. 2:217 BW — 6 categorieën, deadline 15 maart | Concept (1 mrt 2026) |
+| `informatieverzoek-art217-2maart.md` | Informatieverzoek Art. 2:217 BW — 6 categorieën, deadline 16 maart | Verzonden 2 mrt 2026 |
 
 ---
 
@@ -146,4 +146,4 @@ Eerder gegenereerde .docx versies van conceptdocumenten. Gegenereerd via `genera
 | `Vragen_Maud_van_der_Zee.docx` | `vragen-advocaat-maud.md` |
 | `legal-consult-questions.docx` | Verouderd — vervangen door `Vragen_Maud_van_der_Zee.docx` |
 | `Bevestiging_Aftreden_Bestuurder_2Maart2026.docx` | `concepten/bevestigingsmail-2maart.md` |
-| `Informatieverzoek_Art217_1Maart2026.docx` | `concepten/informatieverzoek-art217-1maart.md` |
+| `Informatieverzoek_Art217_2Maart2026.docx` | `concepten/informatieverzoek-art217-2maart.md` |
