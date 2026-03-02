@@ -84,7 +84,7 @@ const doc = new Document({
 
 async function main() {
   const buffer = await Packer.toBuffer(doc);
-  const outPath = "/home/peter/dinck-legal/artifacts/Bevestiging_Aftreden_Bestuurder_1Maart2026.docx";
+  const outPath = "/home/peter/dinck-legal/artifacts/Bevestiging_Aftreden_Bestuurder_2Maart2026.docx";
   fs.writeFileSync(outPath, buffer);
   console.log("Generated: " + outPath);
 }
