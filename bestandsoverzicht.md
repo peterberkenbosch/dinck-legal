@@ -66,7 +66,7 @@
 | `presentatie-advies-11feb.md` | Non-verbale presentatie-adviezen meeting 11 feb | Achterhaald (meeting heeft plaatsgevonden) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | |
-| `bevestigingsmail-1maart.md` | Bevestigingsmail aftreden bestuurder per 1 maart 2026 | Concept (1 mrt 2026) |
+| `bevestigingsmail-1maart.md` | Bevestigingsmail aftreden bestuurder per 1 maart 2026 | Verzonden 2 mrt 2026 |
 | `informatieverzoek-art217-1maart.md` | Informatieverzoek Art. 2:217 BW — 6 categorieën, deadline 15 maart | Concept (1 mrt 2026) |
 
 ---

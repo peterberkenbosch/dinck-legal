@@ -31,7 +31,7 @@ const doc = new Document({
       p("peter@phbxholding.com", { size: 20 }),
       p("KvK: 75861097", { size: 20 }),
       p(""),
-      p("Oosterwolde, 1 maart 2026"),
+      p("Oosterwolde, 2 maart 2026"),
       p(""),
 
       // Geadresseerde
@@ -56,9 +56,9 @@ const doc = new Document({
       p(""),
 
       // Body
-      p("Hierbij bevestig ik dat PHBX Holding B.V. per heden, 1 maart 2026, is afgetreden als bestuurder van Dinck B.V., conform mijn ontslagbrief d.d. 30 januari 2026."),
+      p("Hierbij bevestig ik dat PHBX Holding B.V. per 1 maart 2026 is afgetreden als bestuurder van Dinck B.V., conform mijn ontslagbrief d.d. 30 januari 2026."),
       p(""),
-      p("De uitschrijving bij de Kamer van Koophandel is vandaag ingediend en digitaal ondertekend. Het wijzigingsformulier treft u bijgaand aan."),
+      p("De uitschrijving bij de Kamer van Koophandel is op 1 maart 2026 ingediend en digitaal ondertekend. Het wijzigingsformulier treft u bijgaand aan."),
       p(""),
       p("Mijn positie als aandeelhouder van Dinck B.V. (33,3%) blijft ongewijzigd."),
       p(""),

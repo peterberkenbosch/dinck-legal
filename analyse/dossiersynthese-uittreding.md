@@ -433,7 +433,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 | **~week 12-14 feb** | KTLO-voorwaarden opstellen | Met juridische begeleiding |
 | **Nader te bepalen** | Sommatiebrief | On hold — als drukmiddel achter de hand bij afwijzing package deal |
 | **Onderhandeling** | Package deal: co-signering + KTLO + aandelen + kwijting | In ruil voor SHA-uitsluiting + faire prijs + afstand non-concurrentie |
-| **1 mrt 2026** | ✅ Bestuurdersontslag effectief — KvK-uitschrijving ingediend (ref. 93428359-20260301-O001, DigiD 09:12 CET) | Bevestigingsmail aan Douwine/Marlou |
+| **1 mrt 2026** | ✅ Bestuurdersontslag effectief — KvK-uitschrijving ingediend (ref. 93428359-20260301-O001, DigiD 09:12 CET) | ✅ Bevestigingsmail verzonden 2 mrt 2026 |
 | **28 mrt 2026** | Eerste aflossing lening (~€55-75K) | Dinck kan niet betalen → automatisch verzuim. Na 1 maart: niet Peters bestuurdersaansprakelijkheid. |
 | **Reserve** | Procedure Art. 2:343 of 2:345 BW | Indien onderhandeling faalt |
 

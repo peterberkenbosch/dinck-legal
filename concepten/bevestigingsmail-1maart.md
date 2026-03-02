@@ -1,6 +1,6 @@
 # Bevestigingsmail — Aftreden Bestuurder per 1 Maart 2026
 
-**Status**: CONCEPT — ter review
+**Status**: ✅ VERZONDEN op 2 maart 2026
 
 ---
 
@@ -19,9 +19,9 @@
 
 > Geachte leden van de Algemene Vergadering van Aandeelhouders van Dinck B.V.,
 >
-> Hierbij bevestig ik dat PHBX Holding B.V. per heden, 1 maart 2026, is afgetreden als bestuurder van Dinck B.V., conform mijn ontslagbrief d.d. 30 januari 2026.
+> Hierbij bevestig ik dat PHBX Holding B.V. per 1 maart 2026 is afgetreden als bestuurder van Dinck B.V., conform mijn ontslagbrief d.d. 30 januari 2026.
 >
-> De uitschrijving bij de Kamer van Koophandel is vandaag ingediend en digitaal ondertekend. Het wijzigingsformulier treft u bijgaand aan.
+> De uitschrijving bij de Kamer van Koophandel is op 1 maart 2026 ingediend en digitaal ondertekend. Het wijzigingsformulier treft u bijgaand aan.
 >
 > Mijn positie als aandeelhouder van Dinck B.V. (33,3%) blijft ongewijzigd.
 >

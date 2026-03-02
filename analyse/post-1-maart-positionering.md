@@ -77,7 +77,7 @@
 | Actie | Toelichting | Status |
 |-------|-------------|--------|
 | **KvK-uitschrijving ingediend** | 1 maart 2026, digitaal ondertekend via DigiD om 09:12 CET (ref. 93428359-20260301-O001) | ✅ AFGEROND |
-| **Bevestigingsmail aan AVA** | Bevestiging aftreden, KvK ingediend, aandeelhouder ongewijzigd. Aan Douwine + Marlou. | ✅ CONCEPT GEREED (`concepten/bevestigingsmail-1maart.md`) — te verzenden |
+| **Bevestigingsmail aan AVA** | Bevestiging aftreden, KvK ingediend, aandeelhouder ongewijzigd. Aan Douwine + Marlou. | ✅ VERZONDEN 2 maart 2026 |
 | **STOP alle werkzaamheden** | Tenzij KTLO-overeenkomst is getekend (onwaarschijnlijk per 1 maart). Geen hosting-monitoring, geen bugfixes, niets. | ACTIEF |
 | **Geen toegang meer** | Bankrekening, eventuele Dinck-e-mail, inloggegevens — niet meer gebruiken. | ACTIEF |
 
