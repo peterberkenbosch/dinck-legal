@@ -211,9 +211,9 @@ const doc = new Document({
       labeledPara("1.1 Platform:", "Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur."),
       labeledPara("1.2 Diensten:", "De in Artikel 2 omschreven KTLO-werkzaamheden."),
       labeledPara("1.3 Hostingkosten:", "De in Artikel 4 gespecificeerde kosten voor servers, opslag en overige infrastructuur benodigd voor het operationeel houden van het Platform."),
-      labeledPara("1.4 Kritieke Bug:", "Een softwarefout waardoor: (a) het Platform volledig onbereikbaar is; of (b) data verlies of corruptie optreedt; of (c) een security-kwetsbaarheid actief wordt misbruikt; of (d) incorrecte financiële transacties plaatsvinden."),
-      labeledPara("1.5 Security Patch:", "Een update ter verhelping van een beveiligingskwetsbaarheid met een CVE-score van 7.0 of hoger (high/critical), of een direct exploiteerbare kwetsbaarheid in een core dependency."),
-      labeledPara("1.6 Werkzaamheden Buiten Scope:", "Alle werkzaamheden die niet vallen onder de Diensten zoals omschreven in Artikel 2, en nader gespecificeerd in Artikel 3."),
+      labeledPara("1.4 Kritieke bug:", "Een softwarefout waardoor: (a) het Platform volledig onbereikbaar is; of (b) data verlies of corruptie optreedt; of (c) een security-kwetsbaarheid actief wordt misbruikt; of (d) incorrecte financiële transacties plaatsvinden."),
+      labeledPara("1.5 Security patch:", "Een update ter verhelping van een beveiligingskwetsbaarheid met een CVE-score van 7.0 of hoger (high/critical), of een direct exploiteerbare kwetsbaarheid in een core dependency."),
+      labeledPara("1.6 Werkzaamheden buiten scope:", "Alle werkzaamheden die niet vallen onder de Diensten zoals omschreven in Artikel 2, en nader gespecificeerd in Artikel 3."),
 
       // Artikel 2 — Scope
       articleHeading(2, "Scope van de Diensten"),
@@ -226,11 +226,11 @@ const doc = new Document({
       bullet("Uptime bewaking"),
       bullet("Error tracking"),
       p(""),
-      p("(b) Kritieke Bugs", { bold: true }),
-      bullet("Diagnose en herstel van Kritieke Bugs zoals gedefinieerd in Artikel 1.4"),
+      p("(b) Kritieke bugs", { bold: true }),
+      bullet("Diagnose en herstel van Kritieke bugs zoals gedefinieerd in Artikel 1.4"),
       p(""),
-      p("(c) Security Patches", { bold: true }),
-      bullet("Toepassen van Security Patches zoals gedefinieerd in Artikel 1.5"),
+      p("(c) Security patches", { bold: true }),
+      bullet("Toepassen van Security patches zoals gedefinieerd in Artikel 1.5"),
       bullet("Updates van core dependencies bij kritieke kwetsbaarheden"),
       p(""),
       p("(d) Infrastructuur", { bold: true }),
@@ -255,12 +255,12 @@ const doc = new Document({
             cell("Best effort", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Kritieke Bug", 3500),
+            cell("Kritieke bug", 3500),
             cell("24 uur", 3000),
             cell("72 uur", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Security Patch", 3500),
+            cell("Security patch", 3500),
             cell("48 uur", 3000),
             cell("1 week", 2860)
           ]})
@@ -280,7 +280,7 @@ const doc = new Document({
       bullet("Integraties met externe systemen (inclusief maar niet beperkt tot SpiekR)"),
       bullet("Mobile applicaties (inclusief maar niet beperkt tot Dinckly iOS)"),
       bullet("UI/UX verbeteringen of design updates"),
-      bullet("Performance optimalisatie (tenzij sprake van een Kritieke Bug)"),
+      bullet("Performance optimalisatie (tenzij sprake van een Kritieke bug)"),
       bullet("Refactoring of architectuurverbeteringen"),
       bullet("Niet-kritieke bugs (cosmetische issues, minor usability problemen, edge cases)"),
       bullet("Documentatie updates"),
@@ -290,11 +290,11 @@ const doc = new Document({
       p("Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.", { italic: true }),
 
       // Artikel 3 — Buiten Scope
-      articleHeading(3, "Werkzaamheden Buiten Scope"),
-      labeledPara("3.1", "Werkzaamheden Buiten Scope worden uitsluitend verricht na voorafgaande schriftelijke offerte door Opdrachtnemer en schriftelijke goedkeuring door Opdrachtgever."),
-      labeledPara("3.2", "Het uurtarief voor Werkzaamheden Buiten Scope bedraagt €125,00 exclusief BTW."),
-      labeledPara("3.3", "Opdrachtnemer factureert Werkzaamheden Buiten Scope maandelijks achteraf op basis van bestede uren."),
-      labeledPara("3.4", "Op Werkzaamheden Buiten Scope zijn de overige bepalingen van deze overeenkomst onverkort van toepassing, tenzij schriftelijk anders overeengekomen."),
+      articleHeading(3, "Werkzaamheden buiten scope"),
+      labeledPara("3.1", "Werkzaamheden buiten scope worden uitsluitend verricht na voorafgaande schriftelijke offerte door Opdrachtnemer en schriftelijke goedkeuring door Opdrachtgever."),
+      labeledPara("3.2", "Het uurtarief voor Werkzaamheden buiten scope bedraagt €125,00 exclusief BTW."),
+      labeledPara("3.3", "Opdrachtnemer factureert Werkzaamheden buiten scope maandelijks achteraf op basis van bestede uren."),
+      labeledPara("3.4", "Op Werkzaamheden buiten scope zijn de overige bepalingen van deze overeenkomst onverkort van toepassing, tenzij schriftelijk anders overeengekomen."),
 
       // Artikel 4 — Hostingkosten
       articleHeading(4, "Hostingkosten"),
@@ -359,7 +359,7 @@ const doc = new Document({
       sub("5.2 Gefactureerde posten"),
       p("Opdrachtgever is uitsluitend verschuldigd:"),
       bullet("(a) de Hostingkosten op grond van Artikel 4; en"),
-      bullet("(b) vergoedingen voor Werkzaamheden Buiten Scope op grond van Artikel 3."),
+      bullet("(b) vergoedingen voor Werkzaamheden buiten scope op grond van Artikel 3."),
 
       sub("5.3 Herzieningsrecht"),
       p("Indien de Diensten gedurende drie opeenvolgende maanden structureel meer dan 1 uur per week vergen, heeft Opdrachtnemer het recht een redelijke vergoeding voor te stellen voor het meerdere. Partijen treden in dat geval in overleg. Komen Partijen niet tot overeenstemming binnen 30 dagen, dan is Opdrachtnemer gerechtigd de maximale inzet terug te brengen tot 1 uur per week of de overeenkomst op te zeggen met inachtneming van de opzegtermijn in Artikel 6.3."),

@@ -63,15 +63,15 @@ In deze overeenkomst wordt verstaan onder:
 
 **1.3 Hostingkosten**: De in Artikel 4 gespecificeerde kosten voor servers, opslag en overige infrastructuur benodigd voor het operationeel houden van het Platform.
 
-**1.4 Kritieke Bug**: Een softwarefout waardoor:
+**1.4 Kritieke bug**: Een softwarefout waardoor:
 - (a) het Platform volledig onbereikbaar is; of
 - (b) data verlies of corruptie optreedt; of
 - (c) een security-kwetsbaarheid actief wordt misbruikt; of
 - (d) incorrecte financiële transacties plaatsvinden.
 
-**1.5 Security Patch**: Een update ter verhelping van een beveiligingskwetsbaarheid met een CVE-score van 7.0 of hoger (high/critical), of een direct exploiteerbare kwetsbaarheid in een core dependency.
+**1.5 Security patch**: Een update ter verhelping van een beveiligingskwetsbaarheid met een CVE-score van 7.0 of hoger (high/critical), of een direct exploiteerbare kwetsbaarheid in een core dependency.
 
-**1.6 Werkzaamheden Buiten Scope**: Alle werkzaamheden die niet vallen onder de Diensten zoals omschreven in Artikel 2, en nader gespecificeerd in Artikel 3.
+**1.6 Werkzaamheden buiten scope**: Alle werkzaamheden die niet vallen onder de Diensten zoals omschreven in Artikel 2, en nader gespecificeerd in Artikel 3.
 
 ---
 
@@ -86,11 +86,11 @@ De Diensten omvatten uitsluitend het volgende:
 - Uptime bewaking
 - Error tracking
 
-**(b) Kritieke Bugs**
-- Diagnose en herstel van Kritieke Bugs zoals gedefinieerd in Artikel 1.4
+**(b) Kritieke bugs**
+- Diagnose en herstel van Kritieke bugs zoals gedefinieerd in Artikel 1.4
 
-**(c) Security Patches**
-- Toepassen van Security Patches zoals gedefinieerd in Artikel 1.5
+**(c) Security patches**
+- Toepassen van Security patches zoals gedefinieerd in Artikel 1.5
 - Updates van core dependencies bij kritieke kwetsbaarheden
 
 **(d) Infrastructuur**
@@ -104,8 +104,8 @@ De Diensten omvatten uitsluitend het volgende:
 | Type | Reactietijd | Oplostijd |
 |------|-------------|-----------|
 | Platform volledig onbereikbaar | 4 uur (binnen werktijden) | Best effort |
-| Kritieke Bug | 24 uur | 72 uur |
-| Security Patch | 48 uur | 1 week |
+| Kritieke bug | 24 uur | 72 uur |
+| Security patch | 48 uur | 1 week |
 
 Werktijden: maandag t/m vrijdag, 9:00-17:00 CET. Meldingen buiten werktijden worden geacht te zijn ontvangen bij aanvang van de eerstvolgende werkdag.
 
@@ -123,7 +123,7 @@ De volgende werkzaamheden vallen uitdrukkelijk **niet** onder de Diensten:
 - Integraties met externe systemen (inclusief maar niet beperkt tot SpiekR)
 - Mobile applicaties (inclusief maar niet beperkt tot Dinckly iOS)
 - UI/UX verbeteringen of design updates
-- Performance optimalisatie (tenzij sprake van een Kritieke Bug)
+- Performance optimalisatie (tenzij sprake van een Kritieke bug)
 - Refactoring of architectuurverbeteringen
 - Niet-kritieke bugs (cosmetische issues, minor usability problemen, edge cases zonder business impact)
 - Documentatie updates
@@ -134,15 +134,15 @@ Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.
 
 ---
 
-## Artikel 3 — Werkzaamheden Buiten Scope
+## Artikel 3 — Werkzaamheden buiten scope
 
-**3.1** Werkzaamheden Buiten Scope worden uitsluitend verricht na voorafgaande schriftelijke offerte door Opdrachtnemer en schriftelijke goedkeuring door Opdrachtgever.
+**3.1** Werkzaamheden buiten scope worden uitsluitend verricht na voorafgaande schriftelijke offerte door Opdrachtnemer en schriftelijke goedkeuring door Opdrachtgever.
 
-**3.2** Het uurtarief voor Werkzaamheden Buiten Scope bedraagt **€125,00 exclusief BTW**.
+**3.2** Het uurtarief voor Werkzaamheden buiten scope bedraagt **€125,00 exclusief BTW**.
 
-**3.3** Opdrachtnemer factureert Werkzaamheden Buiten Scope maandelijks achteraf op basis van bestede uren.
+**3.3** Opdrachtnemer factureert Werkzaamheden buiten scope maandelijks achteraf op basis van bestede uren.
 
-**3.4** Op Werkzaamheden Buiten Scope zijn de overige bepalingen van deze overeenkomst (waaronder aansprakelijkheid, geheimhouding en communicatie) onverkort van toepassing, tenzij schriftelijk anders overeengekomen.
+**3.4** Op Werkzaamheden buiten scope zijn de overige bepalingen van deze overeenkomst (waaronder aansprakelijkheid, geheimhouding en communicatie) onverkort van toepassing, tenzij schriftelijk anders overeengekomen.
 
 ---
 
@@ -190,7 +190,7 @@ De Diensten zoals omschreven in Artikel 2 worden **niet gefactureerd**. Opdracht
 
 Opdrachtgever is uitsluitend verschuldigd:
 - (a) de Hostingkosten op grond van Artikel 4; en
-- (b) vergoedingen voor Werkzaamheden Buiten Scope op grond van Artikel 3.
+- (b) vergoedingen voor Werkzaamheden buiten scope op grond van Artikel 3.
 
 ### 5.3 Herzieningsrecht
 
