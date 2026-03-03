@@ -418,10 +418,7 @@ const doc = new Document({
       // Artikel 10 — Communicatie
       articleHeading(10, "Communicatie"),
 
-      sub("10.1 Asynchroon"),
-      p("Alle communicatie met betrekking tot de Diensten vindt uitsluitend plaats via e-mail of Basecamp (asynchroon). Opdrachtnemer is niet telefonisch bereikbaar voor aangelegenheden die verband houden met deze overeenkomst."),
-
-      sub("10.2 Contactgegevens"),
+      sub("10.1 Contactgegevens"),
       p(""),
       new Table({
         columnWidths: [3000, 6360],
@@ -441,7 +438,7 @@ const doc = new Document({
         ]
       }),
 
-      sub("10.3 Escalatieprotocol"),
+      sub("10.2 Escalatieprotocol"),
       p("Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden, stuurt Opdrachtgever een e-mail met als onderwerp: \"URGENT: [omschrijving probleem]\". Opdrachtnemer reageert op een URGENT-melding binnen 2 uur tijdens werktijden."),
 
       // Artikel 11 — Geheimhouding

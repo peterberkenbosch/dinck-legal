@@ -268,18 +268,14 @@ Iedere vordering van Opdrachtgever op Opdrachtnemer vervalt 12 maanden na de dat
 
 ## Artikel 10 — Communicatie
 
-### 10.1 Asynchroon
-
-Alle communicatie met betrekking tot de Diensten vindt uitsluitend plaats via e-mail of Basecamp (**asynchroon**). Opdrachtnemer is niet telefonisch bereikbaar voor aangelegenheden die verband houden met deze overeenkomst.
-
-### 10.2 Contactgegevens
+### 10.1 Contactgegevens
 
 | Partij | E-mail |
 |--------|--------|
 | Opdrachtnemer | info@peterberkenbosch.nl |
 | Opdrachtgever | douwine@dinck.nl |
 
-### 10.3 Escalatieprotocol
+### 10.2 Escalatieprotocol
 
 Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden, stuurt Opdrachtgever een e-mail met als onderwerp: **"URGENT: [omschrijving probleem]"**. Opdrachtnemer reageert op een URGENT-melding binnen 2 uur tijdens werktijden.
 
