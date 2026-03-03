@@ -244,10 +244,6 @@ Alle intellectuele eigendomsrechten met betrekking tot het Platform, de broncode
 
 Door het verrichten van de Diensten vindt geen wijziging plaats in de bestaande eigendomsverhoudingen. Opdrachtnemer verkrijgt geen intellectuele eigendomsrechten op het Platform of enig onderdeel daarvan.
 
-### 8.3 Geen toegang broncode
-
-Deze overeenkomst verschaft Opdrachtgever geen aanvullend recht op toegang tot, inzage in of een kopie van de broncode van het Platform. Toegang tot de broncode is geen onderdeel van de Diensten.
-
 ---
 
 ## Artikel 9 — Aansprakelijkheid

@@ -400,9 +400,6 @@ const doc = new Document({
       sub("8.2 Geen overdracht door dienstverlening"),
       p("Door het verrichten van de Diensten vindt geen wijziging plaats in de bestaande eigendomsverhoudingen. Opdrachtnemer verkrijgt geen intellectuele eigendomsrechten op het Platform of enig onderdeel daarvan."),
 
-      sub("8.3 Geen toegang broncode"),
-      p("Deze overeenkomst verschaft Opdrachtgever geen aanvullend recht op toegang tot, inzage in of een kopie van de broncode van het Platform. Toegang tot de broncode is geen onderdeel van de Diensten."),
-
       // Artikel 9 — Aansprakelijkheid
       articleHeading(9, "Aansprakelijkheid"),
 
