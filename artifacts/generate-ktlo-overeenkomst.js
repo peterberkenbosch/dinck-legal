@@ -104,58 +104,93 @@ const doc = new Document({
         paragraph: { spacing: { before: 200, after: 100 } } }
     ]
   },
-  sections: [{
-    properties: {
-      page: {
-        margin: { top: 2160, right: 1440, bottom: 1440, left: 1440 }
-      }
-    },
-    headers: {
-      default: new Header({
-        children: [
-          new Paragraph({
-            spacing: { after: 100 },
-            children: [
-              new ImageRun({
-                data: logoData,
-                transformation: { width: 180, height: 140 },
-                altText: { title: "Peter Berkenbosch Consultancy", description: "Company logo" }
-              })
-            ]
-          })
-        ]
-      })
-    },
-    footers: {
-      default: new Footer({
-        children: [
-          new Paragraph({
-            spacing: { before: 100 },
-            border: { top: { style: BorderStyle.SINGLE, size: 1, color: "CCCCCC", space: 4 } },
-            alignment: AlignmentType.CENTER,
-            indent: { left: -720, right: -720 },
-            children: [
-              new TextRun({ text: "Peter Berkenbosch Consultancy B.V.", bold: true, size: 14, font: "Arial", color: "555555" }),
-              new TextRun({ text: " | KvK 75867435 | Martenskamp 14, 8431 LP Oosterwolde | info@peterberkenbosch.nl", size: 14, font: "Arial", color: "555555" })
-            ]
-          })
-        ]
-      })
-    },
-    children: [
-      // Titel
-      new Paragraph({
-        spacing: { before: 200, after: 100 },
-        alignment: AlignmentType.CENTER,
-        children: [new TextRun({ text: "OVEREENKOMST VAN DIENSTVERLENING", bold: true, size: 28, font: "Arial" })]
-      }),
-      new Paragraph({
-        spacing: { before: 0, after: 300 },
-        alignment: AlignmentType.CENTER,
-        children: [new TextRun({ text: "KTLO Platform app.dinck.nl", bold: true, size: 24, font: "Arial" })]
-      }),
+  sections: [
+    // --- Cover page ---
+    {
+      properties: {
+        page: {
+          margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 }
+        }
+      },
+      children: [
+        // Vertical spacing to push content toward center
+        p("", { spaceBefore: 2400, spaceAfter: 0 }),
+        p("", { spaceBefore: 2400, spaceAfter: 0 }),
 
-      separator(),
+        // Logo centered
+        new Paragraph({
+          alignment: AlignmentType.CENTER,
+          spacing: { before: 0, after: 600 },
+          children: [
+            new ImageRun({
+              data: logoData,
+              transformation: { width: 300, height: 233 },
+              altText: { title: "Peter Berkenbosch Consultancy", description: "Company logo" }
+            })
+          ]
+        }),
+
+        // Document title
+        new Paragraph({
+          alignment: AlignmentType.CENTER,
+          spacing: { before: 400, after: 100 },
+          children: [new TextRun({ text: "OVEREENKOMST VAN DIENSTVERLENING", bold: true, size: 32, font: "Arial" })]
+        }),
+        new Paragraph({
+          alignment: AlignmentType.CENTER,
+          spacing: { before: 0, after: 600 },
+          children: [new TextRun({ text: "KTLO Platform app.dinck.nl", size: 26, font: "Arial", color: "444444" })]
+        }),
+
+        // Date
+        new Paragraph({
+          alignment: AlignmentType.CENTER,
+          spacing: { before: 400, after: 100 },
+          children: [new TextRun({ text: "1 maart 2026", size: 22, font: "Arial", color: "666666" })]
+        }),
+
+        // Parties summary
+        new Paragraph({
+          alignment: AlignmentType.CENTER,
+          spacing: { before: 800, after: 60 },
+          children: [new TextRun({ text: "Peter Berkenbosch Consultancy B.V.", size: 22, font: "Arial" })]
+        }),
+        new Paragraph({
+          alignment: AlignmentType.CENTER,
+          spacing: { before: 60, after: 60 },
+          children: [new TextRun({ text: "en", size: 20, font: "Arial", color: "888888" })]
+        }),
+        new Paragraph({
+          alignment: AlignmentType.CENTER,
+          spacing: { before: 60, after: 100 },
+          children: [new TextRun({ text: "Dinck B.V.", size: 22, font: "Arial" })]
+        }),
+      ]
+    },
+    // --- Document body ---
+    {
+      properties: {
+        page: {
+          margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 }
+        }
+      },
+      footers: {
+        default: new Footer({
+          children: [
+            new Paragraph({
+              spacing: { before: 100 },
+              border: { top: { style: BorderStyle.SINGLE, size: 1, color: "CCCCCC", space: 4 } },
+              alignment: AlignmentType.CENTER,
+              indent: { left: -720, right: -720 },
+              children: [
+                new TextRun({ text: "Peter Berkenbosch Consultancy B.V.", bold: true, size: 14, font: "Arial", color: "555555" }),
+                new TextRun({ text: " | KvK 75867435 | Martenskamp 14, 8431 LP Oosterwolde | info@peterberkenbosch.nl", size: 14, font: "Arial", color: "555555" })
+              ]
+            })
+          ]
+        })
+      },
+      children: [
 
       // Partijen
       heading("Partijen", HeadingLevel.HEADING_1),
@@ -566,6 +601,7 @@ const doc = new Document({
     ]
   }]
 });
+
 
 async function main() {
   const buffer = await Packer.toBuffer(doc);
