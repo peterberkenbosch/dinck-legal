@@ -1,6 +1,11 @@
 const { Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,
-        AlignmentType, HeadingLevel, BorderStyle, WidthType, ShadingType } = require('docx');
+        AlignmentType, HeadingLevel, BorderStyle, WidthType, ShadingType,
+        Header, Footer, ImageRun } = require('docx');
 const fs = require('fs');
+const path = require('path');
+
+const logoPath = path.join(__dirname, '..', 'files', 'BERK-logo-FINAL.png');
+const logoData = fs.readFileSync(logoPath);
 
 const tableBorder = { style: BorderStyle.SINGLE, size: 1, color: "999999" };
 const cellBorders = { top: tableBorder, bottom: tableBorder, left: tableBorder, right: tableBorder };
@@ -102,8 +107,39 @@ const doc = new Document({
   sections: [{
     properties: {
       page: {
-        margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 }
+        margin: { top: 2160, right: 1440, bottom: 1440, left: 1440 }
       }
+    },
+    headers: {
+      default: new Header({
+        children: [
+          new Paragraph({
+            spacing: { after: 100 },
+            children: [
+              new ImageRun({
+                data: logoData,
+                transformation: { width: 180, height: 140 },
+                altText: { title: "Peter Berkenbosch Consultancy", description: "Company logo" }
+              })
+            ]
+          })
+        ]
+      })
+    },
+    footers: {
+      default: new Footer({
+        children: [
+          new Paragraph({
+            spacing: { before: 100 },
+            border: { top: { style: BorderStyle.SINGLE, size: 1, color: "CCCCCC", space: 4 } },
+            alignment: AlignmentType.CENTER,
+            children: [
+              new TextRun({ text: "Peter Berkenbosch Consultancy B.V.", bold: true, size: 16, font: "Arial", color: "555555" }),
+              new TextRun({ text: "  |  KvK 75867435  |  Martenskamp 14, 8431 LP Oosterwolde  |  info@peterberkenbosch.nl", size: 16, font: "Arial", color: "555555" })
+            ]
+          })
+        ]
+      })
     },
     children: [
       // Titel
