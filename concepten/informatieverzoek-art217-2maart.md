@@ -1,6 +1,6 @@
 # Informatieverzoek Art. 2:217 BW — Aandeelhouder PHBX Holding B.V.
 
-**Status**: ✅ VERZONDEN op 2 maart 2026
+**Status**: Concept — nog niet verzonden (herschrijven naar je/jij-register)
 
 ---
 
