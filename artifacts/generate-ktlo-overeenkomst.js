@@ -133,9 +133,10 @@ const doc = new Document({
             spacing: { before: 100 },
             border: { top: { style: BorderStyle.SINGLE, size: 1, color: "CCCCCC", space: 4 } },
             alignment: AlignmentType.CENTER,
+            indent: { left: -720, right: -720 },
             children: [
-              new TextRun({ text: "Peter Berkenbosch Consultancy B.V.", bold: true, size: 16, font: "Arial", color: "555555" }),
-              new TextRun({ text: "  |  KvK 75867435  |  Martenskamp 14, 8431 LP Oosterwolde  |  info@peterberkenbosch.nl", size: 16, font: "Arial", color: "555555" })
+              new TextRun({ text: "Peter Berkenbosch Consultancy B.V.", bold: true, size: 14, font: "Arial", color: "555555" }),
+              new TextRun({ text: " | KvK 75867435 | Martenskamp 14, 8431 LP Oosterwolde | info@peterberkenbosch.nl", size: 14, font: "Arial", color: "555555" })
             ]
           })
         ]
