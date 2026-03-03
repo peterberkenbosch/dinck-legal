@@ -234,19 +234,19 @@ Indien de betalingsachterstand voortduurt na **30 dagen** na de datum van opscho
 
 ---
 
-## Artikel 8 — Intellectueel Eigendom
+## Artikel 8 — Intellectueel eigendom
 
-### 8.1 Geen overdracht
+### 8.1 Eigendom
 
-Door het verrichten van de Diensten vindt geen overdracht van intellectuele eigendomsrechten plaats. Alle bestaande intellectuele eigendomsrechten met betrekking tot het Platform, de broncode en de onderliggende technologie blijven berusten bij de huidige rechthebbende(n).
+Alle intellectuele eigendomsrechten met betrekking tot het Platform, de broncode en de onderliggende technologie berusten bij Opdrachtgever.
 
-### 8.2 Geen toegang broncode
+### 8.2 Geen overdracht door dienstverlening
 
-Deze overeenkomst verschaft Opdrachtgever geen recht op toegang tot, inzage in of een kopie van de broncode van het Platform. Toegang tot de broncode is geen onderdeel van de Diensten.
+Door het verrichten van de Diensten vindt geen wijziging plaats in de bestaande eigendomsverhoudingen. Opdrachtnemer verkrijgt geen intellectuele eigendomsrechten op het Platform of enig onderdeel daarvan.
 
-### 8.3 Bestaande rechten
+### 8.3 Geen toegang broncode
 
-Deze overeenkomst laat de bestaande eigendomsverhoudingen met betrekking tot het Platform onverlet. Niets in deze overeenkomst kan worden uitgelegd als een wijziging, afstand of overdracht van bestaande intellectuele eigendomsrechten.
+Deze overeenkomst verschaft Opdrachtgever geen aanvullend recht op toegang tot, inzage in of een kopie van de broncode van het Platform. Toegang tot de broncode is geen onderdeel van de Diensten.
 
 ---
 

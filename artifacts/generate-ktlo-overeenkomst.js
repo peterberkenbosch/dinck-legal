@@ -392,16 +392,16 @@ const doc = new Document({
       p("Indien de betalingsachterstand voortduurt na 30 dagen na de datum van opschorting, is Opdrachtnemer gerechtigd de overeenkomst met onmiddellijke ingang te ontbinden door middel van een schriftelijke verklaring, onverminderd het recht op vergoeding van openstaande facturen en eventuele schade."),
 
       // Artikel 8 — IP
-      articleHeading(8, "Intellectueel Eigendom"),
+      articleHeading(8, "Intellectueel eigendom"),
 
-      sub("8.1 Geen overdracht"),
-      p("Door het verrichten van de Diensten vindt geen overdracht van intellectuele eigendomsrechten plaats. Alle bestaande intellectuele eigendomsrechten met betrekking tot het Platform, de broncode en de onderliggende technologie blijven berusten bij de huidige rechthebbende(n)."),
+      sub("8.1 Eigendom"),
+      p("Alle intellectuele eigendomsrechten met betrekking tot het Platform, de broncode en de onderliggende technologie berusten bij Opdrachtgever."),
 
-      sub("8.2 Geen toegang broncode"),
-      p("Deze overeenkomst verschaft Opdrachtgever geen recht op toegang tot, inzage in of een kopie van de broncode van het Platform. Toegang tot de broncode is geen onderdeel van de Diensten."),
+      sub("8.2 Geen overdracht door dienstverlening"),
+      p("Door het verrichten van de Diensten vindt geen wijziging plaats in de bestaande eigendomsverhoudingen. Opdrachtnemer verkrijgt geen intellectuele eigendomsrechten op het Platform of enig onderdeel daarvan."),
 
-      sub("8.3 Bestaande rechten"),
-      p("Deze overeenkomst laat de bestaande eigendomsverhoudingen met betrekking tot het Platform onverlet. Niets in deze overeenkomst kan worden uitgelegd als een wijziging, afstand of overdracht van bestaande intellectuele eigendomsrechten."),
+      sub("8.3 Geen toegang broncode"),
+      p("Deze overeenkomst verschaft Opdrachtgever geen aanvullend recht op toegang tot, inzage in of een kopie van de broncode van het Platform. Toegang tot de broncode is geen onderdeel van de Diensten."),
 
       // Artikel 9 — Aansprakelijkheid
       articleHeading(9, "Aansprakelijkheid"),
