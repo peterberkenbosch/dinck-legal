@@ -4,7 +4,7 @@ const { Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,
 const fs = require('fs');
 const path = require('path');
 
-const logoPath = path.join(__dirname, '..', 'files', 'BERK-logo-FINAL.png');
+const logoPath = path.join(__dirname, '..', 'files', 'BERK-logo-hires.png');
 const logoData = fs.readFileSync(logoPath);
 
 const tableBorder = { style: BorderStyle.SINGLE, size: 1, color: "999999" };
@@ -117,14 +117,14 @@ const doc = new Document({
         p("", { spaceBefore: 2400, spaceAfter: 0 }),
         p("", { spaceBefore: 2400, spaceAfter: 0 }),
 
-        // Logo centered
+        // Logo centered — hi-res trimmed, displayed at ~450px wide
         new Paragraph({
           alignment: AlignmentType.CENTER,
           spacing: { before: 0, after: 600 },
           children: [
             new ImageRun({
               data: logoData,
-              transformation: { width: 300, height: 233 },
+              transformation: { width: 450, height: 142 },
               altText: { title: "Peter Berkenbosch Consultancy", description: "Company logo" }
             })
           ]
@@ -153,7 +153,7 @@ const doc = new Document({
         new Paragraph({
           alignment: AlignmentType.CENTER,
           spacing: { before: 800, after: 60 },
-          children: [new TextRun({ text: "Peter Berkenbosch Consultancy B.V.", size: 22, font: "Arial" })]
+          children: [new TextRun({ text: "Peter Berkenbosch Consultancy B.V.", bold: true, size: 28, font: "Arial" })]
         }),
         new Paragraph({
           alignment: AlignmentType.CENTER,
@@ -163,7 +163,7 @@ const doc = new Document({
         new Paragraph({
           alignment: AlignmentType.CENTER,
           spacing: { before: 60, after: 100 },
-          children: [new TextRun({ text: "Dinck B.V.", size: 22, font: "Arial" })]
+          children: [new TextRun({ text: "Dinck B.V.", bold: true, size: 28, font: "Arial" })]
         }),
       ]
     },
