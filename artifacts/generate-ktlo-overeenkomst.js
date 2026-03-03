@@ -239,35 +239,47 @@ const doc = new Document({
       bullet("DNS beheer"),
       bullet("Standaard database onderhoud"),
 
-      sub("2.2 Responstijden"),
+      sub("2.2 Prioriteiten en responstijden"),
       p(""),
       new Table({
-        columnWidths: [3500, 3000, 2860],
+        columnWidths: [1800, 3200, 2080, 2280],
         rows: [
           new TableRow({ tableHeader: true, children: [
-            cell("Type", 3500, { header: true }),
-            cell("Reactietijd", 3000, { header: true }),
-            cell("Oplostijd", 2860, { header: true })
+            cell("Prioriteit", 1800, { header: true }),
+            cell("Omschrijving", 3200, { header: true }),
+            cell("Reactietijd", 2080, { header: true }),
+            cell("Oplostijd", 2280, { header: true })
           ]}),
           new TableRow({ children: [
-            cell("Platform volledig onbereikbaar", 3500),
-            cell("4 uur (binnen werktijden)", 3000),
-            cell("Best effort", 2860)
+            cell("P1 \u2014 Kritiek", 1800, { bold: true }),
+            cell("Platform onbereikbaar, dataverlies, actief security-misbruik", 3200),
+            cell("1 uur", 2080),
+            cell("4 uur", 2280)
           ]}),
           new TableRow({ children: [
-            cell("Kritieke bug", 3500),
-            cell("24 uur", 3000),
-            cell("72 uur", 2860)
+            cell("P2 \u2014 Hoog", 1800, { bold: true }),
+            cell("Kritieke bug (Art. 1.4), ernstige functieverstoring", 3200),
+            cell("4 uur", 2080),
+            cell("8 uur", 2280)
           ]}),
           new TableRow({ children: [
-            cell("Security patch", 3500),
-            cell("48 uur", 3000),
-            cell("1 week", 2860)
+            cell("P3 \u2014 Medium", 1800, { bold: true }),
+            cell("Security patch (Art. 1.5), gedeeltelijke functieverstoring", 3200),
+            cell("8 werkuren", 2080),
+            cell("5 werkdagen", 2280)
+          ]}),
+          new TableRow({ children: [
+            cell("P4 \u2014 Laag", 1800, { bold: true }),
+            cell("Standaard onderhoud, certificaten, backup-verificatie", 3200),
+            cell("2 werkdagen", 2080),
+            cell("10 werkdagen", 2280)
           ]})
         ]
       }),
       p(""),
-      p("Werktijden: maandag t/m vrijdag, 9:00-17:00 CET. Meldingen buiten werktijden worden geacht te zijn ontvangen bij aanvang van de eerstvolgende werkdag."),
+      p("Werktijden: maandag t/m vrijdag, 9:00-17:00 CET. Reactie- en oplostijden worden gemeten in werkuren respectievelijk werkdagen, tenzij anders vermeld. Meldingen buiten werktijden worden geacht te zijn ontvangen bij aanvang van de eerstvolgende werkdag."),
+      p(""),
+      p("De classificatie van prioriteit wordt bepaald door Opdrachtnemer."),
 
       sub("2.3 Maximale inzet"),
       p("De Diensten bedragen maximaal 1 uur per week gemiddeld over een kalendermaand. Opdrachtnemer is niet verplicht meer uren te besteden. Indien de Diensten structureel meer dan 1 uur per week vergen, is Artikel 5.3 van toepassing."),
@@ -439,7 +451,7 @@ const doc = new Document({
       }),
 
       sub("10.2 Escalatieprotocol"),
-      p("Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden, stuurt Opdrachtgever een e-mail met als onderwerp: \"URGENT: [omschrijving probleem]\". Opdrachtnemer reageert op een URGENT-melding binnen 2 uur tijdens werktijden."),
+      p("Bij P1- en P2-incidenten stuurt Opdrachtgever een e-mail met als onderwerp: \"URGENT: [omschrijving probleem]\". Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden kan Opdrachtgever telefonisch contact opnemen."),
 
       // Artikel 11 — Geheimhouding
       articleHeading(11, "Geheimhouding"),

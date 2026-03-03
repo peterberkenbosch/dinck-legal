@@ -99,15 +99,18 @@ De Diensten omvatten uitsluitend het volgende:
 - DNS beheer
 - Standaard database onderhoud
 
-### 2.2 Responstijden
+### 2.2 Prioriteiten en responstijden
 
-| Type | Reactietijd | Oplostijd |
-|------|-------------|-----------|
-| Platform volledig onbereikbaar | 4 uur (binnen werktijden) | Best effort |
-| Kritieke bug | 24 uur | 72 uur |
-| Security patch | 48 uur | 1 week |
+| Prioriteit | Omschrijving | Reactietijd | Oplostijd |
+|------------|-------------|-------------|-----------|
+| **P1 — Kritiek** | Platform volledig onbereikbaar, dataverlies, actief security-misbruik | 1 uur | 4 uur |
+| **P2 — Hoog** | Kritieke bug (Art. 1.4), ernstige functieverstoring voor alle gebruikers | 4 uur | 8 uur |
+| **P3 — Medium** | Security patch (Art. 1.5), gedeeltelijke functieverstoring | 8 werkuren | 5 werkdagen |
+| **P4 — Laag** | Standaard onderhoud, certificaatvernieuwing, backup-verificatie | 2 werkdagen | 10 werkdagen |
 
-Werktijden: maandag t/m vrijdag, 9:00-17:00 CET. Meldingen buiten werktijden worden geacht te zijn ontvangen bij aanvang van de eerstvolgende werkdag.
+Werktijden: maandag t/m vrijdag, 9:00-17:00 CET. Reactie- en oplostijden worden gemeten in werkuren respectievelijk werkdagen, tenzij anders vermeld. Meldingen buiten werktijden worden geacht te zijn ontvangen bij aanvang van de eerstvolgende werkdag.
+
+De classificatie van prioriteit wordt bepaald door Opdrachtnemer.
 
 ### 2.3 Maximale inzet
 
@@ -277,7 +280,7 @@ Iedere vordering van Opdrachtgever op Opdrachtnemer vervalt 12 maanden na de dat
 
 ### 10.2 Escalatieprotocol
 
-Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden, stuurt Opdrachtgever een e-mail met als onderwerp: **"URGENT: [omschrijving probleem]"**. Opdrachtnemer reageert op een URGENT-melding binnen 2 uur tijdens werktijden.
+Bij P1- en P2-incidenten stuurt Opdrachtgever een e-mail met als onderwerp: **"URGENT: [omschrijving probleem]"**. Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden kan Opdrachtgever telefonisch contact opnemen.
 
 ---
 
