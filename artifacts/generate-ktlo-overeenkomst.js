@@ -117,14 +117,14 @@ const doc = new Document({
         p("", { spaceBefore: 2400, spaceAfter: 0 }),
         p("", { spaceBefore: 2400, spaceAfter: 0 }),
 
-        // Logo centered — hi-res trimmed, displayed at ~450px wide
+        // Logo centered — SVG-rendered hi-res (3000x941), displayed at ~470px wide
         new Paragraph({
           alignment: AlignmentType.CENTER,
           spacing: { before: 0, after: 600 },
           children: [
             new ImageRun({
               data: logoData,
-              transformation: { width: 450, height: 142 },
+              transformation: { width: 470, height: 147 },
               altText: { title: "Peter Berkenbosch Consultancy", description: "Company logo" }
             })
           ]
