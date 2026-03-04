@@ -181,8 +181,8 @@ De enige reden voor deze constructie was Douwine's hypotheek (UBO-uitschrijving)
 | Datum | Gebeurtenis |
 |-------|-------------|
 | 7 nov 2025 | Overdracht Freca → Marlou (€1) |
-| 6 feb 2026 | Douwine stopt financiering per direct |
-| 6 feb 2026 | Douwine meldt "externe partij" |
+| 7 feb 2026 | Douwine stopt financiering per direct |
+| 7 feb 2026 | Douwine meldt "externe partij" |
 | **10 feb 2026** | **Concept akte teruglevering ontvangen** |
 | 11 feb 2026 | Meeting bij Grady Hofstra |
 | 1 mrt 2026 | Peter niet meer bestuurder Dinck (hoedanigheid b vervalt) |

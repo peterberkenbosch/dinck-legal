@@ -4,7 +4,7 @@
 - `files/getekend-overeenkomst-van-geldlening.pdf` (28 maart 2024)
 - `files/Getekend Addendum overeenkomst van geldlening tussen Freca B.V. en Dinc B.V..pdf` (31 december 2024)
 
-**Datum analyse**: 6 februari 2026
+**Datum analyse**: 7 februari 2026
 
 ---
 

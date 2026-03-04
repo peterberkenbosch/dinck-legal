@@ -1,12 +1,12 @@
 # Dinck B.V. - Strategische Paraatheid Beoordeling
 
-**Datum**: 6 februari 2026 (bijgewerkt 1 maart 2026 — bestuurdersontslag geëffectueerd)
+**Datum**: 7 februari 2026 (bijgewerkt 1 maart 2026 — bestuurdersontslag geëffectueerd)
 **Client**: Peter Berkenbosch / PHBX Holding B.V.
 **Doel**: Voorbereiding op consultatie met advocaat
 
 ---
 
-## 1. Samenvatting situatie (per 6 feb 2026)
+## 1. Samenvatting situatie (per 7 feb 2026)
 
 ### Sterke punten
 
@@ -14,7 +14,7 @@
 |----------|---------------|
 | **Vetorecht** (Art. 8.6 lid 2 statuten: unanimiteit) | Peter kan ELKE aandeelhoudersbeslissing blokkeren - verwatering, statutenwijzigingen, dividenden, bestuurdersbenoemingen |
 | **Onmisbaarheid platform** | Peter heeft het enige waardevolle bedrijfsmiddel gebouwd; vervangingskosten €250-350K; Douwine kan het niet onderhouden |
-| **12 gedocumenteerde uitsluitingsincidenten** | Solide basis voor Art. 2:343 BW (gedwongen uitkoop) indien nodig. Incl. stopzetting financiering (6 feb) en buitensluiting externe partij |
+| **12 gedocumenteerde uitsluitingsincidenten** | Solide basis voor Art. 2:343 BW (gedwongen uitkoop) indien nodig. Incl. stopzetting financiering (7 feb) en buitensluiting externe partij |
 | **SHA is nietig voor Marlou** | Verwijdert non-concurrentiebeding (Art. 7 SHA geldt alleen bij aandelenoverdracht), verwijdert Douwine's contractuele drukmiddelen |
 | **13+ maanden onbetaald werk** | Toont uitbuiting aan; versterkt het argument "onredelijk om te blijven" onder Art. 2:343 |
 | **Schoon correspondentiedossier** | Peters communicatie is professioneel, feitelijk, juridisch precies; Douwine's communicatie bevat feitelijke onjuistheden en dreigementen. Zie `analyse/correspondentie-analyse.md` |
@@ -37,7 +37,7 @@
 
 | Kwetsbaarheid | Risiconiveau | Actie vereist |
 |---------------|-----------|---------------|
-| **Stopzetting financiering — werknemers** | **ACUUT** | Per 6 feb 2026 stopt Douwine alle operationele financiering van Dinck. Salarissen werknemers kunnen niet worden voldaan uit eigen kasstroom (ARR €6.4K). Peter is als mede-bestuurder (tot 1 maart) medeverantwoordelijk. Urgent: juridisch advies vóór 11 feb |
+| **Stopzetting financiering — werknemers** | **ACUUT** | Per 7 feb 2026 stopt Douwine alle operationele financiering van Dinck. Salarissen werknemers kunnen niet worden voldaan uit eigen kasstroom (ARR €6.4K). Peter is als mede-bestuurder (tot 1 maart) medeverantwoordelijk. Urgent: juridisch advies vóór 11 feb |
 | ~~**Meeting woensdag 11 feb bij Grady Hofstra**~~ | ~~**ACUUT**~~ **AFGEHANDELD** | Afgemeld op advies jurist, maar alsnog bijgewoond. Douwine stelt KTLO voor. Peter bereid met voorwaarden. Niets getekend. Zie `analyse/meeting-11feb-analyse.md` |
 | **Buitensluiting externe partij** | **HOOG** | Douwine spreekt dinsdag met "externe partij" over "mogelijke samenwerking" — Peter als mede-bestuurder niet geïnformeerd of betrokken. Risico: toezeggingen zonder Peters betrokkenheid |
 | **Risico versnelde opeising lening** | **KRITIEK** | Eerste aflossing ~€55-75K verschuldigd op 28 maart 2026; Dinck kan niet betalen; verzuim leidt tot volledige opeising. Nu versterkt: financiering gestopt, dus geen nieuwe inkomsten. Zie `analyse/geldlening-analyse.md` |
@@ -102,7 +102,7 @@ Alle onderhandelingen verlopen met Douwine, die GEEN aandeelhouder is. Marlou (d
 
 ~~Het dossier signaleert dat de getekende notariële akte van de Freca → Marlou overdracht niet is verkregen.~~
 
-**Status**: Akte verkregen op 6 februari 2026. Volledige analyse in `analyse/notariele-akte-analyse.md`.
+**Status**: Akte verkregen op 7 februari 2026. Volledige analyse in `analyse/notariele-akte-analyse.md`.
 
 **Belangrijkste bevindingen uit de akte**:
 - **Koopprijs €1,00 bevestigd** - ondersteunt argument van schijntransactie
@@ -151,7 +151,7 @@ De leningsovereenkomst creëert extra druk op BEIDE partijen:
 - **Wederzijds gegarandeerde vernietiging**: Geen van beide partijen heeft baat bij Dinck's faillissement. Dit versterkt de zaak voor een onderhandelde schikking.
 - **Het echte wapen is Art. 7.2** (opeising zonder reden met 3 maanden opzegtermijn), niet de loze dreigementen over bestuurdersaansprakelijkheid. Maar het inzetten ervan is zelfdestructief voor Douwine.
 
-### NIEUW: Stopzetting financiering verandert de dynamiek (6 feb 2026)
+### NIEUW: Stopzetting financiering verandert de dynamiek (7 feb 2026)
 
 Douwine's aankondiging om de financiering per direct te stoppen verandert het strategische landschap fundamenteel:
 
@@ -209,7 +209,7 @@ Alle vragen zijn geconsolideerd in **`vragen-advocaat-maud.md`** — 14 kernvrag
 - [ ] **Stop alle onbetaalde feature-ontwikkeling** — alleen KTLO vanaf vandaag
 - [ ] **Controleer D&O-verzekering** — bel Dinck's verzekeraar of raadpleeg polisdocumenten
 - [ ] **Documenteer onbetaalde werkuren** — maak retroactief logboek van al het werk sinds jan 2025
-- [x] ~~**Verkrijg kopie notariële akte**~~ (verkregen 6 feb 2026 - zie `analyse/notariele-akte-analyse.md`)
+- [x] ~~**Verkrijg kopie notariële akte**~~ (verkregen 7 feb 2026 - zie `analyse/notariele-akte-analyse.md`)
 - [ ] **Bewaar huidig KvK-uittreksel** als bewijs van aandeelhouderstatus
 - [ ] **Stel chronologische incidententijdlijn op** voor advocaat (de 14 incidenten + correspondentiesamenvatting)
 - [ ] **Bereken totale waarde onbetaalde arbeid** — uren x markttarief (€75-125/uur)

@@ -48,7 +48,7 @@ De billijke verhoging is bedoeld voor precies de situatie waarin Peter zich bevi
 
 | Criterium | Peters situatie |
 |-----------|----------------|
-| **Waardevermindering door gedragingen gedaagde** | Douwine's financieringsstop (6 feb 2026) heeft Dinck's continuiteit in gevaar gebracht; Dinck's waarde is gedaald door haar handelen |
+| **Waardevermindering door gedragingen gedaagde** | Douwine's financieringsstop (7 feb 2026) heeft Dinck's continuiteit in gevaar gebracht; Dinck's waarde is gedaald door haar handelen |
 | **Structurele benadeling** | 14 gedocumenteerde uitsluitingsincidenten |
 | **Feitelijke onttrekking van waarde** | VDenD → Dinck → Freca RC boekingsroute; salarissen werknemers gefinancierd via omleiding |
 | **Tegenstrijdig belang** | Bewezen door Douwine's eigen handeling (financieringsstop als bestuurder/financier) |
@@ -71,7 +71,7 @@ In een zaak bij de Ondernemingskamer (familieconflict, vergelijkbaar met Peter/D
 | # | Incident | Relevantie voor billijke verhoging |
 |---|----------|------------------------------------|
 | 1-14 | Zie `incident-register.md` | Elk incident documenteert structurele benadeling die de waarde van Peters positie heeft verminderd |
-| **Key incidents** | Stopzetting financiering (6 feb), fee op nihil (19 dec 2024), externe partij buiten Peter om, addendum onder druk | Direct causaal verband met waardevermindering |
+| **Key incidents** | Stopzetting financiering (7 feb), fee op nihil (19 dec 2024), externe partij buiten Peter om, addendum onder druk | Direct causaal verband met waardevermindering |
 
 ### 2.4 Schatting billijke verhoging
 

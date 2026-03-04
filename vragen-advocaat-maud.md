@@ -1,7 +1,7 @@
 # Juridische vragen — Maud van der Zee (Omnius)
 
 **Intake**: 6 februari 2026
-**Bijgewerkt**: 12 februari 2026 (14 → 24 vragen; verdiept met Wagevoe-reform, tegenargumenten red team, settlement range; 5 nieuwe vragen: 1.8, 2.7, 3.7, 3.8, 3.9)
+**Bijgewerkt**: 4 maart 2026 (24 → 30 vragen; nieuwe categorie O: UWV-procedure + jaarrekening + vermogensonttrekking; 6 nieuwe vragen: O1-O6)
 **Context**: Peter Berkenbosch / PHBX Holding B.V. — uittreding Dinck B.V.
 **Achtergrond**: `legal-consult-overview.md` + analysebestanden in `analyse/`
 
@@ -95,6 +95,36 @@ Zie `analyse/settlement-range-analyse.md` voor de volledige analyse.
 
 ---
 
+## 4. UWV-procedure, jaarrekening en vermogensonttrekking (6 vragen) {#uwv}
+
+**Context**: Op 4 maart 2026 ontving Peter (CC) een e-mail van Douwine aan UWV (kenmerk O-26561034, peildatum 12 feb 2026) met reactie op aanvullende vragen over de ontslagaanvraag voor twee contentbouwers (M.D. Booiman en C. Adema). Bijgevoegd: concept jaarrekening 2025 (opgesteld door Grady/KdV, gedateerd 4 maart 2026). Peter was niet geconsulteerd over de ontslagaanvraag of de inhoud van de reactie. Volledige analyse: `analyse/uwv-ontslagaanvraag-analyse.md`.
+
+**O1.** Peter was op peildatum 12 februari 2026 nog bestuurder van Dinck B.V. De ontslagaanvraag is ingediend en beantwoord door Douwine zonder Peters betrokkenheid. Op die datum waren er twee bestuurders. **Is dit een schending van collegiaal bestuur?** Kan Peter hier consequenties aan verbinden (bv. onrechtmatig handelen, toevoegen aan uitsluitingspatroon voor Art. 2:343)?
+
+**O2.** Douwine heeft de werknemers een vaststellingsovereenkomst aangeboden **met terugwerkende kracht tot december 2025**. De werknemers weigerden. Peter was hierover niet geïnformeerd. **Is deze backdating-poging relevant voor:**
+- De UWV-procedure (had dit gemeld moeten worden)?
+- Het patroon van bestuurdersaansprakelijkheid (onzorgvuldig bestuur)?
+- Peters eigen positie in de exit-onderhandeling?
+
+**O3.** Douwine stelt aan UWV dat Dinck geen onderdeel is van een groep (Art. 2:24b BW) en dat geen herplaatsingsverplichting bestaat. Feitelijk: Douwine bestuurt VDenD, Dinck en Freca, tekent als "Directeur" van alle drie, loonkosten worden doorbelast via VDenD (€145.536), en de marketingmedewerker is "ondergebracht bij" VDenD. **Is de stelling dat er geen groepsstructuur is, houdbaar? Is er een herplaatsingsverplichting (Art. 7:669 lid 1 BW) die Douwine omzeilt?**
+
+**O4.** De concept jaarrekening 2025 (4 maart 2026) stelt op continuïteitsbasis: "verwachten wij dat de uitstaande financiering zal worden gecontinueerd." Op dezelfde datum vertelt Douwine aan UWV: "De onderneming is zonder externe financiering niet levensvatbaar" en "Er is geen nieuwe financier in beeld." **Is deze contradictie relevant voor:**
+- De geldigheid van de ontslagaanvraag bij UWV?
+- Bestuurdersaansprakelijkheid van Douwine (onjuiste verklaringen)?
+- Een NBA-klacht tegen Grady (accountant die de jaarrekening opstelt terwijl hij weet van de UWV-brief)?
+
+**O5.** Is het in Peters belang om UWV **proactief** te informeren over: (a) de feitelijke groepsstructuur, (b) de stroman-constructie Marlou, (c) de contradictie jaarrekening/UWV-brief, (d) Peters bestuurderschap op peildatum? Of schaadt dit Peters eigen positie (bv. door escalatie, verstoring van de exit-onderhandeling)?
+
+**O6.** Douwine heeft als enig bestuurder van Dinck de marketingmedewerker (Yanna Talma) overgeheveld naar VDenD, en tegelijk het BVOK-contract (Dinck's enige externe omzetbron) verschoven van Dinck naar VDenD. Daarnaast claimt zij dat de inventaris van de video-studio (boekwaarde €3.860 op Dinck's balans) "nu van haar is." Peter is niet geïnformeerd of geconsulteerd. **Kwalificeert dit als:**
+- Vermogensonttrekking / onbehoorlijk bestuur (Art. 2:9 BW)?
+- Onrechtmatige daad jegens Peter als aandeelhouder (Art. 6:162 BW)?
+- Grond voor een Art. 2:343-vordering (waardevermindering door gedragingen mede-aandeelhouder)?
+- Moet Peter hier nu actie op ondernemen (bv. schriftelijk bezwaar, conservatoir beslag op inventaris) of kan hij dit meenemen in de exit-onderhandeling?
+
+> **Context**: De UWV-brief (4 maart) bevestigt schriftelijk dat Yanna "is ondergebracht bij" VDenD. De BVOK-overheveling en inventaris-claim zijn vooralsnog mondeling (Douwine's mededelingen, bevestiging Yanna 23 feb). Dinck's netto-omzet 2025 was €13.457 — het BVOK-contract was een substantieel deel hiervan. Zie incident #17 in `incident-register.md`.
+
+---
+
 ## Bronverwijzingen
 
 | Onderwerp | Analyse |
@@ -112,6 +142,7 @@ Zie `analyse/settlement-range-analyse.md` voor de volledige analyse.
 | **Akte tekenvoorwaarden (non-negotiables + waiver-risico §1.2)** | **`analyse/akte-tekenvoorwaarden.md`** |
 | **Package deal structurering** | **`analyse/package-deal-structuring.md`** |
 | **Post-1-maart positionering** | **`analyse/post-1-maart-positionering.md`** |
+| **UWV-ontslagaanvraag analyse** | **`analyse/uwv-ontslagaanvraag-analyse.md`** |
 | **Wagevoe reform / billijke verhoging** | **`analyse/wagevoe-art343-analyse.md`** |
 | **Tegenargumenten Douwine (red team)** | **`analyse/tegenargumenten-douwine.md`** |
 | **Settlement range / BATNA** | **`analyse/settlement-range-analyse.md`** |
@@ -123,7 +154,7 @@ Zie `analyse/settlement-range-analyse.md` voor de volledige analyse.
 <details>
 <summary>Klik om het archief te openen (34 vragen — beantwoord, achterhaald of niet meer actief)</summary>
 
-### A. Stopzetting Financiering (6 feb 2026) — grotendeels beantwoord
+### A. Stopzetting Financiering (7 feb 2026) — grotendeels beantwoord
 
 **A1.** ✅ **BEANTWOORD (memo 11 feb)**: Kan Douwine als bestuurder van VDenD/Freca eenzijdig de operationele financiering van Dinck stopzetten, terwijl zij tegelijk bestuurder van Dinck is? Hoe verhoudt dit zich tot haar bestuurdersplicht jegens Dinck (Art. 2:9 BW) en het tegenstrijdig belang (Art. 2:239 lid 6 BW)?
 > **Antwoord jurist**: Ja, dit levert een reëel risico op persoonlijke aansprakelijkheid op voor Douwine onder de **New Holland Belgium-norm** (HR). Zij bewerkstelligt als bestuurder de wanbetaling van bestaande salarisverplichtingen door als financier de geldkraan dicht te draaien. Gecombineerd met tegenstrijdig belang (Art. 2:239 lid 6 BW). Wordt opgenomen in sommatiebrief.

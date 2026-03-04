@@ -189,9 +189,9 @@ Douwine kocht een nieuwe locatie in Appelscha voor haar kinderopvangbedrijf Voor
 
 | Veld | Waarde |
 |------|--------|
-| Datum | 6 februari 2026 |
+| Datum | 7 februari 2026 |
 | Categorie | Financieel / Bestuurlijk |
-| Bewijs | E-mail Douwine 6 feb 2026 18:35 |
+| Bewijs | E-mail Douwine 7 feb 2026 18:35 |
 
 **Beschrijving**:
 Douwine besloot als directeur van VDenD/Freca (schuldeiser) de operationele financiering van Dinck B.V. per direct te beëindigen. De salarissen van Dinck's werknemers werden tot op heden gefinancierd via stortingen vanuit VDenD. Dinck heeft zelf onvoldoende kasstroom (ARR €6.400 per jaar) om lonen te betalen. Het besluit werd eenzijdig genomen — zonder voorafgaand overleg met Peter als mede-bestuurder.
@@ -207,9 +207,9 @@ Douwine besloot als directeur van VDenD/Freca (schuldeiser) de operationele fina
 
 | Veld | Waarde |
 |------|--------|
-| Datum | 6 februari 2026 (bekendmaking); gesprekken dinsdag 10 feb 2026 |
+| Datum | 7 februari 2026 (bekendmaking); gesprekken dinsdag 10 feb 2026 |
 | Categorie | Bestuurlijk / Strategisch |
-| Bewijs | E-mail Douwine 6 feb 2026 18:35; brief Peter 8 feb 2026 sectie 4; e-mail Douwine 9 feb 2026 (geen inhoudelijke reactie) |
+| Bewijs | E-mail Douwine 7 feb 2026 18:35; brief Peter 8 feb 2026 sectie 4; e-mail Douwine 9 feb 2026 (geen inhoudelijke reactie) |
 
 **Beschrijving**:
 In dezelfde e-mail meldde Douwine dat zij gesprekken voert met een "externe partij" over een "mogelijke samenwerking", gepland op dinsdag 10 februari. Peter was als mede-bestuurder niet vooraf geïnformeerd over het bestaan van deze gesprekken, de identiteit van de partij, de aard van de samenwerking, of eventuele voorwaarden. Peter is nog bestuurder tot 1 maart 2026.
@@ -218,13 +218,13 @@ Op 8 februari 2026 heeft Peter per brief formeel verzocht (sectie 4) om geïnfor
 
 Op dinsdag 10 februari 2026 heeft het gesprek met de externe partij plaatsgevonden. Peter heeft tot op dat moment **nul informatie** ontvangen — niet over de identiteit van de partij, niet over wat is besproken, niet over eventuele toezeggingen.
 
-**Citaat Douwine (6 feb)**:
+**Citaat Douwine (7 feb)**:
 > "Afgelopen dinsdag heeft er een eerste gesprek plaatsgevonden met een partij die mogelijk wilt participeren of op een andere manier betrokken wilt worden bij Dinck. Dit zijn verkennende gesprekken en ik zal jullie hier over informeren zodra er meer duidelijkheid is."
 
 **Tijdlijn non-compliance**:
 | Datum | Gebeurtenis |
 |-------|-------------|
-| 6 feb 2026 | Douwine meldt externe partij + gesprek dinsdag — Peter niet geïnformeerd |
+| 7 feb 2026 | Douwine meldt externe partij + gesprek dinsdag — Peter niet geïnformeerd |
 | 8 feb 2026 | Peter verzoekt formeel om informatie (brief sectie 4) |
 | 9 feb 2026 | Douwine bevestigt meeting woensdag — negeert alle inhoudelijke punten brief |
 | 10 feb 2026 | Gesprek externe partij vindt plaats — Peter heeft nul informatie ontvangen |
@@ -283,17 +283,107 @@ De bewering dat "partijen" zijn gewezen op fiscale gevolgen is feitelijk onjuist
 
 ---
 
+### 15. Vaststellingsovereenkomst Werknemers Buiten Mede-Bestuurder Om
+
+| Veld | Waarde |
+|------|--------|
+| Datum | 12 februari 2026 |
+| Categorie | Personeelszaken / Bestuurlijk |
+| Bewijs | E-mail Charlotte Adema 12 feb 2026 21:00; e-mail Douwine → salarisadministratie VdM (CC Peter); WhatsApp groepschat 12 feb 2026 21:11-22:20 |
+
+**Beschrijving**:
+Douwine heeft op of voor 12 februari 2026 beide werknemers (Charlotte Adema en Melissa Booiman) een vaststellingsovereenkomst aangeboden met terugwerkende kracht tot december 2025. Peter was als mede-bestuurder niet geïnformeerd over de inhoud, voorwaarden of het bestaan van deze vaststellingsovereenkomst.
+
+Charlotte Adema weigerde de VSO en stelde haar rechten veilig per e-mail (12 feb 21:00): arbeidsovereenkomst ongewijzigd van kracht, salarisverplichting, beschikbaar voor werk. Juridisch correct en professioneel.
+
+Douwine's reactie:
+1. Forwarding Charlotte's mail naar salarisadministratie Van der Meer (Liset van Beek) met: **"Graag opvolgen, met alle mogelijke gevolgen van dien. Ook voor Melissa."** — intimiderende toon jegens werknemer die wettelijke rechten uitoefent.
+2. WhatsApp groep (21:11): deelt Charlotte's mail met Melissa, stelt het voor als persoonlijke aanval: "een klap in mijn gezicht", "enorme staaltje egoïstisch gedrag"
+3. Dreigt met punitieve maatregelen: wifi uitzetten, aanwezigheidscontrole (8:20 en 16:45), geen verlof goedkeuren, doelloos dozen inpakken
+
+Na Peters WhatsApp-interventie op 16 februari ("correct werkgeverschap, dat is het op dit moment niet") draaide Douwine haar koers volledig: nieuwe groep aangemaakt, werknemers naar huis gestuurd ("er is geen werk"), reiskostenvergoeding per direct stopgezet. In de UWV-brief van 4 maart wordt dit gepresenteerd als zakelijke non-actiefstelling.
+
+Peter was op peildatum 12 februari nog **mede-bestuurder** van Dinck B.V. en draagt mede werkgeversverantwoordelijkheid. Door hem niet te betrekken bij de VSO-aanbieding, de UWV-aanvraag en de afhandeling, worden bestuursbesluiten over personeel eenzijdig genomen.
+
+**Analyse**: Dit incident combineert drie elementen:
+- **Buitensluiting**: Peter niet betrokken bij ingrijpende personeelsbeslissing
+- **Backdating**: VSO met terugwerkende kracht tot december 2025 — misleidend
+- **Intimidatie werknemers**: Punitieve maatregelen als reactie op legitieme rechtsuitoefening
+
+---
+
+### 16. UWV-Ontslagaanvraag Zonder Betrokkenheid Mede-Bestuurder
+
+| Veld | Waarde |
+|------|--------|
+| Datum | Februari - 4 maart 2026 (peildatum 12 februari 2026) |
+| Categorie | Personeelszaken / Bestuurlijk |
+| Bewijs | E-mail Douwine → UWV 4 maart 2026 (kenmerk O-26561034), Peter in CC op reactie |
+
+**Beschrijving**:
+Douwine heeft ontslagvergunningen aangevraagd bij UWV voor twee werknemers (M.D. Booiman en C. Adema). De peildatum is 12 februari 2026 — op dat moment was Peter nog mede-bestuurder van Dinck B.V. Peter was niet betrokken bij:
+- De aanvraag zelf
+- De inhoud van de reactie op UWV-vragen (4 maart 2026)
+- De strategie en framing richting UWV
+
+In de UWV-reactie:
+- Wordt Peter beschreven als "Aandeelhouder Peter Berkenbosch [die] de techniek onderhoudt" — minimaliserend
+- Wordt de groepsstructuur ontkend (Art. 2:24b BW) ondanks feitelijke verstrengeling VDenD/Dinck/Freca
+- Wordt de contradictie met de concept jaarrekening (going concern vs. afbouw) niet vermeld
+- Wordt de VSO-poging met backdating niet vermeld
+
+Peter ontving de UWV-reactie pas als CC op 4 maart 2026 — nadat hij al als bestuurder was afgetreden (1 maart 2026).
+
+**Analyse**: Het indienen en beantwoorden van een ontslagaanvraag is een ingrijpend bestuursbesluit. Op de peildatum was er een tweehoofdig bestuur. Het eenzijdig handelen past in het patroon van buitensluiting, met als bijzonderheid dat hier ook derden (UWV) een eenzijdig gekleurd beeld ontvangen.
+
+---
+
+### 17. Overheveling Werknemer en BVOK-Contract naar VDenD Zonder Overleg
+
+| Veld | Waarde |
+|------|--------|
+| Datum | Februari/maart 2026 (exacte datum te verifiëren) |
+| Categorie | Financieel / Operationeel / Tegenstrijdig belang |
+| Bewijs | UWV-brief 4 maart 2026 ("De marketingmedewerker is ondergebracht bij Voor dag en Dou"); mondelinge mededeling Douwine (BVOK-facturering naar VDenD, inventaris video-studio "is nu van haar"); gesprek Peter met Yanna 23 feb 2026 (bevestigt dat zij zelfde werk doet voor Dinck, BVOK en VDenD); Peter niet geïnformeerd of geconsulteerd |
+
+**Beschrijving**:
+Douwine heeft zonder overleg met Peter twee samenhangende acties ondernomen:
+
+1. **Yanna Talma (marketingmedewerker) overgeheveld van Dinck B.V. naar Voor dag en Dou B.V.** — Yanna was in dienst bij Dinck en werd (deels) gedetacheerd bij de BVOK. Douwine heeft Yanna's dienstverband verplaatst naar haar eigen kinderopvangbedrijf VDenD.
+
+2. **Het BVOK-contract overgeheveld van Dinck naar VDenD** — De BVOK-facturering (Dinck's enige substantiële inkomstenbron naast platform-abonnementen) loopt niet langer via Dinck maar via VDenD. Dinck verliest hiermee haar enige externe omzetbron.
+
+Peter was niet geïnformeerd over en heeft niet ingestemd met deze overheveling.
+
+**Analyse**: Dit incident is bijzonder ernstig om drie redenen:
+
+1. **Vermogensonttrekking**: Het verplaatsen van een omzetgenererende activiteit (BVOK-contract) van Dinck naar Douwine's eigen vennootschap VDenD is een directe vermogensonttrekking. Dinck verliest haar enige externe inkomstenbron, terwijl VDenD er een inkomstenbron bij krijgt — ten koste van de vennootschap waarvan Peter 33,3% aandeelhouder is.
+
+2. **Tegenstrijdig belang**: Douwine handelt als bestuurder van Dinck (afstoten activiteiten) en als bestuurder van VDenD (binnenhalen activiteiten). Dit is Art. 2:239 lid 6 BW in de meest directe vorm: het verschuiven van waarde van de ene vennootschap naar de andere, beide bestuurd door dezelfde persoon.
+
+3. **Ondermijnt going concern**: De jaarrekening 2025 is opgesteld op continuïteitsbasis. Het actief wegsluizen van de enige inkomstenbron ondermijnt de continuïteitsveronderstelling en maakt de in de jaarrekening opgenomen verwachting ("duurzame voortzetting mogelijk") ongeloofwaardig.
+
+4. **Verband met UWV-procedure**: In de UWV-brief schrijft Douwine dat de marketingmedewerker "beperkte werkzaamheden verricht voor Dinck om online zichtbaarheid te behouden" — maar vermeldt niet dat het BVOK-contract, de eigenlijke inkomstenbron, is overgeheveld naar VDenD.
+
+Daarnaast claimt Douwine dat de inventaris van de video-studio "nu van haar is." Deze inventaris staat op de balans van Dinck B.V. (materiële vaste activa: €3.860 per 31-12-2025). Eenzijdig claimen van bedrijfsinventaris zonder overdracht, betaling of besluit is vermogensonttrekking.
+
+Dit past bij het bredere patroon (zie ook incident #9, de oorspronkelijke detachering) waarin Douwine Dinck's activa en activiteiten eenzijdig verschuift naar entiteiten die zij volledig controleert.
+
+**Bewijspositie**: Momenteel mondeling (Douwine's mededelingen + bevestiging Yanna 23 feb). De UWV-brief van 4 maart bevestigt schriftelijk dat Yanna "is ondergebracht bij" VDenD. Voor de inventaris-claim en BVOK-overheveling is nog geen schriftelijk bewijs. Aanbevolen: schriftelijke bevestiging vragen via Art. 2:217 informatieverzoek of direct aan Douwine.
+
+---
+
 ## Patroon van Buitensluiting
 
 | Categorie | Voorbeelden |
 |-----------|-------------|
 | Financiële beslissingen | Management fee, jaarrekening, prognoses, **stopzetting financiering** |
 | Aandeelhouderszaken | Overdracht zonder informatie, €190K claim |
-| Personeelszaken | Mutaties niet gecommuniceerd |
+| Personeelszaken | Mutaties niet gecommuniceerd, **VSO buiten mede-bestuurder om**, **UWV-aanvraag zonder betrokkenheid**, **intimidatie werknemers** |
 | Communicatie | Eenzijdige vergaderingen, beschuldigingen |
 | Operationeel | Niet verschijnen overleg, detachering zonder overleg, verhuizing zonder overleg |
 | Bestuurlijk | Adreswijziging zonder overleg, **externe partij gesprekken zonder mede-bestuurder** |
 | Aandeelhouderszaken | Overdracht zonder informatie, **teruglevering zonder overleg**, **waardering zonder mede-bestuurder** |
-| Tegenstrijdig belang | **Financiering gestopt als schuldeiser, terwijl bestuurder van schuldenaar** |
+| Tegenstrijdig belang | **Financiering gestopt als schuldeiser, terwijl bestuurder van schuldenaar**; **BVOK-contract + werknemer overgeheveld van Dinck naar eigen VDenD** |
 
-**Conclusie**: 14 gedocumenteerde incidenten over ~16 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder. De incidenten escaleren in ernst: van informatie-achterstelling (2024-2025) naar eenzijdige financiële beslissingen die het voortbestaan van de vennootschap bedreigen en eenzijdige aandelentransacties waarvoor Peters medewerking wordt verwacht zonder voorafgaand overleg (februari 2026).
+**Conclusie**: 17 gedocumenteerde incidenten over ~16 maanden tonen een consistent patroon van structurele buitensluiting van een mede-bestuurder en aandeelhouder. De incidenten escaleren in ernst: van informatie-achterstelling (2024-2025) naar eenzijdige financiële beslissingen die het voortbestaan van de vennootschap bedreigen en eenzijdige aandelentransacties waarvoor Peters medewerking wordt verwacht zonder voorafgaand overleg (februari 2026).

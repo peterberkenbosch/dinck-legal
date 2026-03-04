@@ -82,7 +82,7 @@ Met 33,3% aandelen heeft Peter **vetorecht** over ALLE AVA-besluiten:
 - Heimelijke aandelenoverdracht zonder informatie
 - Eenzijdig stopzetten management fee
 - Structurele uitsluiting van besluitvorming
-- **Stopzetting financiering** (6 feb 2026) — waardevermindering door bestuurder
+- **Stopzetting financiering** (7 feb 2026) — waardevermindering door bestuurder
 - **~1.440 uur onbetaald werk** — verrijking van de vennootschap zonder compensatie
 
 **Voordeel** (bijgewerkt post-Wagevoe):

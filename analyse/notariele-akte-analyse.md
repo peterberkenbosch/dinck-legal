@@ -3,7 +3,7 @@
 **Bron**: `files/Registratie_07_11_2025_Repnr_24482_Koops_Levering aandelen.pdf`
 **Dossier**: 1077866/gjk
 **Notaris**: mr. Gerrit Jan Koops (toegevoegd notaris, protocol mr. Gerreke Berdien Smeenk)
-**Datum analyse**: 6 februari 2026
+**Datum analyse**: 7 februari 2026
 
 ---
 

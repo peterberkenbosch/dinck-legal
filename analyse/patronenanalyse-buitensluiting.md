@@ -196,14 +196,14 @@ Douwine kocht een nieuwe locatie in Appelscha voor haar kinderopvangbedrijf Voor
 
 In deze fase escaleert de buitensluiting naar het existentiële niveau: beslissingen die het voortbestaan van de vennootschap raken, worden genomen zonder de mede-bestuurder te informeren of te betrekken.
 
-#### Incident #11 — Eenzijdige Stopzetting Operationele Financiering (6 februari 2026)
+#### Incident #11 — Eenzijdige Stopzetting Operationele Financiering (7 februari 2026)
 
 Douwine besloot als directeur van VDenD/Freca de operationele financiering van Dinck per direct te beëindigen. Dinck heeft werknemers in dienst wier salarissen worden gefinancierd via stortingen vanuit VDenD. De eigen kasstroom van Dinck (ARR €6.400 per jaar) is ontoereikend om salarissen te betalen. Het besluit werd eenzijdig genomen — zonder voorafgaand overleg met Peter als mede-bestuurder.
 
-Citaat Douwine (6 februari 2026, 18:35):
+Citaat Douwine (7 februari 2026, 18:35):
 > *"Helaas moet ik jullie informeren dat er een aanzienlijke tegenslag is in mijn eigen onderneming, als gevolg hiervan zal ik de financiering van Dinck per direct moeten beëindigen."*
 
-*Bron: E-mail Douwine 6 februari 2026, 18:35*
+*Bron: E-mail Douwine 7 februari 2026, 18:35*
 
 **Karakter**: Financiële en existentiële buitensluiting. Douwine handelt hier als directeur van de financierende entiteiten (VDenD/Freca) terwijl zij als bestuurder van Dinck het voortbestaan van de vennootschap zou moeten beschermen. Het tegenstrijdig belang (Art. 2:239 lid 6 BW) is bewezen door haar eigen handeling.
 
@@ -213,10 +213,10 @@ In dezelfde e-mail meldde Douwine gesprekken met een "externe partij" over een "
 
 Op 8 februari verzocht Peter per brief formeel om deze informatie (sectie 4, "Informatieverzoek mede-bestuurder"). Douwine's reactie van 9 februari bevat geen inhoudelijke reactie op dit verzoek. Op 10 februari heeft het gesprek met de externe partij plaatsgevonden. Peter heeft tot op dat moment nul informatie ontvangen.
 
-Citaat Douwine (6 februari 2026):
+Citaat Douwine (7 februari 2026):
 > *"Afgelopen dinsdag heeft er een eerste gesprek plaatsgevonden met een partij die mogelijk wilt participeren of op een andere manier betrokken wilt worden bij Dinck. Dit zijn verkennende gesprekken en ik zal jullie hier over informeren zodra er meer duidelijkheid is."*
 
-*Bron: E-mail Douwine 6 februari 2026, 18:35; brief Peter 8 februari 2026 sectie 4; e-mail Douwine 9 februari 2026*
+*Bron: E-mail Douwine 7 februari 2026, 18:35; brief Peter 8 februari 2026 sectie 4; e-mail Douwine 9 februari 2026*
 
 **Karakter**: Bestuurlijke en existentiële buitensluiting. Peter wordt niet betrokken bij strategische gesprekken over de toekomst van de vennootschap, ondanks een formeel schriftelijk verzoek. Dit is een schending van het collegialiteitsbeginsel (Art. 2:9 BW). Elk AVA-besluit over samenwerking, participatie of herstructurering vereist Peters instemming (Art. 8.6 lid 2 statuten: unanimiteit).
 
@@ -246,7 +246,7 @@ Zij erkent hiermee expliciet dat zij handelt vanuit tegenstrijdige belangen.
 
 ### 6.3 Tegenstrijdig belang bewezen door handeling
 
-Op 6 februari 2026 stopte Douwine als directeur van VDenD/Freca de operationele financiering van Dinck "per direct." Zij koos als schuldeiser het belang van haar eigen entiteiten boven het voortbestaan van de vennootschap waarvan zij bestuurder is. Dit is het tegenstrijdig belang van Art. 2:239 lid 6 BW — niet langer theoretisch, maar bewezen door haar eigen handeling.
+Op 7 februari 2026 stopte Douwine als directeur van VDenD/Freca de operationele financiering van Dinck "per direct." Zij koos als schuldeiser het belang van haar eigen entiteiten boven het voortbestaan van de vennootschap waarvan zij bestuurder is. Dit is het tegenstrijdig belang van Art. 2:239 lid 6 BW — niet langer theoretisch, maar bewezen door haar eigen handeling.
 
 ---
 
@@ -336,7 +336,7 @@ Het patroon verloopt van incidentele informatieachterstelling (fase 1) via struc
 
 ### 10.3 Het tegenstrijdig belang
 
-Het tegenstrijdig belang van Douwine Koopman is niet een incidenteel gegeven maar een structureel element dat het gehele patroon versterkt. Zij erkende het tegenstrijdig belang zelf op 1 februari 2026 en bewees het door haar handeling op 6 februari 2026.
+Het tegenstrijdig belang van Douwine Koopman is niet een incidenteel gegeven maar een structureel element dat het gehele patroon versterkt. Zij erkende het tegenstrijdig belang zelf op 1 februari 2026 en bewees het door haar handeling op 7 februari 2026.
 
 ### 10.4 De schijnconstructie
 
@@ -362,5 +362,5 @@ De hierboven beschreven gedragingen — structurele buitensluiting, eenzijdige b
 | #8 | Groepsapp 20 januari 2026 |
 | #9 | Facturen Dinck → BVOK |
 | #10 | Teamupdate (bericht aan hele team) |
-| #11 | E-mail Douwine 6 februari 2026, 18:35 |
-| #12 | E-mail Douwine 6 februari 2026, 18:35; brief Peter 8 februari 2026; e-mail Douwine 9 februari 2026 |
+| #11 | E-mail Douwine 7 februari 2026, 18:35 |
+| #12 | E-mail Douwine 7 februari 2026, 18:35; brief Peter 8 februari 2026; e-mail Douwine 9 februari 2026 |

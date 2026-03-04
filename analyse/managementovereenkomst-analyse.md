@@ -8,7 +8,7 @@
 - `files/Periodebalans 2023 Dinck.pdf` (bijlage — periodebalans opgesteld door Evelien Wagenaar / Fince!)
 - `files/inbox-19-12-2024-gemaakte-afspraken.pdf` (19 december 2024 — bevestiging gemaakte afspraken na meeting)
 
-**Datum analyse**: 6 februari 2026 (bijgewerkt 10 februari 2026)
+**Datum analyse**: 7 februari 2026 (bijgewerkt 10 februari 2026)
 
 ---
 
@@ -78,7 +78,7 @@ Dit maakt de situatie nog schrijnender: Douwine handhaaft de fulltime verplichti
 
 **Analyse**: Deze clausule staat in BEIDE overeenkomsten.
 
-**KRITIEKE BEVINDING (6 feb 2026)**: Het AVA-besluit van 30 november 2024 wijzigt **uitsluitend** de managementovereenkomst met PHBX Holding. Freca's managementovereenkomst wordt niet genoemd — niet in het agendapunt, niet in het besluit, niet in de herlevingsclausule. Er is **geen formeel besluit** dat Freca's fee wijzigt.
+**KRITIEKE BEVINDING (7 feb 2026)**: Het AVA-besluit van 30 november 2024 wijzigt **uitsluitend** de managementovereenkomst met PHBX Holding. Freca's managementovereenkomst wordt niet genoemd — niet in het agendapunt, niet in het besluit, niet in de herlevingsclausule. Er is **geen formeel besluit** dat Freca's fee wijzigt.
 
 **Feitelijke vs. juridische situatie:**
 

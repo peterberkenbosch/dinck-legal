@@ -188,7 +188,7 @@ Maar: Je moet bereid zijn om door te zetten als ze bluffen.
 
 ## 8. Aanbevolen Strategie: Volledige Exit
 
-**Koerswijziging (6 feb 2026)**: Leveranciersrol met korting wordt niet meer nagestreefd. Doel is volledig vertrek. Indien Douwine toch werk wil: alleen tegen vol markttarief (€125/uur). Geen gratis KTLO.
+**Koerswijziging (7 feb 2026)**: Leveranciersrol met korting wordt niet meer nagestreefd. Doel is volledig vertrek. Indien Douwine toch werk wil: alleen tegen vol markttarief (€125/uur). Geen gratis KTLO.
 
 ### Fase 1: Nu (Februari 2026)
 - [x] Ontslagbrief verzonden

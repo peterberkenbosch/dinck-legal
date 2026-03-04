@@ -14,7 +14,7 @@ Peter ging alsnog naar de meeting (ondanks eerdere afmelding op advies jurist). 
 
 - Douwine heeft een **lening van €100.000** moeten afsluiten voor VDenD (kinderopvang)
 - **Voorwaarde van de geldverstrekker**: per direct geen euro meer naar Dinck
-- Dit verklaart de financieringsstop van 6 februari 2026
+- Dit verklaart de financieringsstop van 7 februari 2026
 
 ### 1.2 Voorstel Douwine
 
@@ -352,11 +352,11 @@ De meeting genereert een nieuwe urgente categorie vragen (N) die aan de jurist m
 
 | Aspect | Vóór meeting | Na meeting |
 |--------|-------------|------------|
-| Financiering Dinck | Gestopt (6 feb) | Bevestigd: structureel gestopt (extern opgelegd) |
+| Financiering Dinck | Gestopt (7 feb) | Bevestigd: structureel gestopt (extern opgelegd) |
 | Werknemers | Salarissen onzeker | Ontslag gepland |
 | Operatie Dinck | Onzeker | Alleen KTLO |
 | Aandelen | Concept akte (10 feb) | Peter weet van plan, geen toezegging |
-| Externe partij | Meeting di (6 feb email) | Jaamo — kinderopvangsoftware, adviesgesprek, geen concurrent, geen potentiële koper |
+| Externe partij | Meeting di (7 feb email) | Jaamo — kinderopvangsoftware, adviesgesprek, geen concurrent, geen potentiële koper |
 | Aandelen aan Jeffrey | — | Douwine overweegt aandelen voor Jeffrey; Jeffrey heeft Peters aanbod al afgeslagen |
 
 ### 9.3 Onderhandelingsstrategie

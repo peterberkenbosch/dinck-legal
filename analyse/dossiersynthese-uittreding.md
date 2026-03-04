@@ -11,7 +11,7 @@
 
 Peter Berkenbosch (PHBX Holding B.V., 33,3% aandeelhouder) treedt per 1 maart 2026 af als bestuurder van Dinck B.V., een SaaS-bedrijf voor de kinderopvangsector. Het doel is een volledige exit — overdracht van aandelen tegen faire waarde.
 
-**De acute crisis**: Op 6 februari 2026 heeft mede-bestuurder Douwine Koopman de operationele financiering van Dinck per direct stopgezet. Dinck heeft werknemers in dienst maar onvoldoende eigen kasstroom (ARR €6.400/jaar) om salarissen te betalen. Tegelijkertijd voert Douwine gesprekken met een "externe partij" over de toekomst van Dinck — zonder Peter te informeren.
+**De acute crisis**: Op 7 februari 2026 heeft mede-bestuurder Douwine Koopman de operationele financiering van Dinck per direct stopgezet. Dinck heeft werknemers in dienst maar onvoldoende eigen kasstroom (ARR €6.400/jaar) om salarissen te betalen. Tegelijkertijd voert Douwine gesprekken met een "externe partij" over de toekomst van Dinck — zonder Peter te informeren.
 
 **Peters sterke positie**: Vetorecht op alle AVA-besluiten (unanimiteitsvereiste Art. 8.6 lid 2 statuten), platformafhankelijkheid (alleen Peter kan het onderhouden), 14 gedocumenteerde uitsluitingsincidenten, vrijwaring via managementovereenkomst (niet opgezegd), verliesasymmetrie bij faillissement (Douwine verliest ~€612K, Peter verliest twijfelachtige equity), **€100K direct opeisbare boete op Freca** wegens schending kettingbeding Art. 9+10 SHA, en bescherming tegen bestuurdersaansprakelijkheid via Beklamel-norm (brief 8 feb).
 
@@ -156,7 +156,7 @@ Veertien gedocumenteerde incidenten over zestien maanden tonen een escalerend pa
 | **2** | Dec 2025 — jan 2026 | #4 (€190K claim), #5 (eenzijdige vergadering), #6 (chantage-beschuldiging), #7 (personeelsmutatie), #8 (werkoverleg), #9 (detachering BVOK), #10 (verhuizing) | Eenzijdige besluitvorming + intimidatie |
 | **3** | Feb 2026 | #11 (financiering gestopt), #12 (externe partij zonder info), #13 (eenzijdige teruglevering), #14 (€1 waardering zonder overleg) | Existentiële buitensluiting |
 
-**Rode draad**: Douwine's tegenstrijdig belang — zelf erkend op 1 februari 2026, bewezen door handeling op 6 februari 2026.
+**Rode draad**: Douwine's tegenstrijdig belang — zelf erkend op 1 februari 2026, bewezen door handeling op 7 februari 2026.
 
 *Volledige analyse: `analyse/patronenanalyse-buitensluiting.md`*
 *Incidentenregister: `incident-register.md`*
@@ -235,7 +235,7 @@ De MO is niet opgezegd. Dinck vrijwaart PHBX voor schadeclaims derden. Aansprake
 
 ### 6.7 Tegenstrijdig belang bewezen
 
-Douwine erkende het zelf (1 feb 2026: "handel ook vanuit mijn positie als financier") en bewees het door handeling (6 feb 2026: financiering gestopt als schuldeiser, terwijl bestuurder schuldenaar). Art. 2:239 lid 6 BW.
+Douwine erkende het zelf (1 feb 2026: "handel ook vanuit mijn positie als financier") en bewees het door handeling (7 feb 2026: financiering gestopt als schuldeiser, terwijl bestuurder schuldenaar). Art. 2:239 lid 6 BW.
 
 ### 6.8 SHA Kettingbeding — €100K Boetevordering (NIEUW — 11 feb 2026)
 
@@ -249,7 +249,7 @@ Freca heeft bij de aandelenoverdracht aan Marlou (7 nov 2025) het kettingbeding 
 
 ### 6.10 New Holland Belgium-norm — Douwine's risico (NIEUW — 11 feb 2026)
 
-**Definitie (HR)**: Bestuurder is aansprakelijk als hij bewerkstelligt of toelaat dat de vennootschap bestaande verplichtingen niet nakomt. Douwine heeft als bestuurder van Dinck de operationele financiering stopgezet (6 feb), terwijl zij als bestuurder van VDenD/Freca de geldkraan dichtdraait — wetende dat er bestaande salarisverplichtingen zijn. De jurist kwalificeert dit als **actief bewerkstelligen van wanbetaling**. Gecombineerd met tegenstrijdig belang (Art. 2:239 lid 6 BW) levert dit een reëel risico op persoonlijke aansprakelijkheid voor Douwine op.
+**Definitie (HR)**: Bestuurder is aansprakelijk als hij bewerkstelligt of toelaat dat de vennootschap bestaande verplichtingen niet nakomt. Douwine heeft als bestuurder van Dinck de operationele financiering stopgezet (7 feb), terwijl zij als bestuurder van VDenD/Freca de geldkraan dichtdraait — wetende dat er bestaande salarisverplichtingen zijn. De jurist kwalificeert dit als **actief bewerkstelligen van wanbetaling**. Gecombineerd met tegenstrijdig belang (Art. 2:239 lid 6 BW) levert dit een reëel risico op persoonlijke aansprakelijkheid voor Douwine op.
 
 *Volledige analyse: `analyse/memo-jurist-11feb2026.md` sectie 4*
 
@@ -411,8 +411,8 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 | 30 jan 2026 | Peter: ontslagbrief bestuurder per 1 maart 2026 |
 | 1 feb 2026 | Douwine: weigering, feitelijke onjuistheden, zelf-erkenning tegenstrijdig belang |
 | 2 feb 2026 | Peter: zakelijke reactie, correcties, Marlou in CC |
-| 6 feb 2026 | Douwine: financiering per direct gestopt; externe partij; meeting woensdag |
-| 6 feb 2026 | Peter: intake Omnius (Maud van der Zee) |
+| 7 feb 2026 | Douwine: financiering per direct gestopt; externe partij; meeting woensdag |
+| 7 feb 2026 | Peter: intake Omnius (Maud van der Zee) |
 | 8 feb 2026 | Peter: brief financiële zorgen verzonden + meeting bevestigd |
 | 9 feb 2026 | Douwine: bevestiging meeting wo 12:30 — geen inhoudelijke reactie |
 | 9 feb 2026 | Peter: update + vragen naar Maud |

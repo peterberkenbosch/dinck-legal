@@ -37,7 +37,7 @@
 - RC Freca: formele leningsovereenkomst met specifieke voorwaarden
 - Overige posten: handelscrediteuren — ander juridisch regime
 
-**Financieringsstructuur**: Loonkosten personeel (inmiddels in dienst bij Dinck B.V.) werden door VDenD gestort op de bankrekening van Dinck, en via memoriaal geboekt op de Freca RC. Per 6 februari 2026 is deze financiering **per direct stopgezet** door Douwine (zie §5.6).
+**Financieringsstructuur**: Loonkosten personeel (inmiddels in dienst bij Dinck B.V.) werden door VDenD gestort op de bankrekening van Dinck, en via memoriaal geboekt op de Freca RC. Per 7 februari 2026 is deze financiering **per direct stopgezet** door Douwine (zie §5.6).
 
 ### 1.6 Leningsovereenkomst Freca → Dinck
 
@@ -187,7 +187,7 @@ Rabobank weigerde Douwine privé hypotheek vanwege schuldpositie Dinck. Oplossin
 | SHA-binding | GEEN |
 | Positie | Stroman voor hypotheekconstructie |
 
-### 3.4 Bevindingen Notariële Akte (verkregen 6 feb 2026)
+### 3.4 Bevindingen Notariële Akte (verkregen 7 feb 2026)
 
 **Bron**: `files/Registratie_07_11_2025_Repnr_24482_Koops_Levering aandelen.pdf`
 **Volledige analyse**: `analyse/notariele-akte-analyse.md`
@@ -217,7 +217,7 @@ Op 10 februari ontving Peter via notaris Koops een concept akte voor de teruglev
 ### 3.6 Openstaande Vragen
 
 - [ ] Is terugkoop door Freca al uitgevoerd? (KvK toont nog Marlou)
-- [x] ~~Getekende notariële akte opvragen~~ (verkregen 6 feb 2026)
+- [x] ~~Getekende notariële akte opvragen~~ (verkregen 7 feb 2026)
 - [ ] Kan de mondelinge terugkoopafspraak worden bewezen?
 - [ ] Herleeft het voorkeursrecht als Marlou aan een derde overdraagt?
 - [ ] Herleeft de SHA als Freca weer aandeelhouder wordt? (non-concurrentie 3 jaar, boete €100K)
@@ -385,9 +385,9 @@ Marlou is de **66,7% aandeelhouder**. Douwine is dat niet. Door alleen met Douwi
 | Na 1 maart | Formele correspondentie (informatierechten, AVA-verzoeken) **aan Marlou** als aandeelhouder, met Douwine in CC als bestuurder |
 | Advocaatgesprek | Bespreken of separate bevestiging van het ontslag aan Marlou wenselijk is |
 
-### 5.6 Nieuwe Ontwikkeling: Financiering Stopgezet (6 februari 2026)
+### 5.6 Nieuwe Ontwikkeling: Financiering Stopgezet (7 februari 2026)
 
-**E-mail van Douwine, 6 feb 2026 18:35, CC: Grady Hofstra, Marlou Woltmeijer**
+**E-mail van Douwine, 7 feb 2026 18:35, CC: Grady Hofstra, Marlou Woltmeijer**
 
 **Volledige analyse**: `analyse/correspondentie-analyse.md`, sectie 5
 
@@ -552,12 +552,12 @@ De jurist adviseert een offensieve strategie in plaats van afwachten:
 
 ### Voor 1 maart 2026
 
-- [x] Getekende notariële akte verkregen (6 feb 2026) - zie `analyse/notariele-akte-analyse.md`
+- [x] Getekende notariële akte verkregen (7 feb 2026) - zie `analyse/notariele-akte-analyse.md`
 - [x] KvK uittreksel bewaard (1 feb 2026) - zie `files/01-02-2026_KVK_uittreksel_UBO-93428359.pdf`
 - [x] KvK-uitschrijving ingediend (1 maart 2026, wijzigingsformulier ref. 93428359-20260301-O001, digitaal ondertekend via DigiD 09:12 CET) - zie `files/Opgave-93428359-20260301-O001.pdf`
 - [ ] KTLO-scope document delen indien nodig
 - [x] KTLO-overeenkomst concept opgesteld (2 maart 2026) — Consultancy B.V. ↔ Dinck B.V., zie `concepten/ktlo-overeenkomst.md`
-- [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee / Legal Advice Wanted B.V.) — memo ontvangen 11 feb, zie `analyse/memo-jurist-11feb2026.md`
+- [x] Juridisch consult intake via Omnius (7 feb 2026, Maud van der Zee / Legal Advice Wanted B.V.) — memo ontvangen 11 feb, zie `analyse/memo-jurist-11feb2026.md`
 - [x] Brief financiële zorgen verzonden (8 feb 2026) - zie `concepten/brief-financiele-zorgen.md`
 - [x] Meeting woensdag 11 feb bevestigd per email (8 feb 2026)
 - [x] Reactie op Douwine's email 6 feb — kort bevestigd, inhoudelijke reactie via brief

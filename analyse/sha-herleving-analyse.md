@@ -168,7 +168,7 @@ Als Freca de SHA tegen Peter zou willen inroepen (non-concurrentiebeding Art. 7,
 | Schending Art. 9 derdenbeding | Freca heeft haar eigen SHA-verplichting niet nagekomen |
 | Schending Art. 3.1 MO (gelijke behandeling) | Alleen PHBX's fee gewijzigd, niet Freca's |
 | 13 gedocumenteerde uitsluitingsincidenten | Structurele buitensluiting van Peter als mede-aandeelhouder |
-| Stopzetting financiering per direct (6 feb 2026) | Tegenstrijdig belang bewezen door handeling |
+| Stopzetting financiering per direct (7 feb 2026) | Tegenstrijdig belang bewezen door handeling |
 | Gesprekken met externe partij buiten Peters weten | Handelen buiten mede-aandeelhouder om |
 
 #### Het argument

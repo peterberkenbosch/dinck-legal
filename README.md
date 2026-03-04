@@ -8,7 +8,7 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 - `dossier-uittreding.md` - Hoofddossier met alle informatie
 - `juridische-analyse.md` - Juridische positie en opties
 - `incident-register.md` - Gedocumenteerde incidenten (art. 2:343 BW)
-- `legal-preparedness-assessment.md` - Strategische beoordeling en actiepunten voor advocaat (6 feb 2026)
+- `legal-preparedness-assessment.md` - Strategische beoordeling en actiepunten voor advocaat (7 feb 2026)
 
 ### Correspondentie
 - `correspondentie/` - Alle e-mailwisselingen
@@ -23,10 +23,10 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 - `analyse/sha-analyse.md` - Aandeelhoudersovereenkomst analyse
 - `analyse/statuten-analyse.md` - Statuten analyse
 - `analyse/strategische-opties.md` - Strategische opties en scenario's
-- `analyse/notariele-akte-analyse.md` - Analyse notariële akte aandelenoverdracht (6 feb 2026)
-- `analyse/geldlening-analyse.md` - Analyse overeenkomst van geldlening + addendum (6 feb 2026)
-- `analyse/managementovereenkomst-analyse.md` - Analyse managementovereenkomsten + AVA notulen (6 feb 2026)
-- `analyse/correspondentie-analyse.md` - Analyse e-mail correspondentie met geverifieerde tijdlijn (6 feb 2026)
+- `analyse/notariele-akte-analyse.md` - Analyse notariële akte aandelenoverdracht (7 feb 2026)
+- `analyse/geldlening-analyse.md` - Analyse overeenkomst van geldlening + addendum (7 feb 2026)
+- `analyse/managementovereenkomst-analyse.md` - Analyse managementovereenkomsten + AVA notulen (7 feb 2026)
+- `analyse/correspondentie-analyse.md` - Analyse e-mail correspondentie met geverifieerde tijdlijn (7 feb 2026)
 
 ### Bronbestanden
 - `files/` - Originele juridische documenten (PDF)
@@ -78,11 +78,11 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 
 - [x] Ontslagbrief verzonden (30 jan 2026)
 - [x] Reactie op Douwine's bezwaren verzonden (2 feb 2026, Marlou in CC)
-- [x] Strategische beoordeling opgesteld (6 feb 2026)
+- [x] Strategische beoordeling opgesteld (7 feb 2026)
 - [ ] **URGENT: Stop onbetaalde feature development** - alleen KTLO vanaf nu
 - [ ] **URGENT: D&O verzekering checken**
 - [ ] Onbetaalde werkuren documenteren (jan 2025 - heden)
-- [x] Notariele akte aandelenoverdracht verkregen (6 feb 2026)
+- [x] Notariele akte aandelenoverdracht verkregen (7 feb 2026)
 - [x] KvK uittreksel bewaard (1 feb 2026)
 - [ ] Gesprek met advocaat
 - [ ] Uitschrijving KvK (na 1 maart 2026)
