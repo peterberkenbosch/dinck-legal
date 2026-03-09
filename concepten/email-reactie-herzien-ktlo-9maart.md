@@ -1,6 +1,6 @@
 # E-mail — Reactie op Douwine's herziene KTLO-overeenkomst
 
-**Status**: CONCEPT — 9 maart 2026
+**Status**: CONCEPT — 10 maart 2026
 
 ---
 
@@ -22,7 +22,7 @@
 > Dank voor je reactie. Ik heb je document naast het mijne gelegd en merk op dat het een volledig nieuw contract is — geen revisie op wat ik heb gestuurd. Dat maakt een gerichte vergelijking lastig, en ik loop daarom de belangrijkste verschillen langs.
 >
 > **Scope en uren**
-> Op 11 februari hebben we afgesproken dat ik KTLO doe voor app.dinck.nl. Dat is wat ik aanbied: het platform draaiend houden. Om precies te zijn: de volledige Rails-applicatie, inclusief de API-endpoints die de Dinckly app bedienen vallen onder het platform — die draaien in dezelfde codebase. Wat niet onder KTLO valt is de ontwikkeling en het onderhoud van de Dinckly mobiele app zelf (iOS/Android) — dat is actieve ontwikkeling, geen onderhoud, en die ligt op dit moment stil. Mijn aanbod is 1 uur per week onbetaald in het belang van de aandeelhoudersrelatie. Vijf uur per week is vijf keer zoveel — dat is een wezenlijk andere afspraak, en dan gratis. Mocht er structureel meer tijd nodig zijn, dan kan dat via Meerwerk (Art. 3, €125/hr).
+> Op 11 februari hebben we afgesproken dat ik KTLO doe voor app.dinck.nl. Dat is wat ik aanbied: het platform draaiend houden. Om precies te zijn: de volledige Rails-applicatie, inclusief de Hotwire Native-code die de Dinckly app bedient — die draait in dezelfde codebase. Wat niet onder KTLO valt is de doorontwikkeling van de Dinckly mobiele app zelf (iOS/Android) — dat is actieve ontwikkeling, geen onderhoud, en die ligt op dit moment stil. Mijn aanbod is 1 uur per week onbetaald in het belang van de aandeelhoudersrelatie. Dat is aanzienlijk meer dan wat reguliere KTLO vergt — mocht er structureel meer tijd nodig zijn, dan kan dat via Meerwerk (Art. 3, €125/hr).
 >
 > **Documentatie en kennisoverdracht**
 > De codebase bevat uitgebreide documentatie — elke ervaren Rails-ontwikkelaar kan daarmee aan de slag. Dat is standaardpraktijk bij professionele softwareontwikkeling en zo heb ik het ook opgezet. Mocht een externe ontwikkelaar daarnaast vragen hebben, dan help ik graag — maar dat valt binnen de uren, of het gaat via Meerwerk (Art. 3). Een onbeperkte documentatieplicht *buiten* het uurplafond is feitelijk een ongelimiteerde onbetaalde verplichting, en dat is niet redelijk. Documentatie en kennisoverdracht zijn bovendien geen KTLO — dat is een apart traject.
@@ -34,19 +34,19 @@
 > In jouw versie ontbreken bepalingen die voor mij essentieel zijn: de automatische beëindiging bij aandelenoverdracht, het opschortingsrecht bij wanbetaling, de gedetailleerde hostingspecificatie met betalingstermijn, de wijzigingsbepaling, en de vervaltermijn. Die zijn er niet zonder reden in opgenomen — ze beschermen ons allebei.
 >
 > **Bijgewerkte versie**
-> Bijgaand tref je een bijgewerkte versie van mijn overeenkomst aan. Drie aanvullingen:
+> Bijgaand tref je een bijgewerkte versie aan van mijn overeenkomst. Deze vervangt de versie die ik op 3 maart heb gestuurd. De belangrijkste toevoegingen:
 >
-> 1. **Dinckly-afbakening** verduidelijkt (Art. 1.1 en 2.4) — de backend API-endpoints die de Dinckly app bedienen zijn onderdeel van het Platform en vallen onder KTLO. De mobiele app zelf (iOS/Android) niet.
-> 2. **GitHub** is toegevoegd aan de hostingkosten (Art. 4.1) — daar staat de volledige broncode.
-> 3. **Beveiliging en Toegangsbeheer** (Art. 10, nieuw) — ik beheer alle toegangsgegevens via 1Password en deel geen inloggegevens via onbeveiligde kanalen. Wijzigingen in toegangsrechten lopen via overleg zolang het contract loopt. Dit beschermt ons allebei.
+> 1. **Dinckly-afbakening** verduidelijkt (Art. 1.1 en 2.4) — de Hotwire Native-weergaven en bijbehorende code in de Rails-applicatie die de Dinckly app bedienen zijn onderdeel van het Platform en vallen onder KTLO. De doorontwikkeling van de mobiele app zelf (iOS/Android) niet.
+> 2. **Migratie naar eigen accounts** (Art. 4.5, nieuw) — zie hieronder.
+> 3. **Beveiliging en Toegangsbeheer** (Art. 10) — ik beheer alle toegangsgegevens via 1Password en deel geen inloggegevens via onbeveiligde kanalen. Wijzigingen in toegangsrechten lopen via overleg zolang het contract loopt. Dit beschermt ons allebei.
 >
 > **Infrastructuur**
-> Ik ben bereid om alle hosting- en infrastructuuraccounts eenmalig over te zetten naar accounts op naam van Dinck. Daar heb ik een creditcard voor nodig — de meeste providers werken met maandelijkse afschrijvingen. Zodra je die aanlevert, zet ik alles over en lever ik de volledige infrastructuurdocumentatie op: welke servers, welke diensten, welke accounts, welke kosten. Dat is in het contract opgenomen als optie (Art. 4.6). Zolang de accounts nog op mijn naam staan, factureer ik de hostingkosten maandelijks door tegen kostprijs.
+> Ik ben bereid om alle hosting- en infrastructuuraccounts eenmalig over te zetten naar accounts op naam van Dinck. Dat heb ik al uitgewerkt in een concreet migratieplan. De huidige kosten (~€114/maand) kunnen omlaag naar ~€25/maand door de infrastructuur te consolideren bij één leverancier. Daar heb ik een betaalmethode voor nodig (creditcard of automatische incasso). Zodra je die aanlevert, kan ik de overdracht direct starten en lever ik de volledige infrastructuurdocumentatie op. Dat is in het contract opgenomen als optie (Art. 4.5). Zolang de accounts nog op mijn naam staan, factureer ik de hostingkosten maandelijks door tegen kostprijs.
 >
 > **Voorstel**
 > Laten we mijn overeenkomst als uitgangspunt nemen. Als je op specifieke artikelen opmerkingen hebt, hoor ik die graag — dan werken we gericht naar een versie die voor ons allebei werkt. Maar het moet wel een contract zijn dat mijn tijd en aansprakelijkheid op een redelijke manier afbakent.
 >
-> De hostingkosten lopen sinds 1 maart. Ik stuur binnenkort de eerste factuur — kun je aangeven op welk e-mailadres en t.n.v. wie die moet?
+> De hostingkosten lopen sinds 1 maart. Eind maart stuur ik de eerste factuur tegen kostprijs — kun je aangeven op welk e-mailadres en t.n.v. wie die moet?
 >
 > Groet,
 >
@@ -63,21 +63,28 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 1. **Dit is geen revisie, maar een ander document** — expliciet benoemd, zonder beschuldiging
 2. **1 uur/week is het aanbod** — KTLO is afgesproken op 11 februari, het urenaantal is Peter's voorstel in het contract
 3. **Bereidheid tot openheid** — documentatie, kennisoverdracht, code inzage: geen probleem. Maar dan wél binnen redelijke kaders (uren of betaald)
-4. **Dinckly-afbakening** — backend API = onderdeel platform (KTLO), mobiele app zelf (iOS/Android) = actieve ontwikkeling (gepauzeerd, geen KTLO)
+4. **Dinckly-afbakening** — Hotwire Native-code in Rails = onderdeel platform (KTLO), doorontwikkeling mobiele app (iOS/Android) = actieve ontwikkeling (gepauzeerd, geen KTLO)
 5. **KTLO ≠ transitie** — haar contract bundelt onderhoud met overdracht (escrow, kennisoverdracht, exitprotocol). Peter is bereid tot transitiegesprek, maar apart
 6. **Ontbrekende bepalingen benoemd** — specifiek, zakelijk, "beschermen ons allebei"
-6. **Bijgewerkt contract** meegezonden met toelichting op de drie aanvullingen (Dinckly-afbakening, GitHub, security)
-7. **Proactief aanbod** infra-migratie naar Dinck-accounts — neemt wind uit elk "Peter houdt alles gegijzeld" narratief
-8. **Hostingfactuur** — praktisch, concreet, herinnering dat er kosten lopen (zolang accounts nog op Peters naam staan)
+6. **Bijgewerkt contract v2** meegezonden — vervangt versie 3 maart, met toelichting op aanvullingen (Dinckly, Art. 4.5 migratie, Art. 10 security)
+7. **Proactief aanbod** infra-migratie naar Dinck-accounts — concreet migratieplan al klaar, kosten omlaag van ~€114 naar ~€25/maand, neemt wind uit elk "Peter houdt alles gegijzeld" narratief
+8. **Hostingfactuur** — eind maart, tegen kostprijs, concreet signaal dat er kosten lopen
 9. **Slot**: "mijn tijd en aansprakelijkheid redelijk afbakenen" — de kern in één zin
 
-### Verschil met vorige conceptversie
-- **Firmer**: benoemt nu expliciet dat 5hr/week "vijf keer zoveel, en dan gratis" is
-- **Opener**: biedt proactief documentatie en infra-info aan — countered het frame dat Peter controle zoekt
-- **Art. 10 geïntroduceerd**: security/credentials als bescherming voor beide partijen, niet als machtsinstrument
-- **Dinckly genuanceerd**: backend API = wél KTLO (zelfde codebase), mobiele app = niet (actieve ontwikkeling, gepauzeerd)
-- **Bijlage**: bijgewerkt contract v2 meegezonden
-- **Art. 4.6 nieuw**: migratie hosting naar Dinck-accounts als optie, gratis, creditcard nodig
+### Verschil contract v2 t.o.v. v1 (verstuurd 3 maart)
+- **Art. 1.1**: "API-endpoints" → "Hotwire Native-weergaven en bijbehorende code" (technisch correcter)
+- **Art. 2.4**: Doorontwikkeling Dinckly als expliciete uitsluiting toegevoegd; SpiekR verwijderd (functioneel, niet meer relevant)
+- **Art. 4.1**: Alternatieve hostingtabel na migratie toegevoegd (~€25/maand)
+- **Art. 4.5 nieuw**: Migratie naar eigen accounts — betaalmethode verbreed naar "creditcard of automatische incasso"
+- **Ondertekening**: Datum bijgewerkt naar 10 maart 2026, expliciet "vervangt versie 3 maart"
+
+### Verschil email t.o.v. vorig concept
+- **Zachter**: "aanzienlijk meer dan wat reguliere KTLO vergt" i.p.v. "vijf keer zoveel en dan gratis"
+- **Concreter**: migratieplan al klaar, besparing ~€114 → ~€25/maand benoemd
+- **Art. 4.5** (niet 4.6) correct verwezen
+- **Factuur**: "eind maart" i.p.v. "binnenkort"
+- **v2 framing**: expliciet "vervangt versie 3 maart"
+- **Hotwire Native**: technisch correcte omschrijving Dinckly-scope
 
 ### Wat er bewust NIET in staat
 
@@ -98,10 +105,10 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 - Scheidt KTLO van overdracht — documentatie/kennisoverdracht mag, maar binnen kaders
 - Bevestigt 1hr/week als het aanbod (niet 5) — de meeting van 11 feb verankert KTLO, niet het urenaantal
 - Biedt openheid aan als wapen — "ik verberg niets" neutraliseert elk narratief dat Peter controle zoekt
-- Biedt actief infra-migratie aan — elimineert "gegijzeld" argument, verschuift kosten naar Dinck (creditcard nodig)
+- Biedt actief infra-migratie aan met concreet plan — elimineert "gegijzeld" argument, kosten dalen van ~€114 naar ~€25/maand
 - Noemt concrete ontbrekende bepalingen — Douwine moet uitleggen waarom die eruit moeten
 - Introduceert Art. 10 (security) als bescherming voor beide partijen
-- Hostingfactuur = concreet signaal dat dit geen vrijblijvend arrangement is
+- Hostingfactuur eind maart = concreet signaal dat dit geen vrijblijvend arrangement is
 
 ### Waarom 1 uur/week en niet 5
 
@@ -129,7 +136,7 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 - Peter hoeft niet mee te tekenen. Zijn eigen contract is verzonden en ondertekend.
 - Zonder ondertekend contract kan Peter terugvallen op: "er is geen overeenkomst, dus geen KTLO-verplichting"
 - De druk ligt bij Douwine — zij heeft het platform nodig, niet andersom
-- Peter heeft nu twee keer een contract gestuurd (3 maart + deze versie) — hij is de redelijke partij in elk dossier
+- Peter heeft nu twee keer een contract gestuurd (3 maart + v2 op 10 maart) — hij is de redelijke partij in elk dossier
 
 ### Kan Douwine zelfstandig een ontwikkelaar inhuren?
 
@@ -139,7 +146,7 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 
 1. **Geld** — Dinck heeft €2.795 liquide middelen (jaarrekening 2025). Financiering is stopgezet per 7 feb 2026. ARR is €533/maand. Een developer kost een veelvoud. Hoe betaal je een agency zonder cashflow?
 
-2. **Toegang** — Peter beheert alle infrastructuur, hosting, repositories en credentials (via 1Password). Art. 10.3 KTLO-overeenkomst: toegangswijzigingen uitsluitend in overleg met Opdrachtnemer. Peter biedt actief aan om accounts te migreren (Art. 4.6), maar Dinck moet daarvoor een creditcard aanleveren en de kosten zelf dragen. Onboarding van een externe developer vereist daarnaast repo-toegang en begeleiding — dat loopt via overleg of Meerwerk.
+2. **Toegang** — Peter beheert alle infrastructuur, hosting, repositories en credentials (via 1Password). Art. 10.3 KTLO-overeenkomst: toegangswijzigingen uitsluitend in overleg met Opdrachtnemer. Peter biedt actief aan om accounts te migreren (Art. 4.5) met een kant-en-klaar migratieplan (besparing ~€114 → ~€25/maand), maar Dinck moet daarvoor een betaalmethode aanleveren en de kosten zelf dragen. Onboarding van een externe developer vereist daarnaast repo-toegang en begeleiding — dat loopt via overleg of Meerwerk.
 
 3. **Kennis** — Peter is de enige die het platform kent en heeft gebouwd. De codebase is goed gedocumenteerd (standaard Rails), maar een nieuw team optuigen kost weken en begeleiding. Douwine's eigen contract probeerde dit precies te regelen via kennisoverdracht/escrow/exitprotocol — de transitiebepalingen die Peter terecht apart wil houden.
 

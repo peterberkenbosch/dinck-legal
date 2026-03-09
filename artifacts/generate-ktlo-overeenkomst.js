@@ -146,7 +146,7 @@ const doc = new Document({
         new Paragraph({
           alignment: AlignmentType.CENTER,
           spacing: { before: 400, after: 100 },
-          children: [new TextRun({ text: "1 maart 2026", size: 22, font: "Arial", color: "666666" })]
+          children: [new TextRun({ text: "10 maart 2026", size: 22, font: "Arial", color: "666666" })]
         }),
 
         // Parties summary
@@ -282,7 +282,7 @@ const doc = new Document({
       articleHeading(1, "Definities"),
       p("In deze overeenkomst wordt verstaan onder:"),
       p(""),
-      labeledPara("1.1 Platform:", "Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur. Het Platform omvat de volledige Rails-applicatie, met inbegrip van de API-endpoints die de Dinckly mobiele applicatie bedienen."),
+      labeledPara("1.1 Platform:", "Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur. Het Platform omvat de volledige Rails-applicatie, met inbegrip van de Hotwire Native-weergaven en bijbehorende code die de Dinckly mobiele applicatie bedienen."),
       labeledPara("1.2 Diensten:", "De in artikel 2 omschreven KTLO-werkzaamheden."),
       labeledPara("1.3 Hostingkosten:", "De in artikel 4 gespecificeerde kosten voor servers, opslag en overige infrastructuur benodigd voor het operationeel houden van het Platform."),
       labeledPara("1.4 Kritieke bug:", "Een softwarefout waardoor: (a) het Platform volledig onbereikbaar is; of (b) dataverlies of corruptie optreedt; of (c) een security-kwetsbaarheid actief wordt misbruikt; of (d) incorrecte financi\u00EBle transacties plaatsvinden."),
@@ -363,8 +363,9 @@ const doc = new Document({
       bullet("Eindgebruikersondersteuning, training of inwerkbegeleiding"),
       bullet("Nieuwe functionaliteit of verzoeken tot nieuwe functionaliteit"),
       bullet("Uitbreidingen van bestaande functionaliteit"),
-      bullet("Integraties met externe systemen (inclusief maar niet beperkt tot SpiekR)"),
-      bullet("Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app \u2014 met dien verstande dat de backend API-endpoints die deze applicaties bedienen w\u00E9l onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen"),
+      bullet("Integraties met externe systemen"),
+      bullet("Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app \u2014 met dien verstande dat de Hotwire Native-weergaven en bijbehorende code in de Rails-applicatie die deze mobiele applicaties bedienen w\u00E9l onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen"),
+      bullet("Doorontwikkeling van de Dinckly mobiele applicatie, waaronder nieuwe schermen, functionaliteit of aanpassingen aan de native codebase"),
       bullet("Verbeteringen van gebruikersinterface of ontwerp"),
       bullet("Prestatie-optimalisatie (tenzij sprake van een Kritieke bug)"),
       bullet("Herstructurering van code of architectuurverbeteringen"),
@@ -433,6 +434,52 @@ const doc = new Document({
       p("N.B. GitHub Team-kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.", { italic: true, size: 20 }),
       p("N.B. AppSignal schaalt naar \u20AC22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.", { italic: true, size: 20 }),
 
+      p(""),
+      p("Na migratie (Art. 4.5) \u2014 Bij overdracht naar accounts op naam van Opdrachtgever kan de infrastructuur als volgt worden geoptimaliseerd:", { bold: true }),
+      p(""),
+      new Table({
+        columnWidths: [3500, 3000, 2860],
+        rows: [
+          new TableRow({ tableHeader: true, children: [
+            cell("Component", 3500, { header: true }),
+            cell("Leverancier", 3000, { header: true }),
+            cell("Maandkosten", 2860, { header: true })
+          ]}),
+          new TableRow({ children: [
+            cell("Server (4 vCPU, 8 GB RAM, 80 GB NVMe)", 3500),
+            cell("Hetzner Cloud", 3000),
+            cell("\u20AC7,49", 2860)
+          ]}),
+          new TableRow({ children: [
+            cell("Geautomatiseerde serverback-ups", 3500),
+            cell("Hetzner Cloud", 3000),
+            cell("\u20AC1,50", 2860)
+          ]}),
+          new TableRow({ children: [
+            cell("Objectopslag (~3,2 TB, S3-compatibel)", 3500),
+            cell("Hetzner Object Storage", 3000),
+            cell("~\u20AC16,00", 2860)
+          ]}),
+          new TableRow({ children: [
+            cell("Broncoderepository + container registry", 3500),
+            cell("GitHub Free", 3000),
+            cell("\u20AC0,00", 2860)
+          ]}),
+          new TableRow({ children: [
+            cell("Bewaking (gratis abonnement)", 3500),
+            cell("AppSignal", 3000),
+            cell("\u20AC0,00", 2860)
+          ]}),
+          new TableRow({ children: [
+            cell("Totaal", 3500, { bold: true }),
+            cell("", 3000),
+            cell("~\u20AC25/maand", 2860, { bold: true })
+          ]})
+        ]
+      }),
+      p(""),
+      p("Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar \u00E9\u00E9n Hetzner-server, en verplaatst de objectopslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.", { italic: true, size: 20 }),
+
       sub("4.2 Doorbelasting"),
       p("Hostingkosten worden maandelijks door Opdrachtnemer aan Opdrachtgever gefactureerd tegen kostprijs, op basis van de werkelijke kosten van de onderliggende leveranciers."),
 
@@ -443,7 +490,7 @@ const doc = new Document({
       p("Elke factuur bevat een specificatie van de individuele kostenposten en de onderliggende leveranciersfacturen worden op verzoek beschikbaar gesteld."),
 
       sub("4.5 Migratie naar eigen accounts"),
-      p("Op verzoek van Opdrachtgever draagt Opdrachtnemer de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe de benodigde betaalgegevens (creditcard) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten."),
+      p("Op verzoek van Opdrachtgever draagt Opdrachtnemer de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe de benodigde betaalgegevens (creditcard of automatische incasso) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten."),
       p(""),
       p("Na voltooiing van de migratie:"),
       bullet("betaalt Opdrachtgever de hostingkosten rechtstreeks aan de onderliggende leveranciers;"),
@@ -654,7 +701,7 @@ const doc = new Document({
             cell("", 4680)
           ]}),
           new TableRow({ children: [
-            cell("Datum: 9 maart 2026", 4680),
+            cell("Datum: 10 maart 2026", 4680),
             cell("Datum: _________________", 4680)
           ]})
         ]

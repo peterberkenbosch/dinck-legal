@@ -1,6 +1,6 @@
 # Overeenkomst van Dienstverlening — KTLO Platform app.dinck.nl
 
-**Status**: Concept — 1 maart 2026
+**Status**: Concept v2 — 10 maart 2026 (vervangt versie 3 maart 2026)
 
 ---
 
@@ -59,7 +59,7 @@ G. Deze overeenkomst betreft een zuivere commerciële dienstverlening en staat l
 
 In deze overeenkomst wordt verstaan onder:
 
-**1.1 Platform**: Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur. Het Platform omvat de volledige Rails-applicatie, met inbegrip van de API-endpoints die de Dinckly mobiele applicatie bedienen.
+**1.1 Platform**: Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur. Het Platform omvat de volledige Rails-applicatie, met inbegrip van de Hotwire Native-weergaven en bijbehorende code die de Dinckly mobiele applicatie bedienen.
 
 **1.2 Diensten**: De in artikel 2 omschreven KTLO-werkzaamheden.
 
@@ -125,8 +125,9 @@ De volgende werkzaamheden vallen uitdrukkelijk **niet** onder de Diensten en wor
 - Eindgebruikersondersteuning, training of inwerkbegeleiding
 - Nieuwe functionaliteit of verzoeken tot nieuwe functionaliteit
 - Uitbreidingen van bestaande functionaliteit
-- Integraties met externe systemen (inclusief maar niet beperkt tot SpiekR)
-- Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app — met dien verstande dat de backend API-endpoints die deze applicaties bedienen wél onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen
+- Integraties met externe systemen
+- Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app — met dien verstande dat de Hotwire Native-weergaven en bijbehorende code in de Rails-applicatie die deze mobiele applicaties bedienen wél onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen
+- Doorontwikkeling van de Dinckly mobiele applicatie, waaronder nieuwe schermen, functionaliteit of aanpassingen aan de native codebase
 - Verbeteringen van gebruikersinterface of ontwerp
 - Prestatie-optimalisatie (tenzij sprake van een Kritieke bug)
 - Herstructurering van code of architectuurverbeteringen
@@ -170,6 +171,19 @@ Het Platform draait op de volgende infrastructuur:
 
 *N.B. AppSignal schaalt naar €22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.*
 
+**Na migratie (Art. 4.5)** — Bij overdracht naar accounts op naam van Opdrachtgever kan de infrastructuur als volgt worden geoptimaliseerd:
+
+| Component | Leverancier | Maandkosten |
+|-----------|-------------|-------------|
+| Server (4 vCPU, 8 GB RAM, 80 GB NVMe) | Hetzner Cloud | €7,49 |
+| Geautomatiseerde serverback-ups | Hetzner Cloud | €1,50 |
+| Objectopslag (~3,2 TB, S3-compatibel) | Hetzner Object Storage | ~€16,00 |
+| Broncoderepository + container registry | GitHub Free | €0,00 |
+| Bewaking (gratis abonnement) | AppSignal | €0,00 |
+| **Totaal** | | **~€25/maand** |
+
+*Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar één Hetzner-server, en verplaatst de objectopslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.*
+
 ### 4.2 Doorbelasting
 
 Hostingkosten worden maandelijks door Opdrachtnemer aan Opdrachtgever gefactureerd **tegen kostprijs**, op basis van de werkelijke kosten van de onderliggende leveranciers.
@@ -184,7 +198,7 @@ Elke factuur bevat een specificatie van de individuele kostenposten en de onderl
 
 ### 4.5 Migratie naar eigen accounts
 
-Op verzoek van Opdrachtgever draagt Opdrachtnemer de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe de benodigde betaalgegevens (creditcard) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten.
+Op verzoek van Opdrachtgever draagt Opdrachtnemer de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe de benodigde betaalgegevens (creditcard of automatische incasso) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten.
 
 Na voltooiing van de migratie:
 - betaalt Opdrachtgever de hostingkosten rechtstreeks aan de onderliggende leveranciers;
@@ -378,4 +392,4 @@ Aldus opgesteld en ondertekend te Oosterwolde.
 | **Functie** | Directeur Peter Berkenbosch Consultancy B.V. | Bestuurder Dinck B.V. |
 | **Handtekening** | | |
 | | | |
-| **Datum** | 9 maart 2026 | _________________________ |
+| **Datum** | 10 maart 2026 | _________________________ |
