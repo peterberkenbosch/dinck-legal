@@ -22,10 +22,13 @@
 > Dank voor je reactie. Ik heb je document naast het mijne gelegd en merk op dat het een volledig nieuw contract is — geen revisie op wat ik heb gestuurd. Dat maakt een gerichte vergelijking lastig, en ik loop daarom de belangrijkste verschillen langs.
 >
 > **Scope en uren**
-> Op 11 februari hebben we afgesproken dat ik KTLO doe voor app.dinck.nl. Dat is wat ik aanbied: het platform draaiend houden. Om precies te zijn: de volledige Rails-applicatie, inclusief de API-endpoints die de Dinckly app bedienen vallen onder het platform — die draaien in dezelfde codebase. Wat niet onder KTLO valt is de ontwikkeling en het onderhoud van de Dinckly mobiele app zelf (iOS/Android). Die is extern gebouwd en valt buiten mijn verantwoordelijkheid. Mijn aanbod is 1 uur per week onbetaald in het belang van de aandeelhoudersrelatie. Vijf uur per week is vijf keer zoveel — dat is een wezenlijk andere afspraak, en dan gratis. Mocht er structureel meer tijd nodig zijn, dan kan dat via Meerwerk (Art. 3, €125/hr).
+> Op 11 februari hebben we afgesproken dat ik KTLO doe voor app.dinck.nl. Dat is wat ik aanbied: het platform draaiend houden. Om precies te zijn: de volledige Rails-applicatie, inclusief de API-endpoints die de Dinckly app bedienen vallen onder het platform — die draaien in dezelfde codebase. Wat niet onder KTLO valt is de ontwikkeling en het onderhoud van de Dinckly mobiele app zelf (iOS/Android) — dat is actieve ontwikkeling, geen onderhoud, en die ligt op dit moment stil. Mijn aanbod is 1 uur per week onbetaald in het belang van de aandeelhoudersrelatie. Vijf uur per week is vijf keer zoveel — dat is een wezenlijk andere afspraak, en dan gratis. Mocht er structureel meer tijd nodig zijn, dan kan dat via Meerwerk (Art. 3, €125/hr).
 >
 > **Documentatie en kennisoverdracht**
 > De codebase bevat uitgebreide documentatie — elke ervaren Rails-ontwikkelaar kan daarmee aan de slag. Dat is standaardpraktijk bij professionele softwareontwikkeling en zo heb ik het ook opgezet. Mocht een externe ontwikkelaar daarnaast vragen hebben, dan help ik graag — maar dat valt binnen de uren, of het gaat via Meerwerk (Art. 3). Een onbeperkte documentatieplicht *buiten* het uurplafond is feitelijk een ongelimiteerde onbetaalde verplichting, en dat is niet redelijk. Documentatie en kennisoverdracht zijn bovendien geen KTLO — dat is een apart traject.
+>
+> **KTLO versus transitie**
+> Jouw contract bevat naast KTLO ook bepalingen over kennisoverdracht aan externe ontwikkelaars, escrow, en een 60-dagen exitprotocol. Dat zijn transitie- en overdrachtsafspraken — daar sta ik zeker voor open, maar die horen in een apart gesprek en een aparte overeenkomst. Een KTLO-contract gaat over het platform draaiende houden, niet over het overdragen ervan.
 >
 > **Ontbrekende bepalingen**
 > In jouw versie ontbreken bepalingen die voor mij essentieel zijn: de automatische beëindiging bij aandelenoverdracht, het opschortingsrecht bij wanbetaling, de gedetailleerde hostingspecificatie met betalingstermijn, de wijzigingsbepaling, en de vervaltermijn. Die zijn er niet zonder reden in opgenomen — ze beschermen ons allebei.
@@ -59,8 +62,9 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 1. **Dit is geen revisie, maar een ander document** — expliciet benoemd, zonder beschuldiging
 2. **1 uur/week is het aanbod** — KTLO is afgesproken op 11 februari, het urenaantal is Peter's voorstel in het contract
 3. **Bereidheid tot openheid** — documentatie, kennisoverdracht, code inzage: geen probleem. Maar dan wél binnen redelijke kaders (uren of betaald)
-4. **Dinckly-afbakening** — backend API = onderdeel platform (KTLO), mobiele app zelf (iOS/Android) = Meerwerk (extern gebouwd)
-5. **Ontbrekende bepalingen benoemd** — specifiek, zakelijk, "beschermen ons allebei"
+4. **Dinckly-afbakening** — backend API = onderdeel platform (KTLO), mobiele app zelf (iOS/Android) = actieve ontwikkeling (gepauzeerd, geen KTLO)
+5. **KTLO ≠ transitie** — haar contract bundelt onderhoud met overdracht (escrow, kennisoverdracht, exitprotocol). Peter is bereid tot transitiegesprek, maar apart
+6. **Ontbrekende bepalingen benoemd** — specifiek, zakelijk, "beschermen ons allebei"
 6. **Bijgewerkt contract** meegezonden met toelichting op de drie aanvullingen (Dinckly-afbakening, GitHub, security)
 7. **Proactief aanbod** infra-documentatie bij eerste factuur — neemt wind uit "we hebben geen inzicht" argument
 8. **Hostingfactuur** — praktisch, concreet, herinnering dat er kosten lopen
@@ -70,7 +74,7 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 - **Firmer**: benoemt nu expliciet dat 5hr/week "vijf keer zoveel, en dan gratis" is
 - **Opener**: biedt proactief documentatie en infra-info aan — countered het frame dat Peter controle zoekt
 - **Art. 10 geïntroduceerd**: security/credentials als bescherming voor beide partijen, niet als machtsinstrument
-- **Dinckly genuanceerd**: backend API = wél KTLO (zelfde codebase), mobiele app = niet (extern gebouwd)
+- **Dinckly genuanceerd**: backend API = wél KTLO (zelfde codebase), mobiele app = niet (actieve ontwikkeling, gepauzeerd)
 - **Bijlage**: bijgewerkt contract v2 meegezonden
 
 ### Wat er bewust NIET in staat
