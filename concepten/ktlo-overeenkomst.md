@@ -359,11 +359,11 @@ Alle geschillen voortvloeiend uit of verband houdend met deze overeenkomst worde
 
 ## Ondertekening
 
-Aldus in tweevoud opgesteld en ondertekend op 1 maart 2026 te Oosterwolde.
+Aldus opgesteld en ondertekend te Oosterwolde.
 
 | | Opdrachtnemer | Opdrachtgever |
 |---|---|---|
 | **Naam** | Peter Berkenbosch | Douwine Koopman |
 | **Functie** | Directeur Peter Berkenbosch Consultancy B.V. | Bestuurder Dinck B.V. |
-| **Handtekening** | _________________________ | _________________________ |
-| **Datum** | _________________________ | _________________________ |
+| **Handtekening** | *getekend* | _________________________ |
+| **Datum** | 9 maart 2026 | _________________________ |

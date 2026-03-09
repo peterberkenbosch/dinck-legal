@@ -609,7 +609,7 @@ const doc = new Document({
       // Ondertekening
       heading("Ondertekening", HeadingLevel.HEADING_1),
       p(""),
-      p("Aldus in tweevoud opgesteld en ondertekend op 1 maart 2026 te Oosterwolde."),
+      p("Aldus opgesteld en ondertekend te Oosterwolde."),
       p(""),
       p(""),
       new Table({
@@ -632,11 +632,11 @@ const doc = new Document({
             cell("", 4680)
           ]}),
           new TableRow({ children: [
-            cell("Handtekening: _________________", 4680),
+            cell("Handtekening: getekend", 4680),
             cell("Handtekening: _________________", 4680)
           ]}),
           new TableRow({ children: [
-            cell("Datum: _________________", 4680),
+            cell("Datum: 9 maart 2026", 4680),
             cell("Datum: _________________", 4680)
           ]})
         ]
