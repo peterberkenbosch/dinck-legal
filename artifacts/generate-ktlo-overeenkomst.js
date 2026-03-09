@@ -442,7 +442,17 @@ const doc = new Document({
       sub("4.4 Specificatie op factuur"),
       p("Elke factuur bevat een specificatie van de individuele kostenposten en de onderliggende leveranciersfacturen worden op verzoek beschikbaar gesteld."),
 
-      sub("4.5 Wijzigingen"),
+      sub("4.5 Migratie naar eigen accounts"),
+      p("Op verzoek van Opdrachtgever draagt Opdrachtnemer de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe de benodigde betaalgegevens (creditcard) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten."),
+      p(""),
+      p("Na voltooiing van de migratie:"),
+      bullet("betaalt Opdrachtgever de hostingkosten rechtstreeks aan de onderliggende leveranciers;"),
+      bullet("vervallen de artikelen 4.2, 4.3 en 4.4;"),
+      bullet("blijven de overige bepalingen van deze overeenkomst onverkort van kracht."),
+      p(""),
+      p("De migratie en documentatie worden eenmalig verricht zonder aanvullende kosten."),
+
+      sub("4.6 Wijzigingen"),
       p("Indien de Hostingkosten met meer dan 20% stijgen ten opzichte van het voorgaande kwartaal (anders dan door een door Opdrachtgever verzochte uitbreiding), stelt Opdrachtnemer Opdrachtgever hiervan schriftelijk in kennis. Opdrachtgever kan binnen 14 dagen na kennisgeving bezwaar maken. Partijen treden in dat geval in overleg over alternatieve oplossingen."),
 
       // Artikel 5. Vergoeding

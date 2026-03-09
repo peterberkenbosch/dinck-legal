@@ -40,7 +40,8 @@
 > 2. **GitHub** is toegevoegd aan de hostingkosten (Art. 4.1) — daar staat de volledige broncode.
 > 3. **Beveiliging en Toegangsbeheer** (Art. 10, nieuw) — ik beheer alle toegangsgegevens via 1Password en deel geen inloggegevens via onbeveiligde kanalen. Wijzigingen in toegangsrechten lopen via overleg zolang het contract loopt. Dit beschermt ons allebei.
 >
-> Ik kan bij de eerste hostingfactuur de volledige infrastructuurdocumentatie meesturen: welke servers, welke diensten, welke accounts, welke kosten. Alle informatie die je nodig hebt.
+> **Infrastructuur**
+> Ik ben bereid om alle hosting- en infrastructuuraccounts eenmalig over te zetten naar accounts op naam van Dinck. Daar heb ik een creditcard voor nodig — de meeste providers werken met maandelijkse afschrijvingen. Zodra je die aanlevert, zet ik alles over en lever ik de volledige infrastructuurdocumentatie op: welke servers, welke diensten, welke accounts, welke kosten. Dat is in het contract opgenomen als optie (Art. 4.6). Zolang de accounts nog op mijn naam staan, factureer ik de hostingkosten maandelijks door tegen kostprijs.
 >
 > **Voorstel**
 > Laten we mijn overeenkomst als uitgangspunt nemen. Als je op specifieke artikelen opmerkingen hebt, hoor ik die graag — dan werken we gericht naar een versie die voor ons allebei werkt. Maar het moet wel een contract zijn dat mijn tijd en aansprakelijkheid op een redelijke manier afbakent.
@@ -66,8 +67,8 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 5. **KTLO ≠ transitie** — haar contract bundelt onderhoud met overdracht (escrow, kennisoverdracht, exitprotocol). Peter is bereid tot transitiegesprek, maar apart
 6. **Ontbrekende bepalingen benoemd** — specifiek, zakelijk, "beschermen ons allebei"
 6. **Bijgewerkt contract** meegezonden met toelichting op de drie aanvullingen (Dinckly-afbakening, GitHub, security)
-7. **Proactief aanbod** infra-documentatie bij eerste factuur — neemt wind uit "we hebben geen inzicht" argument
-8. **Hostingfactuur** — praktisch, concreet, herinnering dat er kosten lopen
+7. **Proactief aanbod** infra-migratie naar Dinck-accounts — neemt wind uit elk "Peter houdt alles gegijzeld" narratief
+8. **Hostingfactuur** — praktisch, concreet, herinnering dat er kosten lopen (zolang accounts nog op Peters naam staan)
 9. **Slot**: "mijn tijd en aansprakelijkheid redelijk afbakenen" — de kern in één zin
 
 ### Verschil met vorige conceptversie
@@ -76,6 +77,7 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 - **Art. 10 geïntroduceerd**: security/credentials als bescherming voor beide partijen, niet als machtsinstrument
 - **Dinckly genuanceerd**: backend API = wél KTLO (zelfde codebase), mobiele app = niet (actieve ontwikkeling, gepauzeerd)
 - **Bijlage**: bijgewerkt contract v2 meegezonden
+- **Art. 4.6 nieuw**: migratie hosting naar Dinck-accounts als optie, gratis, creditcard nodig
 
 ### Wat er bewust NIET in staat
 
@@ -96,6 +98,7 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 - Scheidt KTLO van overdracht — documentatie/kennisoverdracht mag, maar binnen kaders
 - Bevestigt 1hr/week als het aanbod (niet 5) — de meeting van 11 feb verankert KTLO, niet het urenaantal
 - Biedt openheid aan als wapen — "ik verberg niets" neutraliseert elk narratief dat Peter controle zoekt
+- Biedt actief infra-migratie aan — elimineert "gegijzeld" argument, verschuift kosten naar Dinck (creditcard nodig)
 - Noemt concrete ontbrekende bepalingen — Douwine moet uitleggen waarom die eruit moeten
 - Introduceert Art. 10 (security) als bescherming voor beide partijen
 - Hostingfactuur = concreet signaal dat dit geen vrijblijvend arrangement is
@@ -136,7 +139,7 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 
 1. **Geld** — Dinck heeft €2.795 liquide middelen (jaarrekening 2025). Financiering is stopgezet per 7 feb 2026. ARR is €533/maand. Een developer kost een veelvoud. Hoe betaal je een agency zonder cashflow?
 
-2. **Toegang** — Peter beheert alle infrastructuur, hosting, repositories en credentials (via 1Password). Art. 10.3 KTLO-overeenkomst: toegangswijzigingen uitsluitend in overleg met Opdrachtnemer. Onboarding van een externe developer vereist repo-toegang, server-toegang, credentials — zonder Peters medewerking praktisch geblokkeerd.
+2. **Toegang** — Peter beheert alle infrastructuur, hosting, repositories en credentials (via 1Password). Art. 10.3 KTLO-overeenkomst: toegangswijzigingen uitsluitend in overleg met Opdrachtnemer. Peter biedt actief aan om accounts te migreren (Art. 4.6), maar Dinck moet daarvoor een creditcard aanleveren en de kosten zelf dragen. Onboarding van een externe developer vereist daarnaast repo-toegang en begeleiding — dat loopt via overleg of Meerwerk.
 
 3. **Kennis** — Peter is de enige die het platform kent en heeft gebouwd. De codebase is goed gedocumenteerd (standaard Rails), maar een nieuw team optuigen kost weken en begeleiding. Douwine's eigen contract probeerde dit precies te regelen via kennisoverdracht/escrow/exitprotocol — de transitiebepalingen die Peter terecht apart wil houden.
 
