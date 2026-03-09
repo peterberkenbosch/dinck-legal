@@ -160,8 +160,11 @@ Het Platform draait op de volgende infrastructuur:
 | Applicatiehosting (3 servers) | Hatchbox.io | $30,00 |
 | Servers: lb01 Nano 1GB, web01 2GB, db01 4GB | Linode/Akamai | $41,00 |
 | Object Storage (~3.229 GB: video's, backups, Google Drive data) | Cloudflare R2 | ~$48,30 |
+| Broncode repository (GitHub Team) | GitHub | $4,00/user/maand |
 | Monitoring (free plan; 50K requests, 1GB logging) | AppSignal | €0,00 |
-| **Totaal** | | **~$119,30/maand (~€110)** |
+| **Totaal** | | **~$123,30/maand (~€114)** |
+
+*Noot: GitHub Team kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.*
 
 *Noot: AppSignal schaalt naar €22,00/maand bij overschrijding van 50K requests/maand (250K requests plan). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.*
 
@@ -269,64 +272,84 @@ Iedere vordering van Opdrachtgever op Opdrachtnemer vervalt 12 maanden na de dat
 
 ---
 
-## Artikel 10 — Communicatie
+## Artikel 10 — Beveiliging en Toegangsbeheer
 
-### 10.1 Contactgegevens
+### 10.1 Credential management
+
+Opdrachtnemer beheert alle inloggegevens, API-sleutels en overige credentials die benodigd zijn voor de uitvoering van de Diensten uitsluitend via een professionele secrets manager (1Password). Opdrachtnemer deelt geen credentials via e-mail, chatberichten, gedeelde documenten of andere onbeveiligde kanalen.
+
+### 10.2 Beperking aansprakelijkheid toegang
+
+Opdrachtnemer is niet aansprakelijk voor beveiligingsincidenten, datalekken of ongeautoriseerde toegang die het gevolg zijn van:
+- (a) het opslaan van credentials in platte tekst door Opdrachtgever of derden;
+- (b) het delen van credentials via onbeveiligde kanalen door Opdrachtgever of derden;
+- (c) toegang verleend door Opdrachtgever aan derden zonder voorafgaand overleg met Opdrachtnemer;
+- (d) handelingen van derden aan wie Opdrachtgever toegang heeft verstrekt tot de infrastructuur of broncode.
+
+### 10.3 Toegangswijzigingen
+
+Wijzigingen in de toegangsrechten tot de infrastructuur, repositories of hostingaccounts vinden uitsluitend plaats in overleg met Opdrachtnemer, zolang deze overeenkomst van kracht is.
+
+---
+
+## Artikel 11 — Communicatie
+
+### 11.1 Contactgegevens
 
 | Partij | E-mail |
 |--------|--------|
 | Opdrachtnemer | info@peterberkenbosch.nl |
 | Opdrachtgever | douwine@dinck.nl |
 
-### 10.2 Escalatieprotocol
+### 11.2 Escalatieprotocol
 
 Bij P1- en P2-incidenten stuurt Opdrachtgever een e-mail met als onderwerp: **"URGENT: [omschrijving probleem]"**. Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden kan Opdrachtgever telefonisch contact opnemen.
 
 ---
 
-## Artikel 11 — Geheimhouding
+## Artikel 12 — Geheimhouding
 
-### 11.1 Verplichting
+### 12.1 Verplichting
 
 Partijen verplichten zich over en weer tot geheimhouding van alle vertrouwelijke informatie die zij in het kader van deze overeenkomst van de andere Partij ontvangen.
 
-### 11.2 Uitzondering adviseurs
+### 12.2 Uitzondering adviseurs
 
 De geheimhoudingsverplichting geldt niet voor informatie die een Partij deelt met haar juridisch, fiscaal of financieel adviseurs, mits deze adviseurs aan een gelijkwaardige of strengere geheimhoudingsverplichting zijn gebonden.
 
-### 11.3 Wettelijke verplichting
+### 12.3 Wettelijke verplichting
 
 De geheimhoudingsverplichting geldt niet voor zover openbaarmaking wettelijk of door een rechterlijk bevel is vereist, mits de openbarende Partij de andere Partij hiervan onverwijld in kennis stelt.
 
-### 11.4 Duur
+### 12.4 Duur
 
 De geheimhoudingsverplichting blijft van kracht gedurende de looptijd van deze overeenkomst en **2 jaar** na beeindiging daarvan.
 
 ---
 
-## Artikel 12 — Overige Bepalingen
+## Artikel 13 — Overige Bepalingen
 
-### 12.1 Zelfstandigheid
+### 13.1 Zelfstandigheid
 
 Opdrachtnemer verricht de Diensten als zelfstandig opdrachtnemer. Er is geen sprake van een arbeidsovereenkomst, dienstverband of gezagsverhouding. Opdrachtnemer bepaalt zelfstandig de wijze waarop en de tijdstippen waarop de Diensten worden verricht, binnen de kaders van de in Artikel 2.2 genoemde responstijden.
 
-### 12.2 Wijzigingen
+### 13.2 Wijzigingen
 
 Wijzigingen van of aanvullingen op deze overeenkomst zijn uitsluitend geldig indien schriftelijk overeengekomen door beide Partijen.
 
-### 12.3 Overdracht
+### 13.3 Overdracht
 
 Geen der Partijen is gerechtigd rechten of verplichtingen uit deze overeenkomst over te dragen aan derden zonder voorafgaande schriftelijke toestemming van de andere Partij.
 
-### 12.4 Nietigheid
+### 13.4 Nietigheid
 
 Indien enige bepaling van deze overeenkomst nietig of vernietigbaar blijkt, tast dit de geldigheid van de overige bepalingen niet aan. Partijen treden in dat geval in overleg om een vervangende bepaling overeen te komen die de strekking van de nietige bepaling zo dicht mogelijk benadert.
 
-### 12.5 Toepasselijk recht
+### 13.5 Toepasselijk recht
 
 Op deze overeenkomst is Nederlands recht van toepassing.
 
-### 12.6 Geschillen
+### 13.6 Geschillen
 
 Alle geschillen voortvloeiend uit of verband houdend met deze overeenkomst worden voorgelegd aan de bevoegde rechter te **Leeuwarden**.
 

@@ -31,6 +31,15 @@
 - Strategic assessments and internal analysis: **English** is acceptable
 - Tone in all outgoing documents: zakelijk, constructief, chique — let the facts do the work
 
+## Dossier Search
+
+**Always use QMD** to search the dossier before writing analysis or drafting documents. This ensures you work from verified facts rather than assumptions.
+
+- Use `/qmd` (skill) or the QMD MCP tools to search across all 55+ markdown documents in the dossier
+- Combine `lex` (keyword) and `vec` (semantic) searches for best results
+- Always provide an `intent` parameter to improve search relevance
+- Search first, write second — verify claims against the dossier before making assertions
+
 ## Document Verification
 
 - Always verify day-of-week + date combinations with `cal` before writing into documents
