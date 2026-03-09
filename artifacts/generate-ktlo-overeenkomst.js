@@ -408,7 +408,7 @@ const doc = new Document({
             cell("$41,00", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Objectopslag (~3.229 GB)", 3500),
+            cell("Opslag (~3.229 GB)", 3500),
             cell("Cloudflare R2", 3000),
             cell("~$48,30", 2860)
           ]}),
@@ -456,7 +456,7 @@ const doc = new Document({
             cell("\u20AC1,50", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Objectopslag (~3,2 TB, S3-compatibel)", 3500),
+            cell("Opslag (~3,2 TB, S3-compatibel)", 3500),
             cell("Hetzner Object Storage", 3000),
             cell("~\u20AC16,00", 2860)
           ]}),
@@ -478,7 +478,7 @@ const doc = new Document({
         ]
       }),
       p(""),
-      p("Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar \u00E9\u00E9n Hetzner-server, en verplaatst de objectopslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.", { italic: true, size: 20 }),
+      p("Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar \u00E9\u00E9n Hetzner-server, en verplaatst de opslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.", { italic: true, size: 20 }),
 
       sub("4.2 Doorbelasting"),
       p("Hostingkosten worden maandelijks door Opdrachtnemer aan Opdrachtgever gefactureerd tegen kostprijs, op basis van de werkelijke kosten van de onderliggende leveranciers."),

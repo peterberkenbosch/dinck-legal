@@ -162,7 +162,7 @@ Het Platform draait op de volgende infrastructuur:
 |-----------|-------------|-------------|
 | Applicatiehosting (3 servers) | Hatchbox.io | $30,00 |
 | Servers: lb01 Nano 1GB, web01 2GB, db01 4GB | Linode/Akamai | $41,00 |
-| Objectopslag (~3.229 GB: video's, back-ups, Google Drive-gegevens) | Cloudflare R2 | ~$48,30 |
+| Opslag (~3.229 GB: video's, back-ups, Google Drive-gegevens) | Cloudflare R2 | ~$48,30 |
 | Broncoderepository (GitHub Team) | GitHub | $4,00/user/maand |
 | Bewaking (gratis abonnement; 50.000 verzoeken, 1 GB logregistratie) | AppSignal | €0,00 |
 | **Totaal** | | **~$123,30/maand (~€114)** |
@@ -177,12 +177,12 @@ Het Platform draait op de volgende infrastructuur:
 |-----------|-------------|-------------|
 | Server (4 vCPU, 8 GB RAM, 80 GB NVMe) | Hetzner Cloud | €7,49 |
 | Geautomatiseerde serverback-ups | Hetzner Cloud | €1,50 |
-| Objectopslag (~3,2 TB, S3-compatibel) | Hetzner Object Storage | ~€16,00 |
+| Opslag (~3,2 TB, S3-compatibel) | Hetzner Object Storage | ~€16,00 |
 | Broncoderepository + container registry | GitHub Free | €0,00 |
 | Bewaking (gratis abonnement) | AppSignal | €0,00 |
 | **Totaal** | | **~€25/maand** |
 
-*Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar één Hetzner-server, en verplaatst de objectopslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.*
+*Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar één Hetzner-server, en verplaatst de opslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.*
 
 ### 4.2 Doorbelasting
 

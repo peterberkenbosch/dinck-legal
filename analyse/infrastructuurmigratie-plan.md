@@ -27,7 +27,7 @@ Na migratie fungeert dit document als de **infrastructuurdocumentatie** zoals be
 |-----------|-------------|---------|-------------|
 | Applicatiehosting (3 servers) | Hatchbox.io | Peter | $30,00 |
 | Servers: lb01 Nano 1GB, web01 2GB, db01 4GB | Linode/Akamai | Peter | $41,00 |
-| Objectopslag (~3.229 GB) | Cloudflare R2 | Peter | ~$48,30 |
+| Opslag (~3.229 GB) | Cloudflare R2 | Peter | ~$48,30 |
 | Broncoderepository (GitHub Team) | GitHub | Peter | $4,00/user/maand |
 | Bewaking (gratis abonnement) | AppSignal | Peter | €0,00 |
 | **Totaal** | | | **~$123,30/maand (~€114)** |
@@ -43,7 +43,7 @@ Internet → Cloudflare DNS → Linode (Dallas/Fremont)
 
 Hatchbox beheert de deployment (git push → build → deploy) en serverkoppeling. AppSignal bewaakt beschikbaarheid, foutregistratie en prestaties (gratis t/m 50.000 verzoeken/maand).
 
-### 2.3 Objectopslag (Cloudflare R2)
+### 2.3 Opslag (Cloudflare R2)
 
 | Onderdeel | Geschatte omvang | Categorie |
 |-----------|-----------------|-----------|
@@ -57,7 +57,7 @@ Tarief: $0,015/GB/maand, 10 GB gratis. Egress (uitgaand verkeer) is gratis bij C
 
 **Onderscheid applicatiedata en videoarchief**: De ~2.800 GB ruwe videobeelden zijn intellectueel eigendom van Dinck B.V. maar maken geen onderdeel uit van het Platform (Art. 1.1). Beide categorieën worden gemigreerd naar Hetzner Object Storage. Het videoarchief kan later eventueel naar nog goedkopere opslag (bijv. Hetzner Storage Box) worden verplaatst — dat is een afzonderlijke beslissing.
 
-**Active Storage serving**: De Rails-applicatie (8.1) gebruikt redirect-mode: bij het opvragen van een bestand genereert Rails een signed URL en stuurt de browser door naar de objectopslag. Bestanden worden dus *direct* geserveerd aan de eindgebruiker, niet via de Rails-app. Bij het huidige verkeersniveau (<50.000 verzoeken/maand) blijft de egress ruim binnen Hetzner's inbegrepen 1 TB/maand.
+**Active Storage serving**: De Rails-applicatie (8.1) gebruikt redirect-mode: bij het opvragen van een bestand genereert Rails een signed URL en stuurt de browser door naar de opslag. Bestanden worden dus *direct* geserveerd aan de eindgebruiker, niet via de Rails-app. Bij het huidige verkeersniveau (<50.000 verzoeken/maand) blijft de egress ruim binnen Hetzner's inbegrepen 1 TB/maand.
 
 ### 2.4 Knelpunten huidige situatie
 
@@ -65,7 +65,7 @@ Tarief: $0,015/GB/maand, 10 GB gratis. Egress (uitgaand verkeer) is gratis bij C
 - Hatchbox ($30/maand) is een onnodige kostenpost — Kamal biedt dezelfde functionaliteit zonder kosten
 - Drie Linode-servers voor een applicatie met <50.000 verzoeken/maand is overgedimensioneerd
 - GitHub Team ($4/user/maand) is niet nodig voor een enkele repository
-- Drie leveranciers voor objectopslag + hosting + deployment is onnodig complex — Hetzner biedt alles
+- Drie leveranciers voor opslag + hosting + deployment is onnodig complex — Hetzner biedt alles
 
 ---
 
@@ -116,7 +116,7 @@ Hetzner Object Storage (S3-compatibel, zelfde datacenter)
 
 Past comfortabel binnen 8 GB. Bij groei: opschalen naar CX42 (8 vCPU, 16 GB, €14,49/maand) is direct mogelijk.
 
-### 3.3 Objectopslag
+### 3.3 Opslag
 
 | Eigenschap | Waarde |
 |-----------|--------|
@@ -127,7 +127,7 @@ Past comfortabel binnen 8 GB. Bij groei: opschalen naar CX42 (8 vCPU, 16 GB, €
 | Extra egress | €1,00/TB |
 | API | S3-compatibel (werkt met Active Storage S3 service, rclone, aws-sdk) |
 
-Door server en objectopslag in hetzelfde datacenter te plaatsen zijn interne transfers (back-ups, applicatie → opslag) razendsnel en tellen niet mee als egress.
+Door server en opslag in hetzelfde datacenter te plaatsen zijn interne transfers (back-ups, applicatie → opslag) razendsnel en tellen niet mee als egress.
 
 **Waarom Hetzner Object Storage i.p.v. Cloudflare R2**:
 - **Single vendor** — alles bij Hetzner, één factuur, één account
@@ -257,7 +257,7 @@ Docker-images worden opgeslagen in GitHub Container Registry (ghcr.io/dinckbv/di
 | Deployment | Hatchbox $30/maand | Kamal (gratis) | -€28 |
 | Servers | Linode 3× VPS $41/maand | Hetzner CX32 €7,49/maand | -€30 |
 | Serverback-ups | — | Hetzner geautomatiseerd €1,50/maand | +€1,50 |
-| Objectopslag (~3,2 TB) | Cloudflare R2 ~$48/maand (~€44) | Hetzner Object Storage ~€16/maand | -€28 |
+| Opslag (~3,2 TB) | Cloudflare R2 ~$48/maand (~€44) | Hetzner Object Storage ~€16/maand | -€28 |
 | Broncode | GitHub Team $4/maand (~€3,70) | GitHub Free (dinckbv org) | -€3,70 |
 | Bewaking | AppSignal €0 | AppSignal €0 | €0 |
 | **Totaal** | **~€114/maand** | **~€25/maand** | **-€89/maand** |
@@ -359,7 +359,7 @@ De migratie is een goed moment om dataservices te upgraden naar de nieuwste vers
 - [ ] Kamal-config bijwerken met nieuwe image-registry URL
 - [ ] Verifiëren: `kamal deploy` werkt met nieuwe registry
 
-### Fase 3: Objectopslag migreren — R2 → Hetzner Object Storage (~2-3 uur actief, 3-5 dagen transfertijd)
+### Fase 3: Opslag migreren — R2 → Hetzner Object Storage (~2-3 uur actief, 3-5 dagen transfertijd)
 
 De R2-bucket bevat twee categorieën data:
 
@@ -504,7 +504,7 @@ Beide categorieën worden gemigreerd naar Hetzner Object Storage in hetzelfde da
 | Functie | ActionCable (WebSocket) adapter |
 | Persistentie | Niet vereist (alleen sessiebeheer) |
 
-### 7.6 Objectopslag
+### 7.6 Opslag
 
 | Eigenschap | Waarde |
 |-----------|--------|
@@ -571,7 +571,7 @@ Conform Art. 10.1 van de KTLO-overeenkomst worden alle toegangsgegevens uitsluit
 |-----------|-------------|-------------|-------------|
 | Server (CX32) | Hetzner Cloud | Dinck B.V. | €7,49 |
 | Serverback-ups (geautomatiseerd) | Hetzner Cloud | Dinck B.V. | €1,50 |
-| Objectopslag (~3,2 TB) | Hetzner Object Storage | Dinck B.V. | ~€16,00 |
+| Opslag (~3,2 TB) | Hetzner Object Storage | Dinck B.V. | ~€16,00 |
 | Broncode + container registry | GitHub Free | Dinck B.V. | €0,00 |
 | Bewaking | AppSignal Free | Dinck B.V. | €0,00 |
 | **Totaal** | | | **~€25/maand** |
@@ -608,7 +608,7 @@ Peter behoudt toegang tot alle infrastructuur als collaborator/member zolang de 
 | 0 | Voorbereiding + inventarisatie | 2 uur | Dinck levert accounts |
 | 1 | Hetzner + Kamal opzetten | 3-4 uur | Fase 0 |
 | 2 | GitHub-repository migreren | 1 uur | dinckbv org aangemaakt |
-| 3 | Objectopslag R2 → Hetzner | 2-3 uur actief + 3-5 dagen wachttijd | Hetzner-account |
+| 3 | Opslag R2 → Hetzner | 2-3 uur actief + 3-5 dagen wachttijd | Hetzner-account |
 | 4 | Databasemigratie + DNS-cutover | 3-4 uur | Fase 1-3 voltooid |
 | 5 | Opruimen oude infrastructuur | 1 uur | 7 dagen stabiel na fase 4 |
 | **Totaal** | | **12-15 uur** | |
