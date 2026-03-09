@@ -48,7 +48,7 @@ function articleHeading(num, title) {
   return new Paragraph({
     heading: HeadingLevel.HEADING_1,
     spacing: { before: 400, after: 150 },
-    children: [new TextRun({ text: `Artikel ${num} — ${title}`, bold: true, size: 24, font: "Arial" })]
+    children: [new TextRun({ text: `Artikel ${num}. ${title}`, bold: true, size: 24, font: "Arial" })]
   });
 }
 
@@ -266,50 +266,52 @@ const doc = new Document({
       // Overwegingen
       heading("Overwegingen", HeadingLevel.HEADING_1),
       p(""),
+      p("Partijen nemen het volgende in aanmerking:"),
+      p(""),
       labeledPara("A.", "Opdrachtgever exploiteert een softwareplatform voor kinderopvangorganisaties, bereikbaar via app.dinck.nl (het Platform)."),
       labeledPara("B.", "Het Platform is ontwikkeld door Peter Berkenbosch en draait op infrastructuur die wordt beheerd door Opdrachtnemer."),
       labeledPara("C.", "PHBX Holding B.V. is aandeelhouder van Opdrachtgever en houdt 33,3% van de aandelen. Peter Berkenbosch is bestuurder van zowel Opdrachtnemer als PHBX Holding B.V."),
       labeledPara("D.", "Peter Berkenbosch is per 1 maart 2026 afgetreden als bestuurder van Opdrachtgever."),
       labeledPara("E.", "Tijdens de bijeenkomst van 11 februari 2026 ten kantore van Van der Meer Accountants & Consultants te Oosterwolde, in aanwezigheid van onder meer Douwine Koopman, Marlou Woltmeijer, Grady Hofstra en Klaas de Vries, zijn Partijen overeengekomen dat Peter Berkenbosch uitsluitend KTLO-werkzaamheden zal verrichten voor het Platform."),
       labeledPara("F.", "Partijen wensen de voorwaarden van deze KTLO-dienstverlening schriftelijk vast te leggen (Keep The Lights On / KTLO)."),
-      labeledPara("G.", "Deze overeenkomst betreft een zuivere commerciële dienstverlening en staat los van de aandeelhoudersrelatie tussen PHBX Holding B.V. en Opdrachtgever."),
+      labeledPara("G.", "Deze overeenkomst betreft een zuivere commerci\u00EBle dienstverlening en staat los van de aandeelhoudersrelatie tussen PHBX Holding B.V. en Opdrachtgever."),
 
       separator(),
 
-      // Artikel 1 — Definities
+      // Artikel 1. Definities
       articleHeading(1, "Definities"),
       p("In deze overeenkomst wordt verstaan onder:"),
       p(""),
       labeledPara("1.1 Platform:", "Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur. Het Platform omvat de volledige Rails-applicatie, met inbegrip van de API-endpoints die de Dinckly mobiele applicatie bedienen."),
-      labeledPara("1.2 Diensten:", "De in Artikel 2 omschreven KTLO-werkzaamheden."),
-      labeledPara("1.3 Hostingkosten:", "De in Artikel 4 gespecificeerde kosten voor servers, opslag en overige infrastructuur benodigd voor het operationeel houden van het Platform."),
-      labeledPara("1.4 Kritieke bug:", "Een softwarefout waardoor: (a) het Platform volledig onbereikbaar is; of (b) data verlies of corruptie optreedt; of (c) een security-kwetsbaarheid actief wordt misbruikt; of (d) incorrecte financiële transacties plaatsvinden."),
-      labeledPara("1.5 Security patch:", "Een update ter verhelping van een beveiligingskwetsbaarheid met een CVE-score van 7.0 of hoger (high/critical), of een direct exploiteerbare kwetsbaarheid in een core dependency."),
-      labeledPara("1.6 Werkzaamheden buiten scope:", "Alle werkzaamheden die niet vallen onder de Diensten zoals omschreven in Artikel 2, en nader gespecificeerd in Artikel 3."),
+      labeledPara("1.2 Diensten:", "De in artikel 2 omschreven KTLO-werkzaamheden."),
+      labeledPara("1.3 Hostingkosten:", "De in artikel 4 gespecificeerde kosten voor servers, opslag en overige infrastructuur benodigd voor het operationeel houden van het Platform."),
+      labeledPara("1.4 Kritieke bug:", "Een softwarefout waardoor: (a) het Platform volledig onbereikbaar is; of (b) dataverlies of corruptie optreedt; of (c) een security-kwetsbaarheid actief wordt misbruikt; of (d) incorrecte financi\u00EBle transacties plaatsvinden."),
+      labeledPara("1.5 Beveiligingsupdate:", "Een update ter verhelping van een beveiligingskwetsbaarheid met een CVE-score van 7.0 of hoger (high/critical), of een direct exploiteerbare kwetsbaarheid in een kernafhankelijkheid."),
+      labeledPara("1.6 Meerwerk:", "Alle werkzaamheden die niet vallen onder de Diensten zoals omschreven in artikel 2, en nader gespecificeerd in artikel 3."),
 
-      // Artikel 2 — Scope
-      articleHeading(2, "Scope van de Diensten"),
+      // Artikel 2. Omvang van de Diensten
+      articleHeading(2, "Omvang van de Diensten"),
 
       sub("2.1 Omvang"),
       p("De Diensten omvatten uitsluitend het volgende:"),
       p(""),
-      p("(a) Monitoring", { bold: true }),
-      bullet("Server monitoring en alerts"),
-      bullet("Uptime bewaking"),
-      bullet("Error tracking"),
+      p("(a) Bewaking en signalering", { bold: true }),
+      bullet("Serverbewaking en meldingen"),
+      bullet("Beschikbaarheidsbewaking"),
+      bullet("Foutregistratie"),
       p(""),
       p("(b) Kritieke bugs", { bold: true }),
-      bullet("Diagnose en herstel van Kritieke bugs zoals gedefinieerd in Artikel 1.4"),
+      bullet("Diagnose en herstel van Kritieke bugs zoals gedefinieerd in artikel 1.4"),
       p(""),
-      p("(c) Security patches", { bold: true }),
-      bullet("Toepassen van Security patches zoals gedefinieerd in Artikel 1.5"),
-      bullet("Updates van core dependencies bij kritieke kwetsbaarheden"),
+      p("(c) Beveiligingsupdates", { bold: true }),
+      bullet("Toepassen van Beveiligingsupdates zoals gedefinieerd in artikel 1.5"),
+      bullet("Updates van kernafhankelijkheden bij kritieke kwetsbaarheden"),
       p(""),
       p("(d) Infrastructuur", { bold: true }),
-      bullet("Backup verificatie"),
-      bullet("SSL certificaat vernieuwing"),
-      bullet("DNS beheer"),
-      bullet("Standaard database onderhoud"),
+      bullet("Verificatie van back-ups"),
+      bullet("Vernieuwing van SSL-certificaten"),
+      bullet("DNS-beheer"),
+      bullet("Standaard databaseonderhoud"),
 
       sub("2.2 Prioriteiten en responstijden"),
       p(""),
@@ -324,7 +326,7 @@ const doc = new Document({
           ]}),
           new TableRow({ children: [
             cell("P1 \u2014 Kritiek", 1800, { bold: true }),
-            cell("Platform onbereikbaar, dataverlies, actief security-misbruik", 3200),
+            cell("Platform onbereikbaar, dataverlies, actieve uitbuiting van een beveiligingslek", 3200),
             cell("1 uur", 2080),
             cell("4 uur", 2280)
           ]}),
@@ -336,13 +338,13 @@ const doc = new Document({
           ]}),
           new TableRow({ children: [
             cell("P3 \u2014 Medium", 1800, { bold: true }),
-            cell("Security patch (Art. 1.5), gedeeltelijke functieverstoring", 3200),
+            cell("Beveiligingsupdate (Art. 1.5), gedeeltelijke functieverstoring", 3200),
             cell("8 werkuren", 2080),
             cell("5 werkdagen", 2280)
           ]}),
           new TableRow({ children: [
             cell("P4 \u2014 Laag", 1800, { bold: true }),
-            cell("Standaard onderhoud, certificaten, backup-verificatie", 3200),
+            cell("Standaard onderhoud, certificaten, back-upverificatie", 3200),
             cell("2 werkdagen", 2080),
             cell("10 werkdagen", 2280)
           ]})
@@ -354,33 +356,33 @@ const doc = new Document({
       p("De classificatie van prioriteit wordt bepaald door Opdrachtnemer."),
 
       sub("2.3 Maximale inzet"),
-      p("De Diensten bedragen maximaal 1 uur per week gemiddeld over een kalendermaand. Opdrachtnemer is niet verplicht meer uren te besteden. Indien de Diensten structureel meer dan 1 uur per week vergen, is Artikel 5.3 van toepassing."),
+      p("De Diensten bedragen maximaal 1 uur per week gemiddeld over een kalendermaand. Opdrachtnemer is niet verplicht meer uren te besteden. Indien de Diensten structureel meer dan 1 uur per week vergen, is artikel 5.3 van toepassing."),
 
       sub("2.4 Uitsluitingen"),
-      p("De volgende werkzaamheden vallen uitdrukkelijk niet onder de Diensten:"),
-      bullet("Eindgebruiker support, training of onboarding"),
-      bullet("Nieuwe functionaliteit of feature requests"),
+      p("De volgende werkzaamheden vallen uitdrukkelijk niet onder de Diensten en worden aangemerkt als Meerwerk:"),
+      bullet("Eindgebruikersondersteuning, training of inwerkbegeleiding"),
+      bullet("Nieuwe functionaliteit of verzoeken tot nieuwe functionaliteit"),
       bullet("Uitbreidingen van bestaande functionaliteit"),
       bullet("Integraties met externe systemen (inclusief maar niet beperkt tot SpiekR)"),
       bullet("Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app \u2014 met dien verstande dat de backend API-endpoints die deze applicaties bedienen w\u00E9l onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen"),
-      bullet("UI/UX verbeteringen of design updates"),
-      bullet("Performance optimalisatie (tenzij sprake van een Kritieke bug)"),
-      bullet("Refactoring of architectuurverbeteringen"),
-      bullet("Niet-kritieke bugs (cosmetische issues, minor usability problemen, edge cases)"),
-      bullet("Documentatie updates"),
-      bullet("Database optimalisatie (niet-kritiek)"),
-      bullet("Caching implementaties"),
+      bullet("Verbeteringen van gebruikersinterface of ontwerp"),
+      bullet("Prestatie-optimalisatie (tenzij sprake van een Kritieke bug)"),
+      bullet("Herstructurering van code of architectuurverbeteringen"),
+      bullet("Niet-kritieke bugs (cosmetische gebreken, kleine gebruiksproblemen, randgevallen zonder wezenlijke bedrijfsimpact)"),
+      bullet("Bijwerken van documentatie"),
+      bullet("Database-optimalisatie (niet-kritiek)"),
+      bullet("Cache-implementaties"),
       p(""),
       p("Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.", { italic: true }),
 
-      // Artikel 3 — Buiten Scope
-      articleHeading(3, "Werkzaamheden buiten scope"),
-      labeledPara("3.1", "Werkzaamheden buiten scope worden uitsluitend verricht na voorafgaande schriftelijke offerte door Opdrachtnemer en schriftelijke goedkeuring door Opdrachtgever."),
-      labeledPara("3.2", "Het uurtarief voor Werkzaamheden buiten scope bedraagt €125,00 exclusief BTW."),
-      labeledPara("3.3", "Opdrachtnemer factureert Werkzaamheden buiten scope maandelijks achteraf op basis van bestede uren."),
-      labeledPara("3.4", "Op Werkzaamheden buiten scope zijn de overige bepalingen van deze overeenkomst onverkort van toepassing, tenzij schriftelijk anders overeengekomen."),
+      // Artikel 3. Meerwerk
+      articleHeading(3, "Meerwerk"),
+      labeledPara("3.1", "Meerwerk wordt uitsluitend verricht na voorafgaande schriftelijke offerte door Opdrachtnemer en schriftelijke goedkeuring door Opdrachtgever."),
+      labeledPara("3.2", "Het uurtarief voor Meerwerk bedraagt \u20AC125,00 exclusief btw."),
+      labeledPara("3.3", "Opdrachtnemer factureert Meerwerk maandelijks achteraf op basis van bestede uren."),
+      labeledPara("3.4", "Op Meerwerk zijn de overige bepalingen van deze overeenkomst onverkort van toepassing, tenzij schriftelijk anders overeengekomen."),
 
-      // Artikel 4 — Hostingkosten
+      // Artikel 4. Hostingkosten
       articleHeading(4, "Hostingkosten"),
 
       sub("4.1 Specificatie"),
@@ -405,17 +407,17 @@ const doc = new Document({
             cell("$41,00", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Object Storage (~3.229 GB)", 3500),
+            cell("Objectopslag (~3.229 GB)", 3500),
             cell("Cloudflare R2", 3000),
             cell("~$48,30", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Broncode repository (GitHub Team)", 3500),
+            cell("Broncoderepository (GitHub Team)", 3500),
             cell("GitHub", 3000),
             cell("$4,00/user/mnd", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Monitoring (free plan)", 3500),
+            cell("Bewaking (gratis abonnement)", 3500),
             cell("AppSignal", 3000),
             cell("\u20AC0,00", 2860)
           ]}),
@@ -428,8 +430,8 @@ const doc = new Document({
       }),
 
       p(""),
-      p("Noot: GitHub Team kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.", { italic: true, size: 20 }),
-      p("Noot: AppSignal schaalt naar \u20AC22,00/maand bij overschrijding van 50K requests/maand (250K requests plan). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.", { italic: true, size: 20 }),
+      p("N.B. GitHub Team-kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.", { italic: true, size: 20 }),
+      p("N.B. AppSignal schaalt naar \u20AC22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.", { italic: true, size: 20 }),
 
       sub("4.2 Doorbelasting"),
       p("Hostingkosten worden maandelijks door Opdrachtnemer aan Opdrachtgever gefactureerd tegen kostprijs, op basis van de werkelijke kosten van de onderliggende leveranciers."),
@@ -443,48 +445,48 @@ const doc = new Document({
       sub("4.5 Wijzigingen"),
       p("Indien de Hostingkosten met meer dan 20% stijgen ten opzichte van het voorgaande kwartaal (anders dan door een door Opdrachtgever verzochte uitbreiding), stelt Opdrachtnemer Opdrachtgever hiervan schriftelijk in kennis. Opdrachtgever kan binnen 14 dagen na kennisgeving bezwaar maken. Partijen treden in dat geval in overleg over alternatieve oplossingen."),
 
-      // Artikel 5 — Vergoeding
+      // Artikel 5. Vergoeding
       articleHeading(5, "Vergoeding"),
 
       sub("5.1 KTLO-diensten"),
-      p("De Diensten zoals omschreven in Artikel 2 worden niet gefactureerd. Opdrachtnemer verricht deze werkzaamheden in het belang van het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever."),
+      p("De Diensten zoals omschreven in artikel 2 worden niet gefactureerd. Opdrachtnemer verricht deze werkzaamheden in het belang van het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever."),
 
       sub("5.2 Gefactureerde posten"),
       p("Opdrachtgever is uitsluitend verschuldigd:"),
-      bullet("(a) de Hostingkosten op grond van Artikel 4; en"),
-      bullet("(b) vergoedingen voor Werkzaamheden buiten scope op grond van Artikel 3."),
+      bullet("(a) de Hostingkosten op grond van artikel 4; en"),
+      bullet("(b) vergoedingen voor Meerwerk op grond van artikel 3."),
 
       sub("5.3 Herzieningsrecht"),
-      p("Indien de Diensten gedurende drie opeenvolgende maanden structureel meer dan 1 uur per week vergen, heeft Opdrachtnemer het recht een redelijke vergoeding voor te stellen voor het meerdere. Partijen treden in dat geval in overleg. Komen Partijen niet tot overeenstemming binnen 30 dagen, dan is Opdrachtnemer gerechtigd de maximale inzet terug te brengen tot 1 uur per week of de overeenkomst op te zeggen met inachtneming van de opzegtermijn in Artikel 6.3."),
+      p("Indien de Diensten gedurende drie opeenvolgende maanden structureel meer dan 1 uur per week vergen, heeft Opdrachtnemer het recht een redelijke vergoeding voor te stellen voor het meerdere. Partijen treden in dat geval in overleg. Komen Partijen niet tot overeenstemming binnen 30 dagen, dan is Opdrachtnemer gerechtigd de maximale inzet terug te brengen tot 1 uur per week of de overeenkomst op te zeggen met inachtneming van de opzegtermijn in artikel 6.3."),
 
-      // Artikel 6 — Duur en Beeindiging
-      articleHeading(6, "Duur en Beeindiging"),
+      // Artikel 6. Duur en Be\u00EBindiging
+      articleHeading(6, "Duur en Be\u00EBindiging"),
 
       sub("6.1 Ingangsdatum"),
       p("Deze overeenkomst treedt in werking op 1 maart 2026 en wordt aangegaan voor onbepaalde tijd."),
 
       sub("6.2 Koppeling aan aandeelhouderschap"),
-      p("Deze overeenkomst is onlosmakelijk verbonden aan het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever. Bij overdracht van de aandelen van PHBX Holding B.V. in Opdrachtgever — om welke reden dan ook — eindigt deze overeenkomst van rechtswege op de datum van de aandelenoverdracht, zonder dat opzegging of ingebrekestelling is vereist."),
+      p("Deze overeenkomst is onlosmakelijk verbonden aan het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever. Bij overdracht van de aandelen van PHBX Holding B.V. in Opdrachtgever \u2014 om welke reden dan ook \u2014 eindigt deze overeenkomst van rechtswege op de datum van de aandelenoverdracht, zonder dat opzegging of ingebrekestelling is vereist."),
 
       sub("6.3 Opzegging"),
       p("Ieder der Partijen kan deze overeenkomst opzeggen met inachtneming van een opzegtermijn van 1 kalendermaand, per e-mail met ontvangstbevestiging."),
 
-      sub("6.4 Opeisbaarheid bij beeindiging"),
-      p("Bij beeindiging van deze overeenkomst — ongeacht de reden — worden alle openstaande facturen van Opdrachtnemer direct en volledig opeisbaar, zonder dat ingebrekestelling is vereist."),
+      sub("6.4 Opeisbaarheid bij be\u00EBindiging"),
+      p("Bij be\u00EBindiging van deze overeenkomst \u2014 ongeacht de reden \u2014 worden alle openstaande facturen van Opdrachtnemer direct en volledig opeisbaar, zonder dat ingebrekestelling is vereist."),
 
-      // Artikel 7 — Opschorting
+      // Artikel 7. Opschorting
       articleHeading(7, "Opschorting"),
 
       sub("7.1 Opschortingsrecht"),
       p("Indien Opdrachtgever enige betalingsverplichting uit deze overeenkomst niet tijdig nakomt, is Opdrachtnemer gerechtigd de Diensten met onmiddellijke ingang op te schorten, zonder voorafgaande ingebrekestelling."),
 
       sub("7.2 Geen aansprakelijkheid"),
-      p("Opdrachtnemer is niet aansprakelijk voor schade die Opdrachtgever lijdt als gevolg van opschorting op grond van dit artikel, waaronder maar niet beperkt tot: downtime van het Platform, dataverlies, of gederfde inkomsten."),
+      p("Opdrachtnemer is niet aansprakelijk voor schade die Opdrachtgever lijdt als gevolg van opschorting op grond van dit artikel, waaronder maar niet beperkt tot: onbeschikbaarheid van het Platform, dataverlies, of gederfde inkomsten."),
 
       sub("7.3 Ontbinding"),
       p("Indien de betalingsachterstand voortduurt na 30 dagen na de datum van opschorting, is Opdrachtnemer gerechtigd de overeenkomst met onmiddellijke ingang te ontbinden door middel van een schriftelijke verklaring, onverminderd het recht op vergoeding van openstaande facturen en eventuele schade."),
 
-      // Artikel 8 — IP
+      // Artikel 8. Intellectueel eigendom
       articleHeading(8, "Intellectueel eigendom"),
 
       sub("8.1 Eigendom"),
@@ -493,7 +495,7 @@ const doc = new Document({
       sub("8.2 Geen overdracht door dienstverlening"),
       p("Door het verrichten van de Diensten vindt geen wijziging plaats in de bestaande eigendomsverhoudingen. Opdrachtnemer verkrijgt geen intellectuele eigendomsrechten op het Platform of enig onderdeel daarvan."),
 
-      // Artikel 9 — Aansprakelijkheid
+      // Artikel 9. Aansprakelijkheid
       articleHeading(9, "Aansprakelijkheid"),
 
       sub("9.1 Beperking"),
@@ -508,23 +510,23 @@ const doc = new Document({
       sub("9.4 Vervaltermijn"),
       p("Iedere vordering van Opdrachtgever op Opdrachtnemer vervalt 12 maanden na de datum waarop Opdrachtgever bekend werd of redelijkerwijs bekend had kunnen zijn met de schade."),
 
-      // Artikel 10 — Beveiliging en Toegangsbeheer
+      // Artikel 10. Beveiliging en Toegangsbeheer
       articleHeading(10, "Beveiliging en Toegangsbeheer"),
 
-      sub("10.1 Credential management"),
-      p("Opdrachtnemer beheert alle inloggegevens, API-sleutels en overige credentials die benodigd zijn voor de uitvoering van de Diensten uitsluitend via een professionele secrets manager (1Password). Opdrachtnemer deelt geen credentials via e-mail, chatberichten, gedeelde documenten of andere onbeveiligde kanalen."),
+      sub("10.1 Beheer van toegangsgegevens"),
+      p("Opdrachtnemer beheert alle inloggegevens, API-sleutels en overige toegangsgegevens die benodigd zijn voor de uitvoering van de Diensten uitsluitend via een professionele wachtwoordbeheerder (1Password). Opdrachtnemer deelt geen toegangsgegevens via e-mail, chatberichten, gedeelde documenten of andere onbeveiligde kanalen."),
 
       sub("10.2 Beperking aansprakelijkheid toegang"),
       p("Opdrachtnemer is niet aansprakelijk voor beveiligingsincidenten, datalekken of ongeautoriseerde toegang die het gevolg zijn van:"),
       new Paragraph({
         spacing: { before: 60, after: 60 },
         indent: { left: 720, hanging: 360 },
-        children: [new TextRun({ text: "(a) het opslaan van credentials in platte tekst door Opdrachtgever of derden;", size: 22, font: "Arial" })]
+        children: [new TextRun({ text: "(a) het opslaan van toegangsgegevens in platte tekst door Opdrachtgever of derden;", size: 22, font: "Arial" })]
       }),
       new Paragraph({
         spacing: { before: 60, after: 60 },
         indent: { left: 720, hanging: 360 },
-        children: [new TextRun({ text: "(b) het delen van credentials via onbeveiligde kanalen door Opdrachtgever of derden;", size: 22, font: "Arial" })]
+        children: [new TextRun({ text: "(b) het delen van toegangsgegevens via onbeveiligde kanalen door Opdrachtgever of derden;", size: 22, font: "Arial" })]
       }),
       new Paragraph({
         spacing: { before: 60, after: 60 },
@@ -540,7 +542,7 @@ const doc = new Document({
       sub("10.3 Toegangswijzigingen"),
       p("Wijzigingen in de toegangsrechten tot de infrastructuur, repositories of hostingaccounts vinden uitsluitend plaats in overleg met Opdrachtnemer, zolang deze overeenkomst van kracht is."),
 
-      // Artikel 11 — Communicatie
+      // Artikel 11. Communicatie
       articleHeading(11, "Communicatie"),
 
       sub("11.1 Contactgegevens"),
@@ -564,28 +566,28 @@ const doc = new Document({
       }),
 
       sub("11.2 Escalatieprotocol"),
-      p("Bij P1- en P2-incidenten stuurt Opdrachtgever een e-mail met als onderwerp: \"URGENT: [omschrijving probleem]\". Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden kan Opdrachtgever telefonisch contact opnemen."),
+      p("Bij P1- en P2-incidenten stuurt Opdrachtgever een e-mail met als onderwerp: \"URGENT: [omschrijving probleem]\". Bij het uitblijven van een reactie binnen de in artikel 2.2 genoemde reactietijden kan Opdrachtgever telefonisch contact opnemen."),
 
-      // Artikel 12 — Geheimhouding
+      // Artikel 12. Geheimhouding
       articleHeading(12, "Geheimhouding"),
 
       sub("12.1 Verplichting"),
       p("Partijen verplichten zich over en weer tot geheimhouding van alle vertrouwelijke informatie die zij in het kader van deze overeenkomst van de andere Partij ontvangen."),
 
       sub("12.2 Uitzondering adviseurs"),
-      p("De geheimhoudingsverplichting geldt niet voor informatie die een Partij deelt met haar juridisch, fiscaal of financieel adviseurs, mits deze adviseurs aan een gelijkwaardige of strengere geheimhoudingsverplichting zijn gebonden."),
+      p("De geheimhoudingsverplichting geldt niet voor informatie die een Partij deelt met haar juridische, fiscale of financi\u00EBle adviseurs, mits deze adviseurs aan een gelijkwaardige of strengere geheimhoudingsverplichting zijn gebonden."),
 
       sub("12.3 Wettelijke verplichting"),
       p("De geheimhoudingsverplichting geldt niet voor zover openbaarmaking wettelijk of door een rechterlijk bevel is vereist, mits de openbarende Partij de andere Partij hiervan onverwijld in kennis stelt."),
 
       sub("12.4 Duur"),
-      p("De geheimhoudingsverplichting blijft van kracht gedurende de looptijd van deze overeenkomst en 2 jaar na beeindiging daarvan."),
+      p("De geheimhoudingsverplichting blijft van kracht gedurende de looptijd van deze overeenkomst en 2 jaar na be\u00EBindiging daarvan."),
 
-      // Artikel 13 — Overige
-      articleHeading(13, "Overige Bepalingen"),
+      // Artikel 13. Slotbepalingen
+      articleHeading(13, "Slotbepalingen"),
 
       sub("13.1 Zelfstandigheid"),
-      p("Opdrachtnemer verricht de Diensten als zelfstandig opdrachtnemer. Er is geen sprake van een arbeidsovereenkomst, dienstverband of gezagsverhouding. Opdrachtnemer bepaalt zelfstandig de wijze waarop en de tijdstippen waarop de Diensten worden verricht, binnen de kaders van de in Artikel 2.2 genoemde responstijden."),
+      p("Opdrachtnemer verricht de Diensten als zelfstandig opdrachtnemer. Er is geen sprake van een arbeidsovereenkomst, dienstverband of gezagsverhouding. Opdrachtnemer bepaalt zelfstandig de wijze waarop en de tijdstippen waarop de Diensten worden verricht, binnen de kaders van de in artikel 2.2 genoemde responstijden."),
 
       sub("13.2 Wijzigingen"),
       p("Wijzigingen van of aanvullingen op deze overeenkomst zijn uitsluitend geldig indien schriftelijk overeengekomen door beide Partijen."),
@@ -607,7 +609,7 @@ const doc = new Document({
       // Ondertekening
       heading("Ondertekening", HeadingLevel.HEADING_1),
       p(""),
-      p("Aldus overeengekomen en in tweevoud ondertekend op 1 maart 2026 te Oosterwolde."),
+      p("Aldus in tweevoud opgesteld en ondertekend op 1 maart 2026 te Oosterwolde."),
       p(""),
       p(""),
       new Table({

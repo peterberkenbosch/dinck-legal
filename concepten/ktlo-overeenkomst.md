@@ -37,6 +37,8 @@ Opdrachtnemer en Opdrachtgever hierna gezamenlijk aangeduid als **Partijen** en 
 
 ## Overwegingen
 
+Partijen nemen het volgende in aanmerking:
+
 A. Opdrachtgever exploiteert een softwareplatform voor kinderopvangorganisaties, bereikbaar via app.dinck.nl (het **Platform**).
 
 B. Het Platform is ontwikkeld door Peter Berkenbosch en draait op infrastructuur die wordt beheerd door Opdrachtnemer.
@@ -53,60 +55,60 @@ G. Deze overeenkomst betreft een zuivere commerciële dienstverlening en staat l
 
 ---
 
-## Artikel 1 — Definities
+## Artikel 1. Definities
 
 In deze overeenkomst wordt verstaan onder:
 
 **1.1 Platform**: Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur. Het Platform omvat de volledige Rails-applicatie, met inbegrip van de API-endpoints die de Dinckly mobiele applicatie bedienen.
 
-**1.2 Diensten**: De in Artikel 2 omschreven KTLO-werkzaamheden.
+**1.2 Diensten**: De in artikel 2 omschreven KTLO-werkzaamheden.
 
-**1.3 Hostingkosten**: De in Artikel 4 gespecificeerde kosten voor servers, opslag en overige infrastructuur benodigd voor het operationeel houden van het Platform.
+**1.3 Hostingkosten**: De in artikel 4 gespecificeerde kosten voor servers, opslag en overige infrastructuur benodigd voor het operationeel houden van het Platform.
 
 **1.4 Kritieke bug**: Een softwarefout waardoor:
 - (a) het Platform volledig onbereikbaar is; of
-- (b) data verlies of corruptie optreedt; of
+- (b) dataverlies of corruptie optreedt; of
 - (c) een security-kwetsbaarheid actief wordt misbruikt; of
 - (d) incorrecte financiële transacties plaatsvinden.
 
-**1.5 Security patch**: Een update ter verhelping van een beveiligingskwetsbaarheid met een CVE-score van 7.0 of hoger (high/critical), of een direct exploiteerbare kwetsbaarheid in een core dependency.
+**1.5 Beveiligingsupdate**: Een update ter verhelping van een beveiligingskwetsbaarheid met een CVE-score van 7.0 of hoger (high/critical), of een direct exploiteerbare kwetsbaarheid in een kernafhankelijkheid.
 
-**1.6 Werkzaamheden buiten scope**: Alle werkzaamheden die niet vallen onder de Diensten zoals omschreven in Artikel 2, en nader gespecificeerd in Artikel 3.
+**1.6 Meerwerk**: Alle werkzaamheden die niet vallen onder de Diensten zoals omschreven in artikel 2, en nader gespecificeerd in artikel 3.
 
 ---
 
-## Artikel 2 — Scope van de Diensten
+## Artikel 2. Omvang van de Diensten
 
 ### 2.1 Omvang
 
 De Diensten omvatten uitsluitend het volgende:
 
-**(a) Monitoring**
-- Server monitoring en alerts
-- Uptime bewaking
-- Error tracking
+**(a) Bewaking en signalering**
+- Serverbewaking en meldingen
+- Beschikbaarheidsbewaking
+- Foutregistratie
 
 **(b) Kritieke bugs**
-- Diagnose en herstel van Kritieke bugs zoals gedefinieerd in Artikel 1.4
+- Diagnose en herstel van Kritieke bugs zoals gedefinieerd in artikel 1.4
 
-**(c) Security patches**
-- Toepassen van Security patches zoals gedefinieerd in Artikel 1.5
-- Updates van core dependencies bij kritieke kwetsbaarheden
+**(c) Beveiligingsupdates**
+- Toepassen van Beveiligingsupdates zoals gedefinieerd in artikel 1.5
+- Updates van kernafhankelijkheden bij kritieke kwetsbaarheden
 
 **(d) Infrastructuur**
-- Backup verificatie
-- SSL certificaat vernieuwing
-- DNS beheer
-- Standaard database onderhoud
+- Verificatie van back-ups
+- Vernieuwing van SSL-certificaten
+- DNS-beheer
+- Standaard databaseonderhoud
 
 ### 2.2 Prioriteiten en responstijden
 
 | Prioriteit | Omschrijving | Reactietijd | Oplostijd |
 |------------|-------------|-------------|-----------|
-| **P1 — Kritiek** | Platform volledig onbereikbaar, dataverlies, actief security-misbruik | 1 uur | 4 uur |
+| **P1 — Kritiek** | Platform volledig onbereikbaar, dataverlies, actieve uitbuiting van een beveiligingslek | 1 uur | 4 uur |
 | **P2 — Hoog** | Kritieke bug (Art. 1.4), ernstige functieverstoring voor alle gebruikers | 4 uur | 8 uur |
-| **P3 — Medium** | Security patch (Art. 1.5), gedeeltelijke functieverstoring | 8 werkuren | 5 werkdagen |
-| **P4 — Laag** | Standaard onderhoud, certificaatvernieuwing, backup-verificatie | 2 werkdagen | 10 werkdagen |
+| **P3 — Medium** | Beveiligingsupdate (Art. 1.5), gedeeltelijke functieverstoring | 8 werkuren | 5 werkdagen |
+| **P4 — Laag** | Standaard onderhoud, certificaatvernieuwing, back-upverificatie | 2 werkdagen | 10 werkdagen |
 
 Werktijden: maandag t/m vrijdag, 9:00-17:00 CET. Reactie- en oplostijden worden gemeten in werkuren respectievelijk werkdagen, tenzij anders vermeld. Meldingen buiten werktijden worden geacht te zijn ontvangen bij aanvang van de eerstvolgende werkdag.
 
@@ -114,42 +116,42 @@ De classificatie van prioriteit wordt bepaald door Opdrachtnemer.
 
 ### 2.3 Maximale inzet
 
-De Diensten bedragen maximaal **1 uur per week** gemiddeld over een kalendermaand. Opdrachtnemer is niet verplicht meer uren te besteden. Indien de Diensten structureel meer dan 1 uur per week vergen, is Artikel 5.3 van toepassing.
+De Diensten bedragen maximaal **1 uur per week** gemiddeld over een kalendermaand. Opdrachtnemer is niet verplicht meer uren te besteden. Indien de Diensten structureel meer dan 1 uur per week vergen, is artikel 5.3 van toepassing.
 
 ### 2.4 Uitsluitingen
 
-De volgende werkzaamheden vallen uitdrukkelijk **niet** onder de Diensten:
+De volgende werkzaamheden vallen uitdrukkelijk **niet** onder de Diensten en worden aangemerkt als Meerwerk:
 
-- Eindgebruiker support, training of onboarding
-- Nieuwe functionaliteit of feature requests
+- Eindgebruikersondersteuning, training of inwerkbegeleiding
+- Nieuwe functionaliteit of verzoeken tot nieuwe functionaliteit
 - Uitbreidingen van bestaande functionaliteit
 - Integraties met externe systemen (inclusief maar niet beperkt tot SpiekR)
 - Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app — met dien verstande dat de backend API-endpoints die deze applicaties bedienen wél onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen
-- UI/UX verbeteringen of design updates
-- Performance optimalisatie (tenzij sprake van een Kritieke bug)
-- Refactoring of architectuurverbeteringen
-- Niet-kritieke bugs (cosmetische issues, minor usability problemen, edge cases zonder business impact)
-- Documentatie updates
-- Database optimalisatie (niet-kritiek)
-- Caching implementaties
+- Verbeteringen van gebruikersinterface of ontwerp
+- Prestatie-optimalisatie (tenzij sprake van een Kritieke bug)
+- Herstructurering van code of architectuurverbeteringen
+- Niet-kritieke bugs (cosmetische gebreken, kleine gebruiksproblemen, randgevallen zonder wezenlijke bedrijfsimpact)
+- Bijwerken van documentatie
+- Database-optimalisatie (niet-kritiek)
+- Cache-implementaties
 
 Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.
 
 ---
 
-## Artikel 3 — Werkzaamheden buiten scope
+## Artikel 3. Meerwerk
 
-**3.1** Werkzaamheden buiten scope worden uitsluitend verricht na voorafgaande schriftelijke offerte door Opdrachtnemer en schriftelijke goedkeuring door Opdrachtgever.
+**3.1** Meerwerk wordt uitsluitend verricht na voorafgaande schriftelijke offerte door Opdrachtnemer en schriftelijke goedkeuring door Opdrachtgever.
 
-**3.2** Het uurtarief voor Werkzaamheden buiten scope bedraagt **€125,00 exclusief BTW**.
+**3.2** Het uurtarief voor Meerwerk bedraagt **€125,00 exclusief btw**.
 
-**3.3** Opdrachtnemer factureert Werkzaamheden buiten scope maandelijks achteraf op basis van bestede uren.
+**3.3** Opdrachtnemer factureert Meerwerk maandelijks achteraf op basis van bestede uren.
 
-**3.4** Op Werkzaamheden buiten scope zijn de overige bepalingen van deze overeenkomst (waaronder aansprakelijkheid, geheimhouding en communicatie) onverkort van toepassing, tenzij schriftelijk anders overeengekomen.
+**3.4** Op Meerwerk zijn de overige bepalingen van deze overeenkomst (waaronder aansprakelijkheid, geheimhouding en communicatie) onverkort van toepassing, tenzij schriftelijk anders overeengekomen.
 
 ---
 
-## Artikel 4 — Hostingkosten
+## Artikel 4. Hostingkosten
 
 ### 4.1 Specificatie
 
@@ -159,14 +161,14 @@ Het Platform draait op de volgende infrastructuur:
 |-----------|-------------|-------------|
 | Applicatiehosting (3 servers) | Hatchbox.io | $30,00 |
 | Servers: lb01 Nano 1GB, web01 2GB, db01 4GB | Linode/Akamai | $41,00 |
-| Object Storage (~3.229 GB: video's, backups, Google Drive data) | Cloudflare R2 | ~$48,30 |
-| Broncode repository (GitHub Team) | GitHub | $4,00/user/maand |
-| Monitoring (free plan; 50K requests, 1GB logging) | AppSignal | €0,00 |
+| Objectopslag (~3.229 GB: video's, back-ups, Google Drive-gegevens) | Cloudflare R2 | ~$48,30 |
+| Broncoderepository (GitHub Team) | GitHub | $4,00/user/maand |
+| Bewaking (gratis abonnement; 50.000 verzoeken, 1 GB logregistratie) | AppSignal | €0,00 |
 | **Totaal** | | **~$123,30/maand (~€114)** |
 
-*Noot: GitHub Team kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.*
+*N.B. GitHub Team-kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.*
 
-*Noot: AppSignal schaalt naar €22,00/maand bij overschrijding van 50K requests/maand (250K requests plan). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.*
+*N.B. AppSignal schaalt naar €22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.*
 
 ### 4.2 Doorbelasting
 
@@ -186,25 +188,25 @@ Indien de Hostingkosten met meer dan **20%** stijgen ten opzichte van het voorga
 
 ---
 
-## Artikel 5 — Vergoeding
+## Artikel 5. Vergoeding
 
 ### 5.1 KTLO-diensten
 
-De Diensten zoals omschreven in Artikel 2 worden **niet gefactureerd**. Opdrachtnemer verricht deze werkzaamheden in het belang van het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever.
+De Diensten zoals omschreven in artikel 2 worden **niet gefactureerd**. Opdrachtnemer verricht deze werkzaamheden in het belang van het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever.
 
 ### 5.2 Gefactureerde posten
 
 Opdrachtgever is uitsluitend verschuldigd:
-- (a) de Hostingkosten op grond van Artikel 4; en
-- (b) vergoedingen voor Werkzaamheden buiten scope op grond van Artikel 3.
+- (a) de Hostingkosten op grond van artikel 4; en
+- (b) vergoedingen voor Meerwerk op grond van artikel 3.
 
 ### 5.3 Herzieningsrecht
 
-Indien de Diensten gedurende drie opeenvolgende maanden structureel meer dan 1 uur per week vergen, heeft Opdrachtnemer het recht een redelijke vergoeding voor te stellen voor het meerdere. Partijen treden in dat geval in overleg. Komen Partijen niet tot overeenstemming binnen 30 dagen, dan is Opdrachtnemer gerechtigd de maximale inzet terug te brengen tot 1 uur per week of de overeenkomst op te zeggen met inachtneming van de opzegtermijn in Artikel 6.3.
+Indien de Diensten gedurende drie opeenvolgende maanden structureel meer dan 1 uur per week vergen, heeft Opdrachtnemer het recht een redelijke vergoeding voor te stellen voor het meerdere. Partijen treden in dat geval in overleg. Komen Partijen niet tot overeenstemming binnen 30 dagen, dan is Opdrachtnemer gerechtigd de maximale inzet terug te brengen tot 1 uur per week of de overeenkomst op te zeggen met inachtneming van de opzegtermijn in artikel 6.3.
 
 ---
 
-## Artikel 6 — Duur en Beeindiging
+## Artikel 6. Duur en Beëindiging
 
 ### 6.1 Ingangsdatum
 
@@ -218,13 +220,13 @@ Deze overeenkomst is onlosmakelijk verbonden aan het aandeelhouderschap van PHBX
 
 Ieder der Partijen kan deze overeenkomst opzeggen met inachtneming van een opzegtermijn van **1 kalendermaand**, per e-mail met ontvangstbevestiging.
 
-### 6.4 Opeisbaarheid bij beeindiging
+### 6.4 Opeisbaarheid bij beëindiging
 
-Bij beeindiging van deze overeenkomst — ongeacht de reden — worden alle openstaande facturen van Opdrachtnemer direct en volledig opeisbaar, zonder dat ingebrekestelling is vereist.
+Bij beëindiging van deze overeenkomst — ongeacht de reden — worden alle openstaande facturen van Opdrachtnemer direct en volledig opeisbaar, zonder dat ingebrekestelling is vereist.
 
 ---
 
-## Artikel 7 — Opschorting
+## Artikel 7. Opschorting
 
 ### 7.1 Opschortingsrecht
 
@@ -232,7 +234,7 @@ Indien Opdrachtgever enige betalingsverplichting uit deze overeenkomst niet tijd
 
 ### 7.2 Geen aansprakelijkheid
 
-Opdrachtnemer is niet aansprakelijk voor schade die Opdrachtgever lijdt als gevolg van opschorting op grond van dit artikel, waaronder maar niet beperkt tot: downtime van het Platform, dataverlies, of gederfde inkomsten.
+Opdrachtnemer is niet aansprakelijk voor schade die Opdrachtgever lijdt als gevolg van opschorting op grond van dit artikel, waaronder maar niet beperkt tot: onbeschikbaarheid van het Platform, dataverlies, of gederfde inkomsten.
 
 ### 7.3 Ontbinding
 
@@ -240,7 +242,7 @@ Indien de betalingsachterstand voortduurt na **30 dagen** na de datum van opscho
 
 ---
 
-## Artikel 8 — Intellectueel eigendom
+## Artikel 8. Intellectueel eigendom
 
 ### 8.1 Eigendom
 
@@ -252,7 +254,7 @@ Door het verrichten van de Diensten vindt geen wijziging plaats in de bestaande 
 
 ---
 
-## Artikel 9 — Aansprakelijkheid
+## Artikel 9. Aansprakelijkheid
 
 ### 9.1 Beperking
 
@@ -272,17 +274,17 @@ Iedere vordering van Opdrachtgever op Opdrachtnemer vervalt 12 maanden na de dat
 
 ---
 
-## Artikel 10 — Beveiliging en Toegangsbeheer
+## Artikel 10. Beveiliging en Toegangsbeheer
 
-### 10.1 Credential management
+### 10.1 Beheer van toegangsgegevens
 
-Opdrachtnemer beheert alle inloggegevens, API-sleutels en overige credentials die benodigd zijn voor de uitvoering van de Diensten uitsluitend via een professionele secrets manager (1Password). Opdrachtnemer deelt geen credentials via e-mail, chatberichten, gedeelde documenten of andere onbeveiligde kanalen.
+Opdrachtnemer beheert alle inloggegevens, API-sleutels en overige toegangsgegevens die benodigd zijn voor de uitvoering van de Diensten uitsluitend via een professionele wachtwoordbeheerder (1Password). Opdrachtnemer deelt geen toegangsgegevens via e-mail, chatberichten, gedeelde documenten of andere onbeveiligde kanalen.
 
 ### 10.2 Beperking aansprakelijkheid toegang
 
 Opdrachtnemer is niet aansprakelijk voor beveiligingsincidenten, datalekken of ongeautoriseerde toegang die het gevolg zijn van:
-- (a) het opslaan van credentials in platte tekst door Opdrachtgever of derden;
-- (b) het delen van credentials via onbeveiligde kanalen door Opdrachtgever of derden;
+- (a) het opslaan van toegangsgegevens in platte tekst door Opdrachtgever of derden;
+- (b) het delen van toegangsgegevens via onbeveiligde kanalen door Opdrachtgever of derden;
 - (c) toegang verleend door Opdrachtgever aan derden zonder voorafgaand overleg met Opdrachtnemer;
 - (d) handelingen van derden aan wie Opdrachtgever toegang heeft verstrekt tot de infrastructuur of broncode.
 
@@ -292,7 +294,7 @@ Wijzigingen in de toegangsrechten tot de infrastructuur, repositories of hosting
 
 ---
 
-## Artikel 11 — Communicatie
+## Artikel 11. Communicatie
 
 ### 11.1 Contactgegevens
 
@@ -303,11 +305,11 @@ Wijzigingen in de toegangsrechten tot de infrastructuur, repositories of hosting
 
 ### 11.2 Escalatieprotocol
 
-Bij P1- en P2-incidenten stuurt Opdrachtgever een e-mail met als onderwerp: **"URGENT: [omschrijving probleem]"**. Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden kan Opdrachtgever telefonisch contact opnemen.
+Bij P1- en P2-incidenten stuurt Opdrachtgever een e-mail met als onderwerp: **"URGENT: [omschrijving probleem]"**. Bij het uitblijven van een reactie binnen de in artikel 2.2 genoemde reactietijden kan Opdrachtgever telefonisch contact opnemen.
 
 ---
 
-## Artikel 12 — Geheimhouding
+## Artikel 12. Geheimhouding
 
 ### 12.1 Verplichting
 
@@ -315,7 +317,7 @@ Partijen verplichten zich over en weer tot geheimhouding van alle vertrouwelijke
 
 ### 12.2 Uitzondering adviseurs
 
-De geheimhoudingsverplichting geldt niet voor informatie die een Partij deelt met haar juridisch, fiscaal of financieel adviseurs, mits deze adviseurs aan een gelijkwaardige of strengere geheimhoudingsverplichting zijn gebonden.
+De geheimhoudingsverplichting geldt niet voor informatie die een Partij deelt met haar juridische, fiscale of financiële adviseurs, mits deze adviseurs aan een gelijkwaardige of strengere geheimhoudingsverplichting zijn gebonden.
 
 ### 12.3 Wettelijke verplichting
 
@@ -323,15 +325,15 @@ De geheimhoudingsverplichting geldt niet voor zover openbaarmaking wettelijk of 
 
 ### 12.4 Duur
 
-De geheimhoudingsverplichting blijft van kracht gedurende de looptijd van deze overeenkomst en **2 jaar** na beeindiging daarvan.
+De geheimhoudingsverplichting blijft van kracht gedurende de looptijd van deze overeenkomst en **2 jaar** na beëindiging daarvan.
 
 ---
 
-## Artikel 13 — Overige Bepalingen
+## Artikel 13. Slotbepalingen
 
 ### 13.1 Zelfstandigheid
 
-Opdrachtnemer verricht de Diensten als zelfstandig opdrachtnemer. Er is geen sprake van een arbeidsovereenkomst, dienstverband of gezagsverhouding. Opdrachtnemer bepaalt zelfstandig de wijze waarop en de tijdstippen waarop de Diensten worden verricht, binnen de kaders van de in Artikel 2.2 genoemde responstijden.
+Opdrachtnemer verricht de Diensten als zelfstandig opdrachtnemer. Er is geen sprake van een arbeidsovereenkomst, dienstverband of gezagsverhouding. Opdrachtnemer bepaalt zelfstandig de wijze waarop en de tijdstippen waarop de Diensten worden verricht, binnen de kaders van de in artikel 2.2 genoemde responstijden.
 
 ### 13.2 Wijzigingen
 
@@ -357,7 +359,7 @@ Alle geschillen voortvloeiend uit of verband houdend met deze overeenkomst worde
 
 ## Ondertekening
 
-Aldus overeengekomen en in tweevoud ondertekend op 1 maart 2026 te Oosterwolde.
+Aldus in tweevoud opgesteld en ondertekend op 1 maart 2026 te Oosterwolde.
 
 | | Opdrachtnemer | Opdrachtgever |
 |---|---|---|

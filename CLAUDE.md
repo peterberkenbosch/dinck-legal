@@ -31,6 +31,39 @@
 - Strategic assessments and internal analysis: **English** is acceptable
 - Tone in all outgoing documents: zakelijk, constructief, chique — let the facts do the work
 
+### Dutch language conventions
+
+Documents must read as if written by a Dutch professional — no anglicisms or hybrid constructions.
+
+**Spelling & grammar**:
+- Use trema: beëindiging, financiële, commerciële (never "beeindiging")
+- Compound words: dataverlies, databaseonderhoud, broncoderepository (no spaces)
+- Adjective inflection: juridische/fiscale/financiële adviseurs (not "juridisch, fiscaal of financieel")
+- btw (lowercase, modern Dutch convention)
+- back-up / back-ups / back-upverificatie (hyphenated per Dutch spelling rules)
+
+**Anglicisms → Dutch**:
+- monitoring → bewaking (en signalering); alerts → meldingen; error tracking → foutregistratie
+- uptime → beschikbaarheid; downtime → onbeschikbaarheid
+- security patch → beveiligingsupdate; credentials → (inlog/toegangs)gegevens
+- secrets manager → wachtwoordbeheerder; onboarding → inwerkbegeleiding
+- feature requests → verzoeken tot nieuwe functionaliteit
+- performance optimalisatie → prestatie-optimalisatie
+- refactoring → herstructurering van code; caching → cache-
+- scope (contract) → omvang/reikwijdte; "buiten scope" → **Meerwerk** (standard Dutch contract term)
+- Object Storage → Objectopslag; backup → back-up
+
+**Keep unchanged** (universally accepted IT terms): API, SSL, DNS, CVE, bug, server, database, Rails, GitHub, 1Password
+
+**Contract formatting conventions**:
+- Article headings: `Artikel N. Titel` (period, not em-dash)
+- Cross-references in running text: lowercase (`artikel 2`, `artikel 1.4`), capitalized only in headings
+- Abbreviations in tables: `Art. 1.4` is fine
+- Overwegingen open with: `Partijen nemen het volgende in aanmerking:`
+- Ondertekening: `Aldus in tweevoud opgesteld en ondertekend`
+- Final article heading: `Slotbepalingen` (not "Overige Bepalingen")
+- Hyphenate compound modifiers: GitHub Team-kosten, SSL-certificaten, DNS-beheer
+
 ## Dossier Search
 
 **Always use QMD** to search the dossier before writing analysis or drafting documents. This ensures you work from verified facts rather than assumptions.
