@@ -127,3 +127,17 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 - Zonder ondertekend contract kan Peter terugvallen op: "er is geen overeenkomst, dus geen KTLO-verplichting"
 - De druk ligt bij Douwine — zij heeft het platform nodig, niet andersom
 - Peter heeft nu twee keer een contract gestuurd (3 maart + deze versie) — hij is de redelijke partij in elk dossier
+
+### Kan Douwine zelfstandig een ontwikkelaar inhuren?
+
+**Juridisch: ja.** Het contracteren van een opdrachtnemer of agency is een bestuurshandeling — operationeel dagelijks bestuur. Dit vereist geen AVA-goedkeuring. De unanimiteitsregel (Art. 8.6 lid 2 statuten) geldt voor AVA-besluiten (aandelenuitgifte, statutenwijziging, jaarrekening, benoeming bestuurders), niet voor operationele bestuursbesluiten. Douwine kan als enig bestuurder een externe partij contracteren zonder Peters instemming.
+
+**Praktisch: drie obstakels.**
+
+1. **Geld** — Dinck heeft €2.795 liquide middelen (jaarrekening 2025). Financiering is stopgezet per 7 feb 2026. ARR is €533/maand. Een developer kost een veelvoud. Hoe betaal je een agency zonder cashflow?
+
+2. **Toegang** — Peter beheert alle infrastructuur, hosting, repositories en credentials (via 1Password). Art. 10.3 KTLO-overeenkomst: toegangswijzigingen uitsluitend in overleg met Opdrachtnemer. Onboarding van een externe developer vereist repo-toegang, server-toegang, credentials — zonder Peters medewerking praktisch geblokkeerd.
+
+3. **Kennis** — Peter is de enige die het platform kent en heeft gebouwd. De codebase is goed gedocumenteerd (standaard Rails), maar een nieuw team optuigen kost weken en begeleiding. Douwine's eigen contract probeerde dit precies te regelen via kennisoverdracht/escrow/exitprotocol — de transitiebepalingen die Peter terecht apart wil houden.
+
+**Strategische conclusie**: Dit versterkt Peters positie. Douwine KAN een developer inhuren — dat is haar goed recht als bestuurder. Maar ze heeft geen geld, geen toegang, en geen kennis om dat te doen. De KTLO-overeenkomst (Art. 10) en het feit dat Peter de infra beheert zijn de facto controle. De bal ligt bij Douwine — zij moet de middelen vinden, niet Peter. Dit punt hoeft niet in de email zelf (geeft strategie prijs), maar het onderbouwt waarom Peter rustig kan blijven.
