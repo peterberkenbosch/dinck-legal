@@ -365,5 +365,6 @@ Aldus opgesteld en ondertekend te Oosterwolde.
 |---|---|---|
 | **Naam** | Peter Berkenbosch | Douwine Koopman |
 | **Functie** | Directeur Peter Berkenbosch Consultancy B.V. | Bestuurder Dinck B.V. |
-| **Handtekening** | *getekend* | _________________________ |
+| **Handtekening** | | |
+| | | |
 | **Datum** | 9 maart 2026 | _________________________ |

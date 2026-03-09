@@ -632,8 +632,16 @@ const doc = new Document({
             cell("", 4680)
           ]}),
           new TableRow({ children: [
-            cell("Handtekening: getekend", 4680),
-            cell("Handtekening: _________________", 4680)
+            cell("Handtekening:", 4680),
+            cell("Handtekening:", 4680)
+          ]}),
+          new TableRow({ children: [
+            cell("", 4680),
+            cell("", 4680)
+          ]}),
+          new TableRow({ children: [
+            cell("", 4680),
+            cell("", 4680)
           ]}),
           new TableRow({ children: [
             cell("Datum: 9 maart 2026", 4680),
