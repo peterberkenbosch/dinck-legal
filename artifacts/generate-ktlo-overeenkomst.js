@@ -280,7 +280,7 @@ const doc = new Document({
       articleHeading(1, "Definities"),
       p("In deze overeenkomst wordt verstaan onder:"),
       p(""),
-      labeledPara("1.1 Platform:", "Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur."),
+      labeledPara("1.1 Platform:", "Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur. Het Platform omvat de volledige Rails-applicatie, met inbegrip van de API-endpoints die de Dinckly mobiele applicatie bedienen."),
       labeledPara("1.2 Diensten:", "De in Artikel 2 omschreven KTLO-werkzaamheden."),
       labeledPara("1.3 Hostingkosten:", "De in Artikel 4 gespecificeerde kosten voor servers, opslag en overige infrastructuur benodigd voor het operationeel houden van het Platform."),
       labeledPara("1.4 Kritieke bug:", "Een softwarefout waardoor: (a) het Platform volledig onbereikbaar is; of (b) data verlies of corruptie optreedt; of (c) een security-kwetsbaarheid actief wordt misbruikt; of (d) incorrecte financiële transacties plaatsvinden."),
@@ -362,7 +362,7 @@ const doc = new Document({
       bullet("Nieuwe functionaliteit of feature requests"),
       bullet("Uitbreidingen van bestaande functionaliteit"),
       bullet("Integraties met externe systemen (inclusief maar niet beperkt tot SpiekR)"),
-      bullet("Mobile applicaties (inclusief maar niet beperkt tot Dinckly iOS)"),
+      bullet("Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app \u2014 met dien verstande dat de backend API-endpoints die deze applicaties bedienen w\u00E9l onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen"),
       bullet("UI/UX verbeteringen of design updates"),
       bullet("Performance optimalisatie (tenzij sprake van een Kritieke bug)"),
       bullet("Refactoring of architectuurverbeteringen"),
@@ -410,6 +410,11 @@ const doc = new Document({
             cell("~$48,30", 2860)
           ]}),
           new TableRow({ children: [
+            cell("Broncode repository (GitHub Team)", 3500),
+            cell("GitHub", 3000),
+            cell("$4,00/user/mnd", 2860)
+          ]}),
+          new TableRow({ children: [
             cell("Monitoring (free plan)", 3500),
             cell("AppSignal", 3000),
             cell("\u20AC0,00", 2860)
@@ -417,10 +422,14 @@ const doc = new Document({
           new TableRow({ children: [
             cell("Totaal", 3500, { bold: true }),
             cell("", 3000),
-            cell("~$119,30/mnd (~\u20AC110)", 2860, { bold: true })
+            cell("~$123,30/mnd (~\u20AC114)", 2860, { bold: true })
           ]})
         ]
       }),
+
+      p(""),
+      p("Noot: GitHub Team kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.", { italic: true, size: 20 }),
+      p("Noot: AppSignal schaalt naar \u20AC22,00/maand bij overschrijding van 50K requests/maand (250K requests plan). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.", { italic: true, size: 20 }),
 
       sub("4.2 Doorbelasting"),
       p("Hostingkosten worden maandelijks door Opdrachtnemer aan Opdrachtgever gefactureerd tegen kostprijs, op basis van de werkelijke kosten van de onderliggende leveranciers."),
@@ -499,10 +508,42 @@ const doc = new Document({
       sub("9.4 Vervaltermijn"),
       p("Iedere vordering van Opdrachtgever op Opdrachtnemer vervalt 12 maanden na de datum waarop Opdrachtgever bekend werd of redelijkerwijs bekend had kunnen zijn met de schade."),
 
-      // Artikel 10 — Communicatie
-      articleHeading(10, "Communicatie"),
+      // Artikel 10 — Beveiliging en Toegangsbeheer
+      articleHeading(10, "Beveiliging en Toegangsbeheer"),
 
-      sub("10.1 Contactgegevens"),
+      sub("10.1 Credential management"),
+      p("Opdrachtnemer beheert alle inloggegevens, API-sleutels en overige credentials die benodigd zijn voor de uitvoering van de Diensten uitsluitend via een professionele secrets manager (1Password). Opdrachtnemer deelt geen credentials via e-mail, chatberichten, gedeelde documenten of andere onbeveiligde kanalen."),
+
+      sub("10.2 Beperking aansprakelijkheid toegang"),
+      p("Opdrachtnemer is niet aansprakelijk voor beveiligingsincidenten, datalekken of ongeautoriseerde toegang die het gevolg zijn van:"),
+      new Paragraph({
+        spacing: { before: 60, after: 60 },
+        indent: { left: 720, hanging: 360 },
+        children: [new TextRun({ text: "(a) het opslaan van credentials in platte tekst door Opdrachtgever of derden;", size: 22, font: "Arial" })]
+      }),
+      new Paragraph({
+        spacing: { before: 60, after: 60 },
+        indent: { left: 720, hanging: 360 },
+        children: [new TextRun({ text: "(b) het delen van credentials via onbeveiligde kanalen door Opdrachtgever of derden;", size: 22, font: "Arial" })]
+      }),
+      new Paragraph({
+        spacing: { before: 60, after: 60 },
+        indent: { left: 720, hanging: 360 },
+        children: [new TextRun({ text: "(c) toegang verleend door Opdrachtgever aan derden zonder voorafgaand overleg met Opdrachtnemer;", size: 22, font: "Arial" })]
+      }),
+      new Paragraph({
+        spacing: { before: 60, after: 60 },
+        indent: { left: 720, hanging: 360 },
+        children: [new TextRun({ text: "(d) handelingen van derden aan wie Opdrachtgever toegang heeft verstrekt tot de infrastructuur of broncode.", size: 22, font: "Arial" })]
+      }),
+
+      sub("10.3 Toegangswijzigingen"),
+      p("Wijzigingen in de toegangsrechten tot de infrastructuur, repositories of hostingaccounts vinden uitsluitend plaats in overleg met Opdrachtnemer, zolang deze overeenkomst van kracht is."),
+
+      // Artikel 11 — Communicatie
+      articleHeading(11, "Communicatie"),
+
+      sub("11.1 Contactgegevens"),
       p(""),
       new Table({
         columnWidths: [3000, 6360],
@@ -522,43 +563,43 @@ const doc = new Document({
         ]
       }),
 
-      sub("10.2 Escalatieprotocol"),
+      sub("11.2 Escalatieprotocol"),
       p("Bij P1- en P2-incidenten stuurt Opdrachtgever een e-mail met als onderwerp: \"URGENT: [omschrijving probleem]\". Bij het uitblijven van een reactie binnen de in Artikel 2.2 genoemde reactietijden kan Opdrachtgever telefonisch contact opnemen."),
 
-      // Artikel 11 — Geheimhouding
-      articleHeading(11, "Geheimhouding"),
+      // Artikel 12 — Geheimhouding
+      articleHeading(12, "Geheimhouding"),
 
-      sub("11.1 Verplichting"),
+      sub("12.1 Verplichting"),
       p("Partijen verplichten zich over en weer tot geheimhouding van alle vertrouwelijke informatie die zij in het kader van deze overeenkomst van de andere Partij ontvangen."),
 
-      sub("11.2 Uitzondering adviseurs"),
+      sub("12.2 Uitzondering adviseurs"),
       p("De geheimhoudingsverplichting geldt niet voor informatie die een Partij deelt met haar juridisch, fiscaal of financieel adviseurs, mits deze adviseurs aan een gelijkwaardige of strengere geheimhoudingsverplichting zijn gebonden."),
 
-      sub("11.3 Wettelijke verplichting"),
+      sub("12.3 Wettelijke verplichting"),
       p("De geheimhoudingsverplichting geldt niet voor zover openbaarmaking wettelijk of door een rechterlijk bevel is vereist, mits de openbarende Partij de andere Partij hiervan onverwijld in kennis stelt."),
 
-      sub("11.4 Duur"),
+      sub("12.4 Duur"),
       p("De geheimhoudingsverplichting blijft van kracht gedurende de looptijd van deze overeenkomst en 2 jaar na beeindiging daarvan."),
 
-      // Artikel 12 — Overige
-      articleHeading(12, "Overige Bepalingen"),
+      // Artikel 13 — Overige
+      articleHeading(13, "Overige Bepalingen"),
 
-      sub("12.1 Zelfstandigheid"),
+      sub("13.1 Zelfstandigheid"),
       p("Opdrachtnemer verricht de Diensten als zelfstandig opdrachtnemer. Er is geen sprake van een arbeidsovereenkomst, dienstverband of gezagsverhouding. Opdrachtnemer bepaalt zelfstandig de wijze waarop en de tijdstippen waarop de Diensten worden verricht, binnen de kaders van de in Artikel 2.2 genoemde responstijden."),
 
-      sub("12.2 Wijzigingen"),
+      sub("13.2 Wijzigingen"),
       p("Wijzigingen van of aanvullingen op deze overeenkomst zijn uitsluitend geldig indien schriftelijk overeengekomen door beide Partijen."),
 
-      sub("12.3 Overdracht"),
+      sub("13.3 Overdracht"),
       p("Geen der Partijen is gerechtigd rechten of verplichtingen uit deze overeenkomst over te dragen aan derden zonder voorafgaande schriftelijke toestemming van de andere Partij."),
 
-      sub("12.4 Nietigheid"),
+      sub("13.4 Nietigheid"),
       p("Indien enige bepaling van deze overeenkomst nietig of vernietigbaar blijkt, tast dit de geldigheid van de overige bepalingen niet aan. Partijen treden in dat geval in overleg om een vervangende bepaling overeen te komen die de strekking van de nietige bepaling zo dicht mogelijk benadert."),
 
-      sub("12.5 Toepasselijk recht"),
+      sub("13.5 Toepasselijk recht"),
       p("Op deze overeenkomst is Nederlands recht van toepassing."),
 
-      sub("12.6 Geschillen"),
+      sub("13.6 Geschillen"),
       p("Alle geschillen voortvloeiend uit of verband houdend met deze overeenkomst worden voorgelegd aan de bevoegde rechter te Leeuwarden."),
 
       separator(),
@@ -605,7 +646,7 @@ const doc = new Document({
 
 async function main() {
   const buffer = await Packer.toBuffer(doc);
-  const outPath = "/home/peter/dinck-legal/artifacts/KTLO_Overeenkomst_Dienstverlening.docx";
+  const outPath = "/home/peter/dinck-legal/artifacts/KTLO_Overeenkomst_Dienstverlening_v2.docx";
   fs.writeFileSync(outPath, buffer);
   console.log("Generated: " + outPath);
 }

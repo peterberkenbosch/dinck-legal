@@ -11,7 +11,7 @@
 | Van | info@peterberkenbosch.nl |
 | Aan | douwine@dinck.nl |
 | Onderwerp | Re: KTLO Overeenkomst |
-| Bijlage | — |
+| Bijlage | KTLO_Overeenkomst_Dienstverlening_v2.pdf (bijgewerkt, ondertekend door Opdrachtnemer) |
 
 ---
 
@@ -19,23 +19,30 @@
 
 > Beste Douwine,
 >
-> Dank voor het doorlezen en je reactie. Ik zie dat je een nieuw document hebt opgesteld in plaats van opmerkingen op het contract dat ik heb gestuurd. Dat maakt het vergelijken lastig, want het zijn wezenlijk andere documenten.
->
-> Mijn overeenkomst is de basis — die is opgesteld vanuit de afspraken die we op 11 februari bij Grady hebben gemaakt en bevat de noodzakelijke bepalingen voor een werkbare KTLO-regeling. Ik loop een paar punten langs:
+> Dank voor je reactie. Ik heb je document naast het mijne gelegd en merk op dat het een volledig nieuw contract is — geen revisie op wat ik heb gestuurd. Dat maakt een gerichte vergelijking lastig, en ik loop daarom de belangrijkste verschillen langs.
 >
 > **Scope en uren**
-> We hebben op 11 februari afgesproken dat ik KTLO doe voor het platform op app.dinck.nl. De maximale inzet van 1 uur per week is wat ik onbetaald aanbied in het belang van de aandeelhoudersrelatie. Vijf uur per week is een wezenlijk andere afspraak. Mocht er structureel meer tijd nodig zijn, dan kan dat via de regeling voor werkzaamheden buiten scope (€125/hr).
+> Op 11 februari hebben we afgesproken dat ik KTLO doe voor app.dinck.nl. Dat is wat ik aanbied: het platform draaiend houden. Om precies te zijn: de volledige Rails-applicatie, inclusief de API-endpoints die de Dinckly app bedienen vallen onder het platform — die draaien in dezelfde codebase. Wat niet onder KTLO valt is de ontwikkeling en het onderhoud van de Dinckly mobiele app zelf (iOS/Android). Die is extern gebouwd en valt buiten mijn verantwoordelijkheid. Mijn aanbod is 1 uur per week onbetaald in het belang van de aandeelhoudersrelatie. Vijf uur per week is vijf keer zoveel — dat is een wezenlijk andere afspraak, en dan gratis. Mocht er structureel meer tijd nodig zijn, dan kan dat via werkzaamheden buiten scope (Art. 3, €125/hr).
 >
-> **Documentatie, kennisoverdracht en overdracht**
-> Ik zie dat je artikelen hebt opgenomen over documentatieplicht, kennisoverdracht, broncodebeheer, escrow en een exitprotocol. Dat zijn stuk voor stuk onderwerpen die met overdraagbaarheid te maken hebben — niet met het dagelijks operationeel houden van het platform. Die onderwerpen bespreek ik graag, maar ze horen in een apart traject over de bredere uittreding, niet in een onderhoudscontract.
+> **Documentatie en kennisoverdracht**
+> Ik sta volledig open voor documentatie, kennisoverdracht en inzage in de code. Daar heb ik geen enkel probleem mee — ik heb niets te verbergen. Maar een onbeperkte documentatieplicht *buiten* het uurplafond is feitelijk een ongelimiteerde onbetaalde verplichting. Dat is niet redelijk. Documentatie valt gewoon binnen de uren, of het gaat via werkzaamheden buiten scope. Hetzelfde geldt voor kennisoverdracht aan eventuele externe ontwikkelaars.
 >
 > **Ontbrekende bepalingen**
-> In jouw versie ontbreken een aantal bepalingen die voor een werkbare overeenkomst nodig zijn, waaronder de koppeling aan het aandeelhouderschap, het opschortingsrecht bij wanbetaling, de gedetailleerde hostingkostenspecificatie met betalingstermijn, en de wijzigingsbepaling. Die zijn er niet voor niets in opgenomen.
+> In jouw versie ontbreken bepalingen die voor mij essentieel zijn: de automatische beëindiging bij aandelenoverdracht, het opschortingsrecht bij wanbetaling, de gedetailleerde hostingspecificatie met betalingstermijn, de wijzigingsbepaling, en de vervaltermijn. Die zijn er niet zonder reden in opgenomen — ze beschermen ons allebei.
+>
+> **Bijgewerkte versie**
+> Bijgaand tref je een bijgewerkte versie van mijn overeenkomst aan. Drie aanvullingen:
+>
+> 1. **Dinckly-afbakening** verduidelijkt (Art. 1.1 en 2.4) — de backend API-endpoints die de Dinckly app bedienen zijn onderdeel van het platform en vallen onder KTLO. De mobiele app zelf (iOS/Android) niet.
+> 2. **GitHub** is toegevoegd aan de hostingkosten (Art. 4.1) — daar staat de volledige broncode.
+> 3. **Beveiliging en Toegangsbeheer** (Art. 10, nieuw) — ik beheer alle credentials via 1Password en deel geen inloggegevens via onbeveiligde kanalen. Wijzigingen in toegangsrechten lopen via overleg zolang het contract loopt. Dit beschermt ons allebei.
+>
+> Ik kan bij de eerste hostingfactuur de volledige infrastructuurdocumentatie meesturen: welke servers, welke diensten, welke accounts, welke kosten. Alle informatie die je nodig hebt.
 >
 > **Voorstel**
-> Laten we mijn overeenkomst als uitgangspunt nemen. Als je op specifieke artikelen opmerkingen hebt, hoor ik die graag — dan kunnen we gericht naar een versie toewerken die voor ons allebei werkt.
+> Laten we mijn overeenkomst als uitgangspunt nemen. Als je op specifieke artikelen opmerkingen hebt, hoor ik die graag — dan werken we gericht naar een versie die voor ons allebei werkt. Maar het moet wel een contract zijn dat mijn tijd en aansprakelijkheid op een redelijke manier afbakent.
 >
-> Tot slot: de hostingkosten lopen sinds 1 maart. Ik stuur binnenkort de eerste factuur — kun je aangeven op welk e-mailadres en t.n.v. wie die moet?
+> De hostingkosten lopen sinds 1 maart. Ik stuur binnenkort de eerste factuur — kun je aangeven op welk e-mailadres en t.n.v. wie die moet?
 >
 > Groet,
 >
@@ -46,15 +53,25 @@
 ## Strategische overwegingen
 
 ### Toon
-Zakelijk, constructief, kort. Je/jij register. Geen verwijten, geen verdediging. Herframe het gesprek: Peter's contract is het uitgangspunt, niet Douwine's.
+Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helder benoemen waar het schuurt. Peter is niet defensief — hij biedt openheid aan (code, documentatie, infra-info) maar accepteert geen onredelijke voorwaarden.
 
 ### Kernboodschappen
 1. **Dit is geen revisie, maar een ander document** — expliciet benoemd, zonder beschuldiging
-2. **1 uur/week is de afspraak** — verwijzing naar 11 februari meeting, verankering in feiten
-3. **Overdracht ≠ KTLO** — heldere grens tussen maintenance en exit-planning
-4. **Ontbrekende bepalingen** — noemt specifiek wat eruit is gehaald, zonder uit te leggen waarom dat strategisch belangrijk is
-5. **Peter's contract is de basis** — uitnodiging tot opmerkingen op HET bestaande document
-6. **Hostingfactuur** — praktisch, concreet, herinnering dat er al kosten lopen
+2. **1 uur/week is de afspraak** — verankerd in de meeting van 11 februari
+3. **Bereidheid tot openheid** — documentatie, kennisoverdracht, code inzage: geen probleem. Maar dan wél binnen redelijke kaders (uren of betaald)
+4. **Dinckly-afbakening** — backend API = onderdeel platform (KTLO), mobiele app zelf (iOS/Android) = buiten scope (extern gebouwd)
+5. **Ontbrekende bepalingen benoemd** — specifiek, zakelijk, "beschermen ons allebei"
+6. **Bijgewerkt contract** meegezonden met toelichting op de drie aanvullingen (Dinckly-afbakening, GitHub, security)
+7. **Proactief aanbod** infra-documentatie bij eerste factuur — neemt wind uit "we hebben geen inzicht" argument
+8. **Hostingfactuur** — praktisch, concreet, herinnering dat er kosten lopen
+9. **Slot**: "mijn tijd en aansprakelijkheid redelijk afbakenen" — de kern in één zin
+
+### Verschil met vorige conceptversie
+- **Firmer**: benoemt nu expliciet dat 5hr/week "vijf keer zoveel, en dan gratis" is
+- **Opener**: biedt proactief documentatie en infra-info aan — countered het frame dat Peter controle zoekt
+- **Art. 10 geïntroduceerd**: security/credentials als bescherming voor beide partijen, niet als machtsinstrument
+- **Dinckly genuanceerd**: backend API = wél KTLO (zelfde codebase), mobiele app = niet (extern gebouwd)
+- **Bijlage**: bijgewerkt contract v2 meegezonden
 
 ### Wat er bewust NIET in staat
 
@@ -63,19 +80,24 @@ Zakelijk, constructief, kort. Je/jij register. Geen verwijten, geen verdediging.
 | Strategische analyse | Onthult denkwijze |
 | "Package deal" / vaststellingsovereenkomst | Speelt kaarten open |
 | Juridisch adviseur / Maud | Niet nodig, kan escalerend werken |
-| Gedetailleerd tegenvoorstel | Niet per e-mail onderhandelen |
+| Gedetailleerd tegenvoorstel per artikel | Niet per e-mail onderhandelen |
 | Dreigementen of consequenties | Toon is constructief |
 | Art. 2:217 informatieverzoek | Apart traject, niet vermengen |
 | Verwijzing naar Grady's rol | Niet nu |
+| Het woord "eenzijdig" of "dwang" | Scherp maar niet polariserend |
+| Patroonanalyse (scope expand → extract → transfer) | Strategisch inzicht niet tonen |
 
 ### Wat het DOET
-- Herframe: Peter's contract = uitgangspunt
-- Scheidt KTLO van overdracht — forceer apart gesprek
+- Herframe: Peter's contract = uitgangspunt, bijgewerkt en opnieuw aangeboden
+- Scheidt KTLO van overdracht — documentatie/kennisoverdracht mag, maar binnen kaders
 - Bevestigt 1hr/week als de afspraak (niet 5)
-- Noemt concrete ontbrekende bepalingen (opschortingsrecht, koppeling aandeelhouderschap) — Douwine moet nu uitleggen waarom die eruit moeten
+- Biedt openheid aan als wapen — "ik verberg niets" neutraliseert elk narratief dat Peter controle zoekt
+- Noemt concrete ontbrekende bepalingen — Douwine moet uitleggen waarom die eruit moeten
+- Introduceert Art. 10 (security) als bescherming voor beide partijen
 - Hostingfactuur = concreet signaal dat dit geen vrijblijvend arrangement is
 
 ### Wat als ze volhoudt?
 - Peter hoeft niet mee te tekenen. Zijn eigen contract is verzonden en ondertekend.
 - Zonder ondertekend contract kan Peter terugvallen op: "er is geen overeenkomst, dus geen KTLO-verplichting"
 - De druk ligt bij Douwine — zij heeft het platform nodig, niet andersom
+- Peter heeft nu twee keer een contract gestuurd (3 maart + deze versie) — hij is de redelijke partij in elk dossier

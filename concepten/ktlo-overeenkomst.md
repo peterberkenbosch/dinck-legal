@@ -57,7 +57,7 @@ G. Deze overeenkomst betreft een zuivere commerciële dienstverlening en staat l
 
 In deze overeenkomst wordt verstaan onder:
 
-**1.1 Platform**: Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur.
+**1.1 Platform**: Het softwareplatform van Opdrachtgever, bereikbaar via app.dinck.nl, inclusief de onderliggende servers, databases en infrastructuur. Het Platform omvat de volledige Rails-applicatie, met inbegrip van de API-endpoints die de Dinckly mobiele applicatie bedienen.
 
 **1.2 Diensten**: De in Artikel 2 omschreven KTLO-werkzaamheden.
 
@@ -124,7 +124,7 @@ De volgende werkzaamheden vallen uitdrukkelijk **niet** onder de Diensten:
 - Nieuwe functionaliteit of feature requests
 - Uitbreidingen van bestaande functionaliteit
 - Integraties met externe systemen (inclusief maar niet beperkt tot SpiekR)
-- Mobile applicaties (inclusief maar niet beperkt tot Dinckly iOS)
+- Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app — met dien verstande dat de backend API-endpoints die deze applicaties bedienen wél onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen
 - UI/UX verbeteringen of design updates
 - Performance optimalisatie (tenzij sprake van een Kritieke bug)
 - Refactoring of architectuurverbeteringen
