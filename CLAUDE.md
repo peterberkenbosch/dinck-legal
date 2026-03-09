@@ -51,7 +51,7 @@ Documents must read as if written by a Dutch professional — no anglicisms or h
 - performance optimalisatie → prestatie-optimalisatie
 - refactoring → herstructurering van code; caching → cache-
 - scope (contract) → omvang/reikwijdte; "buiten scope" → **Meerwerk** (standard Dutch contract term)
-- Object Storage → Objectopslag; backup → back-up
+- Object Storage → opslag (niet "objectopslag"); backup → back-up
 
 **Keep unchanged** (universally accepted IT terms): API, SSL, DNS, CVE, bug, server, database, Rails, GitHub, 1Password
 
