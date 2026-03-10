@@ -207,7 +207,7 @@ const doc = new Document({
       bullet("DNS (Cloudflare Peter \u2192 Cloudflare Dinck)"),
       bullet("Domeinnamen (DNSimple \u2192 Strato)"),
       bullet("E-mailverzending (MailPace \u2192 nieuw account op naam Dinck)"),
-      bullet("Bewaking (AppSignal \u2192 nieuw account op naam Dinck)"),
+      bullet("Bewaking (AppSignal, Dinck B.V. organisatie reeds actief)"),
       p(""),
       p("Na voltooiing bespaart Dinck ~\u20AC95/maand (~\u20AC1.150/jaar). De migratie wordt verricht zonder aanvullende kosten conform Art. 4.5 van de KTLO-overeenkomst."),
 
@@ -411,7 +411,7 @@ const doc = new Document({
             cell("Bewaking + foutregistratie", 2800),
             cell("AppSignal", 2200),
             cell("\u20AC0 (gratis plan)", 2200),
-            cell("Nieuw account nodig", 2160)
+            cell("Dinck B.V. organisatie actief", 2160)
           ]})
         ]
       }),
@@ -742,7 +742,7 @@ const doc = new Document({
       bullet("Strato - automatische incasso actief"),
       bullet("GitHub - dinckbv-organisatie bestaat, gratis plan voldoende"),
       bullet("MailPace - Peter regelt account, creditcard nodig"),
-      bullet("AppSignal - Peter regelt nieuw account"),
+      bullet("AppSignal - Dinck B.V. organisatie actief (gratis plan)"),
 
       separator(),
 
