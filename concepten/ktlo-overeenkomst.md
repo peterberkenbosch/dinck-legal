@@ -156,7 +156,7 @@ Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.
 
 ### 4.1 Specificatie
 
-Het Platform draait op de volgende infrastructuur:
+**Huidige situatie (tot voltooiing migratie Art. 4.5)** — Het Platform draait op de volgende infrastructuur:
 
 | Component | Leverancier | Maandkosten |
 |-----------|-------------|-------------|
@@ -171,7 +171,7 @@ Het Platform draait op de volgende infrastructuur:
 
 *N.B. AppSignal schaalt naar €22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis. Actuele R2-omvang: dinck (229 GB), dinck-database-backups (77 MB), dinck-google-drive-backup (3,68 TB).*
 
-**Na migratie (Art. 4.5)** — Bij overdracht naar accounts op naam van Opdrachtgever kan de infrastructuur als volgt worden geoptimaliseerd:
+**Na migratie (Art. 4.5)** — Na overdracht naar accounts op naam van Opdrachtgever wordt de infrastructuur als volgt geoptimaliseerd:
 
 | Component | Leverancier | Maandkosten |
 |-----------|-------------|-------------|
@@ -183,6 +183,8 @@ Het Platform draait op de volgende infrastructuur:
 | **Totaal** | | **~€28/maand** |
 
 *Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar één Hetzner-server, en verplaatst de opslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.*
+
+Tot voltooiing van de migratie (Art. 4.5) gelden de volgende bepalingen:
 
 ### 4.2 Doorbelasting
 
@@ -198,7 +200,7 @@ Elke factuur bevat een specificatie van de individuele kostenposten en de onderl
 
 ### 4.5 Migratie naar eigen accounts
 
-Op verzoek van Opdrachtgever draagt Opdrachtnemer de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe de benodigde betaalgegevens (creditcard of automatische incasso) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten.
+Opdrachtnemer draagt de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe tijdig de benodigde betaalgegevens (creditcard of automatische incasso) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten.
 
 Na voltooiing van de migratie:
 - betaalt Opdrachtgever de hostingkosten rechtstreeks aan de onderliggende leveranciers;
