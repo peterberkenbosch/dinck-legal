@@ -313,7 +313,8 @@ De migratie is een goed moment om dataservices te upgraden naar de nieuwste vers
 - [ ] Alle credentials uit 1Password exporteren: Linode, Hatchbox, Cloudflare, GitHub, databasewachtwoorden, `RAILS_MASTER_KEY`
 - [ ] Alle omgevingsvariabelen uit Hatchbox exporteren (Hatchbox → App → Environment)
 - [ ] Verifiëren: Redis/Sidekiq in gebruik? PostgreSQL-versie? Ruby/Rails-versies? Systeemafhankelijkheden (ImageMagick, ffmpeg)?
-- [ ] DNS-keten controleren: `dig app.dinck.nl` — waar is dinck.nl geregistreerd? Loopt DNS via Cloudflare?
+- [ ] DNS-keten controleren: `dig app.dinck.nl` — dinck.nl geregistreerd bij DNSimple, DNS via Peters Cloudflare
+- [ ] Volledige DNS-zone exporteren uit Peters Cloudflare (zie Fase 5.2 stap 1)
 - [ ] R2-audit: buckets inventariseren, totale omvang bevestigen, oude back-ups opruimen vóór transfer
 - [ ] Bevestigen: Hetzner-account actief met automatische incasso, dinckbv GitHub-org admin
 
@@ -432,7 +433,98 @@ Beide categorieën worden gemigreerd naar Hetzner Object Storage in hetzelfde da
 
 **Terugvalplan**: Bij problemen na cutover kan DNS binnen 60 seconden worden teruggewezen naar Linode (oude servers draaien nog 7 dagen).
 
-### Fase 5: Opruimen (na 7 dagen stabiel)
+### Fase 5: Domeinmigratie — DNSimple → Strato (~2 uur actief, 5-7 dagen transfertijd)
+
+Alle vijf domeinen verhuizen van DNSimple (Peters account) naar Strato (Dincks account). Vier domeinen zijn eenvoudige registrar-transfers; **dinck.nl** vereist extra aandacht vanwege de actieve DNS-zone op Peters Cloudflare.
+
+#### 5.1 Eenvoudige domeinen (parkeren bij Strato)
+
+| Domein | Kosten/jaar (Strato) | Bijzonderheden |
+|--------|----------------------|----------------|
+| dinck.app | €21,00 | DNSSEC vereist (.app-vereiste) |
+| dinck.be | €6,00 | Belgisch TLD |
+| dinckly.nl | €7,20 | — |
+| dinckly.app | €21,00 | DNSSEC vereist (.app-vereiste) |
+
+Deze domeinen hebben geen actieve DNS-configuratie en worden bij Strato geparkeerd met Strato-DNS:
+- [ ] Auth codes opvragen bij DNSimple (per domein)
+- [ ] Domeinvergrendeling opheffen bij DNSimple
+- [ ] Verhuizing initiëren bij Strato met auth code
+- [ ] Na voltooiing (5-7 dagen): verifiëren dat domeinen actief zijn in Strato-paneel
+
+#### 5.2 dinck.nl — DNS-zone verhuizen (Cloudflare Peter → Cloudflare Dinck)
+
+dinck.nl is het enige domein met een actieve DNS-zone. De zone draait op Peters Cloudflare-account en bevat records voor twee onafhankelijke diensten:
+
+| Record | Type | Doel | Beheerder |
+|--------|------|------|-----------|
+| dinck.nl (root) | A/CNAME | Marketingwebsite | Externe partij (derde) |
+| www.dinck.nl | CNAME | Marketingwebsite | Externe partij (derde) |
+| app.dinck.nl | A | Platform (Linode → Hetzner na migratie) | Peter |
+| *(overige)* | MX, TXT | E-mail (MailPace SPF/DKIM), evt. overige | Peter |
+
+**Stap-voor-stap**:
+
+1. **DNS-audit** (~15 min):
+   - [ ] Volledige export van de Cloudflare-zone (Peters account): `cf-dns export dinck.nl` of via Cloudflare dashboard → DNS → Export
+   - [ ] Alle records documenteren: A, AAAA, CNAME, MX, TXT (SPF, DKIM, DMARC), evt. SRV
+   - [ ] Identificeer welke records van de marketingwebsite zijn (root + www) en welke van het Platform (app)
+
+2. **Zone opbouwen op Dincks Cloudflare** (~30 min):
+   - [ ] Nieuwe DNS-zone aanmaken voor dinck.nl op Dincks Cloudflare-account
+   - [ ] Alle records exact overnemen uit de export (stap 1)
+   - [ ] app.dinck.nl instellen op het **nieuwe Hetzner IP-adres** (als Fase 4 al voltooid is) of het huidige Linode-adres (als DNS-verhuizing vóór server-cutover plaatsvindt)
+   - [ ] Proxy-instellingen (oranje wolk) overnemen waar van toepassing
+   - [ ] Verifiëren: alle records kloppen, geen ontbrekende entries
+
+3. **Nameservers wijzigen** (~5 min, zorgvuldig):
+   - [ ] Bij DNSimple: nameservers wijzigen van Cloudflare (Peters NS) naar Cloudflare (Dincks NS)
+   - [ ] Dincks Cloudflare NS-paar staat in het Cloudflare-dashboard van Dinck
+   - [ ] **Let op**: dit is het moment waarop de DNS-zone overgaat — alles moet vooraf kloppen
+
+4. **Registrar-transfer** (na nameserver-wijziging stabiel):
+   - [ ] Auth code opvragen bij DNSimple
+   - [ ] Domeinvergrendeling opheffen bij DNSimple
+   - [ ] Verhuizing initiëren bij Strato
+   - [ ] Bij Strato: **externe nameservers instellen** (Dincks Cloudflare NS) — niet Strato's eigen DNS
+   - [ ] Na voltooiing: verifiëren dat nameservers ongewijzigd zijn (Cloudflare Dinck)
+
+5. **Verificatie** (~15 min):
+   - [ ] `dig dinck.nl NS` → Dincks Cloudflare nameservers
+   - [ ] `dig dinck.nl A` → marketingwebsite IP (ongewijzigd)
+   - [ ] `dig app.dinck.nl A` → Hetzner IP (of Linode, afhankelijk van timing)
+   - [ ] Marketingwebsite testen: dinck.nl laadt correct
+   - [ ] Platform testen: app.dinck.nl laadt correct
+   - [ ] E-mail testen: testmail verzenden via MailPace
+
+6. **Cloudflare-zone verwijderen op Peters account** (na 48 uur stabiel):
+   - [ ] Zone dinck.nl verwijderen uit Peters Cloudflare
+
+**Volgorde ten opzichte van Fase 4 (server-cutover)**:
+
+Er zijn twee mogelijke volgordes:
+
+| Optie | Volgorde | Voordeel | Nadeel |
+|-------|----------|----------|--------|
+| A | Eerst server-cutover (Fase 4), dan DNS-verhuizing (Fase 5) | app.dinck.nl wijst al naar Hetzner; DNS-zone op Dincks Cloudflare krijgt meteen het juiste IP | Twee afzonderlijke DNS-momenten |
+| B | Eerst DNS-verhuizing, dan server-cutover | Dinck heeft DNS al in eigen beheer vóór cutover | app.dinck.nl moet twee keer aangepast: eerst Linode-IP overnemen, dan wijzigen naar Hetzner |
+
+**Aanbevolen: Optie A** — voer eerst de server-cutover uit (Fase 4) op Peters Cloudflare, en verplaats daarna de DNS-zone naar Dincks Cloudflare met het definitieve Hetzner-IP. Zo wordt app.dinck.nl maar één keer gewijzigd en is er geen tussentijdse DNS-aanpassing nodig.
+
+#### 5.3 Kosten na domeinverhuizing
+
+| Domein | Kosten/jaar (Strato, incl. btw) |
+|--------|--------------------------------|
+| dinck.nl | €7,20 |
+| dinck.app | €21,00 |
+| dinck.be | €6,00 |
+| dinckly.nl | €7,20 |
+| dinckly.app | €21,00 |
+| **Totaal** | **€62,40/jaar (~€5,20/mnd)** |
+
+Ter vergelijking: huidig bij DNSimple $84,40/jaar (~€78/jaar).
+
+### Fase 6: Opruimen (na 7 dagen stabiel)
 
 - [ ] Hatchbox-abonnement opzeggen
 - [ ] Linode VPS-instances verwijderen (lb01, web01, db01)
@@ -525,10 +617,20 @@ Beide categorieën worden gemigreerd naar Hetzner Object Storage in hetzelfde da
 
 ### 7.7 DNS en domeinen
 
-| Domein | Provider | Functie |
-|--------|----------|---------|
-| dinck.nl | *(registrar in te vullen)* | Hoofddomein |
-| app.dinck.nl | *(DNS provider in te vullen)* | Platform |
+**Registrar**: Strato (alle domeinen op naam Dinck B.V.)
+
+| Domein | Registrar | DNS-provider | Functie | Kosten/jaar |
+|--------|-----------|-------------|---------|-------------|
+| dinck.nl | Strato | Cloudflare (Dinck) | Hoofddomein + marketingwebsite | €7,20 |
+| app.dinck.nl | *(subdomain)* | Cloudflare (Dinck) | Platform → Hetzner CX32 | *(incl.)* |
+| dinck.app | Strato | Strato DNS | Geparkeerd | €21,00 |
+| dinck.be | Strato | Strato DNS | Geparkeerd | €6,00 |
+| dinckly.nl | Strato | Strato DNS | Geparkeerd | €7,20 |
+| dinckly.app | Strato | Strato DNS | Geparkeerd | €21,00 |
+| dinck-staging.nl | Strato | *(bestaand)* | Staging | *(bestaand)* |
+| **Totaal** | | | | **€62,40/jaar** |
+
+**N.B.**: dinck.nl gebruikt Cloudflare (Dincks account) als DNS-provider i.p.v. Strato DNS, omdat de marketingwebsite (beheerd door een externe partij) en het Platform (app.dinck.nl) op dezelfde zone zitten. Cloudflare biedt betere prestaties en flexibiliteit voor deze configuratie. Bij Strato zijn externe nameservers ingesteld (Dincks Cloudflare NS).
 
 ### 7.8 Bewaking
 
@@ -570,11 +672,13 @@ Conform Art. 10.1 van de KTLO-overeenkomst worden alle toegangsgegevens uitsluit
 | Server (CX32) | Hetzner Cloud | Dinck B.V. | €7,49 |
 | Serverback-ups (geautomatiseerd) | Hetzner Cloud | Dinck B.V. | €1,50 |
 | Opslag (~3,9 TB) | Hetzner Object Storage | Dinck B.V. | ~€19,00 |
+| Domeinnamen (5×) | Strato | Dinck B.V. | ~€5,20 (€62,40/jaar) |
 | Broncode + container registry | GitHub Free | Dinck B.V. | €0,00 |
+| DNS | Cloudflare Free | Dinck B.V. | €0,00 |
 | Bewaking | AppSignal Free | Dinck B.V. | €0,00 |
-| **Totaal** | | | **~€28/maand** |
+| **Totaal** | | | **~€33/maand** |
 
-**Leveranciersoverzicht**: Twee leveranciers — Hetzner (server + opslag) en GitHub (broncode). AppSignal gratis. Alles op naam van Dinck B.V.
+**Leveranciersoverzicht**: Drie leveranciers — Hetzner (server + opslag), Strato (domeinnamen) en GitHub (broncode). Cloudflare en AppSignal gratis. Alles op naam van Dinck B.V.
 
 ---
 
@@ -608,8 +712,9 @@ Peter behoudt toegang tot alle infrastructuur als collaborator/member zolang de 
 | 2 | GitHub-repository migreren | 1 uur | dinckbv org aangemaakt |
 | 3 | Opslag R2 → Hetzner | 2-3 uur actief + 3-5 dagen wachttijd | Hetzner-account |
 | 4 | Databasemigratie + DNS-cutover | 3-4 uur | Fase 1-3 voltooid |
-| 5 | Opruimen oude infrastructuur | 1 uur | 7 dagen stabiel na fase 4 |
-| **Totaal** | | **12-15 uur** | |
+| 5 | Domeinmigratie DNSimple → Strato | 2 uur actief + 5-7 dagen wachttijd | Fase 4 voltooid (optie A) |
+| 6 | Opruimen oude infrastructuur | 1 uur | 7 dagen stabiel na fase 5 |
+| **Totaal** | | **14-17 uur** | |
 
 Deze migratie wordt verricht zonder aanvullende kosten conform Art. 4.5 van de KTLO-overeenkomst.
 
@@ -627,3 +732,5 @@ Deze migratie wordt verricht zonder aanvullende kosten conform Art. 4.5 van de K
 | Let's Encrypt rate limit | Geen SSL-certificaat bij eerste poging | Staging-certificaat eerst testen; rate limits ruim voldoende |
 | Hetzner Object Storage S3-compatibiliteit | Active Storage werkt niet correct | Testen in staging vóór cutover; R2 als terugval beschikbaar |
 | Egress bij onverwacht hoog verkeer | Extra kosten boven 1 TB/maand | Bij huidig niveau onwaarschijnlijk; €1/TB is beheersbaar |
+| DNS-zone incompleet overgezet | Marketingwebsite of e-mail onbereikbaar | Volledige zone-export + record-voor-record verificatie vóór nameserver-wijziging |
+| Domein-transfer mislukt/vertraagd | Domein tijdelijk geblokkeerd (transfer lock) | Auth code + unlock ruim vooraf regelen; .app en .be kunnen langere transfertijd hebben |
