@@ -162,14 +162,14 @@ Het Platform draait op de volgende infrastructuur:
 |-----------|-------------|-------------|
 | Applicatiehosting (3 servers) | Hatchbox.io | $30,00 |
 | Servers: lb01 Nano 1GB, web01 2GB, db01 4GB | Linode/Akamai | $41,00 |
-| Opslag (~3.229 GB: video's, back-ups, Google Drive-gegevens) | Cloudflare R2 | ~$48,30 |
+| Opslag (~3,9 TB: uploads, back-ups, Google Drive-back-up) | Cloudflare R2 | ~$58,65 |
 | Broncoderepository (GitHub Team) | GitHub | $4,00/user/maand |
 | Bewaking (gratis abonnement; 50.000 verzoeken, 1 GB logregistratie) | AppSignal | €0,00 |
-| **Totaal** | | **~$123,30/maand (~€114)** |
+| **Totaal** | | **~$133,65/maand (~€123)** |
 
 *N.B. GitHub Team-kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.*
 
-*N.B. AppSignal schaalt naar €22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.*
+*N.B. AppSignal schaalt naar €22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis. Actuele R2-omvang: dinck (229 GB), dinck-database-backups (77 MB), dinck-google-drive-backup (3,68 TB).*
 
 **Na migratie (Art. 4.5)** — Bij overdracht naar accounts op naam van Opdrachtgever kan de infrastructuur als volgt worden geoptimaliseerd:
 
@@ -177,10 +177,10 @@ Het Platform draait op de volgende infrastructuur:
 |-----------|-------------|-------------|
 | Server (4 vCPU, 8 GB RAM, 80 GB NVMe) | Hetzner Cloud | €7,49 |
 | Geautomatiseerde serverback-ups | Hetzner Cloud | €1,50 |
-| Opslag (~3,2 TB, S3-compatibel) | Hetzner Object Storage | ~€16,00 |
+| Opslag (~3,9 TB, S3-compatibel) | Hetzner Object Storage | ~€19,00 |
 | Broncoderepository + container registry | GitHub Free | €0,00 |
 | Bewaking (gratis abonnement) | AppSignal | €0,00 |
-| **Totaal** | | **~€25/maand** |
+| **Totaal** | | **~€28/maand** |
 
 *Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar één Hetzner-server, en verplaatst de opslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.*
 

@@ -408,9 +408,9 @@ const doc = new Document({
             cell("$41,00", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Opslag (~3.229 GB)", 3500),
+            cell("Opslag (~3,9 TB)", 3500),
             cell("Cloudflare R2", 3000),
-            cell("~$48,30", 2860)
+            cell("~$58,65", 2860)
           ]}),
           new TableRow({ children: [
             cell("Broncoderepository (GitHub Team)", 3500),
@@ -425,7 +425,7 @@ const doc = new Document({
           new TableRow({ children: [
             cell("Totaal", 3500, { bold: true }),
             cell("", 3000),
-            cell("~$123,30/mnd (~\u20AC114)", 2860, { bold: true })
+            cell("~$133,65/mnd (~\u20AC123)", 2860, { bold: true })
           ]})
         ]
       }),
@@ -456,9 +456,9 @@ const doc = new Document({
             cell("\u20AC1,50", 2860)
           ]}),
           new TableRow({ children: [
-            cell("Opslag (~3,2 TB, S3-compatibel)", 3500),
+            cell("Opslag (~3,9 TB, S3-compatibel)", 3500),
             cell("Hetzner Object Storage", 3000),
-            cell("~\u20AC16,00", 2860)
+            cell("~\u20AC19,00", 2860)
           ]}),
           new TableRow({ children: [
             cell("Broncoderepository + container registry", 3500),
@@ -473,7 +473,7 @@ const doc = new Document({
           new TableRow({ children: [
             cell("Totaal", 3500, { bold: true }),
             cell("", 3000),
-            cell("~\u20AC25/maand", 2860, { bold: true })
+            cell("~\u20AC28/maand", 2860, { bold: true })
           ]})
         ]
       }),

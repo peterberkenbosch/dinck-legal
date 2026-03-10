@@ -27,10 +27,10 @@ Na migratie fungeert dit document als de **infrastructuurdocumentatie** zoals be
 |-----------|-------------|---------|-------------|
 | Applicatiehosting (3 servers) | Hatchbox.io | Peter | $30,00 |
 | Servers: lb01 Nano 1GB, web01 2GB, db01 4GB | Linode/Akamai | Peter | $41,00 |
-| Opslag (~3.229 GB) | Cloudflare R2 | Peter | ~$48,30 |
+| Opslag (~3,9 TB) | Cloudflare R2 | Peter | ~$58,65 |
 | Broncoderepository (GitHub Team) | GitHub | Peter | $4,00/user/maand |
 | Bewaking (gratis abonnement) | AppSignal | Peter | €0,00 |
-| **Totaal** | | | **~$123,30/maand (~€114)** |
+| **Totaal** | | | **~$133,65/maand (~€123)** |
 
 ### 2.2 Serverarchitectuur (huidig)
 
@@ -45,17 +45,16 @@ Hatchbox beheert de deployment (git push → build → deploy) en serverkoppelin
 
 ### 2.3 Opslag (Cloudflare R2)
 
-| Onderdeel | Geschatte omvang | Categorie |
-|-----------|-----------------|-----------|
-| Ruwe videobeelden (contentproductie) | ~2.800 GB | Videoarchief |
-| Back-ups (database) | ~200 GB | Applicatie |
-| Google Drive-gegevens | ~200 GB | Applicatie |
-| Overige bestanden (uploads, Active Storage) | ~29 GB | Applicatie |
-| **Totaal** | **~3.229 GB** | |
+| Bucket | Objecten | Omvang | Categorie |
+|--------|----------|--------|-----------|
+| dinck (Active Storage uploads) | 5.250 | 228,94 GB | Applicatie |
+| dinck-database-backups | 8 | 77,34 MB | Applicatie |
+| dinck-google-drive-backup (ruwe videobeelden) | 9.740 | 3,68 TB | Videoarchief |
+| **Totaal** | | **~3,9 TB** | |
 
 Tarief: $0,015/GB/maand, 10 GB gratis. Egress (uitgaand verkeer) is gratis bij Cloudflare R2.
 
-**Onderscheid applicatiedata en videoarchief**: De ~2.800 GB ruwe videobeelden zijn intellectueel eigendom van Dinck B.V. maar maken geen onderdeel uit van het Platform (Art. 1.1). Beide categorieën worden gemigreerd naar Hetzner Object Storage. Het videoarchief kan later eventueel naar nog goedkopere opslag (bijv. Hetzner Storage Box) worden verplaatst — dat is een afzonderlijke beslissing.
+**Onderscheid applicatiedata en videoarchief**: De ~3,68 TB ruwe videobeelden zijn intellectueel eigendom van Dinck B.V. maar maken geen onderdeel uit van het Platform (Art. 1.1). Beide categorieën worden gemigreerd naar Hetzner Object Storage. Het videoarchief kan later eventueel naar nog goedkopere opslag (bijv. Hetzner Storage Box) worden verplaatst — dat is een afzonderlijke beslissing.
 
 **Active Storage serving**: De Rails-applicatie (8.1) gebruikt redirect-mode: bij het opvragen van een bestand genereert Rails een signed URL en stuurt de browser door naar de opslag. Bestanden worden dus *direct* geserveerd aan de eindgebruiker, niet via de Rails-app. Bij het huidige verkeersniveau (<50.000 verzoeken/maand) blijft de egress ruim binnen Hetzner's inbegrepen 1 TB/maand.
 
@@ -87,7 +86,7 @@ Internet → Cloudflare DNS → Hetzner CX32
 Hetzner Object Storage (S3-compatibel, zelfde datacenter)
   ├── Active Storage uploads (afbeeldingen, video's, bestanden)
   ├── Database back-ups (dagelijks via pg_dump)
-  └── Videoarchief (ruwe contentproductie, ~2.800 GB)
+  └── Videoarchief (ruwe contentproductie, ~3,68 TB)
 ```
 
 ### 3.2 Serverspecificatie
@@ -131,7 +130,7 @@ Door server en opslag in hetzelfde datacenter te plaatsen zijn interne transfers
 
 **Waarom Hetzner Object Storage i.p.v. Cloudflare R2**:
 - **Single vendor** — alles bij Hetzner, één factuur, één account
-- **Goedkoper** — ~€16/maand vs ~€44/maand bij R2 voor dezelfde ~3,2 TB
+- **Goedkoper** — ~€19/maand vs ~€54/maand bij R2 voor dezelfde ~3,9 TB
 - **Datacenter-intern** — back-ups en interne transfers zonder latency
 - **Egress verwaarloosbaar** — bij <50.000 verzoeken/maand blijft egress ruim onder 1 TB/maand (inbegrepen)
 - **S3-compatibel** — Rails `config/storage.yml` wijzigt alleen endpoint + credentials
@@ -257,31 +256,31 @@ Docker-images worden opgeslagen in GitHub Container Registry (ghcr.io/dinckbv/di
 | Deployment | Hatchbox $30/maand | Kamal (gratis) | -€28 |
 | Servers | Linode 3× VPS $41/maand | Hetzner CX32 €7,49/maand | -€30 |
 | Serverback-ups | — | Hetzner geautomatiseerd €1,50/maand | +€1,50 |
-| Opslag (~3,2 TB) | Cloudflare R2 ~$48/maand (~€44) | Hetzner Object Storage ~€16/maand | -€28 |
+| Opslag (~3,9 TB) | Cloudflare R2 ~$59/maand (~€54) | Hetzner Object Storage ~€19/maand | -€35 |
 | Broncode | GitHub Team $4/maand (~€3,70) | GitHub Free (dinckbv org) | -€3,70 |
 | Bewaking | AppSignal €0 | AppSignal €0 | €0 |
-| **Totaal** | **~€114/maand** | **~€25/maand** | **-€89/maand** |
+| **Totaal** | **~€123/maand** | **~€28/maand** | **-€95/maand** |
 
-**Besparing: ~€89/maand (~€1.068/jaar)**
+**Besparing: ~€95/maand (~€1.140/jaar)**
 
 De besparing komt voort uit vier wijzigingen:
 1. **Hatchbox → Kamal**: ~€28/maand vervalt volledig
 2. **Linode 3× VPS → Hetzner CX32**: van ~€38 naar €7,49/maand
-3. **Cloudflare R2 → Hetzner Object Storage**: van ~€44 naar ~€16/maand
+3. **Cloudflare R2 → Hetzner Object Storage**: van ~€54 naar ~€19/maand
 4. **GitHub Team → Free**: ~€3,70/maand vervalt
 
 *Alle bedragen in euro's. Dollarbedragen omgerekend tegen ~€0,92/$1.*
 
-**Uitsplitsing Hetzner Object Storage** (~€16/maand):
+**Uitsplitsing Hetzner Object Storage** (~€19/maand):
 
 | Post | Berekening | Kosten |
 |------|-----------|--------|
 | Basis (1 TB opslag + 1 TB egress inbegrepen) | vast | €4,99 |
-| Extra opslag ~2,2 TB | 2,2 × €4,89/TB | €10,76 |
+| Extra opslag ~2,9 TB | 2,9 × €4,89/TB | €14,18 |
 | Extra egress | <1 TB bij huidig verkeer | €0,00 |
-| **Totaal** | | **~€15,75** |
+| **Totaal** | | **~€19,17** |
 
-*N.B. Het videoarchief (~2.800 GB, ~€13,70 van de €16) is Dinck IP maar geen onderdeel van het Platform. Verplaatsing naar een Hetzner Storage Box (~€3,81/TB/maand) is een latere optimalisatie die de opslagkosten verder kan verlagen.*
+*N.B. Het videoarchief (~3,68 TB, ~€18 van de €19) is Dinck IP maar geen onderdeel van het Platform. Verplaatsing naar een Hetzner Storage Box (~€3,81/TB/maand) is een latere optimalisatie die de opslagkosten verder kan verlagen.*
 
 ---
 
@@ -365,8 +364,8 @@ De R2-bucket bevat twee categorieën data:
 
 | Categorie | Omvang | Functie |
 |-----------|--------|---------|
-| Applicatiedata (Active Storage uploads, back-ups, Google Drive) | ~429 GB | Vereist voor Platform |
-| Videoarchief (ruwe videobeelden contentproductie) | ~2.800 GB | Dinck IP, niet onderdeel Platform (Art. 1.1) |
+| Applicatiedata (Active Storage uploads + databaseback-ups) | ~229 GB | Vereist voor Platform |
+| Videoarchief (ruwe videobeelden contentproductie) | ~3,68 TB | Dinck IP, niet onderdeel Platform (Art. 1.1) |
 
 Beide categorieën worden gemigreerd naar Hetzner Object Storage in hetzelfde datacenter als de server.
 
@@ -382,7 +381,7 @@ Beide categorieën worden gemigreerd naar Hetzner Object Storage in hetzelfde da
 
 **Transfer**:
 - [ ] `rclone copy peter-r2:bucket dinck-hetzner:bucket --progress --transfers 16`
-- [ ] Geschatte duur: ~3.229 GB bij ~100 Mbps ≈ 3 dagen
+- [ ] Geschatte duur: ~3,9 TB bij ~100 Mbps ≈ 4 dagen
 - [ ] R2 egress is gratis — geen extra kosten aan bronzijde
 - [ ] Hetzner Object Storage ingress is gratis — geen extra kosten aan doelzijde
 - [ ] Na voltooiing: `rclone check peter-r2:bucket dinck-hetzner:bucket` voor integriteitscontrole
@@ -513,17 +512,16 @@ Beide categorieën worden gemigreerd naar Hetzner Object Storage in hetzelfde da
 | Locatie | *(Falkenstein of Nuremberg — in te vullen)* |
 | Bucket(s) | *(in te vullen)* |
 | Endpoint | `https://fsn1.your-objectstorage.com` *(in te vullen)* |
-| Omvang | ~3.229 GB |
+| Omvang | ~3,9 TB |
 | Tarief | €4,99 basis (1 TB incl.) + €4,89/TB extra opslag |
 | Egress | 1 TB/maand inbegrepen, daarna €1,00/TB |
-| Maandkosten | ~€16 |
+| Maandkosten | ~€19 |
 
-| Inhoud | Omvang | Categorie |
-|--------|--------|-----------|
-| Active Storage uploads (afbeeldingen, video's, bestanden) | ~29 GB | Applicatie |
-| Database back-ups | ~200 GB | Applicatie |
-| Google Drive-gegevens | ~200 GB | Applicatie |
-| Videoarchief (ruwe contentproductie) | ~2.800 GB | Archief (Dinck IP) |
+| Bucket | Objecten | Omvang | Categorie |
+|--------|----------|--------|-----------|
+| dinck (Active Storage uploads) | 5.250 | 228,94 GB | Applicatie |
+| dinck-database-backups | 8 | 77,34 MB | Applicatie |
+| dinck-google-drive-backup (ruwe videobeelden) | 9.740 | 3,68 TB | Archief (Dinck IP) |
 
 ### 7.7 DNS en domeinen
 
@@ -571,10 +569,10 @@ Conform Art. 10.1 van de KTLO-overeenkomst worden alle toegangsgegevens uitsluit
 |-----------|-------------|-------------|-------------|
 | Server (CX32) | Hetzner Cloud | Dinck B.V. | €7,49 |
 | Serverback-ups (geautomatiseerd) | Hetzner Cloud | Dinck B.V. | €1,50 |
-| Opslag (~3,2 TB) | Hetzner Object Storage | Dinck B.V. | ~€16,00 |
+| Opslag (~3,9 TB) | Hetzner Object Storage | Dinck B.V. | ~€19,00 |
 | Broncode + container registry | GitHub Free | Dinck B.V. | €0,00 |
 | Bewaking | AppSignal Free | Dinck B.V. | €0,00 |
-| **Totaal** | | | **~€25/maand** |
+| **Totaal** | | | **~€28/maand** |
 
 **Leveranciersoverzicht**: Twee leveranciers — Hetzner (server + opslag) en GitHub (broncode). AppSignal gratis. Alles op naam van Dinck B.V.
 
