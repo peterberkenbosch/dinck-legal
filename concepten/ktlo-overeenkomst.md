@@ -179,8 +179,9 @@ Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.
 | Geautomatiseerde serverback-ups | Hetzner Cloud | €1,50 |
 | Opslag (~3,9 TB, S3-compatibel) | Hetzner Object Storage | ~€19,00 |
 | Broncoderepository + container registry | GitHub Free | €0,00 |
+| E-mailverzending (Solo, 1.000 e-mails/maand) | MailPace | €3,00 |
 | Bewaking (gratis abonnement) | AppSignal | €0,00 |
-| **Totaal** | | **~€28/maand** |
+| **Totaal** | | **~€31/maand** |
 
 *Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar één Hetzner-server, en verplaatst de opslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.*
 

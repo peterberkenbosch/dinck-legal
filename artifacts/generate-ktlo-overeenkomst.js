@@ -466,6 +466,11 @@ const doc = new Document({
             cell("\u20AC0,00", 2860)
           ]}),
           new TableRow({ children: [
+            cell("E-mailverzending (Solo, 1.000 e-mails/mnd)", 3500),
+            cell("MailPace", 3000),
+            cell("\u20AC3,00", 2860)
+          ]}),
+          new TableRow({ children: [
             cell("Bewaking (gratis abonnement)", 3500),
             cell("AppSignal", 3000),
             cell("\u20AC0,00", 2860)
@@ -473,7 +478,7 @@ const doc = new Document({
           new TableRow({ children: [
             cell("Totaal", 3500, { bold: true }),
             cell("", 3000),
-            cell("~\u20AC28/maand", 2860, { bold: true })
+            cell("~\u20AC31/maand", 2860, { bold: true })
           ]})
         ]
       }),

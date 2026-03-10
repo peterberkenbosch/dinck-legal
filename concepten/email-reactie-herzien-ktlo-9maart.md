@@ -42,7 +42,7 @@
 > 3. **Beveiliging en Toegangsbeheer** (Art. 10) - ik beheer alle toegangsgegevens via 1Password en deel geen inloggegevens via onbeveiligde kanalen. Wijzigingen in toegangsrechten lopen via overleg zolang het contract loopt. Dit beschermt ons allebei.
 >
 > **Infrastructuur**
-> Ik ga alle hosting- en infrastructuuraccounts overzetten naar accounts op naam van Dinck. Dat heb ik al uitgewerkt in een concreet migratieplan - zie de bijlage voor het volledige overzicht van alle accounts, kosten en stappen. De huidige kosten (~€123/maand) gaan omlaag naar ~€28/maand. Dit scheelt mij maandelijks een factureringsronde met valutaomrekeningen en kostenberekeningen - en het bespaart Dinck ~€95/maand.
+> Ik ga alle hosting- en infrastructuuraccounts overzetten naar accounts op naam van Dinck. Dat heb ik al uitgewerkt in een concreet migratieplan - zie de bijlage voor het volledige overzicht van alle accounts, kosten en stappen. De huidige kosten (~€123/maand) gaan omlaag naar ~€31/maand. Dit scheelt mij maandelijks een factureringsronde met valutaomrekeningen en kostenberekeningen - en het bespaart Dinck ~€92/maand.
 >
 > Het meeste is al geregeld: Dinck heeft al accounts bij Hetzner (automatische incasso actief) en Strato. Wat ik nog nodig heb is een creditcard op het Cloudflare-account van Dinck en een creditcard voor MailPace (e-mailverzending). Ik maak de logins voor je aan - je hoeft alleen een creditcard toe te voegen. Zodra dat rond is, kan ik de volledige overdracht starten (Art. 4.5). Tot die tijd factureer ik de hostingkosten maandelijks door tegen kostprijs.
 >
@@ -68,20 +68,20 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 5. **KTLO ≠ transitie** - haar contract bundelt onderhoud met overdracht (escrow, kennisoverdracht, exitprotocol). Peter is bereid tot transitiegesprek, maar apart
 6. **Ontbrekende bepalingen benoemd** - specifiek, zakelijk, "beschermen ons allebei"
 7. **Bijgewerkt contract v2** meegezonden - vervangt versie 3 maart, met toelichting op aanvullingen (Dinckly, Art. 4.5 migratie, Art. 10 security)
-8. **Aankondiging migratie** naar Dinck-accounts - concreet migratieplan al klaar + volledig accountoverzicht als bijlage, kosten omlaag van ~€123 naar ~€28/maand, neemt wind uit elk "Peter houdt alles gegijzeld" narratief
+8. **Aankondiging migratie** naar Dinck-accounts - concreet migratieplan al klaar + volledig accountoverzicht als bijlage, kosten omlaag van ~€123 naar ~€31/maand, neemt wind uit elk "Peter houdt alles gegijzeld" narratief
 9. **Doorbelasting als overgangsregeling** - tot migratie voltooid, daarna vervalt facturering
 10. **Slot**: "mijn tijd en aansprakelijkheid redelijk afbakenen" - de kern in één zin
 
 ### Verschil contract v2 t.o.v. v1 (verstuurd 3 maart)
 - **Art. 1.1**: "API-endpoints" → "Hotwire Native-weergaven en bijbehorende code" (technisch correcter)
 - **Art. 2.4**: Doorontwikkeling Dinckly als expliciete uitsluiting toegevoegd; SpiekR verwijderd (functioneel, niet meer relevant)
-- **Art. 4.1**: Alternatieve hostingtabel na migratie toegevoegd (~€28/maand)
+- **Art. 4.1**: Alternatieve hostingtabel na migratie toegevoegd (~€31/maand)
 - **Art. 4.5 nieuw**: Migratie naar eigen accounts - niet langer optioneel maar definitief; betaalmethode verbreed naar "creditcard of automatische incasso"
 - **Ondertekening**: Datum bijgewerkt naar 10 maart 2026, expliciet "vervangt versie 3 maart"
 
 ### Verschil email t.o.v. vorig concept
 - **Zachter**: "aanzienlijk meer dan wat reguliere KTLO vergt" i.p.v. "vijf keer zoveel en dan gratis"
-- **Concreter**: migratieplan al klaar, besparing ~€123 → ~€28/maand benoemd
+- **Concreter**: migratieplan al klaar, besparing ~€123 → ~€31/maand benoemd
 - **Art. 4.5** (niet 4.6) correct verwezen
 - **Doorbelasting**: expliciet als overgangsregeling geframed (niet meer als apart factureringsverzoek)
 - **v2 framing**: expliciet "vervangt versie 3 maart"
@@ -106,7 +106,7 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 - Scheidt KTLO van overdracht - documentatie/kennisoverdracht mag, maar binnen kaders
 - Bevestigt 1hr/week als het aanbod (niet 5) - de meeting van 11 feb verankert KTLO, niet het urenaantal
 - Biedt openheid aan als wapen - "ik verberg niets" neutraliseert elk narratief dat Peter controle zoekt
-- Kondigt infra-migratie aan met concreet plan - elimineert "gegijzeld" argument, kosten dalen van ~€123 naar ~€28/maand
+- Kondigt infra-migratie aan met concreet plan - elimineert "gegijzeld" argument, kosten dalen van ~€123 naar ~€31/maand
 - Noemt concrete ontbrekende bepalingen - Douwine moet uitleggen waarom die eruit moeten
 - Introduceert Art. 10 (security) als bescherming voor beide partijen
 - Doorbelasting als overgangsregeling tot migratie voltooid - concreet signaal dat dit geen vrijblijvend arrangement is
@@ -147,7 +147,7 @@ Zakelijk, constructief, direct. Je/jij register. Geen verwijten, maar wél helde
 
 1. **Geld** - Dinck heeft €2.795 liquide middelen (jaarrekening 2025). Financiering is stopgezet per 7 feb 2026. ARR is €533/maand. Een developer kost een veelvoud. Hoe betaal je een agency zonder cashflow?
 
-2. **Toegang** - Peter beheert alle infrastructuur, hosting, repositories en credentials (via 1Password). Art. 10.3 KTLO-overeenkomst: toegangswijzigingen uitsluitend in overleg met Opdrachtnemer. Peter draagt de accounts over naar Dinck (Art. 4.5) met een kant-en-klaar migratieplan (besparing ~€123 → ~€28/maand), maar Dinck moet daarvoor een betaalmethode aanleveren en de kosten zelf dragen. Onboarding van een externe developer vereist daarnaast repo-toegang en begeleiding - dat loopt via overleg of Meerwerk.
+2. **Toegang** - Peter beheert alle infrastructuur, hosting, repositories en credentials (via 1Password). Art. 10.3 KTLO-overeenkomst: toegangswijzigingen uitsluitend in overleg met Opdrachtnemer. Peter draagt de accounts over naar Dinck (Art. 4.5) met een kant-en-klaar migratieplan (besparing ~€123 → ~€31/maand), maar Dinck moet daarvoor een betaalmethode aanleveren en de kosten zelf dragen. Onboarding van een externe developer vereist daarnaast repo-toegang en begeleiding - dat loopt via overleg of Meerwerk.
 
 3. **Kennis** - Peter is de enige die het platform kent en heeft gebouwd. De codebase is goed gedocumenteerd (standaard Rails), maar een nieuw team optuigen kost weken en begeleiding. Douwine's eigen contract probeerde dit precies te regelen via kennisoverdracht/escrow/exitprotocol - de transitiebepalingen die Peter terecht apart wil houden.
 
