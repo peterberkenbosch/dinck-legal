@@ -387,7 +387,7 @@ const doc = new Document({
       articleHeading(4, "Hostingkosten"),
 
       sub("4.1 Specificatie"),
-      p("Het Platform draait op de volgende infrastructuur:"),
+      p("Huidige situatie (tot voltooiing migratie Art. 4.5) \u2014 Het Platform draait op de volgende infrastructuur:", { bold: true }),
       p(""),
       new Table({
         columnWidths: [3500, 3000, 2860],
@@ -435,7 +435,7 @@ const doc = new Document({
       p("N.B. AppSignal schaalt naar \u20AC22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.", { italic: true, size: 20 }),
 
       p(""),
-      p("Na migratie (Art. 4.5) \u2014 Bij overdracht naar accounts op naam van Opdrachtgever kan de infrastructuur als volgt worden geoptimaliseerd:", { bold: true }),
+      p("Na migratie (Art. 4.5) \u2014 Na overdracht naar accounts op naam van Opdrachtgever wordt de infrastructuur als volgt geoptimaliseerd:", { bold: true }),
       p(""),
       new Table({
         columnWidths: [3500, 3000, 2860],
@@ -480,6 +480,9 @@ const doc = new Document({
       p(""),
       p("Deze optimalisatie vervangt Hatchbox door Kamal (gratis, open-source), consolideert drie Linode-servers naar \u00E9\u00E9n Hetzner-server, en verplaatst de opslag naar Hetzner Object Storage. De migratie wordt eenmalig verricht zonder aanvullende kosten. Een gedetailleerd migratieplan met gefaseerde stappen is beschikbaar.", { italic: true, size: 20 }),
 
+      p("Tot voltooiing van de migratie (Art. 4.5) gelden de volgende bepalingen:", { italic: true }),
+      p(""),
+
       sub("4.2 Doorbelasting"),
       p("Hostingkosten worden maandelijks door Opdrachtnemer aan Opdrachtgever gefactureerd tegen kostprijs, op basis van de werkelijke kosten van de onderliggende leveranciers."),
 
@@ -490,7 +493,7 @@ const doc = new Document({
       p("Elke factuur bevat een specificatie van de individuele kostenposten en de onderliggende leveranciersfacturen worden op verzoek beschikbaar gesteld."),
 
       sub("4.5 Migratie naar eigen accounts"),
-      p("Op verzoek van Opdrachtgever draagt Opdrachtnemer de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe de benodigde betaalgegevens (creditcard of automatische incasso) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten."),
+      p("Opdrachtnemer draagt de hosting- en infrastructuuraccounts eenmalig over naar accounts op naam van Opdrachtgever. Opdrachtgever stelt daartoe tijdig de benodigde betaalgegevens (creditcard of automatische incasso) ter beschikking. Opdrachtnemer verzorgt de migratie en levert een infrastructuurdocumentatie op met een overzicht van alle servers, diensten, accounts en bijbehorende kosten."),
       p(""),
       p("Na voltooiing van de migratie:"),
       bullet("betaalt Opdrachtgever de hostingkosten rechtstreeks aan de onderliggende leveranciers;"),
