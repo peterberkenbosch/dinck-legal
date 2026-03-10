@@ -85,8 +85,8 @@
 
 | Actie | Toelichting |
 |-------|-------------|
-| **KTLO-overeenkomst concept gereed** | ✅ Concept Overeenkomst van Dienstverlening opgesteld. Peter Berkenbosch Consultancy B.V. als opdrachtnemer, 12 artikelen, scope/hosting/opschorting geregeld. Zie `concepten/ktlo-overeenkomst.md`. Nog niet gedeeld — eerst juridisch laten beoordelen. |
-| **Schriftelijke bevestiging hosting** | Als Peter hostingkosten vooruit heeft betaald: schriftelijke sommatie aan Dinck voor terugbetaling. Als hosting op Peters naam draait: formele melding dat hosting per [datum] wordt stopgezet tenzij Dinck overname regelt. |
+| **KTLO-overeenkomst verzonden** | ✅ v1 verzonden 3 mrt 2026 (ondertekend). Douwine stuurde tegencontract 9 mrt (17 artikelen, 5 uur/week). Peter reageerde 10 mrt met v2 + infrastructuurmigratie als bijlage. Zie `concepten/ktlo-overeenkomst.md` en `concepten/email-reactie-herzien-ktlo-9maart.md`. |
+| **Schriftelijke bevestiging hosting** | ✅ Infrastructuurmigratie aangekondigd (10 mrt 2026, Art. 4.5 KTLO-overeenkomst). Migratieplan + accountoverzicht als bijlage. ~€126/mnd → ~€31/mnd. Doorbelasting als overgangsregeling. |
 | **Formeel Art. 2:217 BW informatieverzoek** | ✅ VERZONDEN 2 maart 2026. 6 categorieën: jaarrekening 2025, tussentijdse cijfers, schuldpositie, liquiditeit, salarisverplichtingen, aflossing 28 maart. Deadline 16 maart. |
 | **Afwachten** | Eerste reacties Douwine op Peters vertrek. Geen initiatief nemen richting haar — laat haar komen. |
 

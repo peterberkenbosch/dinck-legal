@@ -429,8 +429,10 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 
 | Datum | Gebeurtenis | Actie |
 |-------|-------------|-------|
+| **3 mrt 2026** | ✅ KTLO-overeenkomst v1 verzonden (ondertekend) | `concepten/email-ktlo-overeenkomst-3maart.md` |
+| **9 mrt 2026** | Douwine stuurt volledig nieuw tegencontract (17 artikelen, 5 uur/week) | `files/KTLO_Overeenkomst_Dienstverlening Dinck & Dinckly 1-3-2026.pdf` |
+| **10 mrt 2026** | ✅ Reactie op counter-KTLO + v2 contract + infrastructuurmigratie verzonden | `concepten/email-reactie-herzien-ktlo-9maart.md` |
 | **ASAP** | Jurist consulteren met vragen N1-N7 | Meeting-analyse doorsturen |
-| **~week 12-14 feb** | KTLO-voorwaarden opstellen | Met juridische begeleiding |
 | **Nader te bepalen** | Sommatiebrief | On hold — als drukmiddel achter de hand bij afwijzing package deal |
 | **Onderhandeling** | Package deal: co-signering + KTLO + aandelen + kwijting | In ruil voor SHA-uitsluiting + faire prijs + afstand non-concurrentie |
 | **1 mrt 2026** | ✅ Bestuurdersontslag effectief — KvK-uitschrijving ingediend (ref. 93428359-20260301-O001, DigiD 09:12 CET) | ✅ Bevestigingsmail verzonden 2 mrt 2026 |
@@ -452,8 +454,9 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 
 ### 11.2 Lopend — KTLO-structurering en onderhandeling
 
+- [x] **KTLO-overeenkomst opgesteld en verzonden** — v1 op 3 mrt 2026, v2 op 10 mrt 2026 (reactie op Douwine's tegencontract)
+- [x] **Infrastructuurmigratie aangekondigd** — migratieplan + volledig accountoverzicht als bijlage (10 mrt 2026)
 - [ ] **Jurist consulteren** met vragen N1-N7 (meeting-analyse doorsturen)
-- [ ] **KTLO-voorwaarden opstellen** met juridische begeleiding (leveranciersovereenkomst)
 - [ ] **MO-keuze** afstemmen: opzeggen, amenderen of laten bestaan? (N1, overlapt met B1-B3)
 - [ ] **Package deal** formuleren: co-signering akte + KTLO + aandelen + kwijting
 - [ ] Sommatiebrief **achter de hand** als Plan B bij afwijzing package deal
@@ -470,10 +473,11 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 ### 11.4 Na 1 maart — NU ACTIEF
 
 - [x] KvK-uitschrijving ingediend (1 maart 2026)
-- [ ] **Geen KTLO zonder schriftelijke overeenkomst** — anders werkt Peter opnieuw gratis
+- [x] KTLO-overeenkomst v2 verzonden (10 mrt 2026, ondertekend door Opdrachtnemer) — reactie op Douwine's tegencontract
+- [x] Infrastructuurmigratie aangekondigd + migratieplan als bijlage (10 mrt 2026)
+- [x] Art. 2:217 BW informatieverzoek verzonden (2 mrt 2026)
 - [ ] Formele bevestiging aandeelhouderstatus aan Marlou
-- [ ] Art. 2:217 BW informatieverzoek (indien geen voortgang)
-- [ ] Infrastructuurkosten factureren aan Dinck
+- [ ] Infrastructuurkosten factureren aan Dinck (doorbelasting tot migratie voltooid)
 
 ---
 
@@ -516,6 +520,9 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 | `concepten/brief-financiele-zorgen.md` | Signalering financiële risico's | Verzonden 8 feb |
 | `concepten/constatering-informatierecht-10feb.md` | Constatering non-compliance informatieverzoek | Verzonden 10 feb |
 | `concepten/email-afmelding-meeting-11feb.md` | Afmelding meeting op advies jurist — **NIEUW 11 feb** | Verzonden 11 feb |
+| `concepten/email-ktlo-overeenkomst-3maart.md` | E-mail bij KTLO-overeenkomst v1 | Verzonden 3 mrt |
+| `concepten/ktlo-overeenkomst.md` | Overeenkomst van Dienstverlening KTLO v2 | Verzonden 10 mrt (ondertekend) |
+| `concepten/email-reactie-herzien-ktlo-9maart.md` | Reactie op Douwine's counter-KTLO + bijgewerkt contract v2 + infrastructuurmigratie | Verzonden 10 mrt |
 | `concepten/gespreksleidraad.md` | Volledig draaiboek meeting 11 feb | Achterhaald (meeting heeft plaatsgevonden) |
 | `concepten/meeting-cheatsheet-11feb.md` | Compact 2-pager meeting | Achterhaald (meeting heeft plaatsgevonden) |
 

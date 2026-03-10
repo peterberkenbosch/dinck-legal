@@ -125,9 +125,11 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 - **Standpunt Douwine**: Claimt dat aandelen waardeloos zijn; beweert ten onrechte dat Peter €190K persoonlijke schuld heeft
 
 ### Platformonderhoud (KTLO)
-- Peter continueert vrijwillig (geen formele overeenkomst)
-- Maandelijkse infrastructuurkosten ~€150 betaald door Peter
-- Geen toezegging voor ontwikkelwerkzaamheden zonder opdrachtovereenkomst
+- KTLO-overeenkomst v1 verzonden en ondertekend door Peter op 3 maart 2026
+- Douwine stuurde volledig nieuw tegencontract (17 artikelen, 5 uur/week, onbeperkte documentatieplicht) op 9 maart 2026
+- Peter reageerde op 10 maart 2026: bijgewerkt contract v2 (vervangt v1) + infrastructuurmigratie als bijlage
+- Infrastructuurkosten ~€126/maand, na migratie ~€31/maand (besparing ~€95/maand)
+- Migratie alle accounts naar Dinck B.V. aangekondigd (Art. 4.5 contract)
 
 ### Financieel overzicht
 | Post | Bedrag |
@@ -178,6 +180,18 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 | 10-02-2026 | Peter → Douwine, Marlou (CC: Grady) | Constatering informatierecht — formeel verzoek ex Art. 2:217 BW |
 | **11-02-2026** | **Peter → Douwine, Marlou (CC: Grady)** | **Afmelding meeting op advies jurist — geen gesprekken tot juridische positie helder** |
 
+### Maart 2026
+| Datum | Van → Aan | Onderwerp/Inhoud |
+|-------|-----------|------------------|
+| 01-03-2026 | Peter | KvK-uitschrijving ingediend (DigiD ondertekend 09:12 CET) |
+| 02-03-2026 | Peter → Douwine, Marlou | Bevestigingsmail aftreden bestuurder per 1 maart |
+| 02-03-2026 | Peter → Douwine | Art. 2:217 BW informatieverzoek (6 categorieën, deadline 16 maart) |
+| 03-03-2026 | Peter → Douwine | KTLO-overeenkomst v1 verzonden (ondertekend door Opdrachtnemer) |
+| 04-03-2026 | Grady/KdV | Concept jaarrekening 2025 ontvangen |
+| 04-03-2026 | Douwine (CC Peter) | UWV-reactie ontslagaanvraag 2 contentbouwers |
+| 09-03-2026 | Douwine → Peter | Volledig nieuw tegencontract KTLO (17 artikelen, 5 uur/week, reeds ondertekend) |
+| **10-03-2026** | **Peter → Douwine** | **Reactie op herzien KTLO: bijgewerkt contract v2 (ondertekend) + infrastructuurmigratie als bijlage** |
+
 ---
 
 ## F. Veertien Gedocumenteerde Incidenten
@@ -226,18 +240,19 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 - [x] Memo jurist ontvangen (11 feb) — offensieve strategie, zie `analyse/memo-jurist-11feb2026.md`
 - [x] Meeting 11 feb: afgemeld op advies jurist, maar alsnog bijgewoond. Douwine stelt KTLO voor. Peter bereid met voorwaarden. Niets getekend. Zie `analyse/meeting-11feb-analyse.md`
 - [ ] Sommatiebrief on hold — achter de hand als Plan B bij afwijzing package deal
-- [ ] KTLO-voorwaarden opstellen met juridische begeleiding
+- [x] KTLO-overeenkomst v1 verzonden (3 mrt 2026), v2 verzonden (10 mrt 2026) — zie `concepten/ktlo-overeenkomst.md`
 - [ ] Package deal: co-signering akte + KTLO + aandelen overdracht + kwijting
 
-### Voor 1 maart 2026
+### Voor 1 maart 2026 (afgerond)
 - [x] Juridisch consult intake via Omnius (6 feb 2026, Maud van der Zee / Legal Advice Wanted B.V.) — memo ontvangen 11 feb, zie `analyse/memo-jurist-11feb2026.md`
 - [x] KvK-uittreksel bewaard (1 feb 2026)
-- [ ] Uitschrijving bij KvK voorbereiden (formulier 17a)
-- [ ] KTLO-scope documenteren indien nodig
+- [x] KvK-uitschrijving ingediend (1 mrt 2026, ref. 93428359-20260301-O001)
 
 ### Op/na 1 maart 2026
-- [ ] Uitschrijving indienen bij KvK
-- [ ] Bevestiging dat bestuurderschap is beëindigd
-- [ ] Informatierechten uitoefenen op grond van Art. 2:217 BW
-- [ ] Infrastructuurkosten factureren aan Dinck
+- [x] KvK-uitschrijving ingediend (1 mrt 2026)
+- [x] Bevestigingsmail aftreden verzonden (2 mrt 2026)
+- [x] Art. 2:217 BW informatieverzoek verzonden (2 mrt 2026)
+- [x] KTLO-overeenkomst v2 + reactie op Douwine's counter-KTLO verzonden (10 mrt 2026)
+- [x] Infrastructuurmigratie aangekondigd + plan als bijlage (10 mrt 2026)
+- [ ] Infrastructuurkosten factureren aan Dinck (doorbelasting tot migratie voltooid)
 - [ ] Juridische opties beoordelen (Art. 2:343 BW uittreding)

@@ -1,6 +1,6 @@
 # E-mail - Reactie op Douwine's herziene KTLO-overeenkomst
 
-**Status**: CONCEPT - 10 maart 2026
+**Status**: ✅ VERZONDEN op 10 maart 2026
 
 ---
 

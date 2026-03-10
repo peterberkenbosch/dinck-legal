@@ -1,6 +1,6 @@
 # Dossier Dinck B.V. — Bestandsoverzicht
 
-**Bijgewerkt**: 1 maart 2026
+**Bijgewerkt**: 10 maart 2026
 
 ---
 
@@ -47,6 +47,8 @@
 | `tegenargumenten-douwine.md` | Red team: verwachte tegenargumenten Douwine en counters |
 | `wagevoe-art343-analyse.md` | Wagevoe-hervorming Art. 2:343 BW: uittreding geschillenregeling |
 | `doorstart-via-faillissement-analyse.md` | Doorstart via faillissement: scenario-analyse bankruptcy restart |
+| `herzien-ktlo-contract-analyse.md` | Analyse Douwine's herziene KTLO-contract (9 maart 2026): scope expand, kennisoverdracht, ontbrekende bepalingen |
+| `infrastructuurmigratie-plan.md` | Infrastructuurmigratie: alle accounts, kosten, migratiefasen, doelarchitectuur |
 
 ---
 
@@ -66,7 +68,8 @@
 | `presentatie-advies-11feb.md` | Non-verbale presentatie-adviezen meeting 11 feb | Achterhaald (meeting heeft plaatsgevonden) |
 | `informatierechten-overeenkomst.md` | Aanvullende overeenkomst informatierechten aandeelhouder | |
 | `ktlo-scope.md` | KTLO scope definitie | Bijgewerkt 2 mrt 2026 |
-| `ktlo-overeenkomst.md` | Overeenkomst van Dienstverlening KTLO — Peter Berkenbosch Consultancy B.V. ↔ Dinck B.V. | Concept |
+| `ktlo-overeenkomst.md` | Overeenkomst van Dienstverlening KTLO v2 — Peter Berkenbosch Consultancy B.V. ↔ Dinck B.V. | Verzonden 10 mrt 2026 (ondertekend door Opdrachtnemer) |
+| `email-reactie-herzien-ktlo-9maart.md` | Reactie op Douwine's herziene KTLO-overeenkomst + bijgewerkt contract v2 + infrastructuurmigratie | Verzonden 10 mrt 2026 |
 | `bevestigingsmail-2maart.md` | Bevestigingsmail aftreden bestuurder per 1 maart 2026 | Verzonden 2 mrt 2026 |
 | `informatieverzoek-art217-2maart.md` | Informatieverzoek Art. 2:217 BW — 6 categorieën, deadline 16 maart | Verzonden 2 mrt 2026 |
 
@@ -148,4 +151,6 @@ Eerder gegenereerde .docx versies van conceptdocumenten. Gegenereerd via `genera
 | `legal-consult-questions.docx` | Verouderd — vervangen door `Vragen_Maud_van_der_Zee.docx` |
 | `Bevestiging_Aftreden_Bestuurder_2Maart2026.docx` | `concepten/bevestigingsmail-2maart.md` |
 | `Informatieverzoek_Art217_2Maart2026.docx` | `concepten/informatieverzoek-art217-2maart.md` |
-| `KTLO_Overeenkomst_Dienstverlening.docx` | `concepten/ktlo-overeenkomst.md` |
+| `KTLO_Overeenkomst_Dienstverlening.docx` | `concepten/ktlo-overeenkomst.md` (v1, 3 maart) |
+| `KTLO_Overeenkomst_Dienstverlening_v2.docx` | `concepten/ktlo-overeenkomst.md` (v2, 10 maart, ondertekend) |
+| `Infrastructuurmigratie_Accountoverzicht_Dinck_BV.docx` | Infrastructuurmigratie + accountoverzicht (bijlage bij email 10 maart) |

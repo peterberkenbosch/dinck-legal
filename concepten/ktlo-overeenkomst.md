@@ -1,6 +1,6 @@
 # Overeenkomst van Dienstverlening - KTLO Platform app.dinck.nl
 
-**Status**: Concept v2 - 10 maart 2026 (vervangt versie 3 maart 2026)
+**Status**: ✅ VERZONDEN v2 op 10 maart 2026 (vervangt versie 3 maart 2026, ondertekend door Opdrachtnemer)
 
 ---
 

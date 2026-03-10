@@ -79,11 +79,14 @@ Dit dossier bevat alle documentatie rondom de uittreding van Peter Berkenbosch (
 - [x] Ontslagbrief verzonden (30 jan 2026)
 - [x] Reactie op Douwine's bezwaren verzonden (2 feb 2026, Marlou in CC)
 - [x] Strategische beoordeling opgesteld (7 feb 2026)
-- [ ] **URGENT: Stop onbetaalde feature development** - alleen KTLO vanaf nu
-- [ ] **URGENT: D&O verzekering checken**
-- [ ] Onbetaalde werkuren documenteren (jan 2025 - heden)
 - [x] Notariele akte aandelenoverdracht verkregen (7 feb 2026)
 - [x] KvK uittreksel bewaard (1 feb 2026)
-- [ ] Gesprek met advocaat
-- [ ] Uitschrijving KvK (na 1 maart 2026)
+- [x] Memo jurist ontvangen (11 feb 2026)
+- [x] Meeting 11 feb bijgewoond
+- [x] KvK-uitschrijving ingediend (1 mrt 2026)
+- [x] Bevestigingsmail aftreden verzonden (2 mrt 2026)
+- [x] KTLO-overeenkomst v1 verzonden (3 mrt 2026)
+- [x] Art. 2:217 informatieverzoek verzonden (2 mrt 2026)
+- [x] KTLO-overeenkomst v2 + reactie op Douwine's counter-KTLO + infrastructuurmigratie verzonden (10 mrt 2026)
+- [ ] Onbetaalde werkuren documenteren (jan 2025 - heden)
 - [ ] Definitieve afwikkeling aandelenkwestie
