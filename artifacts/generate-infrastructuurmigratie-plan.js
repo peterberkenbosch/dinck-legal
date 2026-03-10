@@ -216,7 +216,7 @@ const doc = new Document({
       // =============================================
       // 2. Huidige situatie — alle accounts
       // =============================================
-      sectionHeading("2", "Huidige situatie \u2014 alle accounts"),
+      sectionHeading("2", "Huidige situatie - alle accounts"),
       p("Onderstaand een volledig overzicht van alle diensten die momenteel op naam van Peter staan en die overgedragen worden aan Dinck B.V."),
 
       sub("A. Hosting en infrastructuur"),
@@ -421,7 +421,7 @@ const doc = new Document({
       // =============================================
       // 3. Betaalmethoden Dinck B.V. — status
       // =============================================
-      sectionHeading("3", "Betaalmethoden Dinck B.V. \u2014 status"),
+      sectionHeading("3", "Betaalmethoden Dinck B.V. - status"),
       p("Overzicht van alle leveranciers en de status van de betaalmethode op naam van Dinck:"),
       p(""),
       new Table({
@@ -502,7 +502,7 @@ const doc = new Document({
           ]}),
           new TableRow({ children: [
             cell("Serverback-ups", 2800),
-            cell("\u2014", 2200),
+            cell("-", 2200),
             cell("Hetzner \u20AC1,50", 2200),
             cell("+\u20AC1,50", 2160)
           ]}),
@@ -666,21 +666,21 @@ const doc = new Document({
             cell("0", 600),
             cell("Voorbereiding + inventarisatie", 3200),
             cell("2 uur", 1800),
-            cell("\u2014", 1800),
+            cell("-", 1800),
             cell("Creditcards (zie \u00A77)", 1960)
           ]}),
           new TableRow({ children: [
             cell("1", 600),
             cell("Hetzner-server + Kamal opzetten", 3200),
             cell("3\u20134 uur", 1800),
-            cell("\u2014", 1800),
+            cell("-", 1800),
             cell("Fase 0", 1960)
           ]}),
           new TableRow({ children: [
             cell("2", 600),
             cell("GitHub-repository overdragen", 3200),
             cell("1 uur", 1800),
-            cell("\u2014", 1800),
+            cell("-", 1800),
             cell("dinckbv org", 1960)
           ]}),
           new TableRow({ children: [
@@ -708,7 +708,7 @@ const doc = new Document({
             cell("6", 600),
             cell("Opruimen oude infrastructuur", 3200),
             cell("1 uur", 1800),
-            cell("\u2014", 1800),
+            cell("-", 1800),
             cell("7 dagen stabiel", 1960)
           ]}),
           new TableRow({ children: [
@@ -738,11 +738,11 @@ const doc = new Document({
       p("Peter maakt de logins aan en stuurt de inloggegevens. Douwine hoeft alleen een creditcard toe te voegen via de respectievelijke dashboards."),
       p(""),
       p("Alle overige accounts en betaalmethoden zijn al geregeld:"),
-      bullet("Hetzner \u2014 automatische incasso actief"),
-      bullet("Strato \u2014 automatische incasso actief"),
-      bullet("GitHub \u2014 dinckbv-organisatie bestaat, gratis plan voldoende"),
-      bullet("MailPace \u2014 Peter regelt account, creditcard nodig"),
-      bullet("AppSignal \u2014 Peter regelt nieuw account"),
+      bullet("Hetzner - automatische incasso actief"),
+      bullet("Strato - automatische incasso actief"),
+      bullet("GitHub - dinckbv-organisatie bestaat, gratis plan voldoende"),
+      bullet("MailPace - Peter regelt account, creditcard nodig"),
+      bullet("AppSignal - Peter regelt nieuw account"),
 
       separator(),
 

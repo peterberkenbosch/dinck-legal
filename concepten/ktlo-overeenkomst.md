@@ -1,6 +1,6 @@
-# Overeenkomst van Dienstverlening — KTLO Platform app.dinck.nl
+# Overeenkomst van Dienstverlening - KTLO Platform app.dinck.nl
 
-**Status**: Concept v2 — 10 maart 2026 (vervangt versie 3 maart 2026)
+**Status**: Concept v2 - 10 maart 2026 (vervangt versie 3 maart 2026)
 
 ---
 
@@ -105,10 +105,10 @@ De Diensten omvatten uitsluitend het volgende:
 
 | Prioriteit | Omschrijving | Reactietijd | Oplostijd |
 |------------|-------------|-------------|-----------|
-| **P1 — Kritiek** | Platform volledig onbereikbaar, dataverlies, actieve uitbuiting van een beveiligingslek | 1 uur | 4 uur |
-| **P2 — Hoog** | Kritieke bug (Art. 1.4), ernstige functieverstoring voor alle gebruikers | 4 uur | 8 uur |
-| **P3 — Medium** | Beveiligingsupdate (Art. 1.5), gedeeltelijke functieverstoring | 8 werkuren | 5 werkdagen |
-| **P4 — Laag** | Standaard onderhoud, certificaatvernieuwing, back-upverificatie | 2 werkdagen | 10 werkdagen |
+| **P1 - Kritiek** | Platform volledig onbereikbaar, dataverlies, actieve uitbuiting van een beveiligingslek | 1 uur | 4 uur |
+| **P2 - Hoog** | Kritieke bug (Art. 1.4), ernstige functieverstoring voor alle gebruikers | 4 uur | 8 uur |
+| **P3 - Medium** | Beveiligingsupdate (Art. 1.5), gedeeltelijke functieverstoring | 8 werkuren | 5 werkdagen |
+| **P4 - Laag** | Standaard onderhoud, certificaatvernieuwing, back-upverificatie | 2 werkdagen | 10 werkdagen |
 
 Werktijden: maandag t/m vrijdag, 9:00-17:00 CET. Reactie- en oplostijden worden gemeten in werkuren respectievelijk werkdagen, tenzij anders vermeld. Meldingen buiten werktijden worden geacht te zijn ontvangen bij aanvang van de eerstvolgende werkdag.
 
@@ -126,7 +126,7 @@ De volgende werkzaamheden vallen uitdrukkelijk **niet** onder de Diensten en wor
 - Nieuwe functionaliteit of verzoeken tot nieuwe functionaliteit
 - Uitbreidingen van bestaande functionaliteit
 - Integraties met externe systemen
-- Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app — met dien verstande dat de Hotwire Native-weergaven en bijbehorende code in de Rails-applicatie die deze mobiele applicaties bedienen wél onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen
+- Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app - met dien verstande dat de Hotwire Native-weergaven en bijbehorende code in de Rails-applicatie die deze mobiele applicaties bedienen wél onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen
 - Doorontwikkeling van de Dinckly mobiele applicatie, waaronder nieuwe schermen, functionaliteit of aanpassingen aan de native codebase
 - Verbeteringen van gebruikersinterface of ontwerp
 - Prestatie-optimalisatie (tenzij sprake van een Kritieke bug)
@@ -156,7 +156,7 @@ Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.
 
 ### 4.1 Specificatie
 
-**Huidige situatie (tot voltooiing migratie Art. 4.5)** — Het Platform draait op de volgende infrastructuur:
+**Huidige situatie (tot voltooiing migratie Art. 4.5)** - Het Platform draait op de volgende infrastructuur:
 
 | Component | Leverancier | Maandkosten |
 |-----------|-------------|-------------|
@@ -171,7 +171,7 @@ Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.
 
 *N.B. AppSignal schaalt naar €22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis. Actuele R2-omvang: dinck (229 GB), dinck-database-backups (77 MB), dinck-google-drive-backup (3,68 TB).*
 
-**Na migratie (Art. 4.5)** — Na overdracht naar accounts op naam van Opdrachtgever wordt de infrastructuur als volgt geoptimaliseerd:
+**Na migratie (Art. 4.5)** - Na overdracht naar accounts op naam van Opdrachtgever wordt de infrastructuur als volgt geoptimaliseerd:
 
 | Component | Leverancier | Maandkosten |
 |-----------|-------------|-------------|
@@ -241,7 +241,7 @@ Deze overeenkomst treedt in werking op 1 maart 2026 en wordt aangegaan voor onbe
 
 ### 6.2 Koppeling aan aandeelhouderschap
 
-Deze overeenkomst is onlosmakelijk verbonden aan het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever. Bij overdracht van de aandelen van PHBX Holding B.V. in Opdrachtgever — om welke reden dan ook — eindigt deze overeenkomst van rechtswege op de datum van de aandelenoverdracht, zonder dat opzegging of ingebrekestelling is vereist.
+Deze overeenkomst is onlosmakelijk verbonden aan het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever. Bij overdracht van de aandelen van PHBX Holding B.V. in Opdrachtgever, om welke reden dan ook, eindigt deze overeenkomst van rechtswege op de datum van de aandelenoverdracht, zonder dat opzegging of ingebrekestelling is vereist.
 
 ### 6.3 Opzegging
 
@@ -249,7 +249,7 @@ Ieder der Partijen kan deze overeenkomst opzeggen met inachtneming van een opzeg
 
 ### 6.4 Opeisbaarheid bij beëindiging
 
-Bij beëindiging van deze overeenkomst — ongeacht de reden — worden alle openstaande facturen van Opdrachtnemer direct en volledig opeisbaar, zonder dat ingebrekestelling is vereist.
+Bij beëindiging van deze overeenkomst, ongeacht de reden, worden alle openstaande facturen van Opdrachtnemer direct en volledig opeisbaar, zonder dat ingebrekestelling is vereist.
 
 ---
 

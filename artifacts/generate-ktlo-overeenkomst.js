@@ -325,25 +325,25 @@ const doc = new Document({
             cell("Oplostijd", 2280, { header: true })
           ]}),
           new TableRow({ children: [
-            cell("P1 \u2014 Kritiek", 1800, { bold: true }),
+            cell("P1 - Kritiek", 1800, { bold: true }),
             cell("Platform onbereikbaar, dataverlies, actieve uitbuiting van een beveiligingslek", 3200),
             cell("1 uur", 2080),
             cell("4 uur", 2280)
           ]}),
           new TableRow({ children: [
-            cell("P2 \u2014 Hoog", 1800, { bold: true }),
+            cell("P2 - Hoog", 1800, { bold: true }),
             cell("Kritieke bug (Art. 1.4), ernstige functieverstoring", 3200),
             cell("4 uur", 2080),
             cell("8 uur", 2280)
           ]}),
           new TableRow({ children: [
-            cell("P3 \u2014 Medium", 1800, { bold: true }),
+            cell("P3 - Medium", 1800, { bold: true }),
             cell("Beveiligingsupdate (Art. 1.5), gedeeltelijke functieverstoring", 3200),
             cell("8 werkuren", 2080),
             cell("5 werkdagen", 2280)
           ]}),
           new TableRow({ children: [
-            cell("P4 \u2014 Laag", 1800, { bold: true }),
+            cell("P4 - Laag", 1800, { bold: true }),
             cell("Standaard onderhoud, certificaten, back-upverificatie", 3200),
             cell("2 werkdagen", 2080),
             cell("10 werkdagen", 2280)
@@ -364,7 +364,7 @@ const doc = new Document({
       bullet("Nieuwe functionaliteit of verzoeken tot nieuwe functionaliteit"),
       bullet("Uitbreidingen van bestaande functionaliteit"),
       bullet("Integraties met externe systemen"),
-      bullet("Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app \u2014 met dien verstande dat de Hotwire Native-weergaven en bijbehorende code in de Rails-applicatie die deze mobiele applicaties bedienen w\u00E9l onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen"),
+      bullet("Ontwikkeling, onderhoud of publicatie van mobiele applicaties (iOS en Android), inclusief maar niet beperkt tot de Dinckly app - met dien verstande dat de Hotwire Native-weergaven en bijbehorende code in de Rails-applicatie die deze mobiele applicaties bedienen w\u00E9l onderdeel zijn van het Platform (Art. 1.1) en daarmee onder de Diensten vallen"),
       bullet("Doorontwikkeling van de Dinckly mobiele applicatie, waaronder nieuwe schermen, functionaliteit of aanpassingen aan de native codebase"),
       bullet("Verbeteringen van gebruikersinterface of ontwerp"),
       bullet("Prestatie-optimalisatie (tenzij sprake van een Kritieke bug)"),
@@ -387,7 +387,7 @@ const doc = new Document({
       articleHeading(4, "Hostingkosten"),
 
       sub("4.1 Specificatie"),
-      p("Huidige situatie (tot voltooiing migratie Art. 4.5) \u2014 Het Platform draait op de volgende infrastructuur:", { bold: true }),
+      p("Huidige situatie (tot voltooiing migratie Art. 4.5) - Het Platform draait op de volgende infrastructuur:", { bold: true }),
       p(""),
       new Table({
         columnWidths: [3500, 3000, 2860],
@@ -435,7 +435,7 @@ const doc = new Document({
       p("N.B. AppSignal schaalt naar \u20AC22,00/maand bij overschrijding van 50.000 verzoeken per maand (250.000-verzoeken-abonnement). Cloudflare R2 tarief: $0,015/GB/maand, 10 GB gratis.", { italic: true, size: 20 }),
 
       p(""),
-      p("Na migratie (Art. 4.5) \u2014 Na overdracht naar accounts op naam van Opdrachtgever wordt de infrastructuur als volgt geoptimaliseerd:", { bold: true }),
+      p("Na migratie (Art. 4.5) - Na overdracht naar accounts op naam van Opdrachtgever wordt de infrastructuur als volgt geoptimaliseerd:", { bold: true }),
       p(""),
       new Table({
         columnWidths: [3500, 3000, 2860],
@@ -526,13 +526,13 @@ const doc = new Document({
       p("Deze overeenkomst treedt in werking op 1 maart 2026 en wordt aangegaan voor onbepaalde tijd."),
 
       sub("6.2 Koppeling aan aandeelhouderschap"),
-      p("Deze overeenkomst is onlosmakelijk verbonden aan het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever. Bij overdracht van de aandelen van PHBX Holding B.V. in Opdrachtgever \u2014 om welke reden dan ook \u2014 eindigt deze overeenkomst van rechtswege op de datum van de aandelenoverdracht, zonder dat opzegging of ingebrekestelling is vereist."),
+      p("Deze overeenkomst is onlosmakelijk verbonden aan het aandeelhouderschap van PHBX Holding B.V. in Opdrachtgever. Bij overdracht van de aandelen van PHBX Holding B.V. in Opdrachtgever, om welke reden dan ook, eindigt deze overeenkomst van rechtswege op de datum van de aandelenoverdracht, zonder dat opzegging of ingebrekestelling is vereist."),
 
       sub("6.3 Opzegging"),
       p("Ieder der Partijen kan deze overeenkomst opzeggen met inachtneming van een opzegtermijn van 1 kalendermaand, per e-mail met ontvangstbevestiging."),
 
       sub("6.4 Opeisbaarheid bij be\u00EBindiging"),
-      p("Bij be\u00EBindiging van deze overeenkomst \u2014 ongeacht de reden \u2014 worden alle openstaande facturen van Opdrachtnemer direct en volledig opeisbaar, zonder dat ingebrekestelling is vereist."),
+      p("Bij be\u00EBindiging van deze overeenkomst, ongeacht de reden, worden alle openstaande facturen van Opdrachtnemer direct en volledig opeisbaar, zonder dat ingebrekestelling is vereist."),
 
       // Artikel 7. Opschorting
       articleHeading(7, "Opschorting"),
