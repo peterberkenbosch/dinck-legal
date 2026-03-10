@@ -164,8 +164,9 @@ Bij twijfel over de classificatie van een verzoek beslist Opdrachtnemer.
 | Servers: lb01 Nano 1GB, web01 2GB, db01 4GB | Linode/Akamai | $41,00 |
 | Opslag (~3,9 TB: uploads, back-ups, Google Drive-back-up) | Cloudflare R2 | ~$58,65 |
 | Broncoderepository (GitHub Team) | GitHub | $4,00/user/maand |
+| E-mailverzending (Solo, 1.000 e-mails/maand) | MailPace | €3,00 |
 | Bewaking (gratis abonnement; 50.000 verzoeken, 1 GB logregistratie) | AppSignal | €0,00 |
-| **Totaal** | | **~$133,65/maand (~€123)** |
+| **Totaal** | | **~$133,65 + €3/maand (~€126)** |
 
 *N.B. GitHub Team-kosten zijn afhankelijk van het aantal gebruikers. Bovenstaand totaal is berekend op basis van 1 gebruiker ($4,00). Bij meerdere gebruikers wordt het totaal evenredig verhoogd.*
 

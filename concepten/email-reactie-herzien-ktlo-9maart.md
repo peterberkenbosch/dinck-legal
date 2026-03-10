@@ -42,7 +42,7 @@
 > 3. **Beveiliging en Toegangsbeheer** (Art. 10) - ik beheer alle toegangsgegevens via 1Password en deel geen inloggegevens via onbeveiligde kanalen. Wijzigingen in toegangsrechten lopen via overleg zolang het contract loopt. Dit beschermt ons allebei.
 >
 > **Infrastructuur**
-> Ik ga alle hosting- en infrastructuuraccounts overzetten naar accounts op naam van Dinck. Dat heb ik al uitgewerkt in een concreet migratieplan - zie de bijlage voor het volledige overzicht van alle accounts, kosten en stappen. De huidige kosten (~€123/maand) gaan omlaag naar ~€31/maand. Dit scheelt mij maandelijks een factureringsronde met valutaomrekeningen en kostenberekeningen - en het bespaart Dinck ~€92/maand.
+> Ik ga alle hosting- en infrastructuuraccounts overzetten naar accounts op naam van Dinck. Dat heb ik al uitgewerkt in een concreet migratieplan - zie de bijlage voor het volledige overzicht van alle accounts, kosten en stappen. De huidige kosten (~€126/maand) gaan omlaag naar ~€31/maand. Dit scheelt mij maandelijks een factureringsronde met valutaomrekeningen en kostenberekeningen - en het bespaart Dinck ~€95/maand.
 >
 > Het meeste is al geregeld: Dinck heeft al accounts bij Hetzner (automatische incasso actief) en Strato. Wat ik nog nodig heb is een creditcard op het Cloudflare-account van Dinck en een creditcard voor MailPace (e-mailverzending). Ik maak de logins voor je aan - je hoeft alleen een creditcard toe te voegen. Zodra dat rond is, kan ik de volledige overdracht starten (Art. 4.5). Tot die tijd factureer ik de hostingkosten maandelijks door tegen kostprijs.
 >
