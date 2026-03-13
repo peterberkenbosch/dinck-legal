@@ -425,17 +425,26 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 | 11 feb 2026 (wo) | Douwine: €100K lening VDenD, voorwaarde = geen geld naar Dinck. Voorstel: alleen KTLO. |
 | 11 feb 2026 (wo) | Peter: bereid tot KTLO mits voorwaarden. Niets getekend. Sommatiebrief on hold. |
 
+### Maart 2026
+
+| Datum | Gebeurtenis | Bron |
+|-------|-------------|------|
+| **1 mrt 2026** | ✅ Bestuurdersontslag effectief - KvK-uitschrijving ingediend (ref. 93428359-20260301-O001, DigiD 09:12 CET) | `files/Opgave-93428359-20260301-O001.pdf` |
+| **2 mrt 2026** | ✅ Bevestigingsmail aftreden verzonden | `concepten/bevestigingsmail-2maart.md` |
+| **3 mrt 2026** | ✅ KTLO-overeenkomst v1 verzonden (ondertekend) | `concepten/email-ktlo-overeenkomst-3maart.md` |
+| **3 mrt 2026** | Douwine reageert: "Ik zal er naar kijken en kom er in de week na mijn verlof op terug." (15:35 EST, Outlook iOS) | E-mail |
+| **4 mrt 2026** | Concept jaarrekening 2025 ontvangen (Grady/KdV) | `files/Concept jaarrekening 2025 Dinck BV.pdf` |
+| **4 mrt 2026** | Peter ontvangt CC van Douwine's UWV-reactie (ontslagaanvraag 2 contentbouwers) | `analyse/uwv-ontslagaanvraag-analyse.md` |
+| **9 mrt 2026** | Douwine stuurt volledig nieuw tegencontract (17 artikelen, 5 uur/week, reeds ondertekend) | `files/KTLO_Overeenkomst_Dienstverlening Dinck & Dinckly 1-3-2026.pdf` |
+| **10 mrt 2026** | ✅ Reactie op counter-KTLO + v2 contract (ondertekend) + infrastructuurmigratie als bijlage | `concepten/email-reactie-herzien-ktlo-9maart.md` |
+
 ### Komend
 
 | Datum | Gebeurtenis | Actie |
 |-------|-------------|-------|
-| **3 mrt 2026** | ✅ KTLO-overeenkomst v1 verzonden (ondertekend) | `concepten/email-ktlo-overeenkomst-3maart.md` |
-| **9 mrt 2026** | Douwine stuurt volledig nieuw tegencontract (17 artikelen, 5 uur/week) | `files/KTLO_Overeenkomst_Dienstverlening Dinck & Dinckly 1-3-2026.pdf` |
-| **10 mrt 2026** | ✅ Reactie op counter-KTLO + v2 contract + infrastructuurmigratie verzonden | `concepten/email-reactie-herzien-ktlo-9maart.md` |
 | **ASAP** | Jurist consulteren met vragen N1-N7 | Meeting-analyse doorsturen |
-| **Nader te bepalen** | Sommatiebrief | On hold — als drukmiddel achter de hand bij afwijzing package deal |
+| **Nader te bepalen** | Sommatiebrief | On hold - als drukmiddel achter de hand bij afwijzing package deal |
 | **Onderhandeling** | Package deal: co-signering + KTLO + aandelen + kwijting | In ruil voor SHA-uitsluiting + faire prijs + afstand non-concurrentie |
-| **1 mrt 2026** | ✅ Bestuurdersontslag effectief — KvK-uitschrijving ingediend (ref. 93428359-20260301-O001, DigiD 09:12 CET) | ✅ Bevestigingsmail verzonden 2 mrt 2026 |
 | **28 mrt 2026** | Eerste aflossing lening (~€55-75K) | Dinck kan niet betalen → automatisch verzuim. Na 1 maart: niet Peters bestuurdersaansprakelijkheid. |
 | **Reserve** | Procedure Art. 2:343 of 2:345 BW | Indien onderhandeling faalt |
 

@@ -187,6 +187,7 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 | 02-03-2026 | Peter → Douwine, Marlou | Bevestigingsmail aftreden bestuurder per 1 maart |
 | ~~02-03-2026~~ | ~~Peter → Douwine~~ | ~~Art. 2:217 BW informatieverzoek~~ — concept, nog niet verzonden |
 | 03-03-2026 | Peter → Douwine | KTLO-overeenkomst v1 verzonden (ondertekend door Opdrachtnemer) |
+| 03-03-2026 | Douwine → Peter | "Ik zal er naar kijken en kom er in de week na mijn verlof op terug." (Outlook iOS, 15:35 EST) |
 | 04-03-2026 | Grady/KdV | Concept jaarrekening 2025 ontvangen |
 | 04-03-2026 | Douwine (CC Peter) | UWV-reactie ontslagaanvraag 2 contentbouwers |
 | 09-03-2026 | Douwine → Peter | Volledig nieuw tegencontract KTLO (17 artikelen, 5 uur/week, reeds ondertekend) |
