@@ -185,7 +185,7 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 |-------|-----------|------------------|
 | 01-03-2026 | Peter | KvK-uitschrijving ingediend (DigiD ondertekend 09:12 CET) |
 | 02-03-2026 | Peter → Douwine, Marlou | Bevestigingsmail aftreden bestuurder per 1 maart |
-| 02-03-2026 | Peter → Douwine | Art. 2:217 BW informatieverzoek (6 categorieën, deadline 16 maart) |
+| ~~02-03-2026~~ | ~~Peter → Douwine~~ | ~~Art. 2:217 BW informatieverzoek~~ — concept, nog niet verzonden |
 | 03-03-2026 | Peter → Douwine | KTLO-overeenkomst v1 verzonden (ondertekend door Opdrachtnemer) |
 | 04-03-2026 | Grady/KdV | Concept jaarrekening 2025 ontvangen |
 | 04-03-2026 | Douwine (CC Peter) | UWV-reactie ontslagaanvraag 2 contentbouwers |
@@ -251,7 +251,7 @@ Dit raakt werknemers direct (salarissen niet meer gefinancierd) en vormt twee ni
 ### Op/na 1 maart 2026
 - [x] KvK-uitschrijving ingediend (1 mrt 2026)
 - [x] Bevestigingsmail aftreden verzonden (2 mrt 2026)
-- [x] Art. 2:217 BW informatieverzoek verzonden (2 mrt 2026)
+- [ ] Art. 2:217 BW informatieverzoek (concept, nog niet verzonden)
 - [x] KTLO-overeenkomst v2 + reactie op Douwine's counter-KTLO verzonden (10 mrt 2026)
 - [x] Infrastructuurmigratie aangekondigd + plan als bijlage (10 mrt 2026)
 - [ ] Infrastructuurkosten factureren aan Dinck (doorbelasting tot migratie voltooid)

@@ -71,7 +71,7 @@
 | `ktlo-overeenkomst.md` | Overeenkomst van Dienstverlening KTLO v2 — Peter Berkenbosch Consultancy B.V. ↔ Dinck B.V. | Verzonden 10 mrt 2026 (ondertekend door Opdrachtnemer) |
 | `email-reactie-herzien-ktlo-9maart.md` | Reactie op Douwine's herziene KTLO-overeenkomst + bijgewerkt contract v2 + infrastructuurmigratie | Verzonden 10 mrt 2026 |
 | `bevestigingsmail-2maart.md` | Bevestigingsmail aftreden bestuurder per 1 maart 2026 | Verzonden 2 mrt 2026 |
-| `informatieverzoek-art217-2maart.md` | Informatieverzoek Art. 2:217 BW — 6 categorieën, deadline 16 maart | Verzonden 2 mrt 2026 |
+| `informatieverzoek-art217-2maart.md` | Informatieverzoek Art. 2:217 BW — 6 categorieën | Concept (nog niet verzonden) |
 
 ---
 

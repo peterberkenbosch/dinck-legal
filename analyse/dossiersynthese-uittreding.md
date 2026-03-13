@@ -475,7 +475,7 @@ Alle vragen zijn geconsolideerd in `vragen-advocaat-maud.md` (14 kernvragen in 3
 - [x] KvK-uitschrijving ingediend (1 maart 2026)
 - [x] KTLO-overeenkomst v2 verzonden (10 mrt 2026, ondertekend door Opdrachtnemer) — reactie op Douwine's tegencontract
 - [x] Infrastructuurmigratie aangekondigd + migratieplan als bijlage (10 mrt 2026)
-- [x] Art. 2:217 BW informatieverzoek verzonden (2 mrt 2026)
+- [ ] Art. 2:217 BW informatieverzoek (concept, nog niet verzonden)
 - [ ] Formele bevestiging aandeelhouderstatus aan Marlou
 - [ ] Infrastructuurkosten factureren aan Dinck (doorbelasting tot migratie voltooid)
 
